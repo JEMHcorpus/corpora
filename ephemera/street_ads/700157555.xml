@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_minimal.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_minimal.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>הפתעה- תלוש אשר על ידו תוכלו לזכות בפרסים שונים</title>
+            <author>Unknown</author>
+            <respStmt>
+               <name>Mandel Scholion Hebrew Revival Research Group</name>
+               <resp>Transcription of digital file</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <authority>JEMH</authority>
+            <availability><licence target="https://creativecommons.org/licenses/by/4.0/">CC-BY 4.0</licence></availability>
+         </publicationStmt>
+         <sourceDesc xml:lang="Hebrew">
+	<msDesc>
+		<msPart>
+			<msIdentifier>
+				<repository>National Library of Israel</repository>
+				<collection>"Time Travel" Ephemera Collection</collection>
+				<idno>700157555</idno>
+			</msIdentifier>
+		</msPart>
+	</msDesc>
+            <bibl>
+               <date when="1928"></date>
+               <distributor>אוסף פבזנר</distributor>
+               <pubPlace>יפו</pubPlace>
+            </bibl>
+         </sourceDesc>
+            </fileDesc>
+      <revisionDesc>
+         <change>
+            <date>2017-08-09</date>
+            <name>Jerusalem corpus of Emergent Modern Hebrew (JEMH) staff</name>
+            <note>Created the initial version of the content in TEI-XML</note>
+         </change>
+      </revisionDesc>
+  </teiHeader>
+  <text>
+      <body>
+		 <opener>
+		 הפתעה!
+		 </opener>
+         
+   <note> תלוש מספר 
+          פרס
+	של קבוצת סוחרים מאוחדים
+   התלוש הזה נותן אפשרות לזכות בפרס חדשי
+   של 10 לא"י 
+   ובפרס <!-- מילה לא ברורה--> של בית בשני חדרים מאבן
+   עם מגרש של דונם בחיפה
+   או במקום הבית 500 לא"י
+   <!--המשך הקטע לא ברור--> </note> 
+               
+			        <p>קנו את צרכיכם בחנויות הנזכרות להלן והשתמשו באוטומובילים של משרדי
+					קדימה בתל-אביב ובירושלים והזמינו את צרכיכם בבתי המלאכה הנזכרים 
+					להלן, ותקבלו בעד כל קניה או הזמנה של 500 מיל במזומן ובבת אחת לפי
+					מכירות ביחידות. תלוש אשר על ידו תוכלו לזכות בפרסים שונים.</p>  
+				   <p>ביפו בבית מסחר לבגדים מוכנים, אריגים וכובעים של א. כהנא רחוב ביסטרוס
+					בבית מסחר לחמרי בנין וברזל של מר שאול לוי ברחוב ביסטרוס 
+					" " לצרכי צלום          "  " יונה דעואל     '      '  
+					" " " כתיבה             "   אחים אליהו      '      '
+					" " לכובעים             " " מ. קליין ובנו בבית מיסטקים. 
+					" " למשקאות וסיגריות    " " י. ל. צובנר רחוב יפו- תל-אביב.
+					" " לתכשיטים            " " א. נרינסקי ברחוב המלך ג'ורג <!--חלק מוסתר--> 
+					" דפוס                  " " שהם ע"י המושבה הגרמנית</p> 
+		      <note>חלוקת 
+					הפרס החדשי 
+					לפי גורל 
+					של הסוחרים המאוחדים
+					תעשה במוצאי-שבת 
+					פרשת ראה אור לכ'ו 
+					מנחם אב 11.8.28 בשעה
+					9 בערב באולם גדוד 
+					מגיני השפה מעל 
+					המוזיאום של מסחר
+					ותעשיה בר' אחד העם 
+					בתל-אביב
+					הכניסה חפשית.</note> 
+			      <closer>
+			 הערה: בחנות סינדיקט ארצישראלי תמצאו את התלושים הללו מ-1.8.28 
+		    בקרוב תבא רשימה נוספת של בתי מסחר נוספים אשר בהם תמצאו את התלושים.
+           <note>
+		 <!--קטעים זהים באנגלית ובערבית שלא נכללו בגרסה הדיגיטלית--> 
+		   </note>
+		</closer>
+      </body>
+  </text>
+</TEI>

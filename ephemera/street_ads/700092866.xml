@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_minimal.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_minimal.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>מודעה עירונית מס' 4-חוזי שכירות</title>
+            <author>עירית תל-אביב</author>
+            <respStmt>
+               <name>Mandel Scholion Hebrew Revival Research Group</name>
+               <resp>Transcription of digital file</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <authority>JEMH</authority>
+            <availability><licence target="https://creativecommons.org/licenses/by/4.0/">CC-BY 4.0</licence></availability>
+         </publicationStmt>
+         <sourceDesc xml:lang="Hebrew">
+	<msDesc>
+		<msPart>
+			<msIdentifier>
+				<repository>National Library of Israel</repository>
+				<collection>"Time Travel" Ephemera Collection</collection>
+				<idno>700092866</idno>
+			</msIdentifier>
+		</msPart>
+	</msDesc>
+            <bibl>
+               <date when="1924-03-09"/>
+               <distributor>אוסף עיריית תל אביב</distributor>
+               <pubPlace>תל אביב</pubPlace>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <change>
+            <date>2017-08-09</date>
+            <name>Jerusalem corpus of Emergent Modern Hebrew (JEMH) staff</name>
+            <note>Created the initial version of the content in TEI-XML</note>
+         </change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <head> מודעה עירונית מס' 4 </head>
+         <p>הננו מזכירים בזה לכל התושבים: א) בכל מקרה של שכירות דירה, חנות וכו, צריך להעשות חוזה בין
+            המשכיר והשוכר ב) את חוזה השכירות צריך לאשר בעיריה. ג) מס האשור הוא חצי אחוז מסכום
+            השכירות. ד) אלה ששכרו דירות בתחלת שנת השכירות הנוכחית מחויבים לאשר את החוזים בעיריה במשך
+            זמן לא יאוחר מחדשים (אב-אלול פ'ד) מהתחלת שנת השכירות (מוחרם) הזאת. ה) אם הדירה או החנות
+            וכו' נשכרו באמצע השנה מחויבים לאשר את החוזה בעיריה במשך זמן לא יאוחר משני שבועות מיום
+            השכירות. ו) בעד כל חוזה שלא יאושר בעיריה יוטל, בתקף הסעיפים 22, 23, קנס פי שש ממס
+            האשור.</p>
+         <closer>
+            <signed> עירית תל-אביב. </signed>
+            <dateline><date>ד' אלול תרפ'ד 3-9-24</date></dateline>
+         </closer>
+      </body>
+   </text>
+</TEI>

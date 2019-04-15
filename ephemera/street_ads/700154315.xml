@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_minimal.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_minimal.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>חוזר לחברים</title>
+            <author>אגודת המשוטטים ארץ-ישראלית</author>
+            <respStmt>
+               <name>Mandel Scholion Hebrew Revival Research Group</name>
+               <resp>Transcription of digital file</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <authority>JEMH</authority>
+            <availability><licence target="https://creativecommons.org/licenses/by/4.0/">CC-BY 4.0</licence></availability>
+         </publicationStmt>
+         <sourceDesc xml:lang="Hebrew">
+	<msDesc>
+		<msPart>
+			<msIdentifier>
+				<repository>National Library of Israel</repository>
+				<collection>"Time Travel" Ephemera Collection</collection>
+				<idno>700154315</idno>
+			</msIdentifier>
+		</msPart>
+	</msDesc>
+            <bibl>
+               <date when="1933-10-03"></date>
+               <distributor>אוסף פבזנר</distributor>
+			   <pubPlace>תל אביב</pubPlace>
+            </bibl>
+         </sourceDesc>
+            </fileDesc>
+      <revisionDesc>
+         <change>
+            <date>2017-08-09</date>
+            <name>Jerusalem corpus of Emergent Modern Hebrew (JEMH) staff</name>
+            <note>Created the initial version of the content in TEI-XML</note>
+         </change>
+      </revisionDesc>
+  </teiHeader>
+  <text>
+      <body>
+		 <head>
+     אגודת משוטטים ארץ ישראלית,
+	       סניף תל-אביב.
+		 </head>
+         <opener>
+		   חוזר לחברים.
+		   מספר 1 (צ"ד)
+            </opener>
+             
+			        <p>בזה הננו מודיעים לחברים:
+                        1. ביום ד׳ כ״א תשרי (11/10/33), תקרא העצרת המסורתית של 
+					    המשוטטים בירושלים. בתור צירים עם זכות הצבעה ישתתפו
+					    צירים נבחרים מסניפי המשוטטים שבארץ. זכות השתתפות בחות
+						דעה לכל חברי האגודה. החברים מוזמנים בזה להשתתף באופן
+						אקטיבי בישיבות העצרת ולהרשם לשם כך במשרד האגודה בימים 
+						ובשעות הרשומים למטה.
+				        2. למחרת היום יתקיים טיול (באוטו וברגל) בהדרכת החבר
+						בנבנישתי בדרך ירושלים-ואדי סואניה - ואדי קלט. לפנות
+						ערב ישובו באוטו מואדי קלט לירושלים ומירושלים לתל אביב.
+						הוצאות הטיול (מת״א לת״א) - 300 מיל א״י בערך. 
+					    3. מסתדרת קבוצה של עולי רגל לירושלים (בהדרכת הח׳ טוביה 
+						ארזי). העליה מסתדרת בצורה כזאת שהעולים יגיעו לירושלים 
+						לעצרת.</p>
+					    <p>פרטים והרשמה לכל הנ״ל בימים א׳ וב׳ (9-8 באוקטובר) 
+				    במשרד האגודה משמונה עד תשע בערב.</p>	 
+			      <closer> 		
+                	 <dateline>
+         <name type="place">תל-אביב,</name>
+                	    <date when="1933-10-03">3 באוקטובר, 1933</date>.
+		 </dateline>
+		</closer>
+      </body>
+  </text>
+</TEI>

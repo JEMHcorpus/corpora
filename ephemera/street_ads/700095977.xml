@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_minimal.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_minimal.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>אל כל הפקידים העברים בארץ</title>
+            <author>גדוד מגני השפה (מחלקת המוסדות) תל-אביב</author>
+            <respStmt>
+               <name>Mandel Scholion Hebrew Revival Research Group</name>
+               <resp>Transcription of digital file</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <authority>JEMH</authority>
+            <availability><licence target="https://creativecommons.org/licenses/by/4.0/">CC-BY 4.0</licence></availability>
+         </publicationStmt>
+         <sourceDesc xml:lang="Hebrew">
+	<msDesc>
+		<msPart>
+			<msIdentifier>
+				<repository>National Library of Israel</repository>
+				<collection>"Time Travel" Ephemera Collection</collection>
+				<idno>700095977</idno>
+			</msIdentifier>
+		</msPart>
+	</msDesc>
+            <bibl>
+               <date type="Unknown"/>
+               <distributor>אוסף עיריית תל אביב</distributor>
+               <pubPlace>תל אביב</pubPlace>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <change>
+            <date>2017-08-09</date>
+            <name>Jerusalem corpus of Emergent Modern Hebrew (JEMH) staff</name>
+            <note>Created the initial version of the content in TEI-XML</note>
+         </change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <opener><salute>אל כל הפקידים העברים בארץ!</salute></opener>
+         <p>אליכם הפקידים העברים הננו פונים הפעם בקריאתנו זו! אליכם ודוקא אליכם, כי יש לאל ידכם
+            לעשות ולפעל. מבלי הכבר מלים על מצבהּ העלוּב של שפתנו כיום בארץ, מבלי הרבות דברים על
+            הזלזוּל הרב בה, מצד כל שדרות עמנו, בכל הארץ כלה, הננו פונים אליכם וקוראים: את לשון עמכם
+            גאלו!!! אתם הפקידים, אשר בידכם נתונה הנהלת כל המוסדות העברים בארץ, הנהלת־פנקסיהם,
+            כתיבת־מכתביהם וכוּ', לא יבצר מכם לפעל גדולות לטובת שפתנו - וחיבים אתם בכך! אם לא אליכם,
+            אל מי נפנה, ואם לא עכשיו - אימתי?!... שפתנו נפלה פלאים, - הֲתעמדו מנגד?!?... התאמצות קלה
+            מצדכם תצעידנו אל המטרה הרצויה!!! את הפנקסים נהלו אך ורק בעברית! מכתבים כתבו עברית!
+            הכתבות על־גבי המכתבים כתבו אך ורק עברית! אל הפונים אליכם במשרדיכם השיבו אך ורק עברית!
+            עשו ואל תאחרו את המועד! פעלו כל עוד אפשר לפעל! עלבון השפה מידכם יִדָרֵש! עשו את אשר תעשו
+            בעקשנות קצונית ואז תצליחו!!!</p>
+         <closer>
+            <signed> גדוד מגני השפה (מחלקת המוסדות) תל־אביב. </signed>
+            <note> אנחנו ועד אגדת העובדים במשרדים ובבתי־מסחר ע"י ההסתדרות הכללית של העובדים העברים
+               בא"י תמימי דעים עם הכרוז הזה ומבקשים מאת חברינו לפעול בהתאם לו. (מקום החותם)</note>
+            <name type="press">דפוס א איתן וס. שושני</name>, <name type="place">תל-אביב</name>
+         </closer>
+      </body>
+   </text>
+</TEI>

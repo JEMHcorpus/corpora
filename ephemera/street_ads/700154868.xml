@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_minimal.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_minimal.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>הארץ מוצפת בתוצרת זרהה תוצרת חוץ-אספת מחאה</title>
+            <author>ההסתדרות הכללית של העובדים העברים בארץ ישראל, מועצת פועלי ת"א ויפו, אגודת פועלי המחט</author>
+            <respStmt>
+               <name>Mandel Scholion Hebrew Revival Research Group</name>
+               <resp>Transcription of digital file</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <authority>JEMH</authority>
+            <availability><licence target="https://creativecommons.org/licenses/by/4.0/">CC-BY 4.0</licence></availability>
+         </publicationStmt>
+         <sourceDesc xml:lang="Hebrew">
+	<msDesc>
+		<msPart>
+			<msIdentifier>
+				<repository>National Library of Israel</repository>
+				<collection>"Time Travel" Ephemera Collection</collection>
+				<idno>700154868</idno>
+			</msIdentifier>
+		</msPart>
+	</msDesc>
+            <bibl>
+               <date when="1932-10-06"></date>
+               <distributor>אוסף פבזנר</distributor>
+			   <pubPlace>יפו; תל אביב</pubPlace>
+            </bibl>
+         </sourceDesc>
+            </fileDesc>
+      <revisionDesc>
+         <change>
+            <date>2017-08-09</date>
+            <name>Jerusalem corpus of Emergent Modern Hebrew (JEMH) staff</name>
+            <note>Created the initial version of the content in TEI-XML</note>
+         </change>
+      </revisionDesc>
+  </teiHeader>
+  <text>
+      <body>
+	   <head>
+      ההסתדרות הכללית של העובדים העברים בא"י
+	      	מועצת פועלי ת"א ויפו 
+		    אגודת פועלי המחט 
+               </head>
+		<head>התאחדות החיטים למעילי גברות שמלות ועושי פרוות 
+		סקצית החיטים שע"י התאחדות מרכז בעלי מלאכה</head>
+		<opener><salute>לכל העובדים במקצוע המחט
+		   לענפיו השונים!</salute></opener>
+		<p>הארץ מוצפת בתוצרת זרה 
+		      תוצרת חוץ</p> 
+		<p>לאלפי משפחות המתפרנסות בתל־אביב ובארץ ממקצוע החייטות
+		צפויה סכנה שישמט הבסיס לקיומם, סכנה זו מרחפת עליהם, אחר
+		שנות סבל ועמל לשכלול המקצוע והתאמתו לרצונו וטעמו של צבור
+		              הצרכנים בשוק ההלבשה!</p> 
+		<p>אנשים המתנכרים ליסודות של בנין הארץ מחדשים את הנסיונות				
+		להחריב את קיומם של אלפי משפחות במקצוע ולסתום את הגולל
+		על מקור חשוב לקליטת עולים חדשים.</p>
+		<p>אל אדישות לגורלנו - 
+		            נתגייס למלחמה על קיומנו!</p> 
+                  
+		<p>באו בהמוניכם לאספת המחאה שלנו
+		שתתקיים ביום החמשי (6.10.32) בשעה 6 בערב, בועדת התרבות ר' נחמני 4</p>
+                     <name type="press">דפוס <gap n="2" unit="word"/></name>
+                     <name type="place">יפו</name>
+                     <gap n="2" unit="word"/>
+		
+      </body>
+  </text>
+</TEI>

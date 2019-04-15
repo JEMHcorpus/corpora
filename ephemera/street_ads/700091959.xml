@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_minimal.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_minimal.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>לקהל הבוחרים!- בחירות למועצת עיריתנו העברית</title>
+            <author>הנהגת גדוד מגני השפה</author>
+            <respStmt>
+               <name>Mandel Scholion Hebrew Revival Research Group</name>
+               <resp>Transcription of digital file</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <authority>JEMH</authority>
+            <availability><licence target="https://creativecommons.org/licenses/by/4.0/">CC-BY 4.0</licence></availability>
+         </publicationStmt>
+         <sourceDesc xml:lang="Hebrew">
+	<msDesc>
+		<msPart>
+			<msIdentifier>
+				<repository>National Library of Israel</repository>
+				<collection>"Time Travel" Ephemera Collection</collection>
+				<idno>700091959</idno>
+			</msIdentifier>
+		</msPart>
+	</msDesc>
+            <bibl>
+               <distributor>אוסף עיריית תל אביב</distributor>
+               <pubPlace>תל אביב</pubPlace>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <change>
+            <date>2017-08-09</date>
+            <name>Jerusalem corpus of Emergent Modern Hebrew (JEMH) staff</name>
+            <note>Created the initial version of the content in TEI-XML</note>
+         </change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <head> לקהל הבוחרים! </head>
+         <p>עומדים אנו כיום לפני בחירות למועצת עיריתנו העברית. הרבה דרישות והרבה הצעות תבענה על
+            ידיכם. שאלה אחת, שאלה חיונית שאין שעור לחשיבותה וערכה הרם תובעת פתרונה.</p>
+         <p>שפתנו העברית - העומדת עתה בעצם תחיתה והתפתחותה דורשת את שלה, ואין להעלים עין הימנה. עוד
+            טרם חלפה סכנה זו הנשקפת ללאום העברי כלו, ואותם בתי הספר &lt;&lt; הידועים &gt;&gt; נמצאים
+            בתוכנו, ומהרסים ומערערים את היסוד הראשון אשר הנח לבנין לבנין ביתנו הלאומי.</p>
+         <p>עוד טרם נמצא הפתרון המחלט לכל אותן השאלות הקשות העומדות יום יום בפני עולינו החדשים
+            והמרבים. לא הוכן עדין מקלט רוחני בטוח לילדי עולינו החדשים ורשת בה"ס הזרים לנו ולרוחנו
+            פרושה לרגליהם. - והנה החלו מציצים פה ושם חדרים ז'רגוניים. חדרים אלה חותרים תחת החנוך
+            העברי ועלולים להביא הרס הישוב העברי בארץ?</p>
+         <p>התמאנו הסר מנגד עיניכם אותם המכשולים העומדים לשטן על דרך התפתחות תחיתנו?</p>
+         <p>האמנם תאמרו לטמן ידיכם בצלחותיכם בשעה כגון זו?</p>
+         <p>התעוררו! תהא מפלגתכם איזו שתהא, תהיינה מגמותיכם איזו שתהיינה אולם חלילה לכם עמד מנגד.
+            הנבחרים למועצת עיריתנו יכולים לתקן מצב זה. רק בידם האפשרות הגמורה להוציאנו מן המצר. לפני
+            נבחריכם העמידו אפוא את דרישותיכם ותהיינה אלו חריפות ובלתי נרתעות. כי אם לא אליהם אל מי
+            תפנו? ואם לא עתה-אימתי?</p>
+         <closer>
+            <signed> הנהגת גדוד מגני השפה (מחלקת המוסדות) </signed> דפוס א. איתן וס שושני. תל-אביב.
+         </closer>
+      </body>
+   </text>
+</TEI>

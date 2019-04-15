@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_minimal.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_minimal.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>ידיעות אחרונות על המתרחש בארץ- מספר 1</title>
+            <author>ועדת הפעולה העירונית ליום המפקד, עירית תל אביב</author>
+            <respStmt>
+               <name>Mandel Scholion Hebrew Revival Research Group</name>
+               <resp>Transcription of digital file</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <authority>JEMH</authority>
+            <availability><licence target="https://creativecommons.org/licenses/by/4.0/">CC-BY 4.0</licence></availability>
+         </publicationStmt>
+         <sourceDesc xml:lang="Hebrew">
+	<msDesc>
+		<msPart>
+			<msIdentifier>
+				<repository>National Library of Israel</repository>
+				<collection>"Time Travel" Ephemera Collection</collection>
+				<idno>700157651</idno>
+			</msIdentifier>
+		</msPart>
+	</msDesc>
+            <bibl>
+               <date when="1939-05-18"></date>
+               <distributor>אוסף פבזנר</distributor>
+               <pubPlace>תל אביב</pubPlace>
+            </bibl>
+         </sourceDesc>
+            </fileDesc>
+      <revisionDesc>
+         <change>
+            <date>2017-08-09</date>
+            <name>Jerusalem corpus of Emergent Modern Hebrew (JEMH) staff</name>
+            <note>Created the initial version of the content in TEI-XML</note>
+         </change>
+      </revisionDesc>
+  </teiHeader>
+  <text>
+      <body>
+		 <head>ועדת הפעולה העירונית
+		       ליום המפקד</head>
+         <opener>
+		       ידיעות אחרונות על המתרחש בארץ.
+         		        	    מספר 1.
+         </opener>
+         
+         <p><emph rend="underline">יום הפקודה</emph>,
+	     
+	<date>כט' אייר צ"ט.</date>
+         </p>
+         <p><emph>ב<name type="place">תל-אביב</name>:</emph>	   
+            התהלוכה התחילה ב-9 בבוקר בראשה <lb/>
+            צעדו ראש העיריה, חברי מועצת העיר, הרבנים הראשיים <lb/>
+            ונכבדי הישוב. בתהלוכה השתתפו לפי המשוער כ60-70 אלף איש. הקבוצה האחרונה <lb/>
+            הגיעה לאיצטדיון ב1:15 בצהרים.בתוך האיצטדיון נתכנס קהל של 50.000 איש.<lb/>
+            נאמו: בשם העיר תל-אביב- מר י. רוקח, ראש העיריה.<lb/> 
+            בשם הסוכנות- ד"ר ב. מוסנזון.<lb/>
+            בשם הועד הלאומי-מר ז. רובשוב.<lb/> 
+            בהתחלת האסיפה הקריא מר פינקל "יזכר" לקדושים. האסיפה נסתימה<lb/> 
+            בקבלת "הכרזת הישוב ביום הפקודה" ע"י מר י. נדיבי.<lb/>
+            בה בשעה (בדיוק בשעה 12) התקימה בבית העם אסיפה אשר הכילה כ- 3000<lb/> 
+            איש בראשותו של מר סעדיה שושני. בראשית האסיפה הקריא "יזכר" לקדושים<lb/>
+            מר צחובל. נאמו: מר סופרבסקי, הגב' מאירסון גולדה, ד"ר ברט, מר ריפטין,<lb/>
+            עו"ד ב. עוזיאל, גב' וילנסקי, מר שרגאי, וה' אלכסנדר.האסיפה נסתימה<lb/> 
+            בהקראת "הכרזת הישוב ליום הפקודה".
+         </p>
+      </body>
+  </text>
+</TEI>

@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_minimal.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_minimal.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>עברי!- אל תתן לשפה לועזית ולנמוסים בלתי תרבותיים לשלוט בחינו</title>
+            <author>הנהגת גדוד מגני השפה</author>
+            <respStmt>
+               <name>Mandel Scholion Hebrew Revival Research Group</name>
+               <resp>Transcription of digital file</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <authority>JEMH</authority>
+            <availability><licence target="https://creativecommons.org/licenses/by/4.0/">CC-BY 4.0</licence></availability>
+         </publicationStmt>
+         <sourceDesc xml:lang="Hebrew">
+	<msDesc>
+		<msPart>
+			<msIdentifier>
+				<repository>National Library of Israel</repository>
+				<collection>"Time Travel" Ephemera Collection</collection>
+				<idno>700128778</idno>
+			</msIdentifier>
+		</msPart>
+	</msDesc>
+            <bibl>
+               <date type="Unknown"/>
+               <distributor>אוסף האפמרה-הספרייה הלאומית</distributor>
+			   <pubPlace>תל אביב</pubPlace>
+            </bibl>
+         </sourceDesc>
+            </fileDesc>
+      <revisionDesc>
+         <change>
+            <date>2017-08-09</date>
+            <name>Jerusalem corpus of Emergent Modern Hebrew (JEMH) staff</name>
+            <note>Created the initial version of the content in TEI-XML</note>
+         </change>
+      </revisionDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <opener><salute>עברי!</salute></opener>
+		       <p>הנהגים מזלזלים בשפה בפרהסיה ופורצים כל גדר הנמוס 
+			בדבורם הלועזי המחוצף ובבטוייהם הגסים ובלתי תרבותיים שהביאו
+			אתם הנה מארצות הגולה!</p> 
+			   <p>הגיע הזמן לשים קץ לזלזול בשפה ולהפקרות ביחס לנמוס 
+			החברותי - ובידך לעשות זאת!</p>
+			   <p>עברי! בהכנסך למרכבה ולאוטו פנה לנהג אך ורק בעברית!
+			אל תענה לנהג, אם שפה אחרת בפיו!</p>
+			   <p>בהכנסך למרכבה ולאוטו ובצאתך מהם ובשמעך קריאות ושיחות
+			   הנהגים בלועזית אל תחשה, העירם על תקלה זו!</p> 
+			   <p>והיה אם הנ"ל יענך בחוצפה, רשום את מספרו והודיע זאת 
+			למוסדות האחראים שלנו!</p>
+			   <p>אל תתן לשפה לועזית ולנמוסים בלתי תרבותיים לשלוט בחיינו!</p>  
+		       <closer> 
+            <signed>
+		    הנהגת
+		  גדוד מגני השפה.
+			</signed> 
+	דפוס איתן-שושני, תל-אביב.
+		</closer>
+      </body>
+  </text>
+</TEI>

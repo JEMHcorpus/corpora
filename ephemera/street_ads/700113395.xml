@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_minimal.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_minimal.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>יוסף חברה הדדית לאחריות בהמות</title>
+            <author>יוסף חברה הדדית לאחריות בהמות</author>
+            <respStmt>
+               <name>Mandel Scholion Hebrew Revival Research Group</name>
+               <resp>Transcription of digital file</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <authority>JEMH</authority>
+            <availability><licence target="https://creativecommons.org/licenses/by/4.0/">CC-BY 4.0</licence></availability>
+         </publicationStmt>
+         <sourceDesc xml:lang="Hebrew">
+	<msDesc>
+		<msPart>
+			<msIdentifier>
+				<repository>National Library of Israel</repository>
+				<collection>"Time Travel" Ephemera Collection</collection>
+				<idno>700113395</idno>
+			</msIdentifier>
+		</msPart>
+	</msDesc>
+            <bibl>
+               <date when="1930-05-22"/>
+               <distributor>אוסף האפמרה-הספרייה הלאומית</distributor>
+               <pubPlace>תל אביב</pubPlace>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <change>
+            <date>2017-08-09</date>
+            <name>Jerusalem corpus of Emergent Modern Hebrew (JEMH) staff</name>
+            <note>Created the initial version of the content in TEI-XML</note>
+         </change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>   
+         <head> "יוסף" ב </head>
+         <p>חברה הדדית לאחריות בהמות של קרדיט אחוזה ונחלה חברה הדדית בע"מ מאושרת ע"י ממשלת א"י <lb/>
+            <address>
+               <street>מונטיפיורי 22</street>
+            </address>
+         </p>
+         <p>החברה מבטיחה כל מיני בהמות באחריות בתנאים נוחים מאד יחד עם ההבטחה סדרנו עזרה וטרינרית
+            מאורגנת הנתנת ע"י רופא החברה. רופא החברה בתל-אביב- ד"ר מ. כספי, מרכז מסחרי הסוכן! מר
+            נחום לייכטרמן</p>
+         <closer> לפנות בכתב למשרדנו הנ"ל, ובע"פ בשעות מן 12-10 לפה"צ. <lb/>
+            <name type="press">דפוס גוטנברג</name>, <name type="place">תל אביב</name>, רחוב
+            <!--שם הרחוב ומספר הבית לא ברור -->
+         </closer>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_minimal.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_minimal.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>ליום פתיחת מכללתנו</title>
+            <author>הנהגת גדוד מגני השפה, מחלקת התעמולה</author>
+            <respStmt>
+               <name>Mandel Scholion Hebrew Revival Research Group</name>
+               <resp>Transcription of digital file</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <authority>JEMH</authority>
+            <availability><licence target="https://creativecommons.org/licenses/by/4.0/">CC-BY 4.0</licence></availability>
+         </publicationStmt>
+         <sourceDesc xml:lang="Hebrew">
+	<msDesc>
+		<msPart>
+			<msIdentifier>
+				<repository>National Library of Israel</repository>
+				<collection>"Time Travel" Ephemera Collection</collection>
+				<idno>700094183</idno>
+			</msIdentifier>
+		</msPart>
+	</msDesc>
+            <bibl>
+               <date when="1941-09-25"/>
+               <distributor>אוסף עיריית תל אביב</distributor>
+               <pubPlace>תל אביב</pubPlace>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <change>
+            <date>2017-08-09</date>
+            <name>Jerusalem corpus of Emergent Modern Hebrew (JEMH) staff</name>
+            <note>Created the initial version of the content in TEI-XML</note>
+         </change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <head>ליום פתיחת מכללתנו!</head>
+         <opener><salute>אל העם!</salute></opener>
+         <p>היום נהיית לעם!</p>
+         <p>פתיחת המכללה העברית בירושלים -פתיחת תקופה חדשה בחייך; תקופת זהר לחיים עצמיים מקוריים
+            בתרבותך ובשפתך על אדמת ארצך.</p>
+         <p>עם פתיחת המכללה העברית - גלת הכתרת של יצירתנו העתיקה-החדשה, במרום הררי ציון - חוגגת
+            שפתנו את חג נצחונה אחרי אלפי שנות גלותה.</p>
+         <p>יום גדול היום הזה לשפתנו העברית. יום גדול לכל העם בארצות תפוצותיו - יום שיבת שפתנו אל
+            בית חייה.</p>
+         <p>העם! עיני כל העולם אל תחיתך! החיים והמות ביד הלשון! החיה את לשונך וחיית גם אתה! נטֹש
+            שפות-הגלות המפרידות בין אחים! נתק מוסרות - לשון נכריה! השתחרר משעבוד תרבות זרה!</p>
+         <p>דע היום כי עברי אתה ועברית שפתך!</p>
+         <closer>
+            <signed> הנהגת גדוד מגני השפה (מחלקת התעמולה) </signed> דפוס א. איתן וס. שושני, תל-אביב.
+         </closer>
+      </body>
+   </text>
+</TEI>

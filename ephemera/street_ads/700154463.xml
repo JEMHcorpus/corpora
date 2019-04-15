@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_minimal.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_minimal.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>לישוב העברי</title>
+            <author>ארגון עובדי הצה"ר וביתר. המזכירות הארצית</author>
+            <respStmt>
+               <name>Mandel Scholion Hebrew Revival Research Group</name>
+               <resp>Transcription of digital file</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <authority>JEMH</authority>
+            <availability><licence target="https://creativecommons.org/licenses/by/4.0/">CC-BY 4.0</licence></availability>
+         </publicationStmt>
+         <sourceDesc xml:lang="Hebrew">
+	<msDesc>
+		<msPart>
+			<msIdentifier>
+				<repository>National Library of Israel</repository>
+				<collection>"Time Travel" Ephemera Collection</collection>
+				<idno>700154463</idno>
+			</msIdentifier>
+		</msPart>
+	</msDesc>
+            <bibl>
+               <date type="Unknown"/>
+               <distributor>אוסף פבזנר</distributor>
+            </bibl>
+         </sourceDesc>
+            </fileDesc>
+      <revisionDesc>
+         <change>
+            <date>2017-08-09</date>
+            <name>Jerusalem corpus of Emergent Modern Hebrew (JEMH) staff</name>
+            <note>Created the initial version of the content in TEI-XML</note>
+         </change>
+      </revisionDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <opener><salute>לישוב העברי!</salute></opener>
+			       <p>הסתדרות העובדים, במלחמתה כנגד ביהח"ר של פרומין, שהתיר לעצמו
+					 להעסיק גם פועלים שאינם חברי ההסתדרות, הכריזה למעשה 
+					 חרם על תוצרת פרומין.
+					 המעשה הזה של ההסתדרות עורר התמרמרות בקרב חוגים שונים, ורבים מציעים
+					 להשיב חרם תחת חרם:
+					 חרם על תוצרת "תנובה"
+					 בפרט,ועל תוצרת משקי ההסתדרות בכלל. 
+					 בשם הנוער הלאומי, שקדושים ויקרים <gap unit="word" n="1"/> בנין א"י והעבודה העברית, הננו פונים
+					 לכל הישוב באזהרתנו:
+					 חלילה לכם! 
+					 אל תאחזו בחרב-פיפיות זו! 
+					 אל תעלה בלבכם מחשבות חרם על שום תוצרת עברית. בעבודה עברית, בכל עבודה עברית ורק בעבודה עברית
+					 תבנה ארץ-ישראל. תשובתנו על החרם צריכה להיות לא הכרזת חרם חדש, כי אם משנה-תמיכה
+					 באותה התוצרת שמבקשים להחרימה.
+					 תחי התוצרת העברית! 
+					 תחי העבודה העברית! 
+					 יחי בנינה של א"י!
+					 קנו תוצרת פרומין! קנו תוצרת עברית!</p> 
+			      <closer> 		
+                     <signed>
+                   ארגון עובדי הצה"ר וביתר.
+		               המזכירות הארצית
+			  </signed> 	  
+		</closer>
+      </body>
+  </text>
+</TEI>

@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_minimal.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_minimal.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>למועצת הפועלים, למשקים ולמקומות העבודה</title>
+            <author>הועד הפועל של ההסתדרות</author>
+            <respStmt>
+               <name>Mandel Scholion Hebrew Revival Research Group</name>
+               <resp>Transcription of digital file</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <authority>JEMH</authority>
+            <availability><licence target="https://creativecommons.org/licenses/by/4.0/">CC-BY 4.0</licence></availability>
+         </publicationStmt>
+         <sourceDesc xml:lang="Hebrew">
+	<msDesc>
+		<msPart>
+			<msIdentifier>
+				<repository>National Library of Israel</repository>
+				<collection>"Time Travel" Ephemera Collection</collection>
+				<idno>700156705</idno>
+			</msIdentifier>
+		</msPart>
+	</msDesc>
+            <bibl>
+         <date when="1933-06-17"></date>
+               <distributor>אוסף פבזנר</distributor>
+			   <pubPlace>תל אביב</pubPlace>
+            </bibl>
+         </sourceDesc>
+            </fileDesc>
+      <revisionDesc>
+         <change>
+            <date>2017-08-09</date>
+            <name>Jerusalem corpus of Emergent Modern Hebrew (JEMH) staff</name>
+            <note>Created the initial version of the content in TEI-XML</note>
+         </change>
+      </revisionDesc>
+  </teiHeader>
+  <text>
+      <body>
+		 <opener><salute>
+		 למועצות הפועלים למשקים ולמקומות העבודה! 
+		 </salute></opener>
+			         <p> הננו למסור לכם את הדברים הבאים: 
+					 ההתנקשות נעשתה על יד שני אנשים, אשר עקבו אחרי ארלוזורוב
+					 ואשתו בטיילם על שפת הים, לערך בשעה 10,30 בערב, ממלון קטי דן
+					 לצד צפון. האחד האיר בפנס=חשמל מול פני ארלוזורוב, והשני ירה.
+					 הנתוח שנעשה בבית=החולים "הדסה" הוכיח שטף דם עצום לתוך הבטן 
+					 מכדור שפגע בוריד. הכרתו היתה צלולה עד הרגע האחרון. בקשתו 
+					 האחרונה היתה: "תנו לי נרקוזה". הוא מת בשעה 1 בלילה. 
+					 חיפוש הרוצחים לא העלה עדיין שום עקבות. אין לתת אוזן לשמועות
+					 ברחוב כל שהן.
+					 עירית תל=אביב קבעה את מועד ההלויה ביום א' - בשעה 11 לפנ"הצ.
+					 ביטול מלאכה בתל=אביב יוכרז על ידי העיריה משעה 10.
+					 בכל הארץ מחר הפסקת מלאכה לשעה אחת, מ־11 עד 12.
+					 מוסדות ההסתדרות בכל הארץ יהיו סגורים (מלבד הטלפון) כל יום
+					 ראשון. יועלו שני הדגלים עטופי אבל. 
+					 להלויה תצאנה מהמקומות רק משלחות מצומצמות.על המשלחות לפנות
+					 בבואן לחצר הועד=הפועל של ההסתדרות, בו יוצג הארון מיום ראשון
+					 בבוקר עד שעת ההלויה.</p>    
+			      <closer> 		
+                     <signed>
+              הועד הפועל של ההסתדרות. 
+			  </signed> 
+    	 <dateline>
+               <name type="place">תל=אביב</name>,
+    	    <date when="1933-06-17">17.6.1933</date>
+            </dateline>
+		</closer>
+      </body>
+  </text>
+</TEI>

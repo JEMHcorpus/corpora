@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_minimal.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_minimal.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>לתלמידי אליאנס!- בנים נאמנים אנו לעמנו ובית הספר העברי הוא בית-ספרנו</title>
+            <author>גדוד מגני השפה תל-אביב</author>
+            <respStmt>
+               <name>Mandel Scholion Hebrew Revival Research Group</name>
+               <resp>Transcription of digital file</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <authority>JEMH</authority>
+            <availability><licence target="https://creativecommons.org/licenses/by/4.0/">CC-BY 4.0</licence></availability>
+         </publicationStmt>
+         <sourceDesc xml:lang="Hebrew">
+	<msDesc>
+		<msPart>
+			<msIdentifier>
+				<repository>National Library of Israel</repository>
+				<collection>"Time Travel" Ephemera Collection</collection>
+				<idno>700128779</idno>
+			</msIdentifier>
+		</msPart>
+	</msDesc>
+            <bibl>
+               <date type="Unknown"/>
+               <distributor>אוסף האפמרה- הספרייה הלאומית</distributor>
+			   <pubPlace>תל אביב</pubPlace>
+            </bibl>
+         </sourceDesc>
+            </fileDesc>
+      <revisionDesc>
+         <change>
+            <date>2017-08-09</date>
+            <name>Jerusalem corpus of Emergent Modern Hebrew (JEMH) staff</name>
+            <note>Created the initial version of the content in TEI-XML</note>
+         </change>
+      </revisionDesc>
+  </teiHeader>
+  <text>
+      <body>
+	 <head>
+	 </head>
+         <opener><salute>לתלמידי אליאנס!</salute>  </opener>
+		   <p>ילדי ישראל, הסירו מעליכם את השם הנכרי "אליאנס"! גרשו את
+				   הרוח הזרה! ילדי ישראל אתם, ולמה תהיו זרים לנו? 
+				   בארץ ישראל אתם חיים, ובשעה שכל העם העברי
+				   מתעורר לתחיה, לחיי עם בריא - ולמה תהיו אתם 
+				   קרועים מעל הדור הצעיר? היתכן שילדי ישראל בארץ
+				   ישראל ילמדו חשבון, כתיבת הארץ ולמודים אחרים
+				   בשפה זרה? הילמדו ילדי הצרפתים את הלמודים 
+				   האלה באנגלית או ילדי האנגלים - באשכנזית? במה 
+				   אתם גרועים מילדי כל עם? למה תהיו לבוז ולצחוק?</p> 
+		   <p>בני ישראל, אסירי בתי הספר של אליאנס, שאו עיניכם והביטו אל 
+				   חבריכם בבתי הספר העברים. הם מתחנכים להיות 
+				   יהודים טובים וגאים ואנשים חפשים ואתם מתענים תחת
+				   ידי אנשים הרודים בכם במקל וממיתים בכם כל רגש 
+				   חפשי. הם לומדים היטב את לשון עמם ובה הם קונים
+				   השכלה ודעת, ואתם מבלים מחצית זמנכם ויותר בלמוד 
+				   לשונות זרות. מדוע לא תצאו מחשך לאור, מכלא 
+				   למרחביה? צאו אל חבריכם-אחיכם העברים אשר
+				   בבתי הספר העברים, למדו היטב את לשון עמכם 
+				   העברית, שמרו את קדשי העם, היו עם כל העם בימי
+				   אבלו ובימי שמחתו - יחד, יחד עם כל העם!</p> 
+		   <p>תלמידים יקרים, הן רוצים אתם להיות יחד עם כל אלפי התלמידים
+				   העברים, לשאת אתם יחד את דגל קדשנו, למען נהיה 
+				   כלנו עם אחד, חזק ובריא, ולא נהיה מחנות מחנות 
+				   נפרדים, ולא נהיה כצאן אובדות, הנה עתה הזמן לכם
+				   להתאחד עם כל בני העם העברי!</p>
+		   <p>היום אתם עוזבים את אליאנס. נגמרה שנת הלמודים. ילדים
+				   טובים, עזבו היום את אליאנס לתמיד! כן עשו גם
+				   מריכם הנאמנים.צאו בעקבותיהם. בתי הספר האלה 
+				   עושים אתכם בעלי מום. צאו מהם ואל תשובו אליהם
+				   עוד!</p> 
+		   <p>קראו בקול גדול: בנים נאמנים אנו לעמנו 
+				   ובית הספר העברי הוא בית-ספרנו!</p> 
+			      <closer> 		
+                  <signed>
+   	           גדוד מגני השפה,
+			   		      תל-אביב.
+			      </signed>
+		 דפוס קבוצת "עבודה" תל-אביב  
+		  </closer>
+      </body>
+  </text>
+</TEI>

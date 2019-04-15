@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_minimal.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_minimal.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>אל כל עובדי בתי-אכל ומלון בתל-אביב</title>
+            <author>האופוזיציה הבורוכובית באגודת עובדי בתי אכל ומלון, תל-אביב</author>
+            <respStmt>
+               <name>Mandel Scholion Hebrew Revival Research Group</name>
+               <resp>Transcription of digital file</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <authority>JEMH</authority>
+            <availability><licence target="https://creativecommons.org/licenses/by/4.0/">CC-BY 4.0</licence></availability>
+         </publicationStmt>
+         <sourceDesc xml:lang="Hebrew">
+	<msDesc>
+		<msPart>
+			<msIdentifier>
+				<repository>National Library of Israel</repository>
+				<collection>"Time Travel" Ephemera Collection</collection>
+				<idno>700154806</idno>
+			</msIdentifier>
+		</msPart>
+	</msDesc>
+            <bibl>
+               <date when="1934-02-18"></date>
+               <distributor>אוסף פבזנר</distributor>
+			   <pubPlace>תל אביב</pubPlace>
+            </bibl>
+         </sourceDesc>
+            </fileDesc>
+      <revisionDesc>
+         <change>
+            <date>2017-08-09</date>
+            <name>Jerusalem corpus of Emergent Modern Hebrew (JEMH) staff</name>
+            <note>Created the initial version of the content in TEI-XML</note>
+         </change>
+      </revisionDesc>
+  </teiHeader>
+  <text>
+      <body>
+		 
+         <opener>אל כל עובדי בתי-אכל ומלון בתל-אביב!
+            <salute>חברות וחברים!</salute></opener>   
+			               <p>שאלת התעריף החדש לעובדים חברי אגודתנו עלתה שוב על הפרק. הועד שלנו, 
+					 אשר לא שאל בדעתנו בשעה שחתם על החוזה הקודם, מיהר שוב פעם להכנס במשא ומתן
+					 עם נותני- העבודה לפי דרישתם, ושוב אין שואלים בדעת הפועלים חברי האגודה.</p>
+					       <p>מה רצים נותני- העבודה?הם רוצים להסיר מעל שכמם את העל של חלק מהמש-
+					 כרת ולהטילו על הארחים בצורת-"אחוזים"; ונותן העבודה יצטרך לשלם לכל עובד 
+					 ועובדת רק חלק (שתי לירות). באופן כזה לא תהא משכורתו של העובד קבועה; אלא 
+					 מתנודדת מחודש לחודש לפי המצב בעסק. ברור שעם גידול העסק יקבל נותן העבודה 
+					 עוד עובדים - ומשכורת הפועל לא תיגדל,אולם בזמן של הרעת העסקים תרד משכורתו
+					 של העובד עוד יותר מאשר עכשיו.</p> 
+					      <p>ועד האגודה התחיל כבר במשא ומתן ויוכל להיות; כי כמו בחוזה הקודם נעמוד
+					 בפני עובדה מסוימת.הועד ימסר אינפורמציה על חוזה שנחתם כבר , ואותנו יצוה
+					 לישתק.</p> 
+					     <p>בינתים הועד לא דאג אפילו להגשים בכל המקומות את ההלעאה העלובה הקודמת, 
+					 ועד היום לא קיבלו אתה עובדי כמה מסעדות, לדוגמא: אלטשולר, אביב, ילין, טובה ("על 
+					 שפת_ הים") ועוד.</p> 
+					     <p>ההפקרות בתור העבודה נמשכת. דוגמא: בפלטין הוצאה הפפועלת מן העבודה, בה בשעה 
+					 שלפי התור צריכה היתה לעזב את העבודה פועלת אחרת. חברה של ועד האגודה.</p> 
+					     <p>איך מבין המזכיר את תפקידי האגודה תעיד העובדה שבמלון "עקסצלטיאר" בא 
+					 המזכיר אל בעלי המלון והודיע, כי במקום עשר לירות שמקבלת  העובדת (המבשלת)
+					 עד היום,צריך לשלם לה רק שמונה לירות. המעשה הנבזה הזה של מזכיר האגודה,
+					 להוריד שכר פועלת, מתאים לכל הפוליטיקה של השולטים עכשיו באגודה.</p> 
+					    <p>כמו-כן, ועד האגודה משתמט מן המלחמה להטבת התנאים במקומות העבודה בכלל. 
+					 וגם בענין החופש השנתי (כמו שקרה לפועלת במלון "סן -רימד, אשר שנה אחת קבלה 
+					 חפש-ובשניה כבר לא קיבלה באשמת ועד האגודה!) כל העובדות האלה מראות עד כמה
+					 ועד האגודה עומד בניגוד להאינטרסים שלנו ומשרת את נותני-העבודה.</p>  
+					    <p>האופוזיציה הבורוכובית פונה איפוא אליכם: השתתפו כולכם בדרישה לאסיפה
+					 כללית, אשר בה נוכל לדון בכל הענינים הנוגעים לאגודתנו, ולא נהיה שוב פעם
+					 נדונים להיות אילמים בשאלות אשר בהם תלוי קיומנו.</p>
+			      <closer> 		
+                  <signed>
+                     האופוזיציה הבורוכובית
+					 באגודת 
+					 עובדי בתי אכל ומלון,
+					 תל-אביב. 
+			      </signed>	
+	          <dateline>
+	             תל-אביב
+	             <date when="1934-02-18">18 בפברואר 1934</date>
+           	 
+			</dateline>
+		</closer>
+      </body>
+  </text>
+</TEI>

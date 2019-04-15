@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_minimal.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_minimal.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>לבעלי המשפחה- השוק החדש</title>
+            <author>Unknown</author>
+            <respStmt>
+               <name>Mandel Scholion Hebrew Revival Research Group</name>
+               <resp>Transcription of digital file</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <authority>JEMH</authority>
+            <availability><licence target="https://creativecommons.org/licenses/by/4.0/">CC-BY 4.0</licence></availability>
+         </publicationStmt>
+         <sourceDesc xml:lang="Hebrew">
+	<msDesc>
+		<msPart>
+			<msIdentifier>
+				<repository>National Library of Israel</repository>
+				<collection>"Time Travel" Ephemera Collection</collection>
+				<idno>700115228</idno>
+			</msIdentifier>
+		</msPart>
+	</msDesc>
+            <bibl>
+               <date type="Unknown"/>
+               <distributor>אוסף האפמרה- הספרייה הלאומית</distributor>
+               <pubPlace>תל אביב</pubPlace>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <change>
+            <date>2017-08-09</date>
+            <name>Jerusalem corpus of Emergent Modern Hebrew (JEMH) staff</name>
+            <note>Created the initial version of the content in TEI-XML</note>
+         </change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <opener><salute>לבעלי המשפחה!</salute></opener>
+         <p>כל מי שלא ראה עוד את השוק החדש המצטין בבנינו, בנקיונו המופתי, הרחב והמרוח כל מי שלא שמע
+            על אודות המחירים בשוק החדש יבא, יראה ויוחך כל הצרכים טריים ומובחרים לחם, חמאה וכל מיני
+            מכולת, בשר, דגים, עופות חיות ושחוטות, ביצים, ירקות, פירות, גלנטרי, מגופקטורה וכל מיני
+            צרכי בית נמצאים בשוק החדש ונמכרים במחירים יותר זולים מאשר בכל מקום אחר שוחטים לעופות
+            נמצאים תמיד על המקום. השוק החדש נמצא ברח' שבזי בין תל-אביב ונוהשלום, ע"י נוהצדק, 5 דקים
+            מקולנוע "עדן" ופתוח לדרישות הקהל. משעה 1/2 4 בבוקר עד 8 בערב.</p>
+         <closer> אבולעפיה דפוס &lt;&lt; אומנות &gt;&gt; </closer>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_minimal.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_minimal.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>ברכות חברים ומצע בחירות</title>
+            <author>Unknown</author>
+            <respStmt>
+               <name>Mandel Scholion Hebrew Revival Research Group</name>
+               <resp>Transcription of digital file</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <authority>JEMH</authority>
+            <availability><licence target="https://creativecommons.org/licenses/by/4.0/">CC-BY 4.0</licence></availability>
+         </publicationStmt>
+         <sourceDesc xml:lang="Hebrew">
+	<msDesc>
+		<msPart>
+			<msIdentifier>
+				<repository>National Library of Israel</repository>
+				<collection>"Time Travel" Ephemera Collection</collection>
+				<idno>700158802</idno>
+			</msIdentifier>
+		</msPart>
+	</msDesc>
+            <bibl>
+               <date notBefore="1919-05-30" notAfter="1919-06-28"/>
+               <distributor>אוסף פבזנר</distributor>
+               <pubPlace>סג'רה; פתח תקווה</pubPlace>
+            </bibl>
+         </sourceDesc>
+            </fileDesc>
+      <revisionDesc>
+         <change>
+            <date>2017-08-09</date>
+            <name>Jerusalem corpus of Emergent Modern Hebrew (JEMH) staff</name>
+            <note>Created the initial version of the content in TEI-XML</note>
+         </change>
+      </revisionDesc>
+  </teiHeader>
+  <text>
+      <body>
+		 <head>
+               ברכות חברים.
+		 </head>
+         <p><!-- בתוך קופסה -->
+      אהרן הרצברג       זהבה גרודסקי
+	             <emph rend="spacing">מאורשים</emph>
+	  סג'רה                 פתח- תקוה 
+            
+               <date notBefore="1919-05-30" notAfter="1919-06-28">
+	           סיון תרע"ט
+               </date>
+              
+               </p>
+			    <p>הנני מברך את חברי נח סטופנסקי וזלדה לוי לנשואיהם.
+					                           יעקב דצלר, יבנאל</p> 
+				<p>ברכה לבבית ליעקב וניק ומרים טובולס<gap reason="illegible"/>
+				   אהרן גולובניק, ד. בן-צבי, משה פ<gap reason="illegible"/>שטין</p> 
+				<p>	2 <gap reason="illegible" unit="lines"></gap></p>
+				<p>ג. הכנסת עבודת-כפים, כאחד היסודות של החנוך בכל 
+			בה"ס, העממיים, התיכונים ובתי המדרש למורים ומורות.</p>
+				<p>ד. סדור בתי משפט  עבריים בכל קהלה עירונית וכפרית
+			ובתי משפט עליון בירושלים.</p>
+				<p>ה. מחיר מינימלי ליום עבודה של שמונה שעות בכל 
+		    עבודה קהלתית.</p>
+				<p>ו. הרחבת החנוך המקצעי-חקלאי וטכני.</p>
+				<p>ז. עזרה ורפואות חנם בכל בתי החולים.</p>
+			    <p>ח. איש ואשה משהגיעו לשנות ששים דאגת פרנסתם על
+		    הצבור, והם מקבלים את כלכלתם (משכרתם) הקבועה והשוה
+			לכלם מאת הצבור.</p>
+			    <p>ט. בטול כל מסי הקהלה הבלתי ישרים. קביעת מס אחד,
+		   יחיד וישר לפי גדל ההכנסה של המשק, העסק, המשכרת והרוח,
+		   ומס הירושה.</p>	
+				<p>י. מס של חובה כללי, העולה ומדריג לפי ההכנסה, לשם
+		   גאלת הארץ לקרן הקימת לישראל.</p>		
+      </body>
+  </text>
+</TEI>

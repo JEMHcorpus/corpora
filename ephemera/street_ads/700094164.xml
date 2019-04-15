@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_minimal.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_minimal.rng" type="application/xml"
+schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>מודעה</title>
+            <author>מחלקת ההגירה והנסיעה</author>
+            <respStmt>
+               <name>Mandel Scholion Hebrew Revival Research Group</name>
+               <resp>Transcription of digital file</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <authority>JEMH</authority>
+            <availability><licence target="https://creativecommons.org/licenses/by/4.0/">CC-BY 4.0</licence></availability>
+         </publicationStmt>
+         <sourceDesc xml:lang="Hebrew">
+	<msDesc>
+		<msPart>
+			<msIdentifier>
+				<repository>National Library of Israel</repository>
+				<collection>"Time Travel" Ephemera Collection</collection>
+				<idno>700094164</idno>
+			</msIdentifier>
+		</msPart>
+	</msDesc>
+            <bibl>
+               <date when="1920-12-09"/>
+               <distributor>אוסף עיריית תל אביב</distributor>
+               <pubPlace>ירושלים</pubPlace>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <change>
+            <date>2017-08-09</date>
+            <name>Jerusalem corpus of Emergent Modern Hebrew (JEMH) staff</name>
+            <note>Created the initial version of the content in TEI-XML</note>
+         </change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <head>
+            <note><!-- קיימים קטעים זהים באנגלית ובערבית שלא נכללו בגרסה הדיגיטלית--></note> מודעה. </head>
+         <p>כל האנשים שלא רשמו עצמם בהתאם לסעיף "ז" של פקודת ההגירה חייבים לעשות זאת תכף ומיד.</p>
+         <p>כל הרשומים יעשו מכאן ואילך בירושלם, יפו או חיפה במשרד של מחלקת ההגירה והנסיעה ולא במשרד
+            הראשי של המשטרה אשר במחוז.</p>
+         <closer>
+            <name type="organization">מחלקת ההגירה והנסיעה</name>
+            <name type="place">ירושלים</name>
+            <dateline><date>9 לחדש דצמבר 1920</date>.</dateline>
+            I &amp; T.11. 
+         </closer>
+      </body>
+   </text>
+</TEI>

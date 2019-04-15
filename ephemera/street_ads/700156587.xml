@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_minimal.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_minimal.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>הגליון הבא של "מאזנים"- גליון היובל של ח.נ. ביאליק</title>
+            <author>הנהלת מאזנים</author>
+            <respStmt>
+               <name>Mandel Scholion Hebrew Revival Research Group</name>
+               <resp>Transcription of digital file</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <authority>JEMH</authority>
+            <availability><licence target="https://creativecommons.org/licenses/by/4.0/">CC-BY 4.0</licence></availability>
+         </publicationStmt>
+         <sourceDesc xml:lang="Hebrew">
+	<msDesc>
+		<msPart>
+			<msIdentifier>
+				<repository>National Library of Israel</repository>
+				<collection>"Time Travel" Ephemera Collection</collection>
+				<idno>700156587</idno>
+			</msIdentifier>
+		</msPart>
+	</msDesc>
+            <bibl>
+               <date when="1933-05-01"></date>
+               <distributor>אוסף פבזנר</distributor>
+            </bibl>
+         </sourceDesc>
+            </fileDesc>
+      <revisionDesc>
+         <change>
+            <date>2017-08-09</date>
+            <name>Jerusalem corpus of Emergent Modern Hebrew (JEMH) staff</name>
+            <note>Created the initial version of the content in TEI-XML</note>
+         </change>
+      </revisionDesc>
+  </teiHeader>
+  <text>
+      <body>
+		 <head>
+    מאזנים 
+	השבועון לספרות, לבקורת ולדברי אמנות
+	יוצא על-ידי 
+	אגודת הסופרים העברים 
+	         בארץ-ישראל
+          </head>
+		      <p>הגליון הבא של "מאזנים"-
+			  גליון היובל 
+			  של 
+			  ח.נ. ביאליק
+			  יופיע ביום ז' טבת תרצ"ג (5.1.33)
+			  ויהיה כולו מוקדש לחג יובל הששים 
+			  של גדול משוררינו ח.נ.ביאליק 
+			  גליון- יובל זה יצא בצורה מוגדלת ויכיל חומר ספרותי חשוב, ציורים,
+			  תמונות וזכרונות וידפס ב- 10.000 אכסמפלרים
+			  בצורת חוברת מיוחדת שתשמר למזכרת- תמיד
+			  בגליון גדול זה יהיה מדור מיוחד 
+			  לברכות לבעל היובל ולמודעות מסחר <!-- כנראה מסחריות- חלק חתוך-->
+			  מוסדות ויחידים, הרוצים להביע על עמודי גליון- היובל את ברכתם,
+			  בעלי- מודעות, המעונינים בקביעת מודעותיהם בגליון זה 
+			  מתבקשים להמציא להנהלת "מאזנים" נוסח ברכותיהם ומודעותיהם
+			  עד יום שלישי, ה' טבת תרצ"ג (3.1.33)</p> 
+			  <p>מתקבלת החתימה על "מאזנים"
+			  החותמים הקבועים יקבלו בהנחה גדולה ספרים שונים ממיטב הספרות העברית החדשה
+			  מלבד זה יקבל כל חותם שנתי חנם 
+			  אלמנך ספרותי-אמנותי מצויר
+			  תנאי החתימה בארץ: לשנה (50 גליונות)-500 מיל: לחצי שנה (25 גליונות)- 250 מיל    מחיר גליון בודד 10 מא"י 
+			  חתמו על ה"מאזנים"! דרשו את ה"מאזנים" בכל קיוסק ובי"מס! 
+			  הנהלת "מאזנים: תל-אביב, רח' יבנה 20 (מ-1-8; מ-7-3 אחה"צ) תבת דאר 50.</p>
+			   <closer> 	
+                  <signed>
+   	              הנהלת "מאזנים".
+			 </signed>
+		</closer>
+      </body>
+  </text>
+</TEI>

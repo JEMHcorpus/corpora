@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_minimal.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_minimal.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>מודעה חשובה-סנדלר ותפר</title>
+            <author>הנהלה</author>
+            <respStmt>
+               <name>Mandel Scholion Hebrew Revival Research Group</name>
+               <resp>Transcription of digital file</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <authority>JEMH</authority>
+            <availability><licence target="https://creativecommons.org/licenses/by/4.0/">CC-BY 4.0</licence></availability>
+         </publicationStmt>
+         <sourceDesc xml:lang="Hebrew">
+	<msDesc>
+		<msPart>
+			<msIdentifier>
+				<repository>National Library of Israel</repository>
+				<collection>"Time Travel" Ephemera Collection</collection>
+				<idno>700112135</idno>
+			</msIdentifier>
+		</msPart>
+	</msDesc>
+            <bibl>
+               <date when="1934-10-16"/>
+               <distributor>אוסף האפמרה-הספרייה הלאומית</distributor>
+               <pubPlace>יפו</pubPlace>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <change>
+            <date>2017-08-09</date>
+            <name>Jerusalem corpus of Emergent Modern Hebrew (JEMH) staff</name>
+            <note>Created the initial version of the content in TEI-XML</note>
+         </change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <head> מודעה חשובה </head>
+         <p>הננו מודיעים שכל סנדלר ותפר שיכניס סכום של 25 לא"י בפעם אחת או בתשלומים יכול להשתתף בתור
+            שותף בעבודה וברוח של ביח'ר מתקבלים גם מי שיודע מקצוע סנדלרות ביד. הבי"ח כבר מסודר עם
+            מכונות הבית חרשת נמצא ביפו ר' נוזה 24/82 המשך שדרות מלך ג'ורג' עומד תחת השגחת של מומחה
+            לתעשית נעלים המעונינים מתקבלים בכל יום 5-7 בערב יחד עם זה הננו מודיעים שאנחנו פותחים ע"י
+            ביח"ר שעורים למלאכת תעשית נעלים במכונות מתקבלים תלמידים ותלמידות לעבודות שונות: 1. גזירה
+            ע'פ שיטה תיאורית גופתיים 2. תפירת גופתיים 3. סחיבה במכונות וביד עם טאצק 4. תפירת סוליות
+            עם מכונות בפנים ובחוץ 5. עבודה לפי שיטת "Ago" מודבק 6. עבודות שיטת Mac-Kay מק־קאי 7. " "
+            Goud-Jar גוד יאר 8. " " Flexibl פלקסיבל 9. גמירת עבודה וציחצוח במכונות המעונינים יכולים
+            להרשם בכל יום מ־4-5 אחה"צ לפי הכתבת הנ"ל</p>
+         <closer>
+            <signed> הנהלה </signed>
+         </closer>
+      </body>
+   </text>
+</TEI>

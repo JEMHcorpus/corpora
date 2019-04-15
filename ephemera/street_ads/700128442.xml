@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_minimal.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_minimal.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>נפלאות שנות העשרים</title>
+            <author>Unknown</author>
+            <respStmt>
+               <name>Mandel Scholion Hebrew Revival Research Group</name>
+               <resp>Transcription of digital file</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <authority>JEMH</authority>
+            <availability><licence target="https://creativecommons.org/licenses/by/4.0/">CC-BY 4.0</licence></availability>
+         </publicationStmt>
+         <sourceDesc xml:lang="Hebrew">
+	<msDesc>
+		<msPart>
+			<msIdentifier>
+				<repository>National Library of Israel</repository>
+				<collection>"Time Travel" Ephemera Collection</collection>
+				<idno>700128442</idno>
+			</msIdentifier>
+		</msPart>
+	</msDesc>
+            <bibl>
+               <date notBefore="1932-06-11"/>
+               <distributor>אוסף האפמרה- הספרייה הלאומית</distributor>
+            </bibl>
+         </sourceDesc>
+            </fileDesc>
+      <revisionDesc>
+         <change>
+            <date>2017-08-09</date>
+            <name>Jerusalem corpus of Emergent Modern Hebrew (JEMH) staff</name>
+            <note>Created the initial version of the content in TEI-XML</note>
+         </change>
+      </revisionDesc>
+  </teiHeader>
+  <text>
+      <body>
+	   <opener>
+         נפלאות שנות <add rend="supralinear">(המאה)</add> העשרים
+		  בואו בהמונכם לראות נפלאות הזמן החדשים.
+         </opener>
+	     <p>הסרקוס הגדול המפורסם
+			 הספורטאי הידוע מסטפה אל-האג' עבדה 
+			 מיום שבת 32-6-11 ובמשך עשרה ימים עב 
+			 עד יום 21 לחודש יוני
+			 כאן אלצלטאן אלכביר 
+			 שער הסלסלה 
+			 הליכה על חבל מגובה תשע מטר 
+			 המשתתפים ילדה בת תשע שנים
+			 ילד בן שבע שנים ילך על החבל בלי משקלים
+			 הכניסה 10 מלים 
+			 בכל יום משעה 1 אח"צ עד 5.30 
+			 אתפסידו את ההזדמנות</p> 
+      </body>
+  </text>
+</TEI>

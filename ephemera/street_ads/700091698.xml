@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_minimal.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_minimal.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>אזרחי תל אביב</title>
+                <author>עירית תל אביב</author>
+                <respStmt>
+                    <name>Mandel Scholion Hebrew Revival Research Group</name>
+                    <resp>Transcription of digital file</resp>
+                </respStmt>
+            </titleStmt>
+         <publicationStmt>
+            <authority>JEMH</authority>
+            <availability><licence target="https://creativecommons.org/licenses/by/4.0/">CC-BY 4.0</licence></availability>
+         </publicationStmt>
+            <sourceDesc xml:lang="Hebrew">
+	<msDesc>
+		<msPart>
+			<msIdentifier>
+				<repository>National Library of Israel</repository>
+				<collection>"Time Travel" Ephemera Collection</collection>
+				<idno>700091698</idno>
+			</msIdentifier>
+		</msPart>
+	</msDesc>
+                <bibl>
+                    <date when="1928-11-10"/>
+                    <distributor>אוסף עיריית תל אביב</distributor>
+                    <pubPlace>תל אביב</pubPlace>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+        <revisionDesc>
+            <change>
+                <date>2017-08-09</date>
+                <name>Jerusalem corpus of Emergent Modern Hebrew (JEMH) staff</name>
+                <note>Created the initial version of the content in TEI-XML</note>
+            </change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <head> עירית תל-אביב אזרחי תל-אביב! </head>
+            <p>בכח החלטת המועצה מיום 11.10.28 להתחיב להנהלה הציונית בסכום עד 13.500 לא"י, בתנאי
+                שבסכום זה יפתחו גני הילדים ובתי הספר במספר המאפשר את סדור כל ילדי תל-אביב בגן
+                ובבתי-הספר,קבלה עירית תל-אביב את הסכמת ההנהלה הציונית להתחיל בהרשמת התלמדים
+                לבתי-הספר ולגנים.</p>
+            <p>הרשמת הילדים היא הצעד הראשון לפתיחת בתי הספר אם כי פתיחת בתי הספר תלויה באפשרות
+                העיריה לתת לההנ"הצ בטחונות מספיקים על הסכום שהוא מחוץ לתקציב הרגיל של העיריה. הבטחון
+                העקרי הוא תשלום השליש הראשון של ההתחיבות במזומנים.</p>
+            <p>בהסברת הדברים האלה אנחנו מוסרים את גורל פתיחת בתי-הספר לילדיכם, הורי תל-אביב.</p>
+            <p>בטוחים אנחנו שכמונו כמוכם תדעו להעריך את המצב ולמלא את חובתכם לילדכם.</p>
+            <p>זה 5 ימים שהתחילו הלמודים בכל הארץ בכל הארץ וילדי תל-אביב בטלים מתורה. המצב הזה מטיל
+                חרפה על כלנו ומביא נזק רב לילדים.</p>
+            <p>הורי תל-אביב! אספו את חרפת עירנו ובאו כלכם להערך ולסלק את השליש הראשון של ההערכה.</p>
+            <p>רק בסדר, בעבודה מאומצת ובעזרתכם, הורי תל-אביב, נספיק להעריך את הורי התלמידים במשך 3
+                ימים הראשונים של השבוע ולפתח את בתי הספר ואת גני הילדים לפי החלטת המועצה במשך השבוע
+                הבא.</p>
+            <closer>
+                <signed>עירית תל-אביב</signed>
+            </closer>
+        </body>
+    </text>
+</TEI>

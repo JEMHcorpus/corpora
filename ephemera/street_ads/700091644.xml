@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_minimal.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_minimal.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>מודעה עירונית מספר 97- יום שביתת הנשק</title>
+            <author>עירית תל אביב</author>
+            <respStmt>
+               <name>Mandel Scholion Hebrew Revival Research Group</name>
+               <resp>Transcription of digital file</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <authority>JEMH</authority>
+            <availability><licence target="https://creativecommons.org/licenses/by/4.0/">CC-BY 4.0</licence></availability>
+         </publicationStmt>
+         <sourceDesc xml:lang="Hebrew">
+	<msDesc>
+		<msPart>
+			<msIdentifier>
+				<repository>National Library of Israel</repository>
+				<collection>"Time Travel" Ephemera Collection</collection>
+				<idno>700091644</idno>
+			</msIdentifier>
+		</msPart>
+	</msDesc>
+            <bibl>
+               <date when="1925-11-10"/>
+               <distributor>אוסף עיריית תל אביב</distributor>
+               <pubPlace>תל אביב</pubPlace>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <change>
+            <date>2017-08-09</date>
+            <name>Jerusalem corpus of Emergent Modern Hebrew (JEMH) staff</name>
+            <note>Created the initial version of the content in TEI-XML</note>
+         </change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <head> עירית תל-אביב מודעה עירונית מספר 97 </head>
+         <p> יום שביתת הנשק מחר,11 לנובמבר, הוא יום שביתת הנשק של המלחמה העולמית שנפסקה ב-1918 ביום
+            11-11 עפ"י בקשת ה.מ. הנציב העליון הננו פונים לקהל בבקשה להשתתף בחגיגת היום הזה מחר בשעה
+            11 בדיוק תשמעינה תקיעות ממשרד העיריה, מהסיליקט ומהגימנסיה, וגם השוטרים העומדים בפנות
+            הרחובות ישרקו בשריקות, זה יהיה סמן שכל תנועה וכל עבודה צריכה להפסק במשך 2 רגעים. לזכר
+            החללים אשר נפלו לקרבן בזמן המלחמה העולמית</p>
+         <closer>
+            <signed> עירית תל-אביב </signed>
+            <dateline><date when="1925-11-10">כ'ג חשון תרפ"ו 10-11-25</date></dateline>
+         </closer>
+      </body>
+   </text>
+</TEI>

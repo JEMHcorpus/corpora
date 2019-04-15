@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_minimal.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_minimal.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>לפועלי תל־אביב</title>
+            <author>דוד כנרתי</author>
+            <respStmt>
+               <name>Mandel Scholion Hebrew Revival Research Group</name>
+               <resp>Transcription of digital file</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <authority>JEMH</authority>
+            <availability><licence target="https://creativecommons.org/licenses/by/4.0/">CC-BY 4.0</licence></availability>
+         </publicationStmt>
+         <sourceDesc xml:lang="Hebrew">
+	<msDesc>
+		<msPart>
+			<msIdentifier>
+				<repository>National Library of Israel</repository>
+				<collection>"Time Travel" Ephemera Collection</collection>
+				<idno>700154727</idno>
+			</msIdentifier>
+		</msPart>
+	</msDesc>
+            <bibl>
+               <date when="1934-06-19"></date>
+               <distributor>אוסף פבזנר</distributor>
+			   <pubPlace>תל אביב</pubPlace>
+            </bibl>
+         </sourceDesc>
+            </fileDesc>
+      <revisionDesc>
+         <change>
+            <date>2017-08-09</date>
+            <name>Jerusalem corpus of Emergent Modern Hebrew (JEMH) staff</name>
+            <note>Created the initial version of the content in TEI-XML</note>
+         </change>
+      </revisionDesc>
+  </teiHeader>
+  <text>
+      <body>
+		 <opener> 
+
+		    <salute>לפועלי תל־אביב</salute>
+		 </opener>
+         <p>
+		 אנו מביאים לתשומת לב צבור הפועלים את המכתב שקבלנו מאת
+					דוד כנרתי בעל בית מסחר למנופקטורה 
+					            (תל־אביב, נחלת־בנימין 31)
+					המכתב הובא במלואו מבלי להחסיר בו אף אות. וזה תכנו:
+         </p>
+         <div>
+         <dateline>"<date>14.VI.1934</date>
+         </dateline>
+         <head>
+      				      לכבוד מועצת פועלי יפו
+         </head>
+                            
+            <opener><salute>א.נ.</salute></opener>
+			        <p>זאת לא הפעם הראשונה שהנכם שולחים מכתבים <lb/>
+			           לפקידי ומזמינים אותם לאספות שלכם. הנני להצהיר <lb/> 
+			           בפניכם, כי לאף אחד מפקידי אין ולא תהיה לעולם שום <lb/>
+			           שיכות להסתדרות מלשינים אשר אתם קוראים לה<lb/>  
+					'הסתדרות פועלים'.</p>
+            <p>אבקש איפוא, להפסיק את משלוח מכתביכם. את<lb/>     
+					המכתב הזה אני שולח לכם בהסכמתם המלאה של פקידי.</p>
+			      <closer> 
+				 בברכת השמדת מפלגות הזוהמא האדומה 
+                <signed>
+				דוד כנרתי
+			</signed>
+           <note>P. S. <unclear cert="high" reason="folded">לתשומת</unclear> לבכם: השמשות של חלון הראוה שלי מובטחות באחריות.
+                                                                                                  הנ"ל"</note>			
+		</closer>
+         </div>
+      </body>
+  </text>
+</TEI>

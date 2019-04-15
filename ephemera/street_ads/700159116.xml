@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_minimal.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_minimal.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>הועד לחיזוק הסניגוריה של שלשת הנאשמים ברצח ד"ר ח. ארלוזורוב</title>
+            <author>דניאל סירקיס</author>
+            <respStmt>
+               <name>Mandel Scholion Hebrew Revival Research Group</name>
+               <resp>Transcription of digital file</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <authority>JEMH</authority>
+            <availability><licence target="https://creativecommons.org/licenses/by/4.0/">CC-BY 4.0</licence></availability>
+         </publicationStmt>
+         <sourceDesc xml:lang="Hebrew">
+	<msDesc>
+		<msPart>
+			<msIdentifier>
+				<repository>National Library of Israel</repository>
+				<collection>"Time Travel" Ephemera Collection</collection>
+				<idno>700159116</idno>
+			</msIdentifier>
+		</msPart>
+	</msDesc>
+            <bibl>
+               <date when="1934-04-27"></date>
+               <distributor>אוסף פבזנר</distributor>
+               <pubPlace>תל אביב</pubPlace>
+            </bibl>
+         </sourceDesc>
+            </fileDesc>
+      <revisionDesc>
+         <change>
+            <date>2017-08-09</date>
+            <name>Jerusalem corpus of Emergent Modern Hebrew (JEMH) staff</name>
+            <note>Created the initial version of the content in TEI-XML</note>
+         </change>
+      </revisionDesc>
+  </teiHeader>
+  <text>
+      <body>
+	  	 <head>
+	    הועד לחיזוק הסניגוריה
+		של שלושת הנאשמים ברצח 
+		ד"ר ח. ארלוזורוב. 
+	  	 </head>
+		 <dateline>
+		  <name type="place">תל-אביב</name>,
+		    <date  when="1934-04-27">יב" אייר תרצ"ד (27.4.34)</date>
+		 </dateline>
+         <opener>
+         לכבוד
+		 הסתדרות:___________
+		 ב_____________
+		 
+            <salute>א.נ.</salute>
+         </opener>
+		<p>רצוף בזה הננו מתכבדים להמציא לכב" את הכרוז שהוצא ע"י ראשי הרבנים
+		והישוב העברי בארץ הפונה אל הצבור העברי לבוא לעזרת הסניגוריה	של שלשת 
+		אחינו אסירי ציון. 
+		נא לפרסם את הכרוז הנ"ל.</p> 
+		  <closer> 
+		  בשם הועד לחיזוק הסניגוריה של שלשת 
+		  הנאשמים ברצח ד"ר ח. ארלוזורוב.
+            <signed>
+               החתום:<name type="person">דניאל סירקיס</name>.	
+				 <!-- חתימה -->	
+			</signed> 
+		</closer>
+      </body>
+  </text>
+</TEI>

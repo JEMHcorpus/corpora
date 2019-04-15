@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_minimal.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_minimal.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>בחירות לאספת הנבחרים</title>
+            <author>ועדת הבחירות המחוזית</author>
+            <respStmt>
+               <name>Mandel Scholion Hebrew Revival Research Group</name>
+               <resp>Transcription of digital file</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <authority>JEMH</authority>
+            <availability><licence target="https://creativecommons.org/licenses/by/4.0/">CC-BY 4.0</licence></availability>
+         </publicationStmt>
+         <sourceDesc xml:lang="Hebrew">
+	<msDesc>
+		<msPart>
+			<msIdentifier>
+				<repository>National Library of Israel</repository>
+				<collection>"Time Travel" Ephemera Collection</collection>
+				<idno>700158762</idno>
+			</msIdentifier>
+		</msPart>
+	</msDesc>
+            <bibl>
+               <date when="1920-04-05"></date>
+               <distributor>אוסף פבזנר</distributor>
+               <pubPlace>חיפה</pubPlace>
+            </bibl>
+         </sourceDesc>
+            </fileDesc>
+      <revisionDesc>
+         <change>
+            <date>2017-08-09</date>
+            <name>Jerusalem corpus of Emergent Modern Hebrew (JEMH) staff</name>
+            <note>Created the initial version of the content in TEI-XML</note>
+         </change>
+      </revisionDesc>
+  </teiHeader>
+  <text>
+      <body>
+		 <head>
+       בחירות לאספת הנבחרים 
+               </head>
+			       <p>בזה הננו מודיעים:
+					 א) הבחירות תהיינה ביום ב' א' ר"ח אייר ש"ז.
+					 ב) זכות הבחירה לכל אחד מגיל 20(עשרים) שנה, שגר בארץ ישראל
+					 חצי שנה. 
+					 הערה: להנולים והפליטים זכות הבחירה מיום שובם לארץ.
+					 ג) ועדת הבחירות המקומית תשלח לכל בוחר עד יום ד' כ"ו ניסן ש"ז כרטיס-
+					 בוחר ע'פי רשימת הבוחרים שנתפרסמו במקומות פומביים, ולכן על כל אלה שלא 
+                     נכנסו ברשימה להודיע להועדה (וכן גם אודות כל שנויים) למען יוכלו לקבל את
+					 כרטיס-הבחר בזמנו.
+					 הערה: היות שרשימת הבוחרים צריכה להשלח למרכז ועד הבחירות, הקהל מתבקש להזדרז 
+					 לקבל כרטיס-בוחר עד יום ד' כ"ו ניסן ש"ז, שבו תסגר הרשימה.
+					 ד)לפי מספר הבוחרים לעירנו הרשות להעמיד לכל קבוצה ומפלגה 16
+					 מעמדים. 
+					 ה)זכות להבחר לכל איש מגיל 25 (עשרים וחמש) שנה אחרי ישיבת קבע 
+					 בארץ במשך שנה והיודע עברית (דבור, קריאה וכתיבה).
+					 ו) ועדת הבחירות המקומית פתוחה לעניני הבחירות מ 11.5--10 ומ6--4 אח'הצ.</p> 
+			      <closer> 		
+                  <signed>
+				  ועדת הבחירות המחוזית
+				  (במשרד ועד העדה בחיפה).
+			      </signed>
+			         <dateline><date when="1920-04-05">י"ז ניסן, תר"פ</date>.
+            </dateline>  
+		</closer>
+        </body>
+  </text>
+</TEI>

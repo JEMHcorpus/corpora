@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_minimal.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_minimal.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>מספר ט"ז חברים</title>
+            <author>רשימת בעלי-המשפחה הבלתי-מפלגתיים</author>
+            <respStmt>
+               <name>Mandel Scholion Hebrew Revival Research Group</name>
+               <resp>Transcription of digital file</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <authority>JEMH</authority>
+            <availability><licence target="https://creativecommons.org/licenses/by/4.0/">CC-BY 4.0</licence></availability>
+         </publicationStmt>
+         <sourceDesc xml:lang="Hebrew">
+	<msDesc>
+		<msPart>
+			<msIdentifier>
+				<repository>National Library of Israel</repository>
+				<collection>"Time Travel" Ephemera Collection</collection>
+				<idno>700094151</idno>
+			</msIdentifier>
+		</msPart>
+	</msDesc>
+            <bibl>
+               <date type="Unknown"/>
+               <distributor>אוסף עיריית תל אביב</distributor>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <change>
+            <date>2017-08-09</date>
+            <name>Jerusalem corpus of Emergent Modern Hebrew (JEMH) staff</name>
+            <note>Created the initial version of the content in TEI-XML</note>
+         </change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <head> מספר ט"ז </head>
+         <opener><salute>חברים!</salute></opener>
+         <p>לבעלי המשפחה בהסתדרות אין השקפות ודעות מיוחדות לקראת ועידת ההסתדרות, ואולם יש לנו צרכים
+            מיוחדים שהם סובלים לעתים קרובות יותר מצרכי חברים אחרים, ע"י חוסר הסדר והשטה במוסדות
+            שונים של ההסתדרות.</p>
+         <p>ובהופיענו ברשימה מיוחדת - כונתנו לתת בטוי לדרישותינו להנהיג ולשמור את הסדרים
+            הדרושים.</p>
+         <p>1) בראש המוסדות הלקויים בסדריהם עומדת לשכת העבודה. עלינו לדרוש בכל תוקף שפעולת לשכת
+            העבודה תהיה נתונה מעכשיו בידי באי-כח הצבור לכל שדרותיו ושתנתן האפשרות לבקורת רחבה של
+            פעולותיה.</p>
+         <p>2) דיקנות ואוביקטיביות ברשום החברים בלשכה ובחלוקת העבודה, וביחוד התחשבות במצבם המשפחתי
+            <!-- במקור המשפהי--> של הפועלים. אלו הם בבחינת הכרח ראשון לתקנת לשכת העבודה.</p>
+         <p>3) בחירות יחסיות להנהלת לשכת העבודה, לועדי האגודות המקצועיות ולשאר המוסדות תבטחנה את
+            השתתפות כל חלקי צבור הפועלים בפעולת- הסתדרות.</p>
+         <p>4) הנהגת סדרים נכונים במוסדות המשקיים כמו ."סולל-בונה" ו"המשביר" - תביא הקלה גדולה במצב
+            הפועלים בכלל, ובעלי המשפחה בפרט. יש הכרח להתאים את המוסדות לתפקידיהם העיקריים - לשמש
+            לצרכי הצבור - ולדאג בראש ובראשונה לסדור נורמלי של תשלומי העבודה.</p>
+         <p>5)בנק הפועלים נדרש להביא תקונים בדרכי פעולתו בכוון זה שגם פועלים בודדים וביחוד בעלי
+            משפחה יוכלו להעזר בעבודתם בהלואות של בנק הפועלים.</p>
+         <p>6) עבודת התרבות של ההסתדרות לא היתה מכוונת כלל להרמת המצב התרבותי של החונים הרחבים של
+            בעלי המשפחה, גם דבר זה דורש תקון יסודי.</p>
+         <p>חברים! בשעת בירור הענינים השונים בועידה, תעלינה עוד כמה וכמה שאלות הנוגעות ביותר אלינו:
+            עלינו בעלי המשפחה להגדיל את מספר צירינו לועידה למען יעמדו על המשמר צרכינו.</p>
+         <closer> הצביעו בעד רשימת בעלי-המשפחה הבלתי-מפלגתיים!! </closer>
+      </body>
+   </text>
+</TEI>

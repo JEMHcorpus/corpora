@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_minimal.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_minimal.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>ילדי ישראל!-היו נאמנים לפרי עמלם של הכורמים העברים</title>
+            <author>האגוד למען תוצרת הארץ, המחלקה החקלאית</author>
+            <respStmt>
+               <name>Mandel Scholion Hebrew Revival Research Group</name>
+               <resp>Transcription of digital file</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <authority>JEMH</authority>
+            <availability><licence target="https://creativecommons.org/licenses/by/4.0/">CC-BY 4.0</licence></availability>
+         </publicationStmt>
+         <sourceDesc xml:lang="Hebrew">
+	<msDesc>
+		<msPart>
+			<msIdentifier>
+				<repository>National Library of Israel</repository>
+				<collection>"Time Travel" Ephemera Collection</collection>
+				<idno>700119662</idno>
+			</msIdentifier>
+		</msPart>
+	</msDesc>
+            <bibl>
+               <date when="1937-06-29"/>
+               <distributor>אוסף האפמרה- הספרייה הלאומית</distributor>
+               <pubPlace>חיפה</pubPlace>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <change>
+            <date>2017-08-09</date>
+            <name>Jerusalem corpus of Emergent Modern Hebrew (JEMH) staff</name>
+            <note>Created the initial version of the content in TEI-XML</note>
+         </change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <opener>
+            <salute> אל ילדי ישראל! </salute>
+         </opener>
+         <p>20 ימי הענבים החלו<lb/> וימשכו<lb/> מי"א תמוז עד א' אב [20.6-9.7]<lb/> במשך הזמן הזה אל
+            תאכלו פרי<lb/> אחר זולת הענבים של משקינו!</p>
+
+         <p> ילד, ילדה!</p>
+
+         <p> דרשו מאת הוריכם להעלות על השלחן<lb/> את פרי הגפן העברי, המזין והמבריא!<lb/> היו נאמנים
+            לפרי עמלם של<lb/> הכורמים העברים! </p>
+         <closer>
+            <signed> האגוד למען תוצרת הארץ<lb/> המחלקה החקלאית </signed>
+            <dateline>
+               <name type="place">חיפה</name>
+               <date when="1937-06-29">29.6.1937</date>
+            </dateline> דפוס מ. סוכובולסקי, חיפה </closer>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_minimal.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_minimal.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>קלפי- לבחירת ועד העיר למקהלות האשכנזים</title>
+            <author>Unknown</author>
+            <respStmt>
+               <name>Mandel Scholion Hebrew Revival Research Group</name>
+               <resp>Transcription of digital file</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <authority>JEMH</authority>
+            <availability><licence target="https://creativecommons.org/licenses/by/4.0/">CC-BY 4.0</licence></availability>
+         </publicationStmt>
+         <sourceDesc xml:lang="Hebrew">
+	<msDesc>
+		<msPart>
+			<msIdentifier>
+				<repository>National Library of Israel</repository>
+				<collection>"Time Travel" Ephemera Collection</collection>
+				<idno>700158718</idno>
+			</msIdentifier>
+		</msPart>
+	</msDesc>
+            <bibl>
+               <date when="1897-12"></date>
+               <distributor>אוסף פבזנר</distributor>
+            </bibl>
+         </sourceDesc>
+            </fileDesc>
+      <revisionDesc>
+         <change>
+            <date>2017-08-09</date>
+            <name>Jerusalem corpus of Emergent Modern Hebrew (JEMH) staff</name>
+            <note>Created the initial version of the content in TEI-XML</note>
+         </change>
+      </revisionDesc>
+  </teiHeader>
+  <text>
+      <body>
+	      <head>
+             ב"ה.      
+	         </head>
+         <dateline><date when="1897-12">בחדש טבת תרנ"ח לפ"ק</date></dateline> 
+         <head>
+        			 קלפי
+			   לבחירת ועד העיר למקהלות האשכנזים, וביחוד
+			   בדברים הנוגעים אל הרשות, על שתי שנים.   
+         </head>
+         <p>הרי לפניכם קהלת עדת קדשנו הי"ו הרשימה מהאנשים הראוים להבחר על פי חות דעת
+             מאסיפת רוב חכמי ורבני עירנו ועל פי הסכמת רבנינו הגאונים הי"ו.</p>
+		       <p>על כל איש מעדתנו הק' אשר יקבל הרשימה הזאת לרשום י"א סמנים כזה: 0 על יד שמות
+			י"א האנשים אשר יבחר בהם. ומה טוב כי ישים לב שהנבחרים יהיו מכוללים נפרדים, והי' בגמר
+			הבחירה תפתח הקלפי בבד"צ ובמעמד חשובי העיר, ועל פי רוב יקום דבר.</p>
+			   <p>דר אברהם יעקב שובאצקי                     'ר יצחק צבי ריבלין			   
+			      'ר אברהם מינצבערג                         'ר ישכר לייביגזאהן
+				  'ר אברהם אלקנה זאקס                       'ר ליב הורוויץ
+				  'ר אהרן העשיל שו"ב                        'ר מאיר מייזל
+				  'ר אלעזר הכהן שפירא                       'ר מענדיל רובין
+				  יר אלעזר היילפערן                         'ר מיכאל ברוך רייזעם
+				  'ר אלימלך פערלמאן                         'ר מרדכי שלאנק
+				  יר ארי' ליב בה'ר אלימלך דוב               'ר משה וויטענבערך
+				  'ר אשר קאלמעגאיו                          'ר משה עקשטיין
+				  'ר בנימין בערנשטיין                       'ר משה צבי לעוועגזאן
+				  'ר בייניש סלאנט                           'ר משה יצחק גאלדשמיט
+				  'ר דוד פיינשטיין                          'ר נטע צבי האמכזרגער
+				  'ר זלמן בהר"ג לעוזי                       'ר נתנאל לוריא
+				  'ר חיים זאנעגפעלד                         'ר פייביל יאקאבזאהן
+				  'ר יודא בלומענפעלד                        'ר פייביל הויסמאן
+				  'ר יואל משה סאלאמאן                       'ר שמעון אלעזר כהנא
+				  'ר יעקב בלומענטאחה                        'ר שמואל בער אש
+				  'ר יעקב רייפמאן                           'ר שלמה זלמן פרוש
+				  'ר יעקב מן מרעזיצע
+				                                                               </p>
+      </body>
+  </text>
+</TEI>

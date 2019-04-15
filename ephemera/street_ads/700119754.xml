@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_minimal.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_minimal.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>פועל הבנין- שמור על עקרון התוצרת העברית</title>
+            <author>אגוד למען תוצרת הארץ</author>
+            <respStmt>
+               <name>Mandel Scholion Hebrew Revival Research Group</name>
+               <resp>Transcription of digital file</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <authority>JEMH</authority>
+            <availability><licence target="https://creativecommons.org/licenses/by/4.0/">CC-BY 4.0</licence></availability>
+         </publicationStmt>
+         <sourceDesc xml:lang="Hebrew">
+	<msDesc>
+		<msPart>
+			<msIdentifier>
+				<repository>National Library of Israel</repository>
+				<collection>"Time Travel" Ephemera Collection</collection>
+				<idno>700119754</idno>
+			</msIdentifier>
+		</msPart>
+	</msDesc>
+            <bibl>
+               <date when="1934-08-30"></date>
+               <distributor>אוסף האמפמרה- הספרייה הלאומית</distributor>
+               <pubPlace>יפו</pubPlace>
+            </bibl>
+         </sourceDesc>
+            </fileDesc>
+      <revisionDesc>
+         <change>
+            <date>2017-08-09</date>
+            <name>Jerusalem corpus of Emergent Modern Hebrew (JEMH) staff</name>
+            <note>Created the initial version of the content in TEI-XML</note>
+         </change>
+      </revisionDesc>
+  </teiHeader>
+  <text>
+      <body>
+	      <opener>פועל הבנין!</opener>
+                  <p>מי כמוך יודע ומעריך את חשיבותה של 
+				                           תוצרת הארץ.</p>
+										   
+				  <p>תוצרת הארץ זהו אחד היסודות העקריים
+				               לקיומו ולהשתרשותו של הפועל 
+							   העברי. מצות תוצרת הארץ חובה
+							   היא על כל הישוב וביחוד עליך, 
+							   הבונה והנבנה בארץ הזאת.</p> 
+							   
+                  <p>כמה מסוחרי הברזל ומתכת בתל-אביב אינם סוברים
+				   כך. האדונים האלה הודיעו שהם "מצפצפים" על
+				   תוצרת עברית.</p> 
+				   
+				  <p>קיים כאן ביח"ר עברי יחידי לתעשית דליים "דלי" 
+				   אך הסוחרים הללו אינם רוצים בשום אופן להפיץ 
+				   את הדלי העברי בשוק. מחסניהם מוצפים דליים 
+				   מתוצרת חוץ, ומה להם הדרישה הלאומית שלנו,
+				   ומה להם כל עתידנו?</p>
+				   
+				  <p>פועל הבנין. למד אף אתה לדבר עם האדונים
+				                 הללו בלשונם. אף אתה "צפצף"
+							     על סחורותיהם.</p> 
+				 
+				  <p>זכור תמיד: 
+				   היד רק בדלי עברי תחזיק!</p> 
+				   
+				  <p>דרוש מהקבלן ומבעל הבנין: 
+				   דלי עברי מתוצרת הארץ עם סמל בית-החרשת "דלי"! 
+				   פועל הבנין, גם בנין גדול נבנה מלבנים בודדות.</p>
+				       
+					                 <p>אתה יודע 
+								   שגם אתה את בנין עתידנו אנו 
+								   בונים טפחים, טפחים.</p>
+				   
+				   <p>שמור על הטפח! פועל! 
+				   שמור על עקרון התוצרת העברית!</p>
+                   <closer>  
+         	  <signed>
+			 אגוד למען תוצרת הארץ.
+			</signed> 
+			דפוס מ. שהם יפו
+                               <!-- קטע לא ברור-->
+		</closer>
+      </body>
+  </text>
+</TEI>
