@@ -1,0 +1,228 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>אכן, חציר העם (пер. В. Жаботинского)</title>
+            <author>חיים נחמן ביאליק</author>
+            <respStmt>
+               <name>Mandel Scholion Hebrew Revival Research Group</name>
+               <resp>Formatting of content from the Ben-Yehuda Project to TEI-XML according to the TEI P5 Guidelines.
+                  Addition of dates, not present in the online version, by Shira Wigderson, Asaf Isser, Adi Cohen, Nitzan Cohen, and Adi Cohen.
+               </resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <authority>Project Ben-Yehuda</authority>
+            <idno>http://benyehuda.org/bialik/ru_bia024.html</idno>
+         </publicationStmt>
+         <sourceDesc xml:lang="Hebrew">
+            <bibl>
+               <date when="1897" notBefore="1897-01-01" notAfter="1897-12-31"/>
+            </bibl>
+            <p>The Ben-Yehuda Project (http://benyehuda.org/). Content provided within the Ben-Yehuda Hackathon at the University of Haifa (THATCamp Haifa, February 2014).</p>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <change>
+            <date>2018-11-01</date>
+            <name>Omer Waldman</name>
+            <note>Correction of previously annotated dates and addition of dates to majority of the works</note>
+         </change>
+         <change>
+            <date>2017-08-09</date>
+            <name>Jerusalem corpus of Emergent Modern Hebrew (JEMH) staff</name>
+            <note>Created the initial version of the content in TEI-XML and added dates (some based on estimation)</note>
+         </change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+
+
+
+
+
+
+
+אכן, חציר העם (пер. В. Жаботинского)
+
+
+
+
+
+
+
+
+אכן, חציר
+העם
+
+(пер. В. Жаботинского)
+
+לרשימת התרגומים
+
+Как сухая трава, как
+поверженный дуб,
+
+Так погиб мой народ –
+истлевающий труп.
+
+Прогремел для него Божий голос
+с высот –
+
+И не внял, и не встал, и не
+дрогнул народ,
+
+Не проснулся в нём лев, не
+воскрес исполин, 
+
+И не вспрянул в ответ ни один,
+ни один...
+
+И когда, живы духом, из дальней
+земли
+
+На Господний призыв ваши братья
+пришли –
+
+Не сбежался навстречу борцам у
+ворот
+
+Весь, от моря до моря, ликуя,
+народ,
+
+И для верных своих не нашлось у
+него
+
+Ни пожатья руки, ни кивка,
+ничего...
+
+В шумной давке глупцов пред
+чужим алтарём
+
+Утонул Божий голос, заглох Его
+гром,
+
+И, поруган плевками холопских
+потех,
+
+Замер Божий глагол под
+раскатистый смех...
+
+ 
+
+Так истлел мой народ, стал, как
+жалкая пыль
+
+Обнищал, и иссох, и рассыпался
+в гниль;
+
+Не родится меж вами, в день
+кары большой,
+
+Муж деяний и жизни, с великой
+душой,
+
+Чей огонь проникал бы, как
+молния, в грудь,
+
+И глаза, как звезда, озарили
+ваш путь, –
+
+Рыцарь прады и грёзы и дерзкой
+борьбы,
+
+С беззаветной враждой против
+рабьей судьбы –
+
+И с великой, как скорбь, и
+огромной, как срам,
+
+И, как море, бездонною жалостью
+к вам, –
+
+Чтоб ярилась, бушуя, в нём буря
+Любви,
+
+И клубился пожар ненасытный в
+крови,
+
+И над вами гремел его голос
+сквозь тьму:
+
+Подымись! Созидай! –
+
+                                             
+Не родиться ему...
+
+ 
+
+Так погиб мой народ... Срама
+жаждет он сам.
+
+Нет опоы стопе, нет мерила
+делам.
+
+Сбились люди с дороги, устали
+бродить,
+
+И пропала в веках путеводная
+нить.
+
+Рождены под бичом и бичом
+вскормлены,
+
+Что им стыд, что им боль, кроме
+боли спины?
+
+В чёрной яме чужбин копошася на
+дне
+
+Воспарит ли душа над заботой о
+дне,
+
+Возвестит ли рассвет, возведёт
+ли престол,
+
+Завещает ли веку великий
+глагол?
+
+Раб уснул, и отвык пробуждаться
+на клич,
+
+Подымают его только палка и
+бич.
+
+Мох на камне руин, лист увядший
+в лесу –
+
+Не расцвесть им вовек, не зови
+к ним росу.
+
+Даже в утро Борьбы, под
+раскатами труб,
+
+Не проснётся мертвец, и не
+сдвинется труп...
+
+ 
+
+1897
+
+לרשימת
+התרגומים
+
+
+
+ 
+
+
+
+
+
+  
+
+
+</body>
+   </text>
+</TEI>

@@ -1,0 +1,259 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>לנאמנים לשבועה</title>
+            <author>אברהם שטרן ("יאיר")</author>
+            <respStmt>
+               <name>Mandel Scholion Hebrew Revival Research Group</name>
+               <resp>Formatting of content from the Ben-Yehuda Project to TEI-XML according to the TEI P5 Guidelines.
+                  Addition of dates, not present in the online version, by Shira Wigderson, Asaf Isser, Adi Cohen, Nitzan Cohen, and Adi Cohen.
+               </resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <authority>Project Ben-Yehuda</authority>
+            <idno>http://benyehuda.org/stern_avraham/reshimot01.html</idno>
+         </publicationStmt>
+         <sourceDesc xml:lang="Hebrew">
+            <bibl>
+               <date when="1937" notBefore="1937-01-01" notAfter="1937-12-31"/>
+            </bibl>
+            <p>The Ben-Yehuda Project (http://benyehuda.org/). Content provided within the Ben-Yehuda Hackathon at the University of Haifa (THATCamp Haifa, February 2014).</p>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <change>
+            <date>2018-11-01</date>
+            <name>Omer Waldman</name>
+            <note>Correction of previously annotated dates and addition of dates to majority of the works</note>
+         </change>
+         <change>
+            <date>2017-08-09</date>
+            <name>Jerusalem corpus of Emergent Modern Hebrew (JEMH) staff</name>
+            <note>Created the initial version of the content in TEI-XML and added dates (some based on estimation)</note>
+         </change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+
+
+
+
+
+
+
+לנאמנים
+לשבועה /
+אברהם שטרן
+("יאיר")
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+לנאמנים
+לשבועה![1]
+
+אברהם
+שטרן ("יאיר")
+
+
+
+ 
+
+
+
+
+ 
+  
+  הרעיון
+  והמטרה של
+  האצ"ל בא"י
+  שלשמה נוצר
+  היא האמונה
+  שהמדינה
+  העברית לא
+  תוכל לקום
+  בלי להשען על
+  גוף צבאי
+  לאומי בלתי
+  תלוי.  הסוכנות
+  מקוה עכשיו
+  לקבל אשור
+  לפעולה
+  חפשית לאלה
+  העומדים תחת
+  פקודתה
+  תמורת
+  השתעבדות לשלטון
+  הזר והכנעה
+  לתכניות של
+  הקנטוניזציה
+  של הארץ. 
+  על האצ"ל
+  בא"י הוטל
+  להיות הכח הממשי
+  היחידי
+  שיצטרך
+  ושיוכל
+  להלחם
+  לתקומתה של האומה
+  העברית בא"י
+  נגד המזימות
+  של האויב
+  החצוני
+  וההכנעה של
+  אלה המוכנים
+  לבגוד
+  מבפנים. 
+  האצ"ל בא"י
+  הועמד לאור
+  המציאות
+  הפוליטית לפני
+  ההכרעה בין
+  הכנעות
+  למרותן של
+  הממשלה והסוכנות
+  לבין נכונות
+  להקרבה
+  כפולה
+  והסתכנות כפולה.  חלק
+  מחברינו לא
+  נמצאה בם
+  הנכונות הדרושה
+  לתפקיד קשה
+  זה, נכנע
+  לסוכנות ועזב
+  את המערכה.  החלק
+  הגדול
+  והנאמן ממשיך
+  בדרך שהתוה
+  האצ"ל בא"י
+  מיום הוסדו
+  עד הנה. 
+  כל
+  הנסיונות
+  שנעשו ע"י
+  המ-דה הקודמת
+  של האצ"ל בא"י
+  במשך שנות
+  קיומו של הא.
+  לבוא לידי אחוד
+  עם הארגון
+  השמאלי
+  נכשלו, מפני
+  שהשמאל נכנס
+  למו"מ זה לא
+  על בסיס של
+  ליכוד הכחות,
+  אלא הכנעת כח
+  אחד בפני
+  השני.  עמדתו
+  של האצ"ל בא"י
+  תחת מרותה של
+  הסוכנות שהשמאל
+  הוא בה שליט
+  יחיד פרושו
+  הוא חסול
+  ארגוננו.  כיום
+  קיימים בארץ
+  שני ארגונים:
+  אחד שמאלי
+  כפוף למרות
+  השמאל,
+  שלצערנו
+  הגדול הצטרף
+  אליו חלק מאנשינו;
+  והשני הוא
+  האצ"ל בא"י
+  והוא ממשיך
+  בתפקידו
+  להלחם על כבודה
+  וחייה של
+  האומה
+  בתחיתה. אנו
+  מאמינים
+  ביעודה של
+  התנועה
+  ובכוחה
+  להקים מחדש
+  את חיי
+  העצמאות
+  השלמה
+  בגבולות
+  ההיסטוריים
+  של המדינה
+  העברית. 
+  אנו
+  מאמינים
+  בנכונות
+  הקרב
+  וההקרבה של
+  נוער ישראל
+  שהציב לו
+  למטרת חיים
+  את עצמו
+  ועצמאותו של
+  גרעין הכוח
+  העברי.
+  חיילים
+  אלמונים!  גרעין
+  הכח העברי
+  עומד נכון
+  לכל צו ולכל
+  קרבן.  "משורה
+  משחרר רק
+  המות!" 
+   
+  תל-אביב,
+  23
+  לאפריל, 1937.
+  
+ 
+
+
+
+
+ 
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+[1] (ההודעה
+על הקמת האצ"ל)
+
+
+
+
+
+
+
+
+</body>
+   </text>
+</TEI>

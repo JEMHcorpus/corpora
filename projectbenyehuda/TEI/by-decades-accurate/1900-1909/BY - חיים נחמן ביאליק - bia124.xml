@@ -1,0 +1,218 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>שבת המלכה</title>
+            <author>חיים נחמן ביאליק</author>
+            <respStmt>
+               <name>Mandel Scholion Hebrew Revival Research Group</name>
+               <resp>Formatting of content from the Ben-Yehuda Project to TEI-XML according to the TEI P5 Guidelines.
+                  Addition of dates, not present in the online version, by Shira Wigderson, Asaf Isser, Adi Cohen, Nitzan Cohen, and Adi Cohen.
+               </resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <authority>Project Ben-Yehuda</authority>
+            <idno>http://benyehuda.org/bialik/bia124.html</idno>
+         </publicationStmt>
+         <sourceDesc xml:lang="Hebrew">
+            <bibl>
+               <date when="1903" notBefore="1903-01-01" notAfter="1903-12-31"/>
+            </bibl>
+            <p>The Ben-Yehuda Project (http://benyehuda.org/). Content provided within the Ben-Yehuda Hackathon at the University of Haifa (THATCamp Haifa, February 2014).</p>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <change>
+            <date>2018-11-01</date>
+            <name>Omer Waldman</name>
+            <note>Correction of previously annotated dates and addition of dates to majority of the works</note>
+         </change>
+         <change>
+            <date>2017-08-09</date>
+            <name>Jerusalem corpus of Emergent Modern Hebrew (JEMH) staff</name>
+            <note>Created the initial version of the content in TEI-XML and added dates (some based on estimation)</note>
+         </change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+
+
+
+
+
+
+
+שבת המלכה / חיים נחמן ביאליק
+
+
+
+
+
+
+
+
+
+
+
+
+שבת
+המלכה
+
+ 
+
+החמה
+מראש
+האילנות
+נסתלקה
+–
+
+באו
+ונצא
+לקראת
+שבת
+המלכה.
+
+הנה
+היא
+יורדת
+הקדושה,
+הברוכה,
+
+ועמה
+מלאכים
+צבא
+שלום ומנוחה.
+
+               באי,
+באי,
+המלכה!
+
+               באי,
+באי, המלכה!
+–
+
+שלום
+עליכם,
+מלאכי
+השלום!
+
+ 
+
+קבלנו
+פני
+שבת
+ברננה
+ותפלה,
+
+הביתה
+נשובה,
+בלב מלא
+גילה.
+
+שם
+ערוך
+השלחן,
+הנרות
+יאירו,
+
+כל-פנות
+הבית
+יזרחו,
+יזהירו.
+
+               שבת
+שלום
+ומברך!
+
+               שבת
+שלום
+ומברך!
+
+באכם
+לשלום,
+מלאכי
+השלום!
+
+ 
+
+שבי,
+זכה,
+עמנו
+ובזיוך
+נא אורי
+
+לילה
+ויום, אחר
+תעברי.
+
+ואנחנו
+נכבדך
+בבגדי
+חמודות,
+
+בזמירות
+ותפלות
+ובשלש
+סעדות.
+
+               ובמנוחה
+שלמה,
+
+               ובמנוחה
+נעמה –
+
+ברכונו
+לשלום,
+מלאכי
+השלום!
+
+ 
+
+החמה
+מראש
+האילנות
+נסתלקה
+–
+
+באו
+ונלוה
+את-שבת
+המלכה.
+
+צאתך
+לשלום,
+הקדושה,
+הזכה –
+
+דעי,
+ששת
+ימים אל
+שובך
+נחכה...
+
+               כן
+לשבת
+הבאה!
+
+               כן
+לשבת
+הבאה!
+
+צאתכם
+לשלום,
+מלאכי
+השלום!
+
+
+
+
+
+  
+
+
+</body>
+   </text>
+</TEI>

@@ -1,0 +1,181 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>הלילה</title>
+            <author>מרדכי צבי מאנה</author>
+            <respStmt>
+               <name>Mandel Scholion Hebrew Revival Research Group</name>
+               <resp>Formatting of content from the Ben-Yehuda Project to TEI-XML according to the TEI P5 Guidelines.
+                  Addition of dates, not present in the online version, by Shira Wigderson, Asaf Isser, Adi Cohen, Nitzan Cohen, and Adi Cohen.
+               </resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <authority>Project Ben-Yehuda</authority>
+            <idno>http://benyehuda.org/maneh/012.html</idno>
+         </publicationStmt>
+         <sourceDesc xml:lang="Hebrew">
+            <bibl>
+               <date when="1880" notBefore="1880-01-01" notAfter="1880-12-31"/>
+            </bibl>
+            <p>The Ben-Yehuda Project (http://benyehuda.org/). Content provided within the Ben-Yehuda Hackathon at the University of Haifa (THATCamp Haifa, February 2014).</p>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <change>
+            <date>2018-11-01</date>
+            <name>Omer Waldman</name>
+            <note>Correction of previously annotated dates and addition of dates to majority of the works</note>
+         </change>
+         <change>
+            <date>2017-08-09</date>
+            <name>Jerusalem corpus of Emergent Modern Hebrew (JEMH) staff</name>
+            <note>Created the initial version of the content in TEI-XML and added dates (some based on estimation)</note>
+         </change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+
+
+
+
+
+
+
+הלילה / מרדכי צבי מאנה
+
+
+
+
+
+
+
+
+הלילה
+
+מרדכי
+צבי מאנה
+
+(שלישיה)
+
+ 
+
+1. 
+
+עבר יום, 
+
+שמש דום!
+
+אדם עב,
+
+סהר שב,
+
+חשכת צל
+
+כסתה כל.
+
+ 
+
+2.
+
+רוח צח,
+
+בכנפו יך;
+
+אל כל חי
+
+יוביל שי:
+
+ריח מור,
+
+נעם קר.
+
+
+
+
+3.
+
+יער שם
+
+שנתו נם,
+
+רוח אט
+
+סעיפיו יט,
+
+כל קול נס,
+
+השלך הס!
+
+ 
+
+4.
+
+יישן הר,
+
+ינום כר
+
+נדמה עץ,
+
+נאלם בץ,
+
+ושדות ניר
+
+חדלו שיר.
+
+ 
+
+5.
+
+על קש גל 
+
+שוכב דל;
+
+על רך כר
+
+הוזה שר;
+
+נחו חיש
+
+כל בני איש!
+
+ 
+
+6.
+
+לבי אך
+
+יפעם, יך;
+
+סער הו
+
+איום בו!
+
+רוחי חת,
+
+אין לי שנת!
+
+ 
+
+אלול, תר"ם,
+עיר מולדתי.
+
+ 
+
+
+
+
+
+ 
+
+
+
+
+
+
+</body>
+   </text>
+</TEI>

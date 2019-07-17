@@ -1,0 +1,195 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>גדוד בעיר</title>
+            <author>חיים נחמן ביאליק</author>
+            <respStmt>
+               <name>Mandel Scholion Hebrew Revival Research Group</name>
+               <resp>Formatting of content from the Ben-Yehuda Project to TEI-XML according to the TEI P5 Guidelines.
+                  Addition of dates, not present in the online version, by Shira Wigderson, Asaf Isser, Adi Cohen, Nitzan Cohen, and Adi Cohen.
+               </resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <authority>Project Ben-Yehuda</authority>
+            <idno>http://benyehuda.org/bialik/bia_chds44.html</idno>
+         </publicationStmt>
+         <sourceDesc xml:lang="Hebrew">
+            <bibl>
+               <date when="1903" notBefore="1903-01-01" notAfter="1903-12-31"/>
+            </bibl>
+            <p>The Ben-Yehuda Project (http://benyehuda.org/). Content provided within the Ben-Yehuda Hackathon at the University of Haifa (THATCamp Haifa, February 2014).</p>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <change>
+            <date>2018-11-01</date>
+            <name>Omer Waldman</name>
+            <note>Correction of previously annotated dates and addition of dates to majority of the works</note>
+         </change>
+         <change>
+            <date>2017-08-09</date>
+            <name>Jerusalem corpus of Emergent Modern Hebrew (JEMH) staff</name>
+            <note>Created the initial version of the content in TEI-XML and added dates (some based on estimation)</note>
+         </change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+
+
+
+
+
+
+
+גדוד בעיר / חיים נחמן ביאליק
+
+
+
+
+
+
+
+
+גדוד בעיר
+
+ 
+
+כל הרחובות
+אז רעמו,
+
+כל המבואות
+המו, המו
+
+עת שבא
+
+חיל צבא
+
+בראשונה אל
+העיר.
+
+אנשי חיל, פקידים,
+סגנים,
+
+זקופי קומה ומזינים,
+
+ובראשם
+
+עוברים שם
+
+נוגנים רבים
+עם כלי שיר.
+
+בחצוצרה:
+
+תרו-ר-רה!
+
+בחליל:
+
+לי-לי-ליל!
+
+ובתף –  קול עז, קול רם:
+
+ת-ר-רם!!!
+
+ 
+
+רב עם תלמיד,
+אם על בנים,
+
+רצען, חיט,
+החנונים,
+
+יצאו ראות
+
+מראה זאת,
+
+לא נראתה עוד
+בעיר.
+
+עם התער יצא
+גלב,
+
+אף השוחט עם
+החלף,
+
+נשים, טף
+
+מחאו כף
+
+לקול הנוגנים
+בכלי שיר.
+
+החצוצרה:
+
+תרו-ר-רה!
+
+החליל:
+
+לי-לי-ליל!
+
+והתף –  קול עז, קול רם:
+
+ת-ר-רם!!!
+
+ 
+
+כל המגרש
+המה, המה.
+
+חרדה, רגזה
+האדמה,
+
+עת בסך
+
+בקול
+"האח"!
+
+יצאו גדודים
+מן העיר.
+
+צלצל חרבות,
+ברק כידונים,
+
+שירת חיל רבת
+אונים.
+
+ובעלות
+
+תרועת עז
+
+פצחו נוגנים
+בכלי שיר.
+
+החצוצרה:
+
+תרו-ר-רה!
+
+החליל:
+
+לי-לי-ליל!
+
+והתף –  קול עז, קול רם:
+
+ת-ר-רם!!!
+
+ 
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+</body>
+   </text>
+</TEI>

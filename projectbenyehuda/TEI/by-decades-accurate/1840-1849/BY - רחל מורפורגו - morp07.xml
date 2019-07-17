@@ -1,0 +1,126 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>כדי לזכות את הרבים אקרא אלה הדברים: אליכם אישים אקרא</title>
+            <author>רחל מורפורגו</author>
+            <respStmt>
+               <name>Mandel Scholion Hebrew Revival Research Group</name>
+               <resp>Formatting of content from the Ben-Yehuda Project to TEI-XML according to the TEI P5 Guidelines.
+                  Addition of dates, not present in the online version, by Shira Wigderson, Asaf Isser, Adi Cohen, Nitzan Cohen, and Adi Cohen.
+               </resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <authority>Project Ben-Yehuda</authority>
+            <idno>http://benyehuda.org/morpurgo/morp07.html</idno>
+         </publicationStmt>
+         <sourceDesc xml:lang="Hebrew">
+            <bibl>
+               <date when="1847" notBefore="1847-01-01" notAfter="1847-12-31"/>
+            </bibl>
+            <p>The Ben-Yehuda Project (http://benyehuda.org/). Content provided within the Ben-Yehuda Hackathon at the University of Haifa (THATCamp Haifa, February 2014).</p>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <change>
+            <date>2018-11-01</date>
+            <name>Omer Waldman</name>
+            <note>Correction of previously annotated dates and addition of dates to majority of the works</note>
+         </change>
+         <change>
+            <date>2017-08-09</date>
+            <name>Jerusalem corpus of Emergent Modern Hebrew (JEMH) staff</name>
+            <note>Created the initial version of the content in TEI-XML and added dates (some based on estimation)</note>
+         </change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+
+
+
+
+
+
+
+כדי לזכות את הרבים אקרא אלה הדברים: אליכם אישים אקרא: / רחל מורפורגו
+
+
+
+
+
+
+
+
+
+
+
+כדי לזכות את הרבים
+אקרא אלה הדברים אליכם אישים אקרא
+
+ 
+
+דרשו תורת
+אל חי, כי בה מרגוע
+
+     תמצא נפש
+עיף, נוטה לגוע,
+
+     בה יתנשא
+שפל, אוהב לשמע
+
+     רזי מפעלות אל,
+בשמי שמים.
+
+ 
+
+סובל חרפת
+אנוש, ארך-אפים,
+
+     יזהיר עם אור
+תורה, אור שבעתים,
+
+     צורר עם רום
+לבו, יכאה עינים,
+
+     בראות נמאס
+נבזה, ידאה כנשר.
+
+ 
+
+כושל
+בעונו, עובר על גשר
+
+     רעוע, מתמוטט, דואג לשוח,
+
+     תתמך יד
+הנפל, ידע פשר.
+
+ 
+
+ויצא יצחק,
+בשדה לשוח,
+
+     ישיב אל אל
+רוחו, נפשו תנוח,
+
+     בין צדיקי
+עולם, לו ידות עשר.
+
+ 
+
+י"ד
+אלול התר"ז "רחל מורפורגו" בלב נשבר חנדכה
+
+
+
+
+
+
+
+
+</body>
+   </text>
+</TEI>

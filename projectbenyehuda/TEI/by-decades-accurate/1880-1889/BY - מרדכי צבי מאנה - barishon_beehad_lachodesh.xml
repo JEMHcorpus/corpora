@@ -1,0 +1,137 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>בראשון באחד לחדש</title>
+            <author>מרדכי צבי מאנה</author>
+            <respStmt>
+               <name>Mandel Scholion Hebrew Revival Research Group</name>
+               <resp>Formatting of content from the Ben-Yehuda Project to TEI-XML according to the TEI P5 Guidelines.
+                  Addition of dates, not present in the online version, by Shira Wigderson, Asaf Isser, Adi Cohen, Nitzan Cohen, and Adi Cohen.
+               </resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <authority>Project Ben-Yehuda</authority>
+            <idno>http://benyehuda.org/maneh/barishon_beehad_lachodesh.html</idno>
+         </publicationStmt>
+         <sourceDesc xml:lang="Hebrew">
+            <bibl>
+               <date when="1885" notBefore="1885-01-01" notAfter="1885-12-31"/>
+            </bibl>
+            <p>The Ben-Yehuda Project (http://benyehuda.org/). Content provided within the Ben-Yehuda Hackathon at the University of Haifa (THATCamp Haifa, February 2014).</p>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <change>
+            <date>2018-11-01</date>
+            <name>Omer Waldman</name>
+            <note>Correction of previously annotated dates and addition of dates to majority of the works</note>
+         </change>
+         <change>
+            <date>2017-08-09</date>
+            <name>Jerusalem corpus of Emergent Modern Hebrew (JEMH) staff</name>
+            <note>Created the initial version of the content in TEI-XML and added dates (some based on estimation)</note>
+         </change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+
+
+
+
+
+
+
+בראשון באחד לחדש / מרדכי צבי מאנה
+
+
+
+ 
+
+
+
+
+  
+  
+
+
+בראשון
+באחד לחדש / מרדכי צבי מאנה
+
+שנת ארי' ליב שיינהיז
+לפ"ק
+
+ 
+
+ארא,
+רעי, בצפירת תפארה,
+
+ראש
+היום יענד נזר ועטרה,
+
+יד
+אחזת יד רעיה אהובה,
+
+היא
+תתן ל חיי נחת ושובה –
+
+לכבוד
+יום הכלולות, יום שמחת,
+
+ישיש
+כל אוהב, יוביל שי עדי,
+
+ברכות
+יודעי עפות מכל רוח, –
+
+שמעה
+גם קולי ל עתה שלוח:
+
+יום
+חתנת גם יום הקץ האביב
+
+יום
+זה יפלו הפרחים מסביב;
+
+נגד
+שדמות עדן ופרי הקיץ,
+
+הלא
+תנצרמו, תבנה למו חיץ?
+
+אז
+על כנפי גיל תבא עת הבציר,
+
+וברנה
+תשא אלמות הקציר,
+
+ישיש
+לב אז גם עת בא החרף,
+
+זהר
+החיים לא ל יפנה ערף!
+
+ 
+
+א' ניסן,
+תרמ"ה. ראדושקאוויץ.
+
+ 
+
+
+
+
+
+ 
+
+
+
+
+
+
+</body>
+   </text>
+</TEI>

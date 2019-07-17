@@ -1,0 +1,139 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>אם אשכחך</title>
+            <author>מנחם מנדל דוליצקי</author>
+            <respStmt>
+               <name>Mandel Scholion Hebrew Revival Research Group</name>
+               <resp>Formatting of content from the Ben-Yehuda Project to TEI-XML according to the TEI P5 Guidelines.
+                  Addition of dates, not present in the online version, by Shira Wigderson, Asaf Isser, Adi Cohen, Nitzan Cohen, and Adi Cohen.
+               </resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <authority>Project Ben-Yehuda</authority>
+            <idno>http://benyehuda.org/dolitsky/dolizki03.html</idno>
+         </publicationStmt>
+         <sourceDesc xml:lang="Hebrew">
+            <bibl>
+               <date when="1895" notBefore="1895-01-01" notAfter="1895-12-31"/>
+            </bibl>
+            <p>The Ben-Yehuda Project (http://benyehuda.org/). Content provided within the Ben-Yehuda Hackathon at the University of Haifa (THATCamp Haifa, February 2014).</p>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <change>
+            <date>2018-11-01</date>
+            <name>Omer Waldman</name>
+            <note>Correction of previously annotated dates and addition of dates to majority of the works</note>
+         </change>
+         <change>
+            <date>2017-08-09</date>
+            <name>Jerusalem corpus of Emergent Modern Hebrew (JEMH) staff</name>
+            <note>Created the initial version of the content in TEI-XML and added dates (some based on estimation)</note>
+         </change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+
+
+
+
+
+
+
+אם אשכחך / מנחם מנדל דוליצקי
+
+
+
+ 
+
+
+
+
+  
+  
+
+
+אם אשכחך / מנחם מנדל
+דוליצקי
+
+ 
+
+ 
+
+ציון תמתי, ציון
+חמדתי, 
+
+לך נפשי מרחוק
+המיה; 
+
+תשכח ימיני אם
+אשכחך, יפתי 
+
+עד תאטר
+בר קברי עלי פיה.
+
+ 
+
+תדבק עד מותי
+לחכי לשוני,
+
+אם לא
+אזכרכי, בת ציון הנשמה; 
+
+ייבש לבבי מחלי,
+מעני, 
+
+אם תיבש על עניך דמעתי החמה.
+
+ 
+
+יהרס בית חמרי, תהי
+נפשי לכלימה, 
+
+אם יסור מעיני מראה הריסותך; 
+
+יהי גרוני כמק,
+אכול עש ורמה, 
+
+אם קולי לא אשא
+לבכות ענותך.
+
+ 
+
+לא אשכחך ציון,
+לא אשכחך תמתי, 
+
+את, כל עוד אחי,
+תוחלתי ושברי, 
+
+ועת כי אמותה, בך
+תמיד,
+יפתי, 
+
+תהיינה שפתותי דבבות בקברי.
+
+ 
+
+ 
+
+
+
+
+
+ 
+
+ 
+
+
+
+
+
+
+</body>
+   </text>
+</TEI>

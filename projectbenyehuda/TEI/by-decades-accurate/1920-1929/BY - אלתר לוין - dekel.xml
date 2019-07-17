@@ -1,0 +1,178 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>ונטעתם לי דקל</title>
+            <author>אלתר לוין</author>
+            <respStmt>
+               <name>Mandel Scholion Hebrew Revival Research Group</name>
+               <resp>Formatting of content from the Ben-Yehuda Project to TEI-XML according to the TEI P5 Guidelines.
+                  Addition of dates, not present in the online version, by Shira Wigderson, Asaf Isser, Adi Cohen, Nitzan Cohen, and Adi Cohen.
+               </resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <authority>Project Ben-Yehuda</authority>
+            <idno>http://benyehuda.org/levin/dekel.html</idno>
+         </publicationStmt>
+         <sourceDesc xml:lang="Hebrew">
+            <bibl>
+               <date when="1920" notBefore="1920-01-01" notAfter="1920-12-31"/>
+            </bibl>
+            <p>The Ben-Yehuda Project (http://benyehuda.org/). Content provided within the Ben-Yehuda Hackathon at the University of Haifa (THATCamp Haifa, February 2014).</p>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <change>
+            <date>2018-11-01</date>
+            <name>Omer Waldman</name>
+            <note>Correction of previously annotated dates and addition of dates to majority of the works</note>
+         </change>
+         <change>
+            <date>2017-08-09</date>
+            <name>Jerusalem corpus of Emergent Modern Hebrew (JEMH) staff</name>
+            <note>Created the initial version of the content in TEI-XML and added dates (some based on estimation)</note>
+         </change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+
+
+
+
+
+
+
+ונטעתם לי דקל / אלתר לוין
+
+
+
+
+
+ 
+
+
+
+
+  
+  
+
+
+ונטעתם לי
+דקל / אלתר לוין
+
+ 
+
+אל תשרפוני
+ואל תפזרו את אפרי
+
+               על
+שבעה ימים;
+
+וטבע אל
+תטבעוני בנבכי המצלה
+
+               אחרי
+מותי:
+
+קבר כרו לי כקבר
+אבותי מעולם,
+
+               קבר
+ארבע אמות,
+
+וגועתי בלחש
+כגוע כל אדם
+
+               העובר
+מעולם לעולם
+
+וירדתי
+דומם אל ביתי, בית אלהים,
+
+               ושכבתי
+עם אבותי...
+
+וחפרתם את
+קברי על הר גבוה ותלול,
+
+               נשקף
+מרומי ארץ,
+
+על הר מרום
+הרים, מול הר הבית קדמה,
+
+               יחד
+את אחי המתים;
+
+ומצבת אבן,
+מאבני ארצי וסלעה,
+
+               לא
+שיש ולא מרמר,
+
+מצבת זכרון לבן ונכד ועמית,
+
+               על
+קברי תציבו;
+
+ואלן תטעו
+לי, לא שטה וארז וזית –
+
+               ונטעתם
+לי דקל;
+
+ופרש הדקל
+עלי סכת שלומו
+
+               ושמרני
+ביום ובלילה
+
+ונפלו
+מתמריו טפות הדבש עלי קברי,
+
+               נטפים
+מצלוחית אפרסמון,
+
+ונשרו
+זמרגדים, אורות כוכבי וירחי ושמשי,
+
+            ונשרו מכיפו על
+קברי!
+
+והתבקעו
+גזרי התמר ושקעו בדיו
+
+            וחנו כדור
+למצבתי;
+
+ועם שיחת
+דקלים, נאם חריות צמרתם
+
+               אישן
+לי שנתי ואחלום
+
+חלום עולם
+לנפש, תחת שמי ארצי,
+
+            וטעמתי טעם
+הנצח!..
+
+ 
+
+
+
+
+
+ 
+
+
+
+
+
+
+</body>
+   </text>
+</TEI>

@@ -1,0 +1,145 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>תפילת-שווא</title>
+            <author>אלתר דרויאנוב</author>
+            <respStmt>
+               <name>Mandel Scholion Hebrew Revival Research Group</name>
+               <resp>Formatting of content from the Ben-Yehuda Project to TEI-XML according to the TEI P5 Guidelines.
+                  Addition of dates, not present in the online version, by Shira Wigderson, Asaf Isser, Adi Cohen, Nitzan Cohen, and Adi Cohen.
+               </resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <authority>Project Ben-Yehuda</authority>
+            <idno>http://benyehuda.org/druyanov/tefilat.html</idno>
+         </publicationStmt>
+         <sourceDesc xml:lang="Hebrew">
+            <bibl>
+               <date when="1911" notBefore="1911-01-01" notAfter="1911-12-31"/>
+            </bibl>
+            <p>The Ben-Yehuda Project (http://benyehuda.org/). Content provided within the Ben-Yehuda Hackathon at the University of Haifa (THATCamp Haifa, February 2014).</p>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <change>
+            <date>2018-11-01</date>
+            <name>Omer Waldman</name>
+            <note>Correction of previously annotated dates and addition of dates to majority of the works</note>
+         </change>
+         <change>
+            <date>2017-08-09</date>
+            <name>Jerusalem corpus of Emergent Modern Hebrew (JEMH) staff</name>
+            <note>Created the initial version of the content in TEI-XML and added dates (some based on estimation)</note>
+         </change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+
+
+
+
+
+
+
+תפילת-שווא / אלתר דרויאנוב
+
+
+
+ 
+
+
+
+
+  
+  
+
+
+תפלת-שוא
+
+אלתר דרויאנוב
+
+
+
+ 
+
+
+
+
+ 
+  
+  אלו היתה תפלה עושה אפילו שליש או רביע היינו
+  מתפללים יום-יום:  יהי רצון,  שלא נבוש ולא נכלם בעסקני-הצבור
+  שלנו.   עכשו,  שתפלה אינה עושה כלום,  אנו בושים ונכלמים.   
+  בקיוב נקהלו אנשים,  שנטלו לעצמם את העבודה היפה  "לשפה ולתרבות העברית".   ותהי ראשית מעשיהם להכריז ברבים,  כי "בראשית היה הממון",  וגם לא הממון עצמו אלא  –  בעל-הממון.  
+  
+  עכשיו נתגלה הסוד לכל:  לא בלי כונה קבעו עסקני "ההסתדרות
+  לשפה ולתרבות העברית" את ועידתם הראשונה בקיוב:  מרובים עשירים ו"גבירים" של קיוב ואת המבצר הזה
+  בקשו להבקיע.   מכיון
+  ש"הם" יתרצו להעשות האפוטרופסים לעבודת התרבות והלשון,  יפתחו את ידם הקמוצה וימטירו מטר-זהב
+  על חלקתנו העזובה והשוממה.   
+  ומשום שברי היה להם,  לעסקני ההסתדרות,  שאין כל תקוה ללשוננו ותרבותנו אלא אם
+  יפרוש "הגביר" את כנפיו עליהן, 
+  שלחו אליו דפוטציה, 
+  ודרשה דרש אחד מראשי העסקנים על חשובותו הרבה של ה"גביר"
+  וגם הקדימו לבשר ברבים,  "שיש
+  תקוה,  כי ידו תכון
+  עמנו"...    
+  שני דברים שכחו העסקנים,  שנקהלו בקיוב:  ראשית,  כי אם אמנם סדר עולמנו גורם,  שאפילו מפעל טהור שבטהורים זקוק לעזרת הממון,  מכל-מקום יש אשר אופן קבלת הממון מחלל
+  את המפעל.   ושנית,  כי "הגביר" את לשוננו לא ידע
+  ואת תרבותנו לא יכיר ובתחיתן לא יחפוץ, 
+  ומה לו ולהן.   ואם גם
+  יצלח הדבר להוציא מידו נדבה,  הרי
+  רק נדבה תהיה זו  –  פרור חמץ נוקשה,  שמנערים אותו מעל השולחן המלא וזורקים
+  אותו לקבצנים,  שילקוטם קולט
+  הכל.   
+  תמיהני,  אם לא לחש להם, 
+  לעסקני-ההסתדרות, 
+  לבם:  אל תותרו על
+  איסטניסותכם,  אל תהיינה עיניכם
+  סמויות מראות את העול,  אשר אתם
+  עושים גם לכם וגם למפעלכם.  
+  אבל הם השתיקו את לחש-לבם זה, 
+  את הכל שכחו אותה שעה וידעו רק אחת:  "בראשית היה הממון"...   
+  וה"גביר" אמנם שמע בלב מתפנק ומתעדן
+  את כל השבחים,  שפזרו לו ביד
+  רחבה,  שמע גם את הדרשה,  שדרשו לכבודו.   אבל הוא לא שכח ולא למד
+  כלום:   נער,  כדרכו,  פרור מעל שלחנו המלא וזרק אותו ל"קבצנים".   
+  והם ה"קבצנים",  לא עמדו בנסיון.   לא דחו את הפרור הנבזה
+  ברגל-גאוה,  לא חזרו וזרקו אותו
+  בפני אותו אדם גס,  אלא שמו אותו
+  בילקוטם וכרוז יצא מלפניהם:  פלוני
+  בן פלוני "הגביר" נדב פרור לתחית הלשון והתרבות העברית  –  שישו ושמחו!  
+  
+  אלו היינו איסטניסים,  אלו נשמענו להמית-לבנו...   
+  תפלת-שוא!  אנו נשמעים רק לנהמת-השוק,  איסטניסות 
+  –  שם נרדף הוא לנו
+  לבטלנות...   
+  העולם 1911
+  
+   
+  
+ 
+
+
+
+
+ 
+
+
+
+
+
+ 
+
+
+
+
+
+
+</body>
+   </text>
+</TEI>

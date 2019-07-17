@@ -1,0 +1,243 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>חַיֵּי הָאִכָּר</title>
+            <author>מיכה יוסף לבנזון</author>
+            <respStmt>
+               <name>Mandel Scholion Hebrew Revival Research Group</name>
+               <resp>Formatting of content from the Ben-Yehuda Project to TEI-XML according to the TEI P5 Guidelines.
+                  Addition of dates, not present in the online version, by Shira Wigderson, Asaf Isser, Adi Cohen, Nitzan Cohen, and Adi Cohen.
+               </resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <authority>Project Ben-Yehuda</authority>
+            <idno>http://benyehuda.org/lebensohn/lebensohn_40.html</idno>
+         </publicationStmt>
+         <sourceDesc xml:lang="Hebrew">
+            <bibl>
+               <date when="1870" notBefore="1870-01-01" notAfter="1870-12-31"/>
+            </bibl>
+            <p>The Ben-Yehuda Project (http://benyehuda.org/). Content provided within the Ben-Yehuda Hackathon at the University of Haifa (THATCamp Haifa, February 2014).</p>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <change>
+            <date>2018-11-01</date>
+            <name>Omer Waldman</name>
+            <note>Correction of previously annotated dates and addition of dates to majority of the works</note>
+         </change>
+         <change>
+            <date>2017-08-09</date>
+            <name>Jerusalem corpus of Emergent Modern Hebrew (JEMH) staff</name>
+            <note>Created the initial version of the content in TEI-XML and added dates (some based on estimation)</note>
+         </change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+
+
+
+
+
+
+חיי האכר / מיכה יוסף לבנזון
+
+
+
+
+
+
+
+
+חיי האכר
+
+(בעקבות הורץ)
+
+ 
+
+אשרי האיש
+שנתו לא יגזולו
+
+דהרות אבירים,
+רעם עגלות צב,
+
+רעש מחי-קבל
+רנת אשפה וחץ,
+
+או אם צי
+מערבו נפץ אל הסלע;
+
+מרחם אדמה לא
+יבואנו רגז,
+
+יבז מכמני
+זהב ויקר סגלה,
+
+ובצאלי נעם
+יבלה ימיו טפחות!
+
+ילעג
+להיכלי-ענג אוצרי חמסים,
+
+יתקלס בעצב
+רובץ לפתח ארמון,
+
+ישחק לכילות
+ולבתי כלאיה,
+
+נוצרת כספה
+באין שנת לעיניה,
+
+שחר בגיחו
+מרחם ויספר[1]
+שחקים,
+
+יקום מיצועו
+המעלף ירק דשא,
+
+ומחזה נעם
+הצפירה ירנין לבו
+
+ואת נותני
+זמירות יפצח רנתו.
+
+צפור בודד
+כי יכנף תחז עינו
+
+ורוח צח כי
+יטלטל עפאי כל עץ;
+
+על דשאי
+נאות שדי תלהטנה קשתות
+
+ומעל ראש הר
+נשפה יגע בעבים;
+
+ירא חמדת
+הגבעה סוגה בשושנים
+
+ועת אניה שם
+נשאת על כנפי רוח,
+
+על כתף המים
+נצתה גם נעה
+
+אך תחנף בה
+עין תאבד בתהו!
+
+אז  שחק לבן-עננים יבחנו
+עפעפיו
+
+ואהל אפדנם
+נשקף בראי הנהר;
+
+ושמש ישו
+אורו על רבים מים
+
+ובסבכי
+ירקרק תצת אש ארגמן;
+
+בחביון יער
+אפל ישרך דרכהו,
+
+בין ערוגות
+שושנים שם ופרח
+
+על חלוקי חצץ
+יבלי מים יבכיו,
+
+משקע מימיהם
+כשמן יוליכו,
+
+רוח לא
+ידלחם, לא ירעימם סער.
+
+בין משכיות
+פרח ירנן שיר-תודה:
+
+בארזים נטעה
+ימינו ישלח תעלות,
+
+ישרוק
+לדבורה, יארה מור דבשה,
+
+ישק נצה
+ושיח, יבצור ענבי חמר
+
+ויעזק גנת
+אגוז יסיר באשיה!
+
+                  
+*      *
+
+                    
+*
+
+שם בנות
+שלמו שם לא ינוה רשע,
+
+שמה תם
+וישר אוו למו מעון!
+
+שם נעמי ברה
+תצהיל לו פניה,
+
+חכו יבוז
+נפת, לא יבין מנעמים;
+
+גיל ורעב מר
+אכלו למתוק ישימו.
+
+ועת חבלי
+שנה עפעפיו יאחזון,
+
+שמורות עיניו
+לא יאחז העון.
+
+על רהבי-שטים
+שם הוללים יהלו –
+
+על
+מדוחי-שוא בני קרת יתאמרו,
+
+אך הוא
+בחבליו הנעימים ידע שלו,
+
+אף נחלת
+שפרה לו בנעמי לו נעמה!
+
+ 
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+[1]  מענין ספיר, עיין
+רשב"ם שם (איוב ל"ח, לז).
+
+
+
+
+
+
+
+
+</body>
+   </text>
+</TEI>

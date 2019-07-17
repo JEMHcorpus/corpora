@@ -1,0 +1,262 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>האחוה</title>
+            <author>מיכה יוסף לבנזון</author>
+            <respStmt>
+               <name>Mandel Scholion Hebrew Revival Research Group</name>
+               <resp>Formatting of content from the Ben-Yehuda Project to TEI-XML according to the TEI P5 Guidelines.
+                  Addition of dates, not present in the online version, by Shira Wigderson, Asaf Isser, Adi Cohen, Nitzan Cohen, and Adi Cohen.
+               </resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <authority>Project Ben-Yehuda</authority>
+            <idno>http://benyehuda.org/lebensohn/lebensohn_47.html</idno>
+         </publicationStmt>
+         <sourceDesc xml:lang="Hebrew">
+            <bibl>
+               <date when="1870" notBefore="1870-01-01" notAfter="1870-12-31"/>
+            </bibl>
+            <p>The Ben-Yehuda Project (http://benyehuda.org/). Content provided within the Ben-Yehuda Hackathon at the University of Haifa (THATCamp Haifa, February 2014).</p>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <change>
+            <date>2018-11-01</date>
+            <name>Omer Waldman</name>
+            <note>Correction of previously annotated dates and addition of dates to majority of the works</note>
+         </change>
+         <change>
+            <date>2017-08-09</date>
+            <name>Jerusalem corpus of Emergent Modern Hebrew (JEMH) staff</name>
+            <note>Created the initial version of the content in TEI-XML and added dates (some based on estimation)</note>
+         </change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+
+
+
+
+
+
+
+האחוה / מיכה יוסף הכהן לבנזון 
+
+
+
+
+
+
+
+
+האחוה
+
+שיר ליום הולדת אחי יחידי האח יקיר לי המשכיל השלם בר
+לבב וטהר רוח
+
+הנגיד כמהור"ר נח אריה הכהן לעבענזאהן יזיי"א
+
+ 
+
+מה נעים הוא
+ומה יערב עלינו
+
+שיח השם אח
+לשמע אזנינו.
+
+     רעיון אחוה מה
+יקר לרוח ונפש!
+
+רשף שלהבת
+יה מאור גבוה,
+
+ממרום הוד
+כסאו הורידו אלוה
+
+     אל לב אדם בן
+תמותה חמר ורפש.
+
+ 
+
+הוי מקנאים נבהלים,
+חסרי לב ודעת!
+
+בגורל
+נחלתכם מה תתנו מגרעת!
+
+     ועל מנת כוס
+זרים מה תשאו עין?
+
+אם יש לכם אח
+מה עוד תחסרו?
+
+ואם אין
+לשאוף הון מה תבערו?
+
+     והוא בלי אחוה
+מאפע ואין?
+
+ 
+
+מה דקו
+החבלים ומה נפלאו
+
+אשר בם
+באיש אחד קשורים באו
+
+     חמר הגויה את
+רוח חיים.
+
+ומהם מה רבה
+שגבה עתקה,
+
+מוסרת עולם
+אשר בה רתקה,
+
+     גם רוח
+לרעותה בגויות שתים.
+
+ 
+
+מששת עלי
+שושנה פורחת
+
+קטוף נא האחד
+והיא נאנחת;
+
+     הבט הנשארים
+איך חורו פניהם.
+
+חכלילות עינם
+פתאם נבלה,
+
+הדרת זיו
+רקמתם אמללה
+
+     כי קשר אחותם
+נגזר בעלומיהם.
+
+ 
+
+מה גדלה
+האחוה, מה רב חילה!
+
+גם בשפת
+אלהינו רבות כוללה:
+
+     מה יורנו שם
+אח[1]
+הלא גם אחד
+
+גם אבל גם
+עלז אח[2]
+אח[3]
+הלא גם אחד
+
+כי ראשון גם
+שני לאחוה יצמאו
+
+     גם עשב גם
+דשא כאחים[4]
+יפרו יחד.
+
+ 
+
+הנה גם
+אנחנו אחים הננו,
+
+בקשרה כי
+אמיץ אחוה תאחדנו,
+
+     בנפש ובבשר
+הננו לאחדים.
+
+מדמי עורקיך
+יזלון גם דמי
+
+בשרי
+בשרך עצמיך עצמי
+
+     וכמאז עד כה
+נהי לעד נצמדים.
+
+ 
+
+והנה זה
+היום יום בו תולד
+
+יקר הוא
+לשנינו בשנות החלד
+
+     תקרא לי
+להיטיב את פניך פני –
+
+ומאד כבדה
+עלי משאת רגשותי
+
+אהבתך עצורה
+כאש בעצמותי
+
+     אחי נא קחנה –
+בשיר ההולך לפני.
+
+ 
+
+מקרב ולב אחיך מיכ"ל
+
+ 
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+[1]  ועשה אח מאחד ואלה
+(יחזקאל י"ח)
+
+
+
+
+
+[2]  ואמר אח (שם ו')
+
+
+
+
+
+[3]  האח ראתה עיננו
+(תהלים ל"ה)
+
+
+
+
+
+[4]  הוא בין אחים יפריא
+(הושע י"ג)
+
+
+
+
+
+
+
+
+</body>
+   </text>
+</TEI>

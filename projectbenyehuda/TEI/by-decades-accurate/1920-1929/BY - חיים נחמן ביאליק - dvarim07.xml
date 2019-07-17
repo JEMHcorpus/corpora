@@ -1,0 +1,125 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>על ה"אותיות" וה"מספרים"</title>
+            <author>חיים נחמן ביאליק</author>
+            <respStmt>
+               <name>Mandel Scholion Hebrew Revival Research Group</name>
+               <resp>Formatting of content from the Ben-Yehuda Project to TEI-XML according to the TEI P5 Guidelines.
+                  Addition of dates, not present in the online version, by Shira Wigderson, Asaf Isser, Adi Cohen, Nitzan Cohen, and Adi Cohen.
+               </resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <authority>Project Ben-Yehuda</authority>
+            <idno>http://benyehuda.org/bialik/dvarim07.html</idno>
+         </publicationStmt>
+         <sourceDesc xml:lang="Hebrew">
+            <bibl>
+               <date when="1922" notBefore="1922-01-01" notAfter="1922-12-31"/>
+            </bibl>
+            <p>The Ben-Yehuda Project (http://benyehuda.org/). Content provided within the Ben-Yehuda Hackathon at the University of Haifa (THATCamp Haifa, February 2014).</p>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <change>
+            <date>2018-11-01</date>
+            <name>Omer Waldman</name>
+            <note>Correction of previously annotated dates and addition of dates to majority of the works</note>
+         </change>
+         <change>
+            <date>2017-08-09</date>
+            <name>Jerusalem corpus of Emergent Modern Hebrew (JEMH) staff</name>
+            <note>Created the initial version of the content in TEI-XML and added dates (some based on estimation)</note>
+         </change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+
+
+
+
+
+
+
+על ה"אותיות" וה"מספרים" / חיים נחמן ביאליק
+
+
+
+
+
+
+
+
+על ה"אותיות" וה"מספרים"
+
+חיים נחמן ביאליק
+
+
+
+
+
+
+ 
+  
+   
+  (מתוך
+  נאום בחגיגת הפתיחה של בית הועד בברלין, טבת תרפ"ב)
+   
+  ... המספרים משמשים מלים לצרופים מדויקים
+  ומכוונים של מעשים ובנינים ממשיים; האותיות, שהן מסמלות צנורות ההשפעה הרוחנית
+  ומציינות את דרך-הרוח, צריכות ליעשות שותפים למעשה בראשית יחד עם המספרים; ולא
+  עוד, אלא שטעות היא בידי אלה הרוצים להעמיד את כל עולמנו על המעשה
+  "המוחשי" ועל החשבון הקר. 
+  המשבר הקשה, העובר עתה על תנועת התחיה שלנו והמעצורים שאנו פוגשים
+  בדרכינו, אינם עלולים להסתלק ע"י חשבונות מסחריים ותכניות-בנין בלבד, אלא
+  בעיקר ע"י התעוררות לאומית גדולה, שתקיף את כל העם מקצהו ותביא אותו לידי
+  מלחמה בקשיות-ערף בעד בנין המולדת ותקומת האומה, – מלחמה שתגבר באותה מדה
+  שמתגברים המעצורים והמכשולים החצוניים.  ולפיכך, יש אשר ההסטוריה משטה בנו ועושה לנו מעין
+  אחיזת-עינים: מפנה תשומת לבנו למעשים הממשיים, כביכול, הנעשים בגלוי, לאור השמש,
+  שאנו מתגנדרים בהם וחושבים שהם מחישים את הקץ, בשעה שהמעשים הגדולים באמת, שהם
+  בנין אב להתפרצות כחות-האיתנים שבעם, נעשים בחשאי, והם בבחינת
+  "נסתר".  כך היה אף בשעת
+  לידת דתות חדשות, ששלוחיהן בודאי נחשבו בשעתם לבטלנים מבלי עולם, עשו מעשיהם
+  במסתרים ועוררו צחוק של חמלה ומנוד-ראש מצד שליטי החברה ואנשי המעשה, עד שלבסוף
+  השקיעו את רוחם בנשמת ההמונים הנרדמים וע"י התעוררותם לפעולה הפכו את הקערה
+  של המדינה הרומאית התקיפה על פיה, והוא הדין בכל התנועות הרבולוציוניות,
+  החברותיות והלאומיות.  תקופתנו היא
+  הרת מאורעות כבירים ובחיקה טמונים זרמים של העתיד הרחוק.  גם אצלנו פועלים במחשכים כחות רעננים,
+  "חלוצי" העבודה והיצירה, המכינים את הקרקע לתחית העם ושפעולותיהם
+  נראות כדלות ומגוחכות בעיני אנשי המעשה והמספר המדויק, בעיני אלה שאינם יודעים
+  להעריך את הרטט הנפשי הטמיר ואת פולחן העבודה היוצרת הבנויה על האמונה
+  ומסירת-הנפש.  אבל כלנו צריכים
+  לחדור למחשכים אלו ולהאירם באור התרבות העברית, שאף היא נדחפת לצדדים ע"י
+  דברי "המעשה" שבדורנו. 
+  כגנבי ליל המתגנבים מחוץ למחנה, מתחלקים לכנופיות-כנופיות ושולחים אש
+  בבתי-חרמם מארבע קצות העיר – כן צריכים אף אנו, בוני התרבות העברית, לעזוב את
+  שאון המחנה ולהבעיר את הבערה הגדולה שתהיה לשלהבת, אשר לאורה ילך עם, יעזוב את
+  חורבות חייו ויתכונן לבנין חייו.  ואז, כשתגיע שעתנו ל"התגלות" – תצטרפנה ה"אותיות"
+  ל"מספרים" של אנשי המעשה – ובנין האומה יקום.
+  
+ 
+
+
+
+
+ 
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+</body>
+   </text>
+</TEI>

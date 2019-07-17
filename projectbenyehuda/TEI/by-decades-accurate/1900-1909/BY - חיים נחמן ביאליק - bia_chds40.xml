@@ -1,0 +1,230 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>אלף בית</title>
+            <author>חיים נחמן ביאליק</author>
+            <respStmt>
+               <name>Mandel Scholion Hebrew Revival Research Group</name>
+               <resp>Formatting of content from the Ben-Yehuda Project to TEI-XML according to the TEI P5 Guidelines.
+                  Addition of dates, not present in the online version, by Shira Wigderson, Asaf Isser, Adi Cohen, Nitzan Cohen, and Adi Cohen.
+               </resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <authority>Project Ben-Yehuda</authority>
+            <idno>http://benyehuda.org/bialik/bia_chds40.html</idno>
+         </publicationStmt>
+         <sourceDesc xml:lang="Hebrew">
+            <bibl>
+               <date when="1903" notBefore="1903-01-01" notAfter="1903-12-31"/>
+            </bibl>
+            <p>The Ben-Yehuda Project (http://benyehuda.org/). Content provided within the Ben-Yehuda Hackathon at the University of Haifa (THATCamp Haifa, February 2014).</p>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <change>
+            <date>2018-11-01</date>
+            <name>Omer Waldman</name>
+            <note>Correction of previously annotated dates and addition of dates to majority of the works</note>
+         </change>
+         <change>
+            <date>2017-08-09</date>
+            <name>Jerusalem corpus of Emergent Modern Hebrew (JEMH) staff</name>
+            <note>Created the initial version of the content in TEI-XML and added dates (some based on estimation)</note>
+         </change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+
+
+
+
+
+
+
+אלף בית / חיים נחמן ביאליק
+
+
+
+
+
+
+
+
+אלף-בית
+
+ (שיר למשחק)
+
+ 
+
+משה, שלמה –
+
+איש למקומו!
+
+כבר הגיעה
+עת!
+
+כבר הגיעה
+עת!
+
+רב לשוח,
+
+די לנוח – 
+
+נלמד אלף-בית!
+
+נלמד אלף-בית!
+
+אות לאות
+
+וקו לקו,
+
+ובינתים
+
+תהיה רב!
+
+ 
+
+אחת למעלה ואחת
+למטה,
+
+פסוק ראשון
+נלמד עתה:
+
+אלף, בית, גימל,
+דלת – 
+
+מי החכם הוא
+ימלט!
+
+שנו, שלשו,
+
+אל תחרישו
+
+מי החכם הוא
+ימלט!
+
+ 
+
+שתים למעלה
+ושתים למטה,
+
+פסוק שני נלמד
+עתה:
+
+הא, וו, זין,
+חת – 
+
+עם הארץ חשוב
+כמת!
+
+שנו, שלשו,
+
+אל תחרישו
+
+עם הארץ חשוב
+כמת!
+
+ 
+
+שלש למעלה,
+ושלש למטה,
+
+פסוק שלישי
+נלמד עתה:
+
+טת, יוד, כף,
+למד – 
+
+תחלה תלמד
+ואחר תלמד.
+
+שנו, שלשו,
+
+אל תחרישו
+
+תחלה תלמד
+ואחר תלמד.
+
+ 
+
+ארבע למעלה
+וארבע למטה,
+
+פסוק רביעי
+נלמד עתה:
+
+מם, נון, סמך,
+עין – 
+
+אם אין תורה – קמח אין.
+
+שנו, שלשו,
+
+אל תחרישו
+
+אם אין תורה – קמח אין.
+
+ 
+
+ 
+
+חמש למעלה וחמש
+למטה,
+
+פסוק חמשי
+נלמד עתה:
+
+פא, צדי, קוף,
+ריש – 
+
+דברי תורה
+משולים לאש!
+
+שנו, שלשו,
+
+אל תחרישו
+
+דברי תורה
+משולים לאש!
+
+ 
+
+שש למעלה ושש
+למטה – 
+
+פסוק אחרון
+נלמד עתה:
+
+שין, תו, שין,
+תו – 
+
+שנו, שלשו,
+
+אל תחרישו
+
+מי שגמר הוא
+הרב!
+
+ 
+
+ 
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+</body>
+   </text>
+</TEI>

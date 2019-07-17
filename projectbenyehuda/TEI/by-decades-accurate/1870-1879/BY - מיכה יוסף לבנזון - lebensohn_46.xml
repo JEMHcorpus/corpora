@@ -1,0 +1,198 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>הבודד בשדה</title>
+            <author>מיכה יוסף לבנזון</author>
+            <respStmt>
+               <name>Mandel Scholion Hebrew Revival Research Group</name>
+               <resp>Formatting of content from the Ben-Yehuda Project to TEI-XML according to the TEI P5 Guidelines.
+                  Addition of dates, not present in the online version, by Shira Wigderson, Asaf Isser, Adi Cohen, Nitzan Cohen, and Adi Cohen.
+               </resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <authority>Project Ben-Yehuda</authority>
+            <idno>http://benyehuda.org/lebensohn/lebensohn_46.html</idno>
+         </publicationStmt>
+         <sourceDesc xml:lang="Hebrew">
+            <bibl>
+               <date when="1870" notBefore="1870-01-01" notAfter="1870-12-31"/>
+            </bibl>
+            <p>The Ben-Yehuda Project (http://benyehuda.org/). Content provided within the Ben-Yehuda Hackathon at the University of Haifa (THATCamp Haifa, February 2014).</p>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <change>
+            <date>2018-11-01</date>
+            <name>Omer Waldman</name>
+            <note>Correction of previously annotated dates and addition of dates to majority of the works</note>
+         </change>
+         <change>
+            <date>2017-08-09</date>
+            <name>Jerusalem corpus of Emergent Modern Hebrew (JEMH) staff</name>
+            <note>Created the initial version of the content in TEI-XML and added dates (some based on estimation)</note>
+         </change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+
+
+
+
+
+
+
+הבודד בשדה / מיכה יוסף הכהן לבנזון
+
+
+
+
+
+
+
+
+הבודד
+בשדה
+
+ 
+
+שם בין אבי
+נחל סכה עמדת
+
+ותשורר
+בחלון צפור בדדת,
+
+שמש חכלילי
+יפיץ אור עליה
+
+ענפי אלה
+שתו צלם  כליל.
+
+ובצל עב שרב
+וחרב יכניעו,
+
+שם פר ישאף
+רוח ויגמא ארץ
+
+וישדד שדה
+וישוה התלם.
+
+שם גנה
+חמודה ובקרן שמן
+
+בין הערוגות
+ילך איש צולח
+
+ירן ויזמר
+שירת-דודים פיהו:
+
+"מה נאוה
+הוא גני ומה פורח!
+
+בין דשאי החוף
+יתנוסס כנזר
+
+שיאי ההר
+ממעל לו נשקפו
+
+וירק קדקדם
+שמימה ישאו" –
+
+שם צפרים
+שרים בעץ קננו
+
+ופרחים
+נחמדים שעשעו כל עין
+
+וברקמת
+עלימו בסך תעפנה,
+
+הדבורים
+החרוצות אמות דבשנו
+
+ויתור ירק
+מרעיהן מיץ כל פרח
+
+בין שושנים
+תשקנה ותהימנה,
+
+אך אהבה
+וחשק הגה תהגינה –
+
+שם בגן מצע
+ירק לי חצבתי,
+
+על מרבדי
+עשב ובנאות דשא
+
+סביב נהרי
+איתן המו זרמו,
+
+בין חלוקי
+אבן קולם נתנו
+
+ובקול המלה
+יהמו יקצופו;
+
+עשבי
+האחו  ישקו כשפתים
+
+וישעשעו רב
+שיח בגדות המים.
+
+ 
+
+ואני – בודד
+משמים תחתי ארגזה: –
+
+שחר חכלילי
+כי יהל בשחק,
+
+או נגה שמש
+כי ירד הימה,
+
+עת על חוג מרום
+מזרות תצאנה,
+
+תמיד תלן
+במו תחז העין;
+
+ובדי האלה
+אט יתלחשו
+
+ותנומת-נעם
+על עפעף יפילו;
+
+ובנוע שיאם,
+לי דבר לאטו –
+
+אז את אל נאור
+אזכורה אהמיה,
+
+הוא ירחיב
+לבי ויער עלי רוח! –
+
+–  – 
+–  –  – 
+–  –  – 
+–  –  –
+
+ 
+
+
+
+
+
+ 
+
+
+
+
+
+
+</body>
+   </text>
+</TEI>

@@ -1,0 +1,188 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>לא תמח</title>
+            <author>חיים נחמן ביאליק</author>
+            <respStmt>
+               <name>Mandel Scholion Hebrew Revival Research Group</name>
+               <resp>Formatting of content from the Ben-Yehuda Project to TEI-XML according to the TEI P5 Guidelines.
+                  Addition of dates, not present in the online version, by Shira Wigderson, Asaf Isser, Adi Cohen, Nitzan Cohen, and Adi Cohen.
+               </resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <authority>Project Ben-Yehuda</authority>
+            <idno>http://benyehuda.org/bialik/bia041.html</idno>
+         </publicationStmt>
+         <sourceDesc xml:lang="Hebrew">
+            <bibl>
+               <date when="1900" notBefore="1900-01-01" notAfter="1900-12-31"/>
+            </bibl>
+            <p>The Ben-Yehuda Project (http://benyehuda.org/). Content provided within the Ben-Yehuda Hackathon at the University of Haifa (THATCamp Haifa, February 2014).</p>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <change>
+            <date>2018-11-01</date>
+            <name>Omer Waldman</name>
+            <note>Correction of previously annotated dates and addition of dates to majority of the works</note>
+         </change>
+         <change>
+            <date>2017-08-09</date>
+            <name>Jerusalem corpus of Emergent Modern Hebrew (JEMH) staff</name>
+            <note>Created the initial version of the content in TEI-XML and added dates (some based on estimation)</note>
+         </change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+
+
+
+
+
+
+
+לא תמח / חיים נחמן ביאליק
+
+
+
+
+
+
+
+
+
+
+
+
+לא תמח
+
+ 
+
+לא תמח
+במהרה דמעתי הכבדה,
+
+דמעתי
+מקרקע נשמתי שאבתי;
+
+כל-טפה
+בשעתה בצירי יולדה
+
+ובלחץ שנים
+מעיני עצבתי.
+
+ 
+
+לבדי, לבדי
+בלילות אפלים
+
+בסתר,
+בסתר כאבתי, נואשתי;
+
+חרקתי
+את-שני על-לבות ערלים:
+
+"עם-אבד,
+עם-נבל, עם-אבד" לחשתי.
+
+ 
+
+וימים וירחים
+בלבבי צרפתי
+
+את-דמעת
+סתרי עד שבע זקקה;
+
+ובהמק הלב
+ולהתאפק עיפתי –
+
+אז תחת ירק-דם
+– זה הדמעה נתקה.
+
+ 
+
+ולמראה
+כל-ערלת לבב ואזנים,
+
+ולמראה
+הנכר – במארה נעקרה:
+
+"וארור
+פושע ויש לו ידים
+
+להקל מאיד –
+ומתנכר בצרה!"
+
+ 
+
+ועד אלהים
+מה-נאמנה דמעתי!
+
+את-תמצית
+מכאובי בה שמתי, כרכתי;
+
+וכמו עם
+כל-נטף מת חלק נשמתי
+
+ואבדה עולמית
+אל-קבר הולכתי.
+
+ 
+
+אך מרה
+וגדולה מזה הנשפכה
+
+עוד דמעה
+כבירה בלבבי נצפנה,
+
+שחדל אנכי
+ערותה, וכאנחה
+
+רצוצה בקעת:
+"אי-ישע? עד-אנה!?"
+
+ 
+
+וכרקב
+בעצמות היא נשואה בלבבי,
+
+ככאב נעכר
+כמוס אסבלנה על-רוחי;
+
+היא תעכר
+חזון יומי, החלום על-משכבי,
+
+תלוני כמות
+בעמלי ובנוחי.
+
+ 
+
+אך מאמין
+אנכי כי-נביא עוד נקים,
+
+שיוריד
+לעיני העולם עוד דמעה,
+
+והרעים עוד
+קינה להרגיז שחקים
+
+ואחז
+כל-בשר פלצות לשמעה.
+
+ 
+
+תר"ס, אב.
+
+
+
+
+
+  
+
+
+</body>
+   </text>
+</TEI>

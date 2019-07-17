@@ -1,0 +1,186 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>נס ציונה!</title>
+            <author>צבי אלעזר טלר</author>
+            <respStmt>
+               <name>Mandel Scholion Hebrew Revival Research Group</name>
+               <resp>Formatting of content from the Ben-Yehuda Project to TEI-XML according to the TEI P5 Guidelines.
+                  Addition of dates, not present in the online version, by Shira Wigderson, Asaf Isser, Adi Cohen, Nitzan Cohen, and Adi Cohen.
+               </resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <authority>Project Ben-Yehuda</authority>
+            <idno>http://benyehuda.org/teller_zvi/nes_ziona.html</idno>
+         </publicationStmt>
+         <sourceDesc xml:lang="Hebrew">
+            <bibl>
+               <date when="1902" notBefore="1902-01-01" notAfter="1902-12-31"/>
+            </bibl>
+            <p>The Ben-Yehuda Project (http://benyehuda.org/). Content provided within the Ben-Yehuda Hackathon at the University of Haifa (THATCamp Haifa, February 2014).</p>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <change>
+            <date>2018-11-01</date>
+            <name>Omer Waldman</name>
+            <note>Correction of previously annotated dates and addition of dates to majority of the works</note>
+         </change>
+         <change>
+            <date>2017-08-09</date>
+            <name>Jerusalem corpus of Emergent Modern Hebrew (JEMH) staff</name>
+            <note>Created the initial version of the content in TEI-XML and added dates (some based on estimation)</note>
+         </change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+
+
+
+
+
+
+
+נס ציונה! / צבי אלעזר טלר
+
+
+
+ 
+
+
+
+
+  
+  
+
+
+נס ציונה! /
+צבי אלעזר טלר
+
+כל-יושבי
+תבל ושוכני ארץ,                                    
+
+כנשא
+נס הרים תראו,                               
+
+וכתקע
+שופר תשמעו! (ישעיה י"ח,נ')           
+
+כה אמר
+ד' גואלכם קדוש ישראל,              
+
+למענכם
+שלחתי בזלה[1]! (ישעיה מ"ג, י"ד)    
+
+מי המה העברים מכל-העברים,
+
+יתאספו ינהרו אל אחת הערים,
+
+בזלה מגמת פניהם נכונה,
+
+לפניהם יתנוסס נס ציונה!
+
+ 
+
+מי קול הקורא לקבץ שמה גרים,
+
+והמה יאתיו בלב אחד חברים,
+
+קדמה וימה, נגבה וצפונה,
+
+כנשא נס הרים לעלות ציונה!
+
+ 
+
+מי זאת שם מאפסי הארץ עולה,
+
+בזלה, בזלה, מקהלה גדולה;
+
+מלא רחב התבל שירה תרנה:
+
+לכו ונעלה אל הר אלהים ציונה!
+
+ 
+
+מי המה אלה יעברו חלוצים,
+
+לכבוש ארץ נושבת לרצוצים,
+
+לא בכלי מלחמה בחרב היונה,
+
+רק במשפט נחלת אבות: ציונה!
+
+ 
+
+מי המה שני המאורות הגדולים,
+
+כעמודי אש לפני המחנה עולים,
+
+ברוחם אמונה ובפיהם נכונה,
+
+לבנות בית נאמן להולכי ציונה!
+
+ 
+
+מלאכי אלהים הם, צירי הגולה,
+
+בהתנדב לבם למלאכות הגדולה,
+
+ובזלה שם יתאספו ראשונה,
+
+לסל המסלה העולה ציונה.
+
+ 
+
+אליכם ציונים נשיאים נשאים,
+
+נקרא בשם ד': ברוכים הבאים!
+
+כן נקרא פה אחד: הבה, נכונה,
+
+הבה נתנה ראש, נשובה ציונה!
+
+ 
+
+בחירי-עם, אצילים, שרי המקהלה,
+
+בהתאספכם שמה לפתור השאלה;
+
+ברכות שמים על ראשכם תבאנה,
+
+ועל ידכם נושע ונעלה ציונה!
+
+ 
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+[1] בבלה כתיב.
+
+
+
+
+
+
+
+
+</body>
+   </text>
+</TEI>

@@ -1,0 +1,289 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>בסנורים</title>
+            <author>יעקב לרנר</author>
+            <respStmt>
+               <name>Mandel Scholion Hebrew Revival Research Group</name>
+               <resp>Formatting of content from the Ben-Yehuda Project to TEI-XML according to the TEI P5 Guidelines.
+                  Addition of dates, not present in the online version, by Shira Wigderson, Asaf Isser, Adi Cohen, Nitzan Cohen, and Adi Cohen.
+               </resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <authority>Project Ben-Yehuda</authority>
+            <idno>http://benyehuda.org/lerner/basanverim.html</idno>
+         </publicationStmt>
+         <sourceDesc xml:lang="Hebrew">
+            <bibl>
+               <date when="1913" notBefore="1913-01-01" notAfter="1913-12-31"/>
+            </bibl>
+            <p>The Ben-Yehuda Project (http://benyehuda.org/). Content provided within the Ben-Yehuda Hackathon at the University of Haifa (THATCamp Haifa, February 2014).</p>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <change>
+            <date>2018-11-01</date>
+            <name>Omer Waldman</name>
+            <note>Correction of previously annotated dates and addition of dates to majority of the works</note>
+         </change>
+         <change>
+            <date>2017-08-09</date>
+            <name>Jerusalem corpus of Emergent Modern Hebrew (JEMH) staff</name>
+            <note>Created the initial version of the content in TEI-XML and added dates (some based on estimation)</note>
+         </change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+
+
+
+
+
+
+
+בסנורים / יעקב לרנר
+
+
+
+
+
+
+
+
+בסנורים
+
+א
+
+ 
+
+כבר הסכן הסכנתי
+עם יומי האלם,
+
+ומזמת צל שותק
+לא תביא בי מרך;
+
+כי ירדה כבר
+נפשי עד תכלית-הדממה,
+
+וכאחד הצללים
+אהלך גם אני...
+
+בהאריך לי ערב
+מול נרי העגום
+
+אהרהר על תהו
+במנוחת-שממון,
+
+עד אצנח צנח,
+עכור-מחשבותי,
+
+ואישן חרדים
+בלי תקוה לחזון.
+
+ולמחר אשכימה,
+דל-נפש ולקוי,
+
+לפהק בעצלה
+לחלל-הערפל
+
+ולשרך שביל
+אובד בלי תלונה וחמדה,
+
+בלי הבחין את
+צלי מצל ישופני
+
+ורשת סנורי
+מסנורי-העולם...
+
+כחפרפר, שהשה
+אור-עין, גיל-שמש,
+
+ששקעו מעיניו
+בטחב ובמחשך –
+
+ויכה מהבין
+מה אפלו מאפל...
+
+ 
+
+ב
+
+ 
+
+ובבוא לי דבר-חזון
+– והיה למגור:
+
+כי יורם אפר-העורון
+מעיני –
+
+ונצבו לפני
+כל צלמי הזעוה
+
+עליזי-צמאון
+ופרועי שחור-לעגם
+
+ששתו לי סביב
+– ואני לא ידעתי.
+
+והצנה אז נפשי
+בעצם אבדנה
+
+כקוץ-הערבה באשון
+ליל-רעם,
+
+בחשף נחש-הברק
+במעוף-עקלתון
+
+כל אפסי-הארץ
+אימי הזעף,
+
+ובהקיץ בי נפשי
+מחזיז-בלהותיה –
+
+ונתקע בקרבה
+גוש רעיון אכזרי 
+
+להיות לה מעין
+שופע תרעלה
+
+ולהחריד בלי
+הרף מנוחת-שממון.
+
+וקנן באפלה
+ונקר שם דומם
+
+כנקר הרמה
+בלב הרקבון,
+
+ויעירה ויעוררה
+להקשיב צחוק-מות
+
+ויעירה ויציקה
+– ואבד כל מנוס...
+
+ 
+
+ 
+
+ג  
+
+נחלשתי ואחז
+– והנה העולם
+
+נתעטף בטלית-התכלת
+הצעירה
+
+ויענד חן-שמש
+עטרה לראשו.
+
+לפני נגלו כל
+אפסי-מרחביה 
+
+יהירת-השלוה
+ובהירת-החדוה;
+
+ושובבי-זהרים,
+הגיוני-העולם,
+
+רחוצים ונהירים
+ופזיזי-גונים,
+
+סבוני כלהקות
+פרפרים רועדים,
+
+התרפק על נפשי
+אף הסוג לאחור,
+
+הדעך ונצנץ
+חליפות...
+
+ותמת בי נפשי
+למודת-הזעף
+
+מפחד-האורה –
+ואפל על פני...
+
+וכהציץ עין-בקר
+– וידד חלומי,
+
+וידעך
+המרא
+ה עם פלאיו וקסמיו
+
+כהסוג הכוכב,
+שנעקר ממקומו,
+
+וכנגה הקשת בין הררי-עננים.
+
+ושוב מול חלוני
+החומה העורה,
+
+המסך הנזעם
+בין שמש וביני;
+
+אך קודרים הבקר
+פניה פי-שבעה,
+
+וזעופה פי-שבעה
+גם נפשי הבקר...
+
+יצאתי מאנס...
+יום חרש בעולם:
+
+עריפי-האפר כמו
+שחו לארץ,
+
+האויר משקה
+אבק-הלחלוחית,
+
+ובבטן-ערפל הקריה
+נחבאה.
+
+ומטשטש וקודר
+כנזוף כל בית
+
+ומרעיף על עצמו
+את דמעו המרשל;
+
+ומצמצם כל עגלון
+עם סוסו הבלה
+
+השוהים על קרנות
+אפופי-נשיה;
+
+וקמוטים ומחשים
+יגששו בני-אדם
+
+בגזרת-ערפל,
+הוא שר-הסנורים;
+
+וקופא, ערירי
+משכמו ומעלה,
+
+שיא מגדל-המצפה
+כתוהה לנצח...
+
+תרע"ג
+
+ 
+
+ 
+
+
+
+
+
+ 
+
+
+
+
+
+
+</body>
+   </text>
+</TEI>

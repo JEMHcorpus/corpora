@@ -1,0 +1,193 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>חנה</title>
+            <author>יהודה ליב גורדון</author>
+            <respStmt>
+               <name>Mandel Scholion Hebrew Revival Research Group</name>
+               <resp>Formatting of content from the Ben-Yehuda Project to TEI-XML according to the TEI P5 Guidelines.
+                  Addition of dates, not present in the online version, by Shira Wigderson, Asaf Isser, Adi Cohen, Nitzan Cohen, and Adi Cohen.
+               </resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <authority>Project Ben-Yehuda</authority>
+            <idno>http://benyehuda.org/yalag/yalag_029.html</idno>
+         </publicationStmt>
+         <sourceDesc xml:lang="Hebrew">
+            <bibl>
+               <date when="1882" notBefore="1882-01-01" notAfter="1882-12-31"/>
+            </bibl>
+            <p>The Ben-Yehuda Project (http://benyehuda.org/). Content provided within the Ben-Yehuda Hackathon at the University of Haifa (THATCamp Haifa, February 2014).</p>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <change>
+            <date>2018-11-01</date>
+            <name>Omer Waldman</name>
+            <note>Correction of previously annotated dates and addition of dates to majority of the works</note>
+         </change>
+         <change>
+            <date>2017-08-09</date>
+            <name>Jerusalem corpus of Emergent Modern Hebrew (JEMH) staff</name>
+            <note>Created the initial version of the content in TEI-XML and added dates (some based on estimation)</note>
+         </change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+
+
+
+
+
+
+
+חנה / יהודה ליב גורדון
+
+
+
+
+
+
+
+
+חנה
+
+(לאחר שלשים
+שנה)
+
+ 
+
+שבתי וראיתיך,
+יפתי בנער –
+
+ומשמי השמים
+ארצה נפלתי!
+
+הפניך אלה? אם
+זה התאר
+
+לו כלתה נפשי,
+אליו התפללתי?
+
+ 
+
+עוטה אור כשלמה
+ומלאתי חן חן,
+
+צאצאי האביב
+עטרים אליך –
+
+כן בחלומי
+חזיתיך; – עתה לא-כן!
+
+הה מה אראה בך?
+האלה פניך?
+
+ 
+
+פנים כניר, כתלמים
+הלחיים,
+
+עין פשתה כהה,
+שפה נובלת;
+
+בראש קרחה, בפה
+נקיון שנים,
+
+הערקים ציה,
+הירך נופלת.
+
+ 
+
+הוי חרבות היכל,
+הריסות מזבח
+
+מכתת כוכב אור
+משלך ממסלתו,
+
+קשת בלי-צבעים,
+בלקויו ירח,
+
+שמים – אין בם
+אדני ושכינתו!!
+
+ 
+
+היכלך ציון העתיק
+חזיתי,
+
+על עיי מפלתו נפשי שפכתי,
+
+ובחרדת קדש
+אבניו רציתי,
+
+ועפר חרבותיו
+נשקתי, לחכתי;
+
+ 
+
+איכה כנציב קרח
+עתה הנני
+
+למראה החרבות
+אלה העתיקות?
+
+מדוע חרדת קדש
+לא תחדרני,
+
+מדוע בשפתי
+קפאו הנשיקות?
+
+ 
+
+ואני אמרתי:
+זקנה לא תיראי,
+
+שני העת בך,
+חנה, לא תשלטנה;
+
+ביפי רוחך לעד
+יפה תראי
+
+ובמוט גוך יקרותיך
+לא תמעטנה.
+
+ 
+
+אולם חק חק לנו
+אבי הבריאה,
+
+השכן גם הוא
+בית-נגה וזהר,
+
+כי טוב גו בריא
+לנפש הבריאה
+
+ומעלות רוח –
+עם עדנה ונער.
+
+ 
+
+ר"ח ניסן,
+תרמ"ב
+
+ 
+
+
+
+
+
+ 
+
+
+
+
+
+
+</body>
+   </text>
+</TEI>

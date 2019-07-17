@@ -1,0 +1,159 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>חלפה על-פני</title>
+            <author>חיים נחמן ביאליק</author>
+            <respStmt>
+               <name>Mandel Scholion Hebrew Revival Research Group</name>
+               <resp>Formatting of content from the Ben-Yehuda Project to TEI-XML according to the TEI P5 Guidelines.
+                  Addition of dates, not present in the online version, by Shira Wigderson, Asaf Isser, Adi Cohen, Nitzan Cohen, and Adi Cohen.
+               </resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <authority>Project Ben-Yehuda</authority>
+            <idno>http://benyehuda.org/bialik/bia092.html</idno>
+         </publicationStmt>
+         <sourceDesc xml:lang="Hebrew">
+            <bibl>
+               <date when="1916" notBefore="1916-01-01" notAfter="1916-12-31"/>
+            </bibl>
+            <p>The Ben-Yehuda Project (http://benyehuda.org/). Content provided within the Ben-Yehuda Hackathon at the University of Haifa (THATCamp Haifa, February 2014).</p>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <change>
+            <date>2018-11-01</date>
+            <name>Omer Waldman</name>
+            <note>Correction of previously annotated dates and addition of dates to majority of the works</note>
+         </change>
+         <change>
+            <date>2017-08-09</date>
+            <name>Jerusalem corpus of Emergent Modern Hebrew (JEMH) staff</name>
+            <note>Created the initial version of the content in TEI-XML and added dates (some based on estimation)</note>
+         </change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+
+
+
+
+
+
+
+חלפה על-פני / חיים נחמן ביאליק
+
+
+
+
+
+
+
+
+
+
+
+
+חלפה על-פני
+
+ 
+
+חלפה על-פני
+נשמת אפך, אלהים, ותלהטני,
+
+וקצה אצבעך
+החריד רגע מיתרי לבבי,
+
+ואני זחלתי
+ואדם ואכלא המית רוחי;
+
+בתוכי
+התעטף לבי וזמרתי לא-שטפה פי:
+
+במה אבא
+אל-הקדש ואיככה תטהר תפלתי? –
+
+ושפתי,
+אלהים, שקצה כלה ותהי כשפת פגולים,
+
+ומלה אין
+בקרבה אשר לא-נטמאה עוד עד-שרשה,
+
+וניב אין אשר
+לא-התעללו בו שפתים נאלחות,
+
+ואין הגיג
+אשר לא-נסחב עוד אל בית הקלון.
+
+יוני הזכות,
+שלחתין לעת בקר שמימה,
+
+שבו אלי לעת
+ערב – והנן ערבים מלמדי אשפתות,
+
+צוחה נתעבה
+בגרונם ובשר נבלה בפיהם.
+
+אפפוני מלים
+תופפות, כעדת קדשות כתרוני,
+
+נוצצות
+בעדיי שוא ומתיפיפות בחן רמיה,
+
+חכלילות
+הפוך בעיניהן ורקב הזמה בעצמותן,
+
+ובכנפיהן
+ילדי נאפופים, ממזרי עט ורעיון,
+
+עתק ושחץ
+כלם, לשון רהב ולב נבוב,
+
+עם-הקימוש
+ועם-החוח יפרו ואין מפניהם מנוס.
+
+יום יום, עם
+גרף הביבים ועם שפך העביטים,
+
+יבקיע באשם
+עד-אף כל-נסגר בחדרו ושופך לבו,
+
+לטמא עליו
+הבל פיו ולהשבית רוחו מטהרו.
+
+אנה אלך
+מריחם? ואנה מהמונם אסתר?
+
+ומי-הוא
+השרף אשר-יגעיל פי ברצפת אשו?
+
+אל צפרי
+השדה אצא, המצפצפות לפנות בקר,
+
+או אקומה
+אלכה-לי אל-הילדים, המשחקים לתמם בשער,
+
+אבא אתערב
+בקהלם, אאלף שיחם ולהגם –
+
+וטהרתי
+מרוח פיהם ובנקיונם ארחץ שפתי.
+
+ 
+
+ניסן, תרע"ו.
+
+
+
+
+
+  
+
+
+</body>
+   </text>
+</TEI>

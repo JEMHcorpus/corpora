@@ -1,0 +1,134 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>ובמטה הלז...</title>
+            <author>מיכה יוסף לבנזון</author>
+            <respStmt>
+               <name>Mandel Scholion Hebrew Revival Research Group</name>
+               <resp>Formatting of content from the Ben-Yehuda Project to TEI-XML according to the TEI P5 Guidelines.
+                  Addition of dates, not present in the online version, by Shira Wigderson, Asaf Isser, Adi Cohen, Nitzan Cohen, and Adi Cohen.
+               </resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <authority>Project Ben-Yehuda</authority>
+            <idno>http://benyehuda.org/lebensohn/lebensohn_34.html</idno>
+         </publicationStmt>
+         <sourceDesc xml:lang="Hebrew">
+            <bibl>
+               <date when="1870" notBefore="1870-01-01" notAfter="1870-12-31"/>
+            </bibl>
+            <p>The Ben-Yehuda Project (http://benyehuda.org/). Content provided within the Ben-Yehuda Hackathon at the University of Haifa (THATCamp Haifa, February 2014).</p>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <change>
+            <date>2018-11-01</date>
+            <name>Omer Waldman</name>
+            <note>Correction of previously annotated dates and addition of dates to majority of the works</note>
+         </change>
+         <change>
+            <date>2017-08-09</date>
+            <name>Jerusalem corpus of Emergent Modern Hebrew (JEMH) staff</name>
+            <note>Created the initial version of the content in TEI-XML and added dates (some based on estimation)</note>
+         </change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+
+
+
+
+
+
+ובמטה הלז... / מיכה יוסף לבנזון
+
+
+
+
+
+
+
+
+עוד לו מצאתי סוף אחד השירים המחבר 
+
+על הר אטלס ותחלתו איננה. וזהו סופו:[1]
+
+ 
+
+ובמטה הלז
+הסער הרגיע
+
+וינהג בעזו
+סערות השמים,
+
+אז אל מצח
+אטלס  מועף הגיע
+
+גבהי שכמו
+מרחוק יחזו עינים.
+
+ 
+
+נושאים שמים
+משא לעיפה,
+
+בין חשכת
+עבים קדקדו ינוח,
+
+זרם וברד
+עליו אספו אספה
+
+ובשצף קצף
+יכנו הרוח.
+
+ 
+
+על עז-כתפיו
+חופף שלג-עולמים
+
+וקוצותיו
+זקנו – הוי שמה ופחד!
+
+מקרח הנורא
+כסו גם יחד
+
+רטבה לחיו
+מחשרת זרם וגשמים.
+
+ 
+
+ 
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+[1]  נעתק מן שיר דידו
+לווירגיל.
+
+
+
+
+
+
+
+
+</body>
+   </text>
+</TEI>

@@ -1,0 +1,172 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>שמעון שמואל פרוג</title>
+            <author>יהודה ליב גורדון</author>
+            <respStmt>
+               <name>Mandel Scholion Hebrew Revival Research Group</name>
+               <resp>Formatting of content from the Ben-Yehuda Project to TEI-XML according to the TEI P5 Guidelines.
+                  Addition of dates, not present in the online version, by Shira Wigderson, Asaf Isser, Adi Cohen, Nitzan Cohen, and Adi Cohen.
+               </resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <authority>Project Ben-Yehuda</authority>
+            <idno>http://benyehuda.org/yalag/Ylg284.html</idno>
+         </publicationStmt>
+         <sourceDesc xml:lang="Hebrew">
+            <bibl>
+               <date when="1884" notBefore="1884-01-01" notAfter="1884-12-31"/>
+            </bibl>
+            <p>The Ben-Yehuda Project (http://benyehuda.org/). Content provided within the Ben-Yehuda Hackathon at the University of Haifa (THATCamp Haifa, February 2014).</p>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <change>
+            <date>2018-11-01</date>
+            <name>Omer Waldman</name>
+            <note>Correction of previously annotated dates and addition of dates to majority of the works</note>
+         </change>
+         <change>
+            <date>2017-08-09</date>
+            <name>Jerusalem corpus of Emergent Modern Hebrew (JEMH) staff</name>
+            <note>Created the initial version of the content in TEI-XML and added dates (some based on estimation)</note>
+         </change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+
+
+
+
+
+
+שמעון שמואל פרוג / י"ל גורדון
+
+
+
+
+
+
+
+
+להמשורר הצעיר,
+הסופר המהיר
+
+ 
+
+השר שיר ה' בלשון נכר
+
+ 
+
+שמעון
+שמואל פרוג
+
+ 
+
+עלה נבל אנכי
+– אתה ציץ פרח,
+
+יבש כחרש
+כחי – אתה מלא לח;
+
+יומי יפנה
+לערב, זמתי נתקו –
+
+בך חזון
+ונער נפגשו נשקו.
+
+ 
+
+הא לך קמץ
+עלים! הפך בם כי בם שמתי
+
+את כל
+חלומותי בימי חלדי חלמתי,
+
+ובעת גם
+חלדי זה לחלם עבר יהי
+
+הן אתה לחלם
+במקומי אז תהי.
+
+ 
+
+רוח שיר אדני
+פעם תפעמך
+
+ובלבך תוקד
+אש אהבת עמך,
+
+ושפתו
+בשפתך אם אמנם איננה
+
+כל בנות
+שירך לשברנו תהימנה;
+
+ 
+
+ושברנו
+גדול כים, אין גבול לקרץ,
+
+נאקתנו עולה
+מקצות כל הארץ;
+
+בין כל עם
+ולשון נרדפנו, ענינו,
+
+ובלשון כל
+עם ישמע בכינו.
+
+ 
+
+הרם אפוא
+קולך קול חוצב להבות,
+
+הכה הכנור
+וירעשו הלבבות!
+
+אם יכל לא
+נוכל לעזר לצרה –
+
+נקל חלינו
+בהאנחנו מרה.
+
+ 
+
+שירה שיריך
+למשנאינו בלשונם,
+
+ספר להם
+ענינו, ספר את זדונם;
+
+מה-נטיף
+לעברים? הם ענים ידעו!
+
+נטיף לעמים –
+יחרדו, ישמעו!!
+
+ 
+
+שוואלאווא (הסמוכה לפ"ב) ט"ו תמוז
+תרמ"ד.
+
+ 
+
+
+
+
+
+ 
+
+
+
+
+
+
+</body>
+   </text>
+</TEI>

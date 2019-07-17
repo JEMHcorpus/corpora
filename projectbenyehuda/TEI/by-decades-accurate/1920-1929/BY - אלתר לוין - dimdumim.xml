@@ -1,0 +1,145 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>עם אחרון דמדומים</title>
+            <author>אלתר לוין</author>
+            <respStmt>
+               <name>Mandel Scholion Hebrew Revival Research Group</name>
+               <resp>Formatting of content from the Ben-Yehuda Project to TEI-XML according to the TEI P5 Guidelines.
+                  Addition of dates, not present in the online version, by Shira Wigderson, Asaf Isser, Adi Cohen, Nitzan Cohen, and Adi Cohen.
+               </resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <authority>Project Ben-Yehuda</authority>
+            <idno>http://benyehuda.org/levin/dimdumim.html</idno>
+         </publicationStmt>
+         <sourceDesc xml:lang="Hebrew">
+            <bibl>
+               <date when="1920" notBefore="1920-01-01" notAfter="1920-12-31"/>
+            </bibl>
+            <p>The Ben-Yehuda Project (http://benyehuda.org/). Content provided within the Ben-Yehuda Hackathon at the University of Haifa (THATCamp Haifa, February 2014).</p>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <change>
+            <date>2018-11-01</date>
+            <name>Omer Waldman</name>
+            <note>Correction of previously annotated dates and addition of dates to majority of the works</note>
+         </change>
+         <change>
+            <date>2017-08-09</date>
+            <name>Jerusalem corpus of Emergent Modern Hebrew (JEMH) staff</name>
+            <note>Created the initial version of the content in TEI-XML and added dates (some based on estimation)</note>
+         </change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+
+
+
+
+
+
+
+עם אחרון דמדומים / אלתר לוין (אסף הלוי איש ירושלים)
+
+
+
+ 
+
+
+
+
+  
+  
+
+
+עם
+אחרון דמדומים / אלתר לוין (אסף הלוי איש ירושלים)
+
+ 
+
+יד
+
+ 
+
+עם אחרון
+דמדומים וקרן גלמודה גועת
+
+בשקיעת החמה,
+בערב דומע והולך–
+
+לגעגועי
+נתתי דרור!..
+
+ביריעת דינור
+עוטפת שפולי רקיעים,
+
+רועדת באורים
+ההולכים וכבים,
+
+ארגתי פתיל
+געגועי...
+
+ 
+
+על מיתת
+הנשיקה של אורות אדירים,
+
+נאספים באין
+דמע, באין בוכים למו,
+
+הורדתי אני
+הדמעה...
+
+ויהיו
+ההרים, כמוני, מלוי להבה
+
+שרסיסי טל
+לילה כבו גחלתה
+
+וגם שירי בין
+המלוים!..
+
+ 
+
+עם טבילת
+השמש בהתקדשו בטהרה
+
+ונושק ברעדה
+את הרי ישראל,
+
+טבל גם שירי
+בטהרה...
+
+ועם אחרון
+דמדומים ויחידת קרן גועת,
+
+בשקיעה
+הררית, בערב רמתי וחולם,
+
+לא גועו
+געגועי לעד!..
+
+ 
+
+ 
+
+
+
+
+
+ 
+
+
+
+
+
+
+</body>
+   </text>
+</TEI>

@@ -1,0 +1,178 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>לבקרי</title>
+            <author>אלתר לוין</author>
+            <respStmt>
+               <name>Mandel Scholion Hebrew Revival Research Group</name>
+               <resp>Formatting of content from the Ben-Yehuda Project to TEI-XML according to the TEI P5 Guidelines.
+                  Addition of dates, not present in the online version, by Shira Wigderson, Asaf Isser, Adi Cohen, Nitzan Cohen, and Adi Cohen.
+               </resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <authority>Project Ben-Yehuda</authority>
+            <idno>http://benyehuda.org/levin/levokri.html</idno>
+         </publicationStmt>
+         <sourceDesc xml:lang="Hebrew">
+            <bibl>
+               <date when="1920" notBefore="1920-01-01" notAfter="1920-12-31"/>
+            </bibl>
+            <p>The Ben-Yehuda Project (http://benyehuda.org/). Content provided within the Ben-Yehuda Hackathon at the University of Haifa (THATCamp Haifa, February 2014).</p>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <change>
+            <date>2018-11-01</date>
+            <name>Omer Waldman</name>
+            <note>Correction of previously annotated dates and addition of dates to majority of the works</note>
+         </change>
+         <change>
+            <date>2017-08-09</date>
+            <name>Jerusalem corpus of Emergent Modern Hebrew (JEMH) staff</name>
+            <note>Created the initial version of the content in TEI-XML and added dates (some based on estimation)</note>
+         </change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+
+
+
+
+
+
+
+לבקרי / אלתר לוין (אסף הלוי איש ירושלים)
+
+
+
+ 
+
+
+
+
+  
+  
+
+
+לבקרי / אלתר לוין (אסף הלוי איש
+ירושלים)
+
+ 
+
+טו
+
+ 
+
+חרש, חרש נא,
+בקרי, תלמי נחלה, מכורות ארץ אבות!..
+
+היה ברוך בקרי,
+חורש נאמן, עובד אדמת קדש!
+
+חלילה, מקלי,
+מקל חובלים, מלמד יעשה רעות:
+
+השמר, מקלי,
+אל לך הכות!  בהמתי תבין
+אמר,
+
+תבין קריאה,
+חובת עליון, למשך, למשך במחרשה,
+
+לחרש יפה
+ולפלח אחזת קרקע, נחלת קדומים, –
+
+חרש, חרש-נא,
+בקרי, סמל קדושה, נס עברים!...
+
+הנך מושך,
+בקרי נאמן, אותך אראה בחזוני:
+
+צפויי זהב הקרנים,
+עטורות זית, הוד כתרים,
+
+סלי זהב, סל
+בכורים, עטוי גוך קלתות נצרים!
+
+הנך הולך,
+בקרי נאמן, אותך אראה בחלומי:
+
+עולה הרים, אל
+הר ציון, מאזין מזמור אנשי מעמד,
+
+מקשיב שירה,
+רן הלוי, הולך ראש ומכה חליל! – – –
+
+בקרי!  מה יקרת לי, מעורר רזי קדם!
+
+האותך יכה מקלי חובלים, אותך בקרי
+חמד?
+
+ישמר אלי את
+אדונך, כה לא יעשה לעבד נאמן!
+
+עבד עמי,
+עובד ארצי, חורש קרקע עתידותי,
+
+זורע זרע ניר
+אמתי ומצמיח ציץ תקותי!
+
+חלילה לי!
+השתמש בבשרך ואף-גם לדבר מצוה,
+
+לנתח גוך
+ולשלח נתח אל כל גבולות ארצי,
+
+לאמר: "כה
+יעשה לבקרו, ללא בא לתשועת עמי!"
+
+חלילה לי!  אם לא בא עמי, עמי בגבורים,
+
+אקח מקלי,
+מקל חובלים, שוטי, שוט המיסרים,
+
+אוריד, אוריד
+מקל חובלים ובכח על הלבבות,
+
+לעורר אותם,
+לפקד אותם, לאלפים ולרבבות,
+
+להוריד שוטי
+עלי עמי, ליסר אותם בעקרבים,
+
+מוסר אלים
+העליונים, מוסר אלים האדירים!
+
+לא עליך מקל
+חובלים, כי קדוש אתה שורי,
+
+קדוש אתה אל
+אל עזי, מקדש למזבח אל הצבאות – 
+
+חרש, חרש-נא,
+בקרי נאמן, ניר אבותי, מכורות ארץ קדשי!
+
+ 
+
+ 
+
+
+
+
+
+ 
+
+ 
+
+
+
+
+
+
+</body>
+   </text>
+</TEI>

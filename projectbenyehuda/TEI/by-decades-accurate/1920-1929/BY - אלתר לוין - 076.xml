@@ -1,0 +1,184 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>לנביאים לבי</title>
+            <author>אלתר לוין</author>
+            <respStmt>
+               <name>Mandel Scholion Hebrew Revival Research Group</name>
+               <resp>Formatting of content from the Ben-Yehuda Project to TEI-XML according to the TEI P5 Guidelines.
+                  Addition of dates, not present in the online version, by Shira Wigderson, Asaf Isser, Adi Cohen, Nitzan Cohen, and Adi Cohen.
+               </resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <authority>Project Ben-Yehuda</authority>
+            <idno>http://benyehuda.org/levin/076.html</idno>
+         </publicationStmt>
+         <sourceDesc xml:lang="Hebrew">
+            <bibl>
+               <date when="1920" notBefore="1920-01-01" notAfter="1920-12-31"/>
+            </bibl>
+            <p>The Ben-Yehuda Project (http://benyehuda.org/). Content provided within the Ben-Yehuda Hackathon at the University of Haifa (THATCamp Haifa, February 2014).</p>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <change>
+            <date>2018-11-01</date>
+            <name>Omer Waldman</name>
+            <note>Correction of previously annotated dates and addition of dates to majority of the works</note>
+         </change>
+         <change>
+            <date>2017-08-09</date>
+            <name>Jerusalem corpus of Emergent Modern Hebrew (JEMH) staff</name>
+            <note>Created the initial version of the content in TEI-XML and added dates (some based on estimation)</note>
+         </change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+
+
+
+
+
+
+
+לנביאים לבי / אלתר לוין
+
+
+
+
+
+
+
+
+לנביאים לבי
+
+אלתר
+לוין
+
+ 
+
+אין חזון!
+
+כי סגר אלוה
+בעד פיות החוזים
+
+ובעד לבבם
+השע;
+
+לא הגידו
+לעם, שמועה בל שמענו,
+
+מעל ראשי
+ההרים צל נסם מתנוסס
+
+לא ראינו;
+קולם האדיר והומה כים –
+
+גוע
+ואיננו!..
+
+ 
+
+אין חזון!
+
+מראמות הראל
+לא ירדו אלינו
+
+רעמי
+מתנבאים;
+
+לא שאלו
+לקדשים, לא נלוו לדבר אדני,
+
+חזונם לא
+נשאו ולא פקדו ליום צבאות,
+
+לא בשרו
+שבות עמם ולא נבאו לאידו,
+
+קולם גוע!
+
+גוע ששונם
+ובכים גם יחד!
+
+ותשבר
+קשתם, נגדע פטישם החזק
+
+וישימו
+משכנם הסלע, פנו להם המדברה
+
+כי נסתרה דרך
+הרואים...
+
+ 
+
+אין חזון!
+
+לא המריא
+בגשר ודאה חזונם המנבא
+
+וקורא לגאולי
+אדני;
+
+לא בקע רעמם
+האדיר ושבר דלתות התלאה
+
+וידם הנטויה
+לא פתחה שערי הגאלה – 
+
+לא!
+
+לשוא תטו
+אזן לרוח הגבעות כי יעטוף לבקרים
+
+פן יתגנב
+אליכם דבר אלהים לעבדיו;
+
+לשוא
+בקשתם בהרי יהודה וענתות בארץ בנימין,
+
+בהרי אפרים
+ושמרון – נביא ורואה בישראל:
+
+לשוא!
+
+כסו אלהים
+אדירים בערפלי דורות משאון
+
+על משא
+החוזים;
+
+הסתר הסתיר
+פניו מהם כי פקד עליהם
+
+אל אדיר
+הדממה!
+
+ויצו לחשות
+ולא להשבע בשמו
+
+כי אין מענה
+אלהים!...
+
+ 
+
+
+
+
+
+ 
+
+ 
+
+
+
+
+
+
+</body>
+   </text>
+</TEI>

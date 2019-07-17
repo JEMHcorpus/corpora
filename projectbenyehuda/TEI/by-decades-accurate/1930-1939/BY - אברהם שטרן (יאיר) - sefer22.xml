@@ -1,0 +1,305 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>שמחת-תורה</title>
+            <author>אברהם שטרן ("יאיר")</author>
+            <respStmt>
+               <name>Mandel Scholion Hebrew Revival Research Group</name>
+               <resp>Formatting of content from the Ben-Yehuda Project to TEI-XML according to the TEI P5 Guidelines.
+                  Addition of dates, not present in the online version, by Shira Wigderson, Asaf Isser, Adi Cohen, Nitzan Cohen, and Adi Cohen.
+               </resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <authority>Project Ben-Yehuda</authority>
+            <idno>http://benyehuda.org/stern_avraham/sefer22.html</idno>
+         </publicationStmt>
+         <sourceDesc xml:lang="Hebrew">
+            <bibl>
+               <date when="1933" notBefore="1933-01-01" notAfter="1933-12-31"/>
+            </bibl>
+            <p>The Ben-Yehuda Project (http://benyehuda.org/). Content provided within the Ben-Yehuda Hackathon at the University of Haifa (THATCamp Haifa, February 2014).</p>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <change>
+            <date>2018-11-01</date>
+            <name>Omer Waldman</name>
+            <note>Correction of previously annotated dates and addition of dates to majority of the works</note>
+         </change>
+         <change>
+            <date>2017-08-09</date>
+            <name>Jerusalem corpus of Emergent Modern Hebrew (JEMH) staff</name>
+            <note>Created the initial version of the content in TEI-XML and added dates (some based on estimation)</note>
+         </change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+
+
+
+
+
+
+
+שמחת-תורה /
+אברהם שטרן
+("יאיר")
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+שמחת-תורה
+/ אברהם שטרן
+("יאיר")
+
+ 
+
+שלחן
+חגר בבית-כנסת
+
+יהי
+הלילה מטתי,
+
+הסגן
+שומר על המרפסת
+
+ומחצות
+שומר אני.
+
+ 
+
+מטה
+הצעתי: שק
+פרוע.
+
+בבא
+קמא למראשות.
+
+נצב
+המאוזר
+על יצוע,
+
+מלאך-ברזל
+נוצר משד.
+
+ 
+
+בעד
+סורג ריסי-עינים,
+
+אסיר-חלום
+כיעקב,
+
+אראה:
+כמלאכי
+שמים
+
+החסידים.
+קלף צהב –
+
+ 
+
+זקן
+חלוד. גבם
+שחוח,
+
+עטור-פרוה
+ראשם הרם.
+
+וטוב
+לבם בבוא
+לשמח
+
+לכבוד
+יום-טוב בסוד
+בוראם.
+
+ 
+
+תמיד
+שונות הן
+דרכינו:
+
+אתם
+לכתל נוהרים
+
+
+בחג;
+אבל מחוז-חפצנו
+
+היא
+הבקעה בחיק-הרים.
+
+ 
+
+בה
+שממה יקום
+נוגשת,
+
+שם
+נקבל פני-שבת
+
+ונתפלל
+בבית-כנסת
+
+בלב-הרים.
+אקדח ביד.
+
+ 
+
+עתה
+אתו לבית-כנסת
+
+בן-יעקב
+כבן-עשו.
+
+אתכם
+שמחת-תורה
+כונסת,
+
+אותנו
+אף שמחת-קרב.
+
+ 
+
+בהקפות
+נצא כלנו,
+
+יגל
+ישיש, ישיש
+אבל,
+
+רקדו
+אתם, נרקד
+גם אנו,
+
+נרקיד
+באון מלא
+תבל.
+
+ 
+
+וטופפות
+כתף רגלים,
+
+פיות
+שרים כחלילים,
+
+אל
+אלהי-ירושלים
+
+בשיר-מחול
+מתפללים.
+
+ 
+
+ויתחולל
+מחול כסער,
+
+יחול
+הבית כסירה,
+
+ינוד
+כתרן סף-השער,
+
+פרכת
+כמפרש יפרע.
+
+ 
+
+אבל
+לאט לאות
+גוברת,
+
+לעה
+השיר, להו
+קולות,
+
+אט
+מתפוררת
+השרשרת,
+
+אט-אט
+כלים המחלות.
+
+ 
+
+שחו
+גבים, רפו
+ידים,
+
+פנים
+חפו, דהו
+קירות.
+
+כהו
+נרות, כבו
+עינים,
+
+שבת
+בלב. משוש
+אורות.
+
+ 
+
+דועך
+לפני ארון
+הקדש
+
+אור
+פתילה אחרונה,
+
+ביון-חלין
+נטמא ציץ-קדש,
+
+נסתלקה
+השכינה.
+
+ 
+
+נלון,
+אחי. הלילה
+לנו.
+
+יום-למלאך-החבלה.
+
+נלך
+לקראת קרב
+כלנו,
+
+פני
+גורל נקבלה.
+
+ 
+
+כג
+בתשרי  תרצ"ד
+
+
+
+
+
+ 
+
+
+
+
+
+
+</body>
+   </text>
+</TEI>

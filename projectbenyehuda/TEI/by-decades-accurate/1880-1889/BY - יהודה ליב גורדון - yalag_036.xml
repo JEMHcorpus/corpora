@@ -1,0 +1,205 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>אתם עדי!</title>
+            <author>יהודה ליב גורדון</author>
+            <respStmt>
+               <name>Mandel Scholion Hebrew Revival Research Group</name>
+               <resp>Formatting of content from the Ben-Yehuda Project to TEI-XML according to the TEI P5 Guidelines.
+                  Addition of dates, not present in the online version, by Shira Wigderson, Asaf Isser, Adi Cohen, Nitzan Cohen, and Adi Cohen.
+               </resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <authority>Project Ben-Yehuda</authority>
+            <idno>http://benyehuda.org/yalag/yalag_036.html</idno>
+         </publicationStmt>
+         <sourceDesc xml:lang="Hebrew">
+            <bibl>
+               <date when="1883" notBefore="1883-01-01" notAfter="1883-12-31"/>
+            </bibl>
+            <p>The Ben-Yehuda Project (http://benyehuda.org/). Content provided within the Ben-Yehuda Hackathon at the University of Haifa (THATCamp Haifa, February 2014).</p>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <change>
+            <date>2018-11-01</date>
+            <name>Omer Waldman</name>
+            <note>Correction of previously annotated dates and addition of dates to majority of the works</note>
+         </change>
+         <change>
+            <date>2017-08-09</date>
+            <name>Jerusalem corpus of Emergent Modern Hebrew (JEMH) staff</name>
+            <note>Created the initial version of the content in TEI-XML and added dates (some based on estimation)</note>
+         </change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+
+
+
+
+
+
+
+אתם עדי! / י"ל גורדון
+
+
+
+
+
+
+
+
+אתם עדי!
+
+ 
+
+עטי, עט סופר,
+קומה ופצה פיך,
+
+ענה אם בכסף
+מכר מכרתיך,
+
+אם קסמתי בך
+מקסם חוברי חבר –
+
+ענה בי נגד כל
+יודעי שפת עבר.
+
+ 
+
+אם שמתיך לקרדם
+בו אכל חפרתי,
+
+ולמחתה – עליה
+קטרת הקטרתי,
+
+אם כחצצרה היית
+לי להריע
+
+מה-שחי בכיתי
+בקהל השמיע.
+
+ 
+
+לא שרתי לשר,
+לא שרתי לנדיבים,
+
+לא פערתי פי
+למלקוש
+ורביבים;
+
+לא פצחתי רנה
+עת אשה ארשתי.
+
+לא נשאתי קינה
+עת אתה גרשתי.
+
+ 
+
+בנים לי נולדו
+– שירי לא נשמעו,
+
+חלו ומתו – אנחותי
+לא באו.
+
+לא רקדו לי הרים,
+לא רנו שמים
+
+וליושבי תבל
+לא צללו אזנים.
+
+ 
+
+לבני עמי ואלהי
+אתך הקדשתי;
+
+חלמות חלמתי,
+פתרנים בקשתי,
+
+חלמתי חלמתי
+עד באי הלם
+
+ואיקץ ונפשי
+רקה – והנה חלום.
+
+ 
+
+שמעו בני עמי,
+ראו בעלי בריתי,
+
+כי רקה נפשי,
+נעור ורק כיסי,
+
+כי אפחד לא אבטח
+ממות ברעב
+
+ויחנוני ויתנו
+לי – עט זהב.
+
+ 
+
+עטי, עט זהב,  קום נא ופצה פיך,
+
+ענה בי גם אתה
+המכר מכרתיך;
+
+נשאתי מחסור,
+עד פת לחם באתי.
+
+ולבית הנשה אתך
+לא נשאתי.
+
+ 
+
+אתם, עטי, עדי
+נגד כל קמי,
+
+כי בתם וישר
+יגעתי כל ימי,
+
+כי כסופר בעמו
+מלאתי חובתי
+
+ומנוחה עד יום
+אחרון לא מצאתי.
+
+ 
+
+רק אתך, עט סופרים,
+מהורי ירשתי
+
+רק אתך, עט זהב,
+בחיי רכשתי,
+
+רק אתכם אשאיר
+אחרי ברדתי קבר!
+
+עט זהבי ליורשי
+– ולמי עט שפת עבר?
+
+ 
+
+ח"י חשון
+תרמ"ג
+
+ 
+
+
+
+
+
+ 
+
+
+
+
+
+
+</body>
+   </text>
+</TEI>

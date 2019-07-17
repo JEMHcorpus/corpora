@@ -1,0 +1,128 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>כנרת</title>
+            <author>רחל בלובשטיין</author>
+            <respStmt>
+               <name>Mandel Scholion Hebrew Revival Research Group</name>
+               <resp>Formatting of content from the Ben-Yehuda Project to TEI-XML according to the TEI P5 Guidelines.
+                  Addition of dates, not present in the online version, by Shira Wigderson, Asaf Isser, Adi Cohen, Nitzan Cohen, and Adi Cohen.
+               </resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <authority>Project Ben-Yehuda</authority>
+            <idno>http://benyehuda.org/rachel/Rac051.html</idno>
+         </publicationStmt>
+         <sourceDesc xml:lang="Hebrew">
+            <bibl>
+               <date when="1927" notBefore="1927-01-01" notAfter="1927-12-31"/>
+            </bibl>
+            <p>The Ben-Yehuda Project (http://benyehuda.org/). Content provided within the Ben-Yehuda Hackathon at the University of Haifa (THATCamp Haifa, February 2014).</p>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <change>
+            <date>2018-11-01</date>
+            <name>Omer Waldman</name>
+            <note>Correction of previously annotated dates and addition of dates to majority of the works</note>
+         </change>
+         <change>
+            <date>2017-08-09</date>
+            <name>Jerusalem corpus of Emergent Modern Hebrew (JEMH) staff</name>
+            <note>Created the initial version of the content in TEI-XML and added dates (some based on estimation)</note>
+         </change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+
+
+
+
+
+
+
+כנרת
+
+
+
+
+
+
+
+
+
+
+
+כנרת
+
+ 
+
+שם הרי גולן,
+הושט היד וגע בם! –
+
+בדממה
+בוטחת מצוים:  עצר.
+
+בבדידות
+קורנת נם חרמון הסבא
+
+וצנה נושבת
+מפסגת הצחור.
+
+ 
+
+שם על חוף
+הים יש דקל שפל צמרת,
+
+סתור שער הדקל
+כתינוק שובב,
+
+שגלש למטה
+ובמי כנרת
+
+משכשך
+רגליו.
+
+ 
+
+מה ירבו
+פרחים בחרף על הכרך,
+
+דם הכלנית
+וכתם הכרכם,
+
+יש ימים – פי
+שבע אז ירק הירק,
+
+פי שבעים
+תכלה התכלת במרום.
+
+ 
+
+גם כי אורש
+ואהלך שחוח,
+
+והיה הלב
+למשואות זרים –
+
+האוכל לבגד
+בך, האוכל לשכח
+
+חסד נעורים?
+
+ 
+
+תל-אביב, תרפ"ז
+
+
+
+
+
+
+</body>
+   </text>
+</TEI>

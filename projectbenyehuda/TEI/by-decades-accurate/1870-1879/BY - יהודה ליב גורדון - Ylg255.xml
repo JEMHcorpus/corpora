@@ -1,0 +1,243 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>למשה מונטיפיורי</title>
+            <author>יהודה ליב גורדון</author>
+            <respStmt>
+               <name>Mandel Scholion Hebrew Revival Research Group</name>
+               <resp>Formatting of content from the Ben-Yehuda Project to TEI-XML according to the TEI P5 Guidelines.
+                  Addition of dates, not present in the online version, by Shira Wigderson, Asaf Isser, Adi Cohen, Nitzan Cohen, and Adi Cohen.
+               </resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <authority>Project Ben-Yehuda</authority>
+            <idno>http://benyehuda.org/yalag/Ylg255.html</idno>
+         </publicationStmt>
+         <sourceDesc xml:lang="Hebrew">
+            <bibl>
+               <date when="1872" notBefore="1872-01-01" notAfter="1872-12-31"/>
+            </bibl>
+            <p>The Ben-Yehuda Project (http://benyehuda.org/). Content provided within the Ben-Yehuda Hackathon at the University of Haifa (THATCamp Haifa, February 2014).</p>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <change>
+            <date>2018-11-01</date>
+            <name>Omer Waldman</name>
+            <note>Correction of previously annotated dates and addition of dates to majority of the works</note>
+         </change>
+         <change>
+            <date>2017-08-09</date>
+            <name>Jerusalem corpus of Emergent Modern Hebrew (JEMH) staff</name>
+            <note>Created the initial version of the content in TEI-XML and added dates (some based on estimation)</note>
+         </change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+
+
+
+
+
+
+למשה מונטיפיורי
+
+
+
+
+
+
+
+
+למשה מונטיפיורי
+
+להשר
+הגדול העומד על עמו
+
+ר'
+משה מונטיפיורי כבוד
+שמו
+
+"יחיה,
+ירבה שלומו" (לפ"ק).
+
+ 
+
+בהגישי
+לו את ספרי בבואי לראות פניו
+
+(ביום
+ה' י"ט תמוז תרל"ב בספ"ב).
+
+ 
+
+כי תבוא
+מונטיפיורי לשכון קרבנו
+
+תבוא גם
+שמחה גם תוגה בלבבנו:
+
+עת על אור
+פניך נשמח שמח
+
+לבנו בסתר
+ימס כמים,
+
+בזכור כי עוד
+מקום תחת שמים
+
+שם אחינו
+נרדפים עשוקי-כח:
+
+כי לו לא
+עשקו לא רצו עמך
+
+לא חרדת
+מים בגבורות ימיך.
+
+ 
+
+אמנם כן, עוד
+יש תחת הרקיע
+
+ארץ בה
+שמש-צדקה לא תופיע,
+
+כל יושביה
+פראים  זקן ונער;
+
+שם תורת
+האדם ברגל ירמסו 
+
+ולנגד
+השמש ירצחו יחמסו,
+
+דין לא דנו
+בה, אין משפט בשער.
+
+הה, תולעת
+יעקב, את הנרמסת
+
+על נהר  ד נ ו ב ה  בדם מתבוססת.
+
+ 
+
+אך מנעורינו
+הסכנו אנחנו
+
+בי בצר לנו,
+האל בו בטחנו
+
+יחיש לנו
+עזרה, יקים מושיע;
+
+אם צדון
+ועמלק, עמון ופלשת,
+
+אם פראי
+רומיניה דורכים הקשת – 
+
+לא ינום
+שומרנו ובעתו יופיע.
+
+אם בידי גדעון
+או שמשון ישלח הצר
+
+או מאיי
+בריטניה בידי מונטיפיורי.
+
+ 
+
+ספר מעשיך
+לא אואיל כי נפלאו;
+
+ולמי אספרם?
+ולכל איש נודעו!
+
+ידעום ימין
+ושמאל, קדמה וימה,
+
+ידעם דר
+הולך, דר יבוא אחרינו
+
+נדעם נחנו,
+גם הגוים סביבנו;
+
+על כן
+יכבדוך שר מארמון, רש ממאורתו,
+
+יכבדך גם
+המשורר מסתר סכתו.
+
+ 
+
+אם יערבו לך
+שירים – אינני יודע!
+
+אך קול יעקב
+בזה אדני שומע
+
+ושפת חוזי
+יה, בה קראו בגרון,
+
+קולם חצב
+להבות אש, קול בכח
+
+על גדות
+הירדן, על מי השלח,
+
+בין ארזי
+הלבנון, על פרחי השרון;
+
+בה צללו
+בקול בכים מיתרי הנבל
+
+מבין הערבים
+על נהרות בבל.
+
+ 
+
+בה גם אני
+עבדך חזיוני חזיתי,
+
+על טוב עמי
+שרתי, אל שברו בכיתי,
+
+רנתי גם
+דמעתי בספרי הוצקו.
+
+קטן אני ודל –
+לך לא אערוכה,
+
+אך לאהוב את
+עמי גם לי לב כמוך :
+
+כאזוב כארז
+על אמם יתרפקו.
+
+ולמען השפה
+בה אותם כתבתי
+
+קבל-נא רצון
+שירי לך הקרבתי.
+
+ 
+
+
+
+
+
+ 
+
+
+
+
+
+
+</body>
+   </text>
+</TEI>

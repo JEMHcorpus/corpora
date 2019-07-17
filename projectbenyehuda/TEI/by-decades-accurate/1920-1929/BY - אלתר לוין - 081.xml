@@ -1,0 +1,190 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>הפרש</title>
+            <author>אלתר לוין</author>
+            <respStmt>
+               <name>Mandel Scholion Hebrew Revival Research Group</name>
+               <resp>Formatting of content from the Ben-Yehuda Project to TEI-XML according to the TEI P5 Guidelines.
+                  Addition of dates, not present in the online version, by Shira Wigderson, Asaf Isser, Adi Cohen, Nitzan Cohen, and Adi Cohen.
+               </resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <authority>Project Ben-Yehuda</authority>
+            <idno>http://benyehuda.org/levin/081.html</idno>
+         </publicationStmt>
+         <sourceDesc xml:lang="Hebrew">
+            <bibl>
+               <date when="1920" notBefore="1920-01-01" notAfter="1920-12-31"/>
+            </bibl>
+            <p>The Ben-Yehuda Project (http://benyehuda.org/). Content provided within the Ben-Yehuda Hackathon at the University of Haifa (THATCamp Haifa, February 2014).</p>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <change>
+            <date>2018-11-01</date>
+            <name>Omer Waldman</name>
+            <note>Correction of previously annotated dates and addition of dates to majority of the works</note>
+         </change>
+         <change>
+            <date>2017-08-09</date>
+            <name>Jerusalem corpus of Emergent Modern Hebrew (JEMH) staff</name>
+            <note>Created the initial version of the content in TEI-XML and added dates (some based on estimation)</note>
+         </change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+
+
+
+
+
+
+
+הפרש / אלתר לוין
+
+
+
+
+
+
+
+
+הפרש
+
+ 
+
+"האם לא ראיתם
+היפהפיה?"
+
+פנה פרש אל הרועים;
+
+"היפהפיה
+על ההרים!"
+
+ענה רועה את הפרש.
+
+ 
+
+צהל פרש, סוסו
+צהל,
+
+גמא ארץ אל ההרים;
+
+"האם לא ראיתם
+היפהפיה?"
+
+שאל אהלי בני
+זליקה.
+
+ 
+
+דומם יושבים
+בני האהל,
+
+אין כל מענה לבני
+הרים;
+
+"הבו מהר היפהפיה!"
+
+הרעים פרש, חרבו
+שלף.
+
+ 
+
+אלמים יושבים
+בני זליקה,
+
+בין אהלים עומד
+אחמד.
+
+"פה לא היתה
+היפהפיה!"
+
+ענה–וישלח יד
+לחרב...
+
+ 
+
+"עליכם רובצה
+אלת אללה!"
+
+נשמע רעם קול
+הפרש;
+
+"יכזב שבט
+כל זליקה
+
+ורועה נאמן אל
+יכזב!"
+
+ 
+
+ככה סער מול הגברים
+
+ויסתער על כלמו;
+
+"עמד ראש כלב!"
+רעם אחמד
+
+ויסתער על הפרש.
+
+ 
+
+קול פיפיות, קשקוש
+סיפים,
+
+קללת נביא, שבועת
+נקם;
+
+מן האהל היפהפיה,
+
+היפהפיה מתגנבת–
+
+
+ 
+
+"הרף, עומר
+בן-עבדלה!"
+
+גנחה תמרור היפהפיה:
+
+זנקה מהר חרב
+עומר,
+
+צהל רוח בן עבדלה.
+
+ 
+
+בין זרועותיו
+היפהפיה
+
+יטוש, יעוף חיש
+הפרש:
+
+ועל ההרים זעם
+אחרון
+
+סוגר שפתי חלל
+אחמד – – –
+
+ 
+
+
+
+
+
+ 
+
+
+
+
+
+
+</body>
+   </text>
+</TEI>

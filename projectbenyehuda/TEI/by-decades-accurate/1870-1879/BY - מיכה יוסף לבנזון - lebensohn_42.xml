@@ -1,0 +1,287 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>המדהבה</title>
+            <author>מיכה יוסף לבנזון</author>
+            <respStmt>
+               <name>Mandel Scholion Hebrew Revival Research Group</name>
+               <resp>Formatting of content from the Ben-Yehuda Project to TEI-XML according to the TEI P5 Guidelines.
+                  Addition of dates, not present in the online version, by Shira Wigderson, Asaf Isser, Adi Cohen, Nitzan Cohen, and Adi Cohen.
+               </resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <authority>Project Ben-Yehuda</authority>
+            <idno>http://benyehuda.org/lebensohn/lebensohn_42.html</idno>
+         </publicationStmt>
+         <sourceDesc xml:lang="Hebrew">
+            <bibl>
+               <date when="1870" notBefore="1870-01-01" notAfter="1870-12-31"/>
+            </bibl>
+            <p>The Ben-Yehuda Project (http://benyehuda.org/). Content provided within the Ben-Yehuda Hackathon at the University of Haifa (THATCamp Haifa, February 2014).</p>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <change>
+            <date>2018-11-01</date>
+            <name>Omer Waldman</name>
+            <note>Correction of previously annotated dates and addition of dates to majority of the works</note>
+         </change>
+         <change>
+            <date>2017-08-09</date>
+            <name>Jerusalem corpus of Emergent Modern Hebrew (JEMH) staff</name>
+            <note>Created the initial version of the content in TEI-XML and added dates (some based on estimation)</note>
+         </change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+
+
+
+
+
+
+
+המדהבה / מיכה יוסף הכהן לבנזון
+
+
+
+
+
+
+
+
+המדהבה
+
+ 
+
+בין נבכי ים
+גדול גליו יהמיו
+
+אי-סלע
+אי-בודד ראשו יגביה,
+
+שם אשקלון
+העיר חמדת כל עין
+
+עיר רבת
+אוצרות ומלאת חסן,
+
+שם עלמה
+עדינה היתה שלטת
+
+ויפה-פיות
+כלן לא תערכוה.
+
+לה חיל-ים
+היכלי-שן רבות הענג.
+
+אז גבה
+לבה, שית-חמס עטפה,
+
+הרבות הון
+אותה ובצוע אך בצע
+
+ותלעג
+למרודים, מסכן בזתה
+
+ותבז
+חלכאים כל הולך תמס
+
+ותדכא כל
+עשוק תם וישר דרך. –
+
+ 
+
+אל חוף ים זועף
+בנשף ירדה
+
+ולרב החובל
+נתנה אמריה:
+
+"רד נא
+הימה, חיש מהרה ונסעה
+
+ויקר כל
+חמדה הביאה הביתה!"
+
+ויחשב
+דרכו, עם לבו השיח,
+
+ולבוא דמשק
+רבה הרים פעם
+
+שמה אוצרות
+בר כל מגד שמים
+
+בשוקים
+יובאו עיר הרכלת –
+
+מה נחמד
+מבר, יקר ממכלת!
+
+וימלא
+אמתחותיו דגן ואכל
+
+וישב
+לגברתו בלבב שמח:
+
+"מה זה, שב נרפה, עשות כה
+הסכלת
+
+אל חוף ארץ
+אופיר תחתור אמרתי
+
+משם לי תביא
+הון עתק ושהם!" –
+
+– אל נא שרתי!
+אל אפך בי יחר
+
+אל
+עיר-התהלה כל עמים רכלת
+
+באתי, וסחר
+גוים אתי הבאתי;
+
+מגד כליות
+חטה שדות ינובו
+
+צאצאי גשם
+וילידי השמש 
+
+להמון גוים
+שפעת טובם יעניקו".
+
+"אל, עבד
+נבזה, פתה שפתי כסל
+
+אל תוסיף
+דבר, טח לבך משכל!
+
+מהרה וקחה
+שפעת דגן הבאת
+
+הטל אותה חיש
+אל קרקע הימה!"
+
+נדהם החובל
+וכאין איל גבר
+
+הומה בו לבו
+נפשו תשתוחח:
+
+– אל נא חמת אל
+על ראשך תביאי
+
+פן יכעס כי
+ירא יבער אפהו –
+
+הן בקטון כל
+עמיר חסדו יופיע
+
+ובטובו אך
+הוא כל עב קל יטריח!"
+
+אך היא אטמה
+אזן, עצמה גם עין
+
+וטבוע הדגן
+שנית צותה –
+
+אז כל דל
+ורש מסכן ומר נפש
+
+והמון
+חלכאים קרבו עדיה
+
+וידיהם על
+ראשם פרשו כפים
+
+וינהו
+ויבכו ממרת נפש
+
+ובזרמי
+דמעתם תמוג עינמו –
+
+אולי תרא
+תתן חנינה למו;
+
+אך מפתן
+חרש לבה הקשיחה,
+
+משמוע זעקת
+דל אזנה הכבידה –
+
+אז הרים החובל
+כפיו שמימה
+
+ובשיחו יריד
+עורר זעקת שבר:
+
+"יש אל
+שופט, מנעי כפך מעול!
+
+וחמסך על
+ראשך יוריד אלוה
+
+ומארת אל
+זועם תאחז ערפכי
+
+תרעם
+אחריך, באשמך מתהלכת!
+
+משלחת פתן
+עקבך יאחזו
+
+נפשך שוקקה
+– חרפת רעב תסבולי!"
+
+"כחלי
+כתם זה בלבב אטילה
+
+חדות את פני
+לא ישוב עוד נצח,
+
+כן חרפת רעב
+נצח לא אסבולה,
+
+עלי העני לא
+יניף שבטהו – ".
+
+ותטל החלי
+אל הגלים ימה
+
+גם את משאת
+הבר שמה הטילו
+
+וכשצף קצף
+המצולה הרתיחו
+
+ולמחרת
+לעלמה  שלחן ערכו
+
+כל מזרקי
+יין וכלי ממסך יחד
+
+בין גלי קבר שם בחצר המות!
+
+ 
+
+
+
+
+
+ 
+
+
+
+
+
+
+</body>
+   </text>
+</TEI>

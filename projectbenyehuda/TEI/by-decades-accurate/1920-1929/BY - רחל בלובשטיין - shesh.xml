@@ -1,0 +1,110 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>שש נפשות פועלות הדורשות אחר מחבר</title>
+            <author>רחל בלובשטיין</author>
+            <respStmt>
+               <name>Mandel Scholion Hebrew Revival Research Group</name>
+               <resp>Formatting of content from the Ben-Yehuda Project to TEI-XML according to the TEI P5 Guidelines.
+                  Addition of dates, not present in the online version, by Shira Wigderson, Asaf Isser, Adi Cohen, Nitzan Cohen, and Adi Cohen.
+               </resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <authority>Project Ben-Yehuda</authority>
+            <idno>http://benyehuda.org/rachel/shesh.html</idno>
+         </publicationStmt>
+         <sourceDesc xml:lang="Hebrew">
+            <bibl>
+               <date when="1926" notBefore="1926-01-01" notAfter="1926-12-31"/>
+            </bibl>
+            <p>The Ben-Yehuda Project (http://benyehuda.org/). Content provided within the Ben-Yehuda Hackathon at the University of Haifa (THATCamp Haifa, February 2014).</p>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <change>
+            <date>2018-11-01</date>
+            <name>Omer Waldman</name>
+            <note>Correction of previously annotated dates and addition of dates to majority of the works</note>
+         </change>
+         <change>
+            <date>2017-08-09</date>
+            <name>Jerusalem corpus of Emergent Modern Hebrew (JEMH) staff</name>
+            <note>Created the initial version of the content in TEI-XML and added dates (some based on estimation)</note>
+         </change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+
+
+
+
+
+
+
+שש נפשות פועלות הדורשות אחר מחבר / רחל
+
+
+
+
+
+
+
+
+שש נפשות פועלות הדורשות אחרי מחבר
+
+מחזה מאת לואיג'י פירנדלו
+
+רחל
+
+
+
+ 
+
+
+
+
+ 
+  
+  זהו אחד המחזות היותר מוצלחים של
+  פירנדלו.  גם פה כמו בעוד אחדות
+  מיצירותיו הוא מטפל בנושא המותנה בעיון עולמו:  בני אדם מבקשים לשחק את חייהם, להעלות אותם לרמת פעולה
+  תיאטרונית אמנותית, לחיותם מתוך מתיחות וחריפות של מסגרת הבמה, ואולי בשל כך
+  למצוא מוצא לכוחות יצירה הטמירים. 
+  משפחה שבה אב, ואם וארבעת הבנים הסתבכו זה בזה בשל מאורעות משונים
+  וטרגיים, מופיעים בתיאטרון בעת שהשחקנים עוסקים בהכנות להצגה הקרובה, ומציעים
+  לפני הרז'יסור לשחק את עצמם.
+  האיש מסכים והמשחק המדהים מתחיל ונמשך, עד אשר
+  הנער – אחד הילדים – שמנת חלקו בסיום הוא איבוד לדעת, שם קץ לחייו ולמחזה
+  כאחד.
+  להתקפות המבקרים, שהאשימו את פירנדלו
+  באי-אמיתיות ואי-טבעיות של חזיונותיו הוא משיב:  "המציאות עם כל הדברים חסרי השחר כגדולים וכקטנים שהיא
+  בורכה בהם, יש לה אותו יתרון לאין ערוך בפני האמנות, שהיא יכולה לותר על
+  דמות-האמת הטפשית הזאת, שהאמנות חושבת לחובה להיות כפופה לה.  חוסר-שחר של החיים אינו נצרך להראות
+  לאמיתי, פשוט מפני שהנהו אמיתי". פירנדלו חש את כל הפנטסטיות שבמציאות
+  דורנו, וזה אשר עושה אותו כל כך לבן-הדור.
+   
+  תרפ"ו
+  
+ 
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+</body>
+   </text>
+</TEI>

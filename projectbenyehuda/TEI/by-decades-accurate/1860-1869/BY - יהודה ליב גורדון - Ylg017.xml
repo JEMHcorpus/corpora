@@ -1,0 +1,144 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>על הר ציון ששמם</title>
+            <author>יהודה ליב גורדון</author>
+            <respStmt>
+               <name>Mandel Scholion Hebrew Revival Research Group</name>
+               <resp>Formatting of content from the Ben-Yehuda Project to TEI-XML according to the TEI P5 Guidelines.
+                  Addition of dates, not present in the online version, by Shira Wigderson, Asaf Isser, Adi Cohen, Nitzan Cohen, and Adi Cohen.
+               </resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <authority>Project Ben-Yehuda</authority>
+            <idno>http://benyehuda.org/yalag/Ylg017.html</idno>
+         </publicationStmt>
+         <sourceDesc xml:lang="Hebrew">
+            <bibl>
+               <date when="1862" notBefore="1862-01-01" notAfter="1862-12-31"/>
+            </bibl>
+            <p>The Ben-Yehuda Project (http://benyehuda.org/). Content provided within the Ben-Yehuda Hackathon at the University of Haifa (THATCamp Haifa, February 2014).</p>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <change>
+            <date>2018-11-01</date>
+            <name>Omer Waldman</name>
+            <note>Correction of previously annotated dates and addition of dates to majority of the works</note>
+         </change>
+         <change>
+            <date>2017-08-09</date>
+            <name>Jerusalem corpus of Emergent Modern Hebrew (JEMH) staff</name>
+            <note>Created the initial version of the content in TEI-XML and added dates (some based on estimation)</note>
+         </change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+
+
+
+
+
+
+
+על הר ציון ששמם
+
+
+
+ 
+
+
+
+
+  
+  
+
+
+שירי-זהב
+
+ 
+
+יב.  
+על הר ציון ששמם
+
+(תרכ"ב)
+
+ 
+
+גם חומותיך,
+ציון, התערערו
+
+טרם הפרצים
+הסתם החלו;
+
+טרם אבני
+שתותיך נקשרו
+
+שבתה
+המלאכה, הבונים חדלו.
+
+ 
+
+וכבר בניך
+אל טובך נהרו
+
+וביום צר בך
+סתרה למצוא יחלו,
+
+אך פתאם
+מרעידים עמדו, שערו,
+
+כי כל
+מאוייהם יחד שכלו.
+
+ 
+
+איך חתו – יילילו
+– נרפו בניך,
+
+עזבו
+משמרתם, רוח בם לא קמה!
+
+האם מחמת
+השומרונים שטניך?
+
+ 
+
+האין גם אחד
+בן-חכליה שמה
+
+יעיר את רוחם,
+אהבתך בם ירב,
+
+יורם, כי לא
+נבנך אם לא נלחמה
+
+ 
+
+אם לא נעבוד
+ביום נשמור בערב;
+
+אם לא יד אחת
+תכנוס אבניך
+
+עת השנית
+תחזיק מגן וחרב?! 
+
+
+
+
+
+ 
+
+
+
+
+
+
+</body>
+   </text>
+</TEI>

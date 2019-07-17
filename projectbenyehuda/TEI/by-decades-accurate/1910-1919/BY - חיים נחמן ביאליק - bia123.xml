@@ -1,0 +1,211 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>בנכר</title>
+            <author>חיים נחמן ביאליק</author>
+            <respStmt>
+               <name>Mandel Scholion Hebrew Revival Research Group</name>
+               <resp>Formatting of content from the Ben-Yehuda Project to TEI-XML according to the TEI P5 Guidelines.
+                  Addition of dates, not present in the online version, by Shira Wigderson, Asaf Isser, Adi Cohen, Nitzan Cohen, and Adi Cohen.
+               </resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <authority>Project Ben-Yehuda</authority>
+            <idno>http://benyehuda.org/bialik/bia123.html</idno>
+         </publicationStmt>
+         <sourceDesc xml:lang="Hebrew">
+            <bibl>
+               <date when="1916" notBefore="1916-01-01" notAfter="1916-12-31"/>
+            </bibl>
+            <p>The Ben-Yehuda Project (http://benyehuda.org/). Content provided within the Ben-Yehuda Hackathon at the University of Haifa (THATCamp Haifa, February 2014).</p>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <change>
+            <date>2018-11-01</date>
+            <name>Omer Waldman</name>
+            <note>Correction of previously annotated dates and addition of dates to majority of the works</note>
+         </change>
+         <change>
+            <date>2017-08-09</date>
+            <name>Jerusalem corpus of Emergent Modern Hebrew (JEMH) staff</name>
+            <note>Created the initial version of the content in TEI-XML and added dates (some based on estimation)</note>
+         </change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+
+
+
+
+
+
+
+בנכר / חיים נחמן ביאליק
+
+
+
+
+
+
+
+
+
+
+
+
+בנכר
+
+                                 [לחג
+הסוכות]
+
+ 
+
+אור
+סהר זולף
+בעד
+הסכך
+
+ודמי
+עלטה
+מלא
+הסכה.
+
+בעריסת
+כסף על
+מצע רך
+
+האתרוג
+ישן
+שנת
+עולל
+מתוקה.
+
+ 
+
+וכשומר
+ראשו,
+חבור הדס
+
+עם
+ערבי
+נחל,
+הלולב
+נשען
+
+בקיר
+יגע –
+וסביבו
+הס!
+
+ופתאם
+צנח גם
+הוא
+ויישן.
+
+ 
+
+וישנים
+שניהם,
+ולבבם
+ער,
+
+כל-אחד
+חולם
+חלום
+ממקומו.
+
+הה,
+מי יודע
+את-לב
+הגר,
+
+ומי
+זה יגיד
+את-סוד
+חלומו?
+
+ 
+
+החולמים
+המה על
+גני הוד,
+
+על
+שמי
+מולדת
+נצורי
+לבם?
+
+אם
+עיפה
+נפשם
+לנוד
+ונדוד,
+
+זו
+הכהו
+עינם,
+הובישו
+אבם?
+
+ 
+
+או
+חלום
+יחתם
+כי אפס
+חג,
+
+כי
+רק
+למצער
+מזלם
+זוגם:
+
+הקשר
+התר
+וריחם
+פג,
+
+מראיהם
+נמר
+והודם
+נפגם.
+
+ 
+
+אין
+מגיד
+פשר...
+בעד
+הסכך
+
+יתגנב
+דומם אור
+חור
+עלף,
+
+ובקפסת
+כסף על
+מצע רך
+
+האתרוג
+ישן
+ובצדו
+לולב.
+
+
+
+
+
+  
+
+
+</body>
+   </text>
+</TEI>

@@ -1,0 +1,177 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>הגיוני לבי</title>
+            <author>מנחם מנדל דוליצקי</author>
+            <respStmt>
+               <name>Mandel Scholion Hebrew Revival Research Group</name>
+               <resp>Formatting of content from the Ben-Yehuda Project to TEI-XML according to the TEI P5 Guidelines.
+                  Addition of dates, not present in the online version, by Shira Wigderson, Asaf Isser, Adi Cohen, Nitzan Cohen, and Adi Cohen.
+               </resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <authority>Project Ben-Yehuda</authority>
+            <idno>http://benyehuda.org/dolitsky/dolizki21.html</idno>
+         </publicationStmt>
+         <sourceDesc xml:lang="Hebrew">
+            <bibl>
+               <date when="1895" notBefore="1895-01-01" notAfter="1895-12-31"/>
+            </bibl>
+            <p>The Ben-Yehuda Project (http://benyehuda.org/). Content provided within the Ben-Yehuda Hackathon at the University of Haifa (THATCamp Haifa, February 2014).</p>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <change>
+            <date>2018-11-01</date>
+            <name>Omer Waldman</name>
+            <note>Correction of previously annotated dates and addition of dates to majority of the works</note>
+         </change>
+         <change>
+            <date>2017-08-09</date>
+            <name>Jerusalem corpus of Emergent Modern Hebrew (JEMH) staff</name>
+            <note>Created the initial version of the content in TEI-XML and added dates (some based on estimation)</note>
+         </change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+
+
+
+
+
+
+
+הגיוני לבי / מנחם מנדל דוליצקי
+
+
+
+ 
+
+
+
+
+  
+  
+
+
+הגיוני לבי /
+מנחם מנדל דוליצקי
+
+ביום החלי לבכות ענותנו בשפת בבל.
+
+לבקשת המוציא לאור את ספורי
+הגדול בשפת זשארגאן, לכתוב לו שיר תחת תמונת עלמה יפה
+ועצובת רוח התפשת כנור בידה.
+
+ 
+
+בתולת ישראל היפה והנוגה, 
+
+שממה פה
+תשב ובידה הנבל;
+
+עיניה יונים דלפות מתוגה
+
+ונבלה
+כלבה ינגן שיר אבל.
+
+הסו הרי אש, האלמו דומיה,
+
+דמו גלי ים,
+החרישי סופתה:
+
+רוח אמתי מנבלה המיה –
+
+מה קול רעשכם מול המית לבתה?
+
+צלצל דק מן
+הדק ממיתרי כנורה
+
+כקול אל ברגזו – רעם אים ונורא,
+
+מרגיז הארץ מרעש להמיתו.
+
+קול דמי
+חללים אלפי אלפים,
+
+זה מאות בשנים
+בלא משפט נאספים,
+
+זה הוא קול נבלה – מי ישא אנחתו?!
+
+             *
+
+שביה בת
+ציון, אילת אהבים!
+
+אם כנור מזמרך תלית על ערבים,
+
+אם חרבו מיתריו
+מאז חרב נוך,
+
+אם רבו, הה, שבריו
+כפצעי לבבך;
+
+אם כבר כנור זה כסה אבק כליון
+
+מאז כסו
+זדים שמשך במשאון
+
+ולא תוכלי, שממה,
+לשיר שיר צהלה;
+
+הנה כנור אחר בידך, אמללה,–
+
+כנור הלוי לבכות מכאוביך
+
+בלשון דוד
+מלכך, בשפת נביאיך,
+
+בה מלה הר
+געש, מבטא ים דמעות
+
+ולקולו
+יחרדו הרים וגבעות...
+
+אך הוי כי
+החלפת, בתולת בת יהודה,
+
+לשון נביאיך
+בשפת בבל השדודה!
+
+ומאלה
+הערבים כנורך שם תלית,
+
+לבכות
+ענותך לך נבל עשית...
+
+אך דיה, אמללה,
+דיה צרתך,
+
+די קלונך בגוים, עניך, הותך,
+
+לרגיז ארץ ממקומה בבכיתך
+עלי נבל,
+
+לו גם עשיתו מערבי נהרות בבל...
+
+ 
+
+
+
+
+
+ 
+
+
+
+
+
+
+</body>
+   </text>
+</TEI>

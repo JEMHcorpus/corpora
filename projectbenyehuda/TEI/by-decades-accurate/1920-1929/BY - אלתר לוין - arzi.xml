@@ -1,0 +1,192 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>ארצי</title>
+            <author>אלתר לוין</author>
+            <respStmt>
+               <name>Mandel Scholion Hebrew Revival Research Group</name>
+               <resp>Formatting of content from the Ben-Yehuda Project to TEI-XML according to the TEI P5 Guidelines.
+                  Addition of dates, not present in the online version, by Shira Wigderson, Asaf Isser, Adi Cohen, Nitzan Cohen, and Adi Cohen.
+               </resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <authority>Project Ben-Yehuda</authority>
+            <idno>http://benyehuda.org/levin/arzi.html</idno>
+         </publicationStmt>
+         <sourceDesc xml:lang="Hebrew">
+            <bibl>
+               <date when="1920" notBefore="1920-01-01" notAfter="1920-12-31"/>
+            </bibl>
+            <p>The Ben-Yehuda Project (http://benyehuda.org/). Content provided within the Ben-Yehuda Hackathon at the University of Haifa (THATCamp Haifa, February 2014).</p>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <change>
+            <date>2018-11-01</date>
+            <name>Omer Waldman</name>
+            <note>Correction of previously annotated dates and addition of dates to majority of the works</note>
+         </change>
+         <change>
+            <date>2017-08-09</date>
+            <name>Jerusalem corpus of Emergent Modern Hebrew (JEMH) staff</name>
+            <note>Created the initial version of the content in TEI-XML and added dates (some based on estimation)</note>
+         </change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+
+
+
+
+
+
+
+ארצי / אלתר לוין (אסף הלוי איש ירושלים)
+
+
+
+ 
+
+
+
+
+  
+  
+
+
+ארצי / אלתר
+לוין (אסף הלוי איש ירושלים)
+
+ 
+
+א
+
+ 
+
+כבר יצא
+היום, יום אביב נאדרי,
+
+בארץ ישראל,
+
+ועל ההרים
+הגאים, מתנשאים ברמה,
+
+נגה אור מזרח:
+
+אור פלאות
+מתפשט ושופך עמקים
+
+בשפעת
+האורים,
+
+ושמש
+הבקרים על הודה וזהבה,
+
+בעדי
+זהרורים,
+
+שטה במימי
+התכלת הטהורים,
+
+כחל אוקינוס!...
+
+תנו-לי לצאת!
+תנו-לי העפל על הר,
+
+להנות מקדשים!
+
+הניחו-לי
+ואשוט באויר הרחמים,
+
+אויר-יה
+לנשמות,
+
+אויר הנבואה
+הטס במרחבי הזיו!
+
+אל נא
+תעצרוני:
+
+הנני יוצא
+לשוח על הרים,
+
+לברך
+ברעדה,
+
+בקול גדול
+ורם, בשם ומלכות,
+
+ברכת זיו
+ארצי!...
+
+ 
+
+נודו לגלה אור! לעתיק מנגהות,
+
+לא זכה כארצי,
+
+כמוני, להנות מאור הרחמים,
+
+נודו, נודו
+לו!...
+
+היש ארץ
+כארצי פקד עליה
+
+אל השמש,
+
+מראשית עד
+אחרית השנה,
+
+נגהות עולמים?
+
+בקשו
+בארצות הנגב החמות,
+
+בחפי
+התיכון;
+
+צאו בכל נפות
+המזרח היפים,
+
+על גבולות
+ארצי
+
+וראו: העטה
+השמש בגאונו
+
+ארץ נכריה,
+
+כהעטותו אור ארץ הנביאים?
+
+פה בצוק המזרח,
+
+אלהי השמש בכבודו, בעצמו,
+
+בנה היכלו,
+
+ועל הרי
+ישראל שם טבעתו,
+
+חותמת הזיו!
+
+ 
+
+ 
+
+
+
+
+
+
+
+
+
+
+</body>
+   </text>
+</TEI>

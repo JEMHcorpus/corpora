@@ -1,0 +1,175 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>אח לצרה</title>
+            <author>יעקב לרנר</author>
+            <respStmt>
+               <name>Mandel Scholion Hebrew Revival Research Group</name>
+               <resp>Formatting of content from the Ben-Yehuda Project to TEI-XML according to the TEI P5 Guidelines.
+                  Addition of dates, not present in the online version, by Shira Wigderson, Asaf Isser, Adi Cohen, Nitzan Cohen, and Adi Cohen.
+               </resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <authority>Project Ben-Yehuda</authority>
+            <idno>http://benyehuda.org/lerner/ax_lezara.html</idno>
+         </publicationStmt>
+         <sourceDesc xml:lang="Hebrew">
+            <bibl>
+               <date when="1909" notBefore="1909-01-01" notAfter="1909-12-31"/>
+            </bibl>
+            <p>The Ben-Yehuda Project (http://benyehuda.org/). Content provided within the Ben-Yehuda Hackathon at the University of Haifa (THATCamp Haifa, February 2014).</p>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <change>
+            <date>2018-11-01</date>
+            <name>Omer Waldman</name>
+            <note>Correction of previously annotated dates and addition of dates to majority of the works</note>
+         </change>
+         <change>
+            <date>2017-08-09</date>
+            <name>Jerusalem corpus of Emergent Modern Hebrew (JEMH) staff</name>
+            <note>Created the initial version of the content in TEI-XML and added dates (some based on estimation)</note>
+         </change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+
+
+
+
+
+
+
+אח לצרה / יעקב לרנר
+
+
+
+
+
+
+
+
+אח לצרה
+
+ 
+
+קר ואובד הוא
+הערער
+
+בערבה  הנרדמה.
+
+אתה אחי,
+בן-ישימון,
+
+סמל-נצח של
+הדממה!
+
+ 
+
+הן כרתנו
+ברית של אחוה,
+
+והמדבר
+–  אב לשנינו;
+
+שנינו תוהים
+ולא נדע
+
+מה אנחנו, מה
+חיינו.
+
+ 
+
+יום-ערפל אחד
+ארך
+
+תחת כנפות
+שחק עכור.
+
+הגד, אחי, אם
+ידעת,
+
+מה בין אתמול
+ובין מחר?
+
+ 
+
+צא והבדל יום
+מימים –
+
+והימים ככה
+דומים!
+
+שממה אחת
+ילדתם:
+
+אחים המה,
+אחים תאומים.
+
+ 
+
+למה תביט עוד
+לשחק,
+
+מה-יענך
+מסוה בדילו?
+
+והשמש
+מה-לך יתן
+
+ומה יוסיף גם
+בהלו?
+
+ 
+
+כל המאורות
+לו יגיהו,
+
+כלום יביאו
+לך תנחומים?
+
+עולם כלו
+עירם סביבך –
+
+מי יכסה
+המערמים?
+
+ 
+
+קפא, ערערי,
+בבשתך
+
+ובעריתך זה
+הזקופה –
+
+עד שימק
+שריד גזעך
+
+או ממזרים
+תנח סופה...  
+
+ 
+
+תרס"ט
+
+ 
+
+
+
+
+
+ 
+
+
+
+
+
+
+</body>
+   </text>
+</TEI>

@@ -1,0 +1,113 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>מסדה</title>
+            <author>רחל בלובשטיין</author>
+            <respStmt>
+               <name>Mandel Scholion Hebrew Revival Research Group</name>
+               <resp>Formatting of content from the Ben-Yehuda Project to TEI-XML according to the TEI P5 Guidelines.
+                  Addition of dates, not present in the online version, by Shira Wigderson, Asaf Isser, Adi Cohen, Nitzan Cohen, and Adi Cohen.
+               </resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <authority>Project Ben-Yehuda</authority>
+            <idno>http://benyehuda.org/rachel/masada.html</idno>
+         </publicationStmt>
+         <sourceDesc xml:lang="Hebrew">
+            <bibl>
+               <date when="1927" notBefore="1927-01-01" notAfter="1927-12-31"/>
+            </bibl>
+            <p>The Ben-Yehuda Project (http://benyehuda.org/). Content provided within the Ben-Yehuda Hackathon at the University of Haifa (THATCamp Haifa, February 2014).</p>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <change>
+            <date>2018-11-01</date>
+            <name>Omer Waldman</name>
+            <note>Correction of previously annotated dates and addition of dates to majority of the works</note>
+         </change>
+         <change>
+            <date>2017-08-09</date>
+            <name>Jerusalem corpus of Emergent Modern Hebrew (JEMH) staff</name>
+            <note>Created the initial version of the content in TEI-XML and added dates (some based on estimation)</note>
+         </change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+
+
+
+
+
+
+
+מסדה / רחל
+
+
+
+
+
+
+
+
+
+
+מסדה
+
+פואמה מאת יצחק למדן, הוצאת
+"הדים", תל-אביב, תרפ"ז
+
+רחל
+
+
+
+ 
+
+
+
+
+ 
+  
+  נער עברי נמלט מרוסיה לעלות ארצה ישראל.  הנהו בין שומרי חומותיו של המבצר
+  האחרון.  מתענה בענותן, מתיאש
+  וכושל, מבקש שכחה בשכרות מחול על מרי ההתפכחות שאחריה, נאבק במראות-תמול מפתים,
+  כורע, גובר ומעודד: "חזק, חזק ונתחזק!"
+  אלה הם חוטי המסכת.  ידעה יד הפייטן לרקום עליה רקמת דמיון ואת תוגת-חיי-יחיד
+  לרומם לידי סמל של גורל העם.
+  סמליות היא ביטויו הטבעי, האורגני של יצחק
+  למדן, עד כי אינך משגיח בה כמעט. 
+  אולי גורמת לזה בהירותם של הסמלים הללו.  לא פרשת-שבילים בלב יער, לא אורות לילה מתעים, אלא דרך
+  המלך.  נהרה.  ועוד סגולה אחת:  עבריותם.  מרשרשים הם בקרקע התנ"ך ויונקים לשד קדומים ממקור לא
+  אכזב זה, גושרים גשר נאמן ומקרבים רחוקים.
+  אופינית לה לפואמה גם צניעות הצער. זו
+  הצניעות האפרתית, הכובשת את היצר: 
+  לזעור, לספוק כפים.  כי הרי
+  גם בלאו הכי נוקב הצער עד תהום.
+   
+  תרפ"ז
+  
+ 
+
+
+
+
+ 
+
+
+
+
+
+ 
+
+
+
+
+
+
+</body>
+   </text>
+</TEI>

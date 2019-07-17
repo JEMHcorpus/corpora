@@ -1,0 +1,134 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>הגיון (Immaginacya)</title>
+            <author>נחום סוקולוב</author>
+            <respStmt>
+               <name>Mandel Scholion Hebrew Revival Research Group</name>
+               <resp>Formatting of content from the Ben-Yehuda Project to TEI-XML according to the TEI P5 Guidelines.
+                  Addition of dates, not present in the online version, by Shira Wigderson, Asaf Isser, Adi Cohen, Nitzan Cohen, and Adi Cohen.
+               </resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <authority>Project Ben-Yehuda</authority>
+            <idno>http://benyehuda.org/sokolov/Immaginacya.html</idno>
+         </publicationStmt>
+         <sourceDesc xml:lang="Hebrew">
+            <bibl>
+               <date when="1876" notBefore="1876-01-01" notAfter="1876-12-31"/>
+            </bibl>
+            <p>The Ben-Yehuda Project (http://benyehuda.org/). Content provided within the Ben-Yehuda Hackathon at the University of Haifa (THATCamp Haifa, February 2014).</p>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <change>
+            <date>2018-11-01</date>
+            <name>Omer Waldman</name>
+            <note>Correction of previously annotated dates and addition of dates to majority of the works</note>
+         </change>
+         <change>
+            <date>2017-08-09</date>
+            <name>Jerusalem corpus of Emergent Modern Hebrew (JEMH) staff</name>
+            <note>Created the initial version of the content in TEI-XML and added dates (some based on estimation)</note>
+         </change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+
+
+
+
+
+
+
+Immaginacya - הגיון / נחום סוקולוב
+
+
+
+ 
+
+
+
+
+  
+  
+
+
+Immaginacya 
+
+הגיון
+/ נחום סוקולוב
+
+ 
+
+א
+
+אם אשים
+אל-לבי אראה מה חיי נפלאים
+
+ככדור צנפה
+אני ביד גורלי לטלטלה-גבר,
+
+להטילני
+גבוהה גבוהה ולהפילני פלאים,
+
+ולהשביעני
+צוחה ורוחה גילה ושבר.
+
+אקלל את יומי
+ואזעם בכל החיים,
+
+הה, גורלי,
+כמוני פחז כמים.
+
+ 
+
+ב
+
+עתה יחשך
+אורי, שמשי נחבאה;
+
+פרידתי עלי
+תכאב ונגד פני רעה,
+
+ראשי ודמי בי
+יבערו כלהבה.
+
+אשכח בי
+ונפשי אל מקורה שבה,
+
+נדעכה
+ממקומה ואש אהבה תאכלני,
+
+וכן לנסע
+הביתה, הה ה' חנני.
+
+ 
+
+מאקאוו. מוש"ק
+וירא אור ליום א' חיי שרה התרל"ו
+
+ 
+
+ 
+
+
+
+
+
+ 
+
+ 
+
+
+
+
+
+
+</body>
+   </text>
+</TEI>

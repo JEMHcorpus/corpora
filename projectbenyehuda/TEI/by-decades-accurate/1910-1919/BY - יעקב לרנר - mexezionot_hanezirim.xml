@@ -1,0 +1,243 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>מחזיונות הנזירים</title>
+            <author>יעקב לרנר</author>
+            <respStmt>
+               <name>Mandel Scholion Hebrew Revival Research Group</name>
+               <resp>Formatting of content from the Ben-Yehuda Project to TEI-XML according to the TEI P5 Guidelines.
+                  Addition of dates, not present in the online version, by Shira Wigderson, Asaf Isser, Adi Cohen, Nitzan Cohen, and Adi Cohen.
+               </resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <authority>Project Ben-Yehuda</authority>
+            <idno>http://benyehuda.org/lerner/mexezionot_hanezirim.html</idno>
+         </publicationStmt>
+         <sourceDesc xml:lang="Hebrew">
+            <bibl>
+               <date when="1911" notBefore="1911-01-01" notAfter="1911-12-31"/>
+            </bibl>
+            <p>The Ben-Yehuda Project (http://benyehuda.org/). Content provided within the Ben-Yehuda Hackathon at the University of Haifa (THATCamp Haifa, February 2014).</p>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <change>
+            <date>2018-11-01</date>
+            <name>Omer Waldman</name>
+            <note>Correction of previously annotated dates and addition of dates to majority of the works</note>
+         </change>
+         <change>
+            <date>2017-08-09</date>
+            <name>Jerusalem corpus of Emergent Modern Hebrew (JEMH) staff</name>
+            <note>Created the initial version of the content in TEI-XML and added dates (some based on estimation)</note>
+         </change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+
+
+
+
+
+
+מחזיונות הנזירים / יעקב לרנר
+
+
+
+
+
+
+
+
+מחזיונות  הנזירים
+
+א
+
+מאסתים
+וזנחתים ...  לא אוסיף
+לראותם!
+
+ערירי
+אתכנס אל צלי וזעפי.
+
+יזמזמו
+כזבובים בשער אשפותם – 
+
+אני לזמזומם
+אך אלעג באפי.
+
+ 
+
+פתחתי
+דביר-עולם בגאונו לפניהם – 
+
+ואמר: אעלם
+מחיי-רקבונם!
+
+אך קדם
+קדמוני בחצץ ננסיהם 
+
+וישלחו בי
+כלבים ותרועת-לצונם.
+
+ 
+
+הבטתי
+ללבבם ... והנה שם עולה
+
+כבר ריח
+אוויים נכלמים וטמאים.
+
+ובטפת-נשמתם
+כבר ישרץ התולע,
+
+הנזון
+ונהנה מעפוש חייהם...
+
+ 
+
+ואשט מעליהם
+ברטט-הבחילה...
+
+יזמזמו
+כזבובים וכמוהם ימקו!
+
+ונפשי
+הנזירה תתעטף בצלה
+
+וחגן בעדה
+מטמאה בה שקעו...
+
+ 
+
+ב
+
+נוסו מן
+הקריה 
+
+             
+הבל בה יהימון!
+
+נודו, איש
+וצלו 
+
+             
+עד לקצות הישימון!
+
+יעזב איש
+נכליו,
+
+             
+כלמת-תאוותיו;
+
+ימחה ימיו
+עברו,
+
+            
+ישכח עתידותיו;
+
+יהיו חייו – בלימה,
+
+             
+חיים חדלי-עמדה;
+
+ללא כל חק
+ותחומים,
+
+             
+ללא כל  תקוה, חמדה...
+
+יתע ריק ועירם
+
+
+             
+תחת שמי השממה,
+
+נבלע
+בשכחתו,
+
+            
+מקשיב אך לדממה.
+
+גאות-עד
+לדממה,
+
+            
+שקט-עד – גאותה,
+
+היא
+הגיג-התבל,
+
+            
+היא הרת-עלמותה.
+
+סוד אדני – הדממה,
+
+            
+תוכה גם פתרונה.
+
+הוי, כל
+צמאי-פתר – 
+
+           
+נודו הישימונה!
+
+למה תבנו
+כרכים,
+
+          
+שוקים שטופי-חלאה? –
+
+בתי-כלאים
+המה,
+
+           
+כלובי-אנוש סלה.
+
+למה תבנו
+חומות,
+
+            קיר
+לקיר תקריבו
+
+לשים חק
+למרחב – 
+
+           
+ואדני לא צוה?!
+
+כבוד-אדני – המרחב,
+
+           
+הודו –  הטהרה!
+
+הוי, כל
+כמהי-הודו –
+
+           
+נוסו המדברה!
+
+ 
+
+תרע"א
+
+ 
+
+
+
+
+
+ 
+
+
+
+
+
+
+</body>
+   </text>
+</TEI>

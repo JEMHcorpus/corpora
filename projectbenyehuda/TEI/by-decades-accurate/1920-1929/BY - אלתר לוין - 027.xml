@@ -1,0 +1,144 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>צמא גיל החמדה</title>
+            <author>אלתר לוין</author>
+            <respStmt>
+               <name>Mandel Scholion Hebrew Revival Research Group</name>
+               <resp>Formatting of content from the Ben-Yehuda Project to TEI-XML according to the TEI P5 Guidelines.
+                  Addition of dates, not present in the online version, by Shira Wigderson, Asaf Isser, Adi Cohen, Nitzan Cohen, and Adi Cohen.
+               </resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <authority>Project Ben-Yehuda</authority>
+            <idno>http://benyehuda.org/levin/027.html</idno>
+         </publicationStmt>
+         <sourceDesc xml:lang="Hebrew">
+            <bibl>
+               <date when="1920" notBefore="1920-01-01" notAfter="1920-12-31"/>
+            </bibl>
+            <p>The Ben-Yehuda Project (http://benyehuda.org/). Content provided within the Ben-Yehuda Hackathon at the University of Haifa (THATCamp Haifa, February 2014).</p>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <change>
+            <date>2018-11-01</date>
+            <name>Omer Waldman</name>
+            <note>Correction of previously annotated dates and addition of dates to majority of the works</note>
+         </change>
+         <change>
+            <date>2017-08-09</date>
+            <name>Jerusalem corpus of Emergent Modern Hebrew (JEMH) staff</name>
+            <note>Created the initial version of the content in TEI-XML and added dates (some based on estimation)</note>
+         </change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+
+
+
+
+
+
+
+צמא גיל החמדה / אלתר לוין
+
+
+
+
+
+
+
+
+צמא גיל החמדה
+
+ 
+
+צמא גיל החמדה
+ורעב לשפעת הנער ודמיו,
+
+תועה ביער הגעגועים
+ונאחז בסבכי האהבה –
+
+באתי אליך, אילה!
+
+ברענן הבקרים
+בארץ, עם שמש המזרח וגאונה,
+
+בשפעת החיים
+ונגהם ופתויי הלבב הצעיר,
+
+ממעינות השחרות
+לשאבה –
+
+באתי, אילה,
+אליך!
+
+ 
+
+פגשתי ציר נאמן
+בשער, יחיד ומיוחד המבט,
+
+החלים לבבי וסעד
+צירך היחיד, אילתי!
+
+קרא לכח אדירים,
+הפיח בקרבי הגבורה,
+
+צוה לששים
+גבורים לעודד את רוחם בקרבי
+
+ויקרא לשרפים  ושמנם להגדיל מדורת החיים
+
+עשויה על מפתן
+לבבי...
+
+– – – – – – – –
+–  – – – – – – – – – – – – – 
+
+אהבה רבה וגדולה
+לחשה על אזני ותאמר:
+
+ 
+
+עשיר הוא צופי
+ונצחי, שאב-נא, שאב-נא מלבי!
+
+לא יבגד לעולם
+המעין, חפר נא, כי נאמן לך חבו!
+
+תינקנה שפתים
+בחמן; כל אשר שפתים תינקנה –
+
+יותר להן יזרם
+מעיני...
+
+יחפור השואב
+וימץ, כי נדיב הזורם ומשקה,
+
+לא תיבש המצלה,
+כי יהמה תמיד מבוע החיים
+
+בחדות האהבה
+הגדולה!..
+
+ 
+
+
+
+
+
+ 
+
+
+
+
+
+
+</body>
+   </text>
+</TEI>

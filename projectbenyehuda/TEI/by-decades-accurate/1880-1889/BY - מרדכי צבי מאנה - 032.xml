@@ -1,0 +1,145 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>עצב אנוכי</title>
+            <author>מרדכי צבי מאנה</author>
+            <respStmt>
+               <name>Mandel Scholion Hebrew Revival Research Group</name>
+               <resp>Formatting of content from the Ben-Yehuda Project to TEI-XML according to the TEI P5 Guidelines.
+                  Addition of dates, not present in the online version, by Shira Wigderson, Asaf Isser, Adi Cohen, Nitzan Cohen, and Adi Cohen.
+               </resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <authority>Project Ben-Yehuda</authority>
+            <idno>http://benyehuda.org/maneh/032.html</idno>
+         </publicationStmt>
+         <sourceDesc xml:lang="Hebrew">
+            <bibl>
+               <date when="1882" notBefore="1882-01-01" notAfter="1882-12-31"/>
+            </bibl>
+            <p>The Ben-Yehuda Project (http://benyehuda.org/). Content provided within the Ben-Yehuda Hackathon at the University of Haifa (THATCamp Haifa, February 2014).</p>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <change>
+            <date>2018-11-01</date>
+            <name>Omer Waldman</name>
+            <note>Correction of previously annotated dates and addition of dates to majority of the works</note>
+         </change>
+         <change>
+            <date>2017-08-09</date>
+            <name>Jerusalem corpus of Emergent Modern Hebrew (JEMH) staff</name>
+            <note>Created the initial version of the content in TEI-XML and added dates (some based on estimation)</note>
+         </change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+
+
+
+
+
+
+
+עצב אנוכי / מרדכי צבי מאנה
+
+
+
+ 
+
+
+
+
+  
+  
+
+
+עצב אנכי /
+מרדכי צבי מאנה
+
+ 
+
+1. 
+
+עצב אנכי,
+עצבי אט יאכלני, 
+
+ימץ לח חיי,
+חיי לי מרו; 
+
+עצב אנכי,
+עצבי לא ירפני 
+
+יקדיר אור
+שמשי, חיי לי קדרו. 
+
+  
+
+2. 
+
+עצב אנכי,
+ובכליותי לחץ, 
+
+ובלבי מות,
+ובדמי קר קבר; 
+
+אך עוד חי
+אני! הן ארגיש בי מחץ, 
+
+כי חץ בי עמק
+ובכל חושי שבר 
+
+  
+
+3. 
+
+עוד חי הנני,
+כי ארגיש לרגעים, 
+
+איך עוד
+רגשותי יסערו, ירתחו; 
+
+איך לבי בי
+יקרע לקרעים 
+
+איך זיקי
+חיתי אט, אט ידעכו 
+
+  
+
+4. 
+
+עצב אנכי,
+ובדד אשכנה 
+
+אין אח ורע,
+אך שמה ושאיה; 
+
+אאר כל
+היקום, התבל ושאונה 
+
+ומנחם אחד
+לי, – עמק דומיה. 
+
+  
+
+אב, תרמ"ב.
+
+
+
+
+
+ 
+
+
+
+
+
+
+</body>
+   </text>
+</TEI>

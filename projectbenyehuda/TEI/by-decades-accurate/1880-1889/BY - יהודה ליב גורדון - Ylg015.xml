@@ -1,0 +1,119 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>אח לצרה יולד</title>
+            <author>יהודה ליב גורדון</author>
+            <respStmt>
+               <name>Mandel Scholion Hebrew Revival Research Group</name>
+               <resp>Formatting of content from the Ben-Yehuda Project to TEI-XML according to the TEI P5 Guidelines.
+                  Addition of dates, not present in the online version, by Shira Wigderson, Asaf Isser, Adi Cohen, Nitzan Cohen, and Adi Cohen.
+               </resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <authority>Project Ben-Yehuda</authority>
+            <idno>http://benyehuda.org/yalag/Ylg015.html</idno>
+         </publicationStmt>
+         <sourceDesc xml:lang="Hebrew">
+            <bibl>
+               <date when="1884" notBefore="1884-01-01" notAfter="1884-12-31"/>
+            </bibl>
+            <p>The Ben-Yehuda Project (http://benyehuda.org/). Content provided within the Ben-Yehuda Hackathon at the University of Haifa (THATCamp Haifa, February 2014).</p>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <change>
+            <date>2018-11-01</date>
+            <name>Omer Waldman</name>
+            <note>Correction of previously annotated dates and addition of dates to majority of the works</note>
+         </change>
+         <change>
+            <date>2017-08-09</date>
+            <name>Jerusalem corpus of Emergent Modern Hebrew (JEMH) staff</name>
+            <note>Created the initial version of the content in TEI-XML and added dates (some based on estimation)</note>
+         </change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+
+
+
+
+
+
+
+אח לצרה יולד
+
+
+
+ 
+
+
+
+
+  
+  
+
+
+שירי-זהב
+
+ 
+
+י.   אח לצרה יולד
+
+(לאחד מידידי בספר זכרון לפניו,
+ושמי בקרבו)
+
+ 
+
+ים זועף החיים, אין לו מסגרת,
+
+האסון הסובב – סערת שמים,
+
+והמון מלאכיו ריש, איד ומנערת,
+
+דכי פחד המה ומשברי מים.
+
+ 
+
+האדם הלז אניה נסערת,
+
+לבו מלח נדהם חובק ידים;
+
+ירא המצולה כי פיה פוערת
+
+בלעו חיים על כל מדרך רגלים.
+
+ 
+
+גם המאורים חשכו על חוג רקיע,
+
+אל אשר יפנה אין מציל מושיע;
+
+רק כוכב אחד מרחוק יראהו
+
+ 
+
+דרך בה ילך ומקום בו ינוח.
+
+אך מי זה הכוכב לנו זרוח?
+
+נפש רע נאמן – אם נמצאהו! 
+
+
+
+
+
+ 
+
+
+
+
+
+
+</body>
+   </text>
+</TEI>

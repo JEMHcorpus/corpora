@@ -1,0 +1,214 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>החמור והכלב</title>
+            <author>יהודה ליב גורדון</author>
+            <respStmt>
+               <name>Mandel Scholion Hebrew Revival Research Group</name>
+               <resp>Formatting of content from the Ben-Yehuda Project to TEI-XML according to the TEI P5 Guidelines.
+                  Addition of dates, not present in the online version, by Shira Wigderson, Asaf Isser, Adi Cohen, Nitzan Cohen, and Adi Cohen.
+               </resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <authority>Project Ben-Yehuda</authority>
+            <idno>http://benyehuda.org/yalag/Ylg142.html</idno>
+         </publicationStmt>
+         <sourceDesc xml:lang="Hebrew">
+            <bibl>
+               <date when="1859" notBefore="1859-01-01" notAfter="1859-12-31"/>
+            </bibl>
+            <p>The Ben-Yehuda Project (http://benyehuda.org/). Content provided within the Ben-Yehuda Hackathon at the University of Haifa (THATCamp Haifa, February 2014).</p>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <change>
+            <date>2018-11-01</date>
+            <name>Omer Waldman</name>
+            <note>Correction of previously annotated dates and addition of dates to majority of the works</note>
+         </change>
+         <change>
+            <date>2017-08-09</date>
+            <name>Jerusalem corpus of Emergent Modern Hebrew (JEMH) staff</name>
+            <note>Created the initial version of the content in TEI-XML and added dates (some based on estimation)</note>
+         </change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+
+
+
+
+
+
+החמור והכלב
+
+
+
+
+
+
+
+
+החמור והכלב
+
+ 
+
+תורה מורשה
+צוה משה לנו
+
+לאמר: „איש אחיו אהבו, עזרו!”
+
+גם כל חכמי
+לב כמהו יגזרו;
+
+אולם שיתו לב
+לדור זה וחקרו
+
+וראו כמה
+אנשים תמצאו בנו,
+
+שבכל לב
+המצוה הזאת ינצרו?
+
+הן כי ימוך
+איש, איש לא ירחמנו,
+
+ירדף עם
+ושכניו אותו לא יחנו;
+
+עד גם בהמות
+שדי למדו ממנו
+
+לעבר חק זה,
+לשנוא אחים כמנו.
+
+ 
+
+חמור אחד אחז
+מעשה אדם!
+
+ובלכתו
+בדרך הוא ובעליו
+
+וישא את סל
+הצידה עליו.
+
+גם כלב החצר
+הולך על ידם,
+
+שכב האיש
+בעמק וירדם,
+
+ובעוד הוא חזה
+מה-יעשו שנימו
+
+וילחך החמור
+את הירק,
+
+והכלב עמד
+על הפרק
+
+לראות פן
+יפל הנפל עלימו.
+
+בין כה וכה
+רעב גם הוא ללחם
+
+ויגש אל
+החמור רעו ויאמר:
+
+כף נא, אחי,
+זאת קומתך כתמר,
+
+אקחה מן הסל
+אשר לך על שכם
+
+ארוחתי ארוחת
+הצהרים.
+
+אין קול, אין
+עונה! כי ירא בן-האתון
+
+פן מדי
+לענותו יפתח את פיהו
+
+יהיה לו רגע
+קטן נקיון שנים.
+
+ויוסף הכלב
+חלות פני אחיהו,
+
+ויענהו
+החמור בחמת זעם:
+
+חכה עד ייקץ
+האדון אז נתן
+
+יתן ארוחתך
+לך כפעם בפעם.
+
+עודם נדברים
+ומקרב
+
+היער יצא
+זאב ערב
+
+רעב ומשחר
+לטרף:
+
+„חוש נא – קרא החמור – חושה אל
+תרף
+
+בוא, אחי,
+עזרני
+
+פן לטבח
+יכריעני”.
+
+אך כלבנו
+ינוח
+
+ארצה סרוח,
+
+ממקמו לא
+יזח שאנן בטוח.
+
+„חכה נא – יענהו, שלו, קר רוח –
+
+עד ייקץ האדון
+הוא יצילך;
+
+בין כה וכה
+הרם פרסות רגליך
+
+ונתץ שני
+הזאב אם יגש אליך”.
+
+בין כה וכה
+בא הזאב ויחנקהו.
+
+ 
+
+על כן אמרתי:
+עזרו איש רעהו!
+
+ 
+
+
+
+
+
+ 
+
+
+
+
+
+
+</body>
+   </text>
+</TEI>

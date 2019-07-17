@@ -1,0 +1,229 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>אם תפרוץ מלחמה</title>
+            <author>אברהם שטרן ("יאיר")</author>
+            <respStmt>
+               <name>Mandel Scholion Hebrew Revival Research Group</name>
+               <resp>Formatting of content from the Ben-Yehuda Project to TEI-XML according to the TEI P5 Guidelines.
+                  Addition of dates, not present in the online version, by Shira Wigderson, Asaf Isser, Adi Cohen, Nitzan Cohen, and Adi Cohen.
+               </resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <authority>Project Ben-Yehuda</authority>
+            <idno>http://benyehuda.org/stern_avraham/reshimot05.html</idno>
+         </publicationStmt>
+         <sourceDesc xml:lang="Hebrew">
+            <bibl>
+               <date when="1939" notBefore="1939-01-01" notAfter="1939-12-31"/>
+            </bibl>
+            <p>The Ben-Yehuda Project (http://benyehuda.org/). Content provided within the Ben-Yehuda Hackathon at the University of Haifa (THATCamp Haifa, February 2014).</p>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <change>
+            <date>2018-11-01</date>
+            <name>Omer Waldman</name>
+            <note>Correction of previously annotated dates and addition of dates to majority of the works</note>
+         </change>
+         <change>
+            <date>2017-08-09</date>
+            <name>Jerusalem corpus of Emergent Modern Hebrew (JEMH) staff</name>
+            <note>Created the initial version of the content in TEI-XML and added dates (some based on estimation)</note>
+         </change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+
+
+
+
+
+
+
+אם תפרוץ
+מלחמה / אברהם
+שטרן ("יאיר")
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+אם תפרוץ
+מלחמה
+
+אברהם
+שטרן ("יאיר")
+
+
+
+ 
+
+
+
+
+ 
+  
+  הארגון
+  חי ולוחם
+  להקמתה של
+  מלכות ישראל
+  מארץ-ישראל. 
+  ארץ-ישראל
+  איננה מדינה
+  פיל ואינה שטח
+  המאנדאט
+  ואיננה
+  מדינה עברית
+  משתי גדות הירקון. 
+  ארץ-ישראל
+  היא כברת ארץ,
+  אשר עליה ישב
+  עם ישראל כולו
+  בזמן מן
+  הזמנים. 
+  את גבולותיה
+  של הארץ יציב
+  הוא בעצמו בחרב
+  הכיבוש, כשיקים
+  את מלכות
+  ישראל, ולשם
+  הקמת המלכות
+  יש ליצור כוח
+  עצמאי
+  מזויין, עברי
+  על נשקו,
+  קציניו
+  וחייליו.  חיילי
+  ישראל ששפכו
+  את דמם
+  בשבעים חזיתות;
+  נוער עברי
+  שגדל במחתרת
+  בציון ולחם
+  על החרות
+  בירושלים
+  ובחיפה – כולם
+  ידעו במלחמה
+  הבאה כי אחד
+  הוא העם ואחת
+  היא הארץ
+  ואחת היא החזית:
+  חזית הכיבוש
+  בארץ-ישראל
+  למען עם
+  ישראל.  ובבוא
+  היום לא ילך
+  יהודי
+  לצבאות זרים
+  ולא יהיה
+  לבשר תותחים
+  לשום אומה
+  ולשון, אשר תחלל
+  את קברות
+  חייליה
+  היהודים
+  ותמחה את זכר
+  מלחמתם למענה
+  מתחת לשמים.  ולא רק
+  למען עמים זרים
+  לא נלחם.  גם
+  למעננו לא
+  נלחם בגדוד
+  זר.  כי
+  תולדות גדודי
+  הזרים בכל
+  הצבאות חזרו
+  ונשנו: צבא
+  שכירים (ולו
+  היו אלה
+  שכירי רעיון
+  החרות) ששפך
+  את דמו ונשלח
+  כלעומת שבא
+  בתום המלחמה,
+  לאחר פירוק
+  נשקו. 
+  אלה היו גם
+  תולדותיו של
+  הגדוד העברי.  ועל כן
+  לא נתגייס
+  לגדודי זרים,
+  לא נקבל נשק
+  זר, לא נסור
+  לפקודות
+  הקצינים הזרים.  אנו ניצור
+  בציון שבט בן-חורין,
+  שבט לוחמים
+  כובשים,
+  ארגון צבאי
+  לאומי אשר
+  יכבוש מידי
+  זרים את
+  ירושלים
+  ויגאל את
+  הארץ לעולם
+  ועד.
+  בפרוץ
+  המלחמה
+  שתבוא, יבואו
+  גם אלינו
+  מדינאים וקצינים
+  זרים, כלורנס
+  בשעתו לשבטי
+  הבידואים, ויתאמצו
+  נא למשוך
+  אותנו לצדם
+  ואנו נלחם
+  לצדה של
+  מעצמה, אשר
+  תכיר כי עם
+  ישראל הוא בעליה
+  היחידי
+  החוקי של
+  הארץ הזאת
+  והוא יקים בה
+  את מלכותו.
+   
+  (מתוך
+  "עקרונות
+  ומסקנות",
+  מאמר ב"אומר
+  לעם" הופיע
+  ביום 29 ביולי 1939,
+  כחודש לפני
+  פרוץ המלחמה).
+   
+  
+ 
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+</body>
+   </text>
+</TEI>

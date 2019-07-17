@@ -1,0 +1,236 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>מתי מדבר האחרונים</title>
+            <author>חיים נחמן ביאליק</author>
+            <respStmt>
+               <name>Mandel Scholion Hebrew Revival Research Group</name>
+               <resp>Formatting of content from the Ben-Yehuda Project to TEI-XML according to the TEI P5 Guidelines.
+                  Addition of dates, not present in the online version, by Shira Wigderson, Asaf Isser, Adi Cohen, Nitzan Cohen, and Adi Cohen.
+               </resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <authority>Project Ben-Yehuda</authority>
+            <idno>http://benyehuda.org/bialik/bia021.html</idno>
+         </publicationStmt>
+         <sourceDesc xml:lang="Hebrew">
+            <bibl>
+               <date when="1896" notBefore="1896-01-01" notAfter="1896-12-31"/>
+            </bibl>
+            <p>The Ben-Yehuda Project (http://benyehuda.org/). Content provided within the Ben-Yehuda Hackathon at the University of Haifa (THATCamp Haifa, February 2014).</p>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <change>
+            <date>2018-11-01</date>
+            <name>Omer Waldman</name>
+            <note>Correction of previously annotated dates and addition of dates to majority of the works</note>
+         </change>
+         <change>
+            <date>2017-08-09</date>
+            <name>Jerusalem corpus of Emergent Modern Hebrew (JEMH) staff</name>
+            <note>Created the initial version of the content in TEI-XML and added dates (some based on estimation)</note>
+         </change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+
+
+
+
+
+
+
+מתי מדבר האחרונים / חיים נחמן ביאליק
+
+
+
+
+
+
+
+
+
+
+
+
+מתי מדבר האחרונים
+
+"משה
+מת יהושע מכניס"
+
+ 
+
+קומו, תעי מדבר, צאו מתוך השממה;
+
+עוד הדרך רב, עוד רבה המלחמה.
+
+ 
+
+רב-לכם לנוע, לנוד בערבה –
+
+ולפניכם פרושה דרך גדולה, רחבה.
+
+ 
+
+רק ארבעים שנה נתע בין ההרים –
+
+ובחול טמנו ששים רבוא פגרים.
+
+ 
+
+אל-נא יעצרונו פגרי הנחשלים,
+
+שבעבדותם מתו – נפסח על-החללים!
+
+ 
+
+ירקבו בקלונם סרוחים על-צררותם,
+
+שבכתפם נשאו ממצרים אותם.
+
+ 
+
+ימתק למו חלומם, חלום רב בצלים,
+שומים,
+
+דודים מלאי בשר רבים ועצומים.
+
+ 
+
+עוד היום או מחר יחלק רוח קדים
+
+עם העיט גופת אחרון העבדים.
+
+ 
+
+והשמש תשמח אלי-גיל לשלח
+
+בראשונה אור על-פני דור כביר כח.
+
+ 
+
+ובתרועה יצהיל גם-הדור ראשונה
+
+פניו לקראת שמש והדר גאונה.
+
+ 
+
+קומו אפוא, נדים! עזבו את-השממה!
+
+אך אל-יעל קולכם, דרכו עז בדממה!
+
+ 
+
+פן-צעדכם ירגיז מדבר ונרדמיו –
+
+איש ואיש בלבבו ישמע הד פעמיו!
+
+ 
+
+איש בלבבו ישמע קול אלה דבר:
+
+לך! היום אל-ארץ חדשה אתה עבר!
+
+ 
+
+לא! לא לחם קלקל, שלו ודגן שמים –
+
+לחם עצב תאכל, פרי עמל ידים!
+
+ 
+
+לא! לא אהל תהו ועליות שחקים –
+
+בית אחר תבנה, אהל אחר תקים!
+
+ 
+
+כי מלבד המדבר תחת השמים,
+
+עוד לאלה עולם גדול רחב ידים.
+
+ 
+
+ומלבד ילל הישימון, דמי הציה –
+
+תרגש תחת שמשו ארץ יפה-פיה."
+
+ 
+
+ועל-פסגת נבו מול השמש הבא,
+
+נורא הוד כפני מלאך הקרב,
+
+יעמד יהושע בן-נון יתן קול
+
+על-ראש צבאו העצום ורב.
+
+ 
+
+קולו יצא כחץ, מלא עצמה, עזוז,
+
+דברו יבער כלפיד, כאש;
+
+גם-המדבר הנורא, המדבר הריק,
+
+עונה אחריו: "ישראל! קום רש!"
+
+ 
+
+ומלמטה ככפיר, עם עלומים ודרור,
+
+מחנה כבד כחול שפת הים,
+
+הקשב יקשיב בדממת קדש לקול
+
+המתפוצץ על-ראשי העם.
+
+ 
+
+וכבר תקעו בחצצרות למסע, וכבר
+
+רד מפסגת נבו גם-השר –
+
+ומדוע לא-יסע ישראל? על-מה
+
+נצב דומם כפוף-ראש מול ההר?
+
+ 
+
+את-מה יצר עזב לו במדבר הזה?
+
+מה-משוטטות עיניו בגיא?
+
+למה דומם תבכינה, תטפנה? את-מי
+
+תבקשנה על ראש הר-נבו?
+
+ 
+
+הן מבקשות את-משה, את-משה המת!
+
+וכאיש אחד כל פנות העם
+
+כרעו פתאם מול רוח איש האלהים,
+
+אל-מול רעם הנאמן, הרם.
+
+ 
+
+תשרי, תרנ"ז.
+
+
+
+
+
+  
+
+
+</body>
+   </text>
+</TEI>

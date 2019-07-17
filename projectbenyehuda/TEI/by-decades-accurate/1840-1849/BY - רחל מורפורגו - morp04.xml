@@ -1,0 +1,149 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>ואלה דברי רחל בבוא לאזניה כי שמה נזכר לתהלה במכתבי העתים</title>
+            <author>רחל מורפורגו</author>
+            <respStmt>
+               <name>Mandel Scholion Hebrew Revival Research Group</name>
+               <resp>Formatting of content from the Ben-Yehuda Project to TEI-XML according to the TEI P5 Guidelines.
+                  Addition of dates, not present in the online version, by Shira Wigderson, Asaf Isser, Adi Cohen, Nitzan Cohen, and Adi Cohen.
+               </resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <authority>Project Ben-Yehuda</authority>
+            <idno>http://benyehuda.org/morpurgo/morp04.html</idno>
+         </publicationStmt>
+         <sourceDesc xml:lang="Hebrew">
+            <bibl>
+               <date when="1847" notBefore="1847-01-01" notAfter="1847-12-31"/>
+            </bibl>
+            <p>The Ben-Yehuda Project (http://benyehuda.org/). Content provided within the Ben-Yehuda Hackathon at the University of Haifa (THATCamp Haifa, February 2014).</p>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <change>
+            <date>2018-11-01</date>
+            <name>Omer Waldman</name>
+            <note>Correction of previously annotated dates and addition of dates to majority of the works</note>
+         </change>
+         <change>
+            <date>2017-08-09</date>
+            <name>Jerusalem corpus of Emergent Modern Hebrew (JEMH) staff</name>
+            <note>Created the initial version of the content in TEI-XML and added dates (some based on estimation)</note>
+         </change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+
+
+
+
+
+
+
+ד. ואלה דברי רחל בבוא לאזניה כי שמה נזכר לתהלה / רחל מורפורגו
+
+
+
+
+
+
+
+
+
+
+
+ואלה דברי רחל בבוא
+לאזניה כי שמה נזכר לתהלה במכתבי העתים:
+
+ 
+
+אוי לי תאמר
+נפשי, כי מר לי מר,
+
+טפח רוחי עלי[1]
+ואתימר.
+
+שמעתי קול
+אומר: שירך נשמר,
+
+מי כמותך רחל
+לומדת שיר?
+
+ 
+
+רוחי ישיב
+אלי: ריחי נמר,
+
+גולה אחר
+גולה, עורי סמר,
+
+טעמי לא עמד
+בי, כרמי זמר,
+
+מכלמות
+אפחד,  לא עוד אשיר.
+
+               
+
+אפנה צפון
+דרום קדמה וימה.
+
+דעת נשים
+קלה, לזאת הורמה.[2]
+
+אחר כמה
+שנים, הן עתה למה
+
+ 
+
+יזכר מכלב
+מת כל-עיר כל-פלך?
+
+הנה העד יעיד
+תושב והלך
+
+אין חכמה
+לאשה כי אם בפלך.
+
+ 
+
+נפל
+אשת יעקב מורפורגו             ה'תר"ז,
+1847
+
+
+
+
+
+
+
+
+
+
+
+
+
+[1]  ירושלמי י"ב,  פי"ב דה"י, ומובא בעין יעקב
+
+
+
+
+
+[2]   עולה למעלה
+כמשפט כל הגופות הקלים.
+
+
+
+
+
+
+
+
+</body>
+   </text>
+</TEI>

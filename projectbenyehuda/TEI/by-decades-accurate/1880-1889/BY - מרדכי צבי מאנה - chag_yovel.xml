@@ -1,0 +1,255 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>חַג-הַיּוֹבֵל</title>
+            <author>מרדכי צבי מאנה</author>
+            <respStmt>
+               <name>Mandel Scholion Hebrew Revival Research Group</name>
+               <resp>Formatting of content from the Ben-Yehuda Project to TEI-XML according to the TEI P5 Guidelines.
+                  Addition of dates, not present in the online version, by Shira Wigderson, Asaf Isser, Adi Cohen, Nitzan Cohen, and Adi Cohen.
+               </resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <authority>Project Ben-Yehuda</authority>
+            <idno>http://benyehuda.org/maneh/chag_yovel.html</idno>
+         </publicationStmt>
+         <sourceDesc xml:lang="Hebrew">
+            <bibl>
+               <date when="1884" notBefore="1884-01-01" notAfter="1884-12-31"/>
+            </bibl>
+            <p>The Ben-Yehuda Project (http://benyehuda.org/). Content provided within the Ben-Yehuda Hackathon at the University of Haifa (THATCamp Haifa, February 2014).</p>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <change>
+            <date>2018-11-01</date>
+            <name>Omer Waldman</name>
+            <note>Correction of previously annotated dates and addition of dates to majority of the works</note>
+         </change>
+         <change>
+            <date>2017-08-09</date>
+            <name>Jerusalem corpus of Emergent Modern Hebrew (JEMH) staff</name>
+            <note>Created the initial version of the content in TEI-XML and added dates (some based on estimation)</note>
+         </change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+
+
+
+
+
+
+
+חג-היובל / מרדכי צבי מאנה
+
+
+
+ 
+
+
+
+
+  
+  
+
+
+חג-היובל /
+מרדכי צבי מאנה
+
+(ביום מלאת
+חמשים שנה לעבודת ה' חז"ס בשדה הספרות והמדעים).
+
+ 
+
+אור שמש כי
+יהל על ארץ מטה,
+
+יפיץ הצללים
+גם יאיר עינים;
+
+אור חכמה כי
+יזרח יפיץ עלטה
+
+פרשה
+הבערות תחת השמים.
+
+ 
+
+א שמש יום,
+יום יעזב חוג רקיע,
+
+ותנומה
+ואפלה יביא הליל;
+
+וברק החכמה
+עד עולם יופיע,
+
+וברבות ימיו
+יוסיף און וחיל.
+
+ 
+
+גם אור,
+סלנימסקי, עלה כשמש,
+
+עת עמי עוד
+ישן, מוזר לחיים;
+
+עת סביב לו
+שלט חש ואמש,
+
+ולאור הדעת
+לא פקח עינים.
+
+ 
+
+אז אור חכמת
+עלה על שמינו.
+
+אור חדש, אור
+חיים עליו הופעת,
+
+ותדבר אל
+עמ בשפת קדשנו,
+
+ולאזניו
+חכמה ודעת השמעת.
+
+ 
+
+אז ראה עמי
+כל פלאי אלה
+
+הבין תעלומות
+שמים וארץ;
+
+שמע נשגבות
+על צבאות גבה,
+
+גם ידע נפשו
+כי תבז כל קרץ,
+
+ 
+
+ראה כי חיה
+השפה העבריה,
+
+ראה כי
+החכמה טובה ונעימה,
+
+ויפקח עיניו
+ויקם לתחיה,
+
+וישנס
+מתניו ויל קדימה!
+
+ 
+
+ולפניו תל
+על דר הדעת,
+
+תנחהו,
+תורהו זה יובל שנים!
+
+ובאהבה ל
+נטו אזן שומעת,
+
+כל שוחר
+חכמה כאבות, כבנים.
+
+ 
+
+כי תורת פי
+כלמו שאפו,
+
+ותשואות חן,
+חן ל תמיד הובילו;
+
+וחמשים שנה
+כן עברו, חלפו,
+
+ובשמ עד
+היום כלם יגילו!
+
+***
+
+כלם יגילו
+היום, יום תפארת,
+
+יום חג היובל
+מעת אור הופעת;
+
+כלם יגישו
+אל ראש עטרת,
+
+ופרי עץ
+הדעת שכבר נטעת.
+
+ 
+
+כי חג היום
+לנו, חג לתושיה,
+
+חג לחכמה
+ולשפה העבריה!
+
+***
+
+גם אני, שב
+נכבד, מוקיר ערכ,
+
+וביום שמחת
+זה גילה מלאתי;
+
+וביראת
+הכבוד אקרב אלי,
+
+ובכפי תודה
+וברכה הבאתי.
+
+ 
+
+כי תל הלאה
+על דר הקדש,
+
+כי תאיר
+כסהר בחצי החדש;
+
+משומעי
+לקח עוד תשבע נחת,
+
+ובת יעקב
+תראה עולה צולחת;
+
+כי תשב
+שאנן כי תמצא אהלה
+
+גם חיים, גם
+אשר, גם כבוד סלה.
+
+ 
+
+כ"ד אדר,
+תרמ"ד, פ"ב.
+
+ 
+
+
+
+
+
+ 
+
+
+
+
+
+
+</body>
+   </text>
+</TEI>

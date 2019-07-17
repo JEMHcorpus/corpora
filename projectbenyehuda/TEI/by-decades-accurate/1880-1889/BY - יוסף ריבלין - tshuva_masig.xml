@@ -1,0 +1,122 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>תשובה למשיג</title>
+            <author>יוסף ריבלין</author>
+            <respStmt>
+               <name>Mandel Scholion Hebrew Revival Research Group</name>
+               <resp>Formatting of content from the Ben-Yehuda Project to TEI-XML according to the TEI P5 Guidelines.
+                  Addition of dates, not present in the online version, by Shira Wigderson, Asaf Isser, Adi Cohen, Nitzan Cohen, and Adi Cohen.
+               </resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <authority>Project Ben-Yehuda</authority>
+            <idno>http://benyehuda.org/rivlin/tshuva_masig.html</idno>
+         </publicationStmt>
+         <sourceDesc xml:lang="Hebrew">
+            <bibl>
+               <date when="1886" notBefore="1886-01-01" notAfter="1886-12-31"/>
+            </bibl>
+            <p>The Ben-Yehuda Project (http://benyehuda.org/). Content provided within the Ben-Yehuda Hackathon at the University of Haifa (THATCamp Haifa, February 2014).</p>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <change>
+            <date>2018-11-01</date>
+            <name>Omer Waldman</name>
+            <note>Correction of previously annotated dates and addition of dates to majority of the works</note>
+         </change>
+         <change>
+            <date>2017-08-09</date>
+            <name>Jerusalem corpus of Emergent Modern Hebrew (JEMH) staff</name>
+            <note>Created the initial version of the content in TEI-XML and added dates (some based on estimation)</note>
+         </change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+
+
+
+
+
+
+
+תשובה למשיג / יוסף ריבלין
+
+
+
+
+
+ 
+
+
+
+
+  
+  
+
+
+תשובה למשיג
+
+יוסף ריבלין
+
+
+
+ 
+
+
+
+
+ 
+  
+  ירושלים אד"ש תרמ"ו.
+  ראה הכותב ה' מ"מ מיילעס מפיראטין
+  במ"ע "היום" גליון 8 [ט"ז באדר א תרמ"ו] כי יבשר עט.  מירושלים, אשר מנהלי ועד כל הכוללים
+  הוציאו לאור חשבון כו', ובא והוסיף אות אחת משמו, והעתיק: כי מנהלי ועדי
+  כל הכוללים הוציאו חשבון וכו' – והיא שגרמה לו לשאול שאלה גדולה "עח ארבע
+  מאות שקל כסף ששוקלת "פיראטין" לארץ הקדושה.  ולמה לא זכתה פיראטין שישלחו אליו חשבון
+  הנדפס"? והנה אם הוא הוסיף אות יו"ד על מלת ועד עלינו לגול
+  התלונה שהעלתה שגגתו מעל מעריכי החשבון אשר אנוכי אחד מהם.  חובה עלי להודיע, ככל הכתוב מפורש במבוא
+  החוברת "שמש צדקה".  כלל א',
+  "כי בהחשבון הזה לא ימצא שום כסף אשר מאחת המחוזות הפרטיות, או גם מאחת
+  הערים המשותפות אם בא לכולל פרטי לבדו.  כי כל א' מהכוללים הפרטים יש לו ועד מיוחד,
+  ומנהיגים מיוחדים, והנהגה מיוחדת, והועד הכללי לא נוסד אלא בשביל הענינים
+  הנוגעים אל קבוצת הכוללים כולם או רובם יחד".  –
+  וידעו המתנדבים בכל מקום שהם, אם כסף נדבותיהם
+  אשר הם נותנים לארץ הקדושה בא אל בית הועד הכללי, ואין לו התיחסות לכל כולל
+  פרטי, המה יכולים לדרוש בצדק שתגיעם חוברת החשבון, למען יראו את כספם אם נזכר בתוכו
+  בפרט או בכלל; אכן עיר כמו פיראטין שכספה בא מפורש לכולל חב"ד, וכן כל עיר
+  ועיר אשר בכל אחד מהמחוזות בתחום מושב היהודים, אין להם אל הועד הכללי דבר.  הם יפנו אל המקום שכספם נכנס לשם, ובלי ספק גם
+  הם ימהרו ויעשו כמונו להדפיס חשבון, וכאשר עשינו גם מכולל פרטי מחוז רייסין –
+  ועל ראשי וגזברי הכולל חב"ד מוטלת חובה רבה לגול מעליהם כל עון ואשמה אשר
+  השיאו עליהם במה"ע, ואת אשר ימיטו עליהם הם עצמם במעשיהם במדינות אחרות במה
+  שאינו מובן להם לבדם, והם כספוג סופגים את הכל לעצמם, וכאשר כבר הארכנו למעניתם.
+   והיה זה שלום.
+   
+  היום (פטרבורג), י"ד בניסן תרמ"ו.
+  
+ 
+
+
+
+
+ 
+
+
+
+
+
+ 
+
+
+
+
+
+
+</body>
+   </text>
+</TEI>

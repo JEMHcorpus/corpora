@@ -1,0 +1,151 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>שלהי קיטא</title>
+            <author>יהודה ליב גורדון</author>
+            <respStmt>
+               <name>Mandel Scholion Hebrew Revival Research Group</name>
+               <resp>Formatting of content from the Ben-Yehuda Project to TEI-XML according to the TEI P5 Guidelines.
+                  Addition of dates, not present in the online version, by Shira Wigderson, Asaf Isser, Adi Cohen, Nitzan Cohen, and Adi Cohen.
+               </resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <authority>Project Ben-Yehuda</authority>
+            <idno>http://benyehuda.org/yalag/yalag_035.html</idno>
+         </publicationStmt>
+         <sourceDesc xml:lang="Hebrew">
+            <bibl>
+               <date when="1883" notBefore="1883-01-01" notAfter="1883-12-31"/>
+            </bibl>
+            <p>The Ben-Yehuda Project (http://benyehuda.org/). Content provided within the Ben-Yehuda Hackathon at the University of Haifa (THATCamp Haifa, February 2014).</p>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <change>
+            <date>2018-11-01</date>
+            <name>Omer Waldman</name>
+            <note>Correction of previously annotated dates and addition of dates to majority of the works</note>
+         </change>
+         <change>
+            <date>2017-08-09</date>
+            <name>Jerusalem corpus of Emergent Modern Hebrew (JEMH) staff</name>
+            <note>Created the initial version of the content in TEI-XML and added dates (some based on estimation)</note>
+         </change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+
+
+
+
+
+
+
+שלהי קיטא / י"ל גורדון
+
+
+
+
+
+
+
+
+שלהי קיטא 
+
+(בהאריך הקיץ עד סוף תשרי)
+
+ 
+
+עוד חם היום גדול
+לא יט לרדת,
+
+עוד על ראשינו
+השמש עומדת
+
+ותשלח אשה
+בנו ותמגגנו –
+
+וכבר יצא תשרי
+ירח חגינו.
+
+ 
+
+כל שבעת הימים
+בסכה דרנו,
+
+מרוחות וגשמים
+לא נצטערנו
+
+ו"גבורות הגשמים"
+הננו מזכירים
+
+ופני השמים
+עודם ספירים.
+
+ 
+
+אתה האל עשה
+זה הפלא!
+
+קיץ וחרף – בידך
+כל אלה.
+
+תקצף ובאלול
+הסתו יקדמנו.
+
+תרצה ולמרחשון
+יאריך קיצנו.
+
+ 
+
+ברוך אתה, אל,
+על ארך ארך,
+
+חדש חיים הוספת
+ליצוריך;
+
+כי מה הקיץ אם
+לא חיי ארץ,
+
+ומה הסתו אם
+לא מות וקרץ?
+
+ 
+
+הפלה, אל עשי,
+גם לי נא חסדך,
+
+האריכה לי קיצי,
+העמד שמשך,
+
+וסתו חיי, עת
+זקנה, כי יבואני –
+
+רוח קדשך אל
+תקח ממני!
+
+ 
+
+(א"ח הסכות
+תרמ"ג)
+
+ 
+
+
+
+
+
+ 
+
+
+
+
+
+
+</body>
+   </text>
+</TEI>

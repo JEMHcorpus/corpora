@@ -1,0 +1,283 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>המשיח</title>
+            <author>אברהם שטרן ("יאיר")</author>
+            <respStmt>
+               <name>Mandel Scholion Hebrew Revival Research Group</name>
+               <resp>Formatting of content from the Ben-Yehuda Project to TEI-XML according to the TEI P5 Guidelines.
+                  Addition of dates, not present in the online version, by Shira Wigderson, Asaf Isser, Adi Cohen, Nitzan Cohen, and Adi Cohen.
+               </resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <authority>Project Ben-Yehuda</authority>
+            <idno>http://benyehuda.org/stern_avraham/sefer43.html</idno>
+         </publicationStmt>
+         <sourceDesc xml:lang="Hebrew">
+            <bibl>
+               <date when="1935" notBefore="1935-01-01" notAfter="1935-12-31"/>
+            </bibl>
+            <p>The Ben-Yehuda Project (http://benyehuda.org/). Content provided within the Ben-Yehuda Hackathon at the University of Haifa (THATCamp Haifa, February 2014).</p>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <change>
+            <date>2018-11-01</date>
+            <name>Omer Waldman</name>
+            <note>Correction of previously annotated dates and addition of dates to majority of the works</note>
+         </change>
+         <change>
+            <date>2017-08-09</date>
+            <name>Jerusalem corpus of Emergent Modern Hebrew (JEMH) staff</name>
+            <note>Created the initial version of the content in TEI-XML and added dates (some based on estimation)</note>
+         </change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+
+
+
+
+
+
+
+המשיח /
+אברהם שטרן
+("יאיר")
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+המשיח
+/ אברהם שטרן
+("יאיר")
+
+(קטע)
+
+ 
+
+אחי,
+הידעת
+היכן
+יולד
+המשיח?
+
+בבית-אסורים
+יולד
+הוא, עלי
+הרצפה,
+
+שעליה
+הקיאה
+זונה
+ועשה את צרכיו
+הגנב,
+
+השודד
+ורוצח
+זקן,
+שאנס את בתו
+הקטנה.
+
+יקדמוהו
+ברכים
+חמות של
+אמו
+הגלות,
+שאנסוה
+
+עדת
+ערבים
+מחברון,
+שכורי
+הדם
+והרצח
+
+(זרמת
+הסוסים
+זרמתם
+ובשר חמורים
+בשרם),
+
+ותינק
+את ילדה
+החור
+בחלבה
+המר
+כלענה.
+
+ 
+
+בין
+קירות
+ארבעה
+רטבים,
+על רצפה
+מזהמת
+בטחב,
+
+בצינוק
+שלפני
+חלונו
+עברו
+ימים
+אפורים,
+
+סבלים
+עמוסי-דאגות.
+
+לפניו
+סבכת-הברזל,
+שעליה
+הצלב
+עשרות
+
+פעמים
+זהר
+שמי-המולדת
+הזך
+והרך,
+הטהור.
+
+ומעבר
+לזה
+שירות,
+שירות
+ימים
+אפורים,
+
+סבלים
+כפופים.
+
+ 
+
+לא
+ידע מהו
+זמן,
+השעה
+והרגע.
+
+כמטטלת-שעון
+התהלך
+השומר
+בפרוזדור
+
+הלוך
+וחזור,
+הלוך
+וחזור,
+הלוך וחזור.
+
+וידע
+המשיח,
+כי זאת
+תהא שעת-גאלה,
+
+כשהד-פעמיו
+של שוטר
+יפסק ולא
+ישמע.
+
+ 
+
+הצללים,
+שזחלו
+על הקיר
+כעדת-עכבישים
+
+קודרת
+וארגו
+שמה
+רשת-יאוש
+לצוד בה
+
+דבורת
+הזהב,
+התקוה,
+שהביאה
+
+דבש-נחמה
+לכורת-לבו
+של משיח.
+
+ 
+
+הדממה
+יתומה
+רעדה
+בפנה
+ובכתה ה,
+ה, ה,
+
+אך
+פתאם
+קרן-אור,
+חרב-כסף
+חתכה את
+סבכת-החלון
+
+וגרשה
+עכבישי-הצללים
+לפנה
+אפלה
+ונדחת.
+
+וידע
+המשיח,
+כי
+הדרך
+אלי
+גאלה
+
+היא
+החרב.
+
+או
+בבקר
+אור-שחר
+נטף
+למרתף
+ומלא
+
+הרצפה
+בשלולית-דם
+אדמה.
+
+וידע
+המשיח,
+כי
+שתים
+דרכים
+לגאלה:
+
+הדם
+והחרב.
+
+
+
+
+
+ 
+
+
+
+
+
+
+</body>
+   </text>
+</TEI>

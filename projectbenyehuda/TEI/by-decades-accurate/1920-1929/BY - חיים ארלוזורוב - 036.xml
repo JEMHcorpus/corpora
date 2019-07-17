@@ -1,0 +1,146 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>ההתישבות במחזור התעשיני</title>
+            <author>חיים ארלוזורוב</author>
+            <respStmt>
+               <name>Mandel Scholion Hebrew Revival Research Group</name>
+               <resp>Formatting of content from the Ben-Yehuda Project to TEI-XML according to the TEI P5 Guidelines.
+                  Addition of dates, not present in the online version, by Shira Wigderson, Asaf Isser, Adi Cohen, Nitzan Cohen, and Adi Cohen.
+               </resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <authority>Project Ben-Yehuda</authority>
+            <idno>http://benyehuda.org/arlosoroff/036.html</idno>
+         </publicationStmt>
+         <sourceDesc xml:lang="Hebrew">
+            <bibl>
+               <date when="1924" notBefore="1924-01-01" notAfter="1924-12-31"/>
+            </bibl>
+            <p>The Ben-Yehuda Project (http://benyehuda.org/). Content provided within the Ben-Yehuda Hackathon at the University of Haifa (THATCamp Haifa, February 2014).</p>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <change>
+            <date>2018-11-01</date>
+            <name>Omer Waldman</name>
+            <note>Correction of previously annotated dates and addition of dates to majority of the works</note>
+         </change>
+         <change>
+            <date>2017-08-09</date>
+            <name>Jerusalem corpus of Emergent Modern Hebrew (JEMH) staff</name>
+            <note>Created the initial version of the content in TEI-XML and added dates (some based on estimation)</note>
+         </change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+
+
+
+
+
+
+
+ההתישבות במחזור התעשיני / חיים ארלוזורוב
+
+
+
+
+
+
+
+
+ההתישבות במחזור התעשיני*
+
+חיים ארלוזורוב
+
+
+
+ 
+
+
+
+
+ 
+  
+  א.
+  המחזור
+  בבחינת עובדה מכריעה ברכושנות התעשינית המפותחת, ועל ידי כך – גם בהתישבות
+  התקופה הזאת. – המחזורים הגדולים והקטנים. – טיב המחזורים הגדולים. – תקופות
+  הירידה הגדולות, בתורת תקופות של משבר-מעבר, הגירה והתישבות. – המשברים "הקטנים"
+  בתורת גורמים, הממריצים בקביעות את תנועת ההגירה. – השפעת המשבר הנורמאלי הראשון
+  (בש' 1826-27) על ההגירה. – יסוד
+  חברת וייקפילד להתישבות. – ראשית התעשינות והמחזורים התעשיניים באמריקה ובשאר
+  ארצות התישבות. – ההשפעה על תנועת ההגירה וההתישבות.
+   
+  ב.
+  תקופות
+  ההגירה מאנגליה במאה הי"ט. – השואת ההגירה הבריטית לגבי ההגירה
+  מארצות-תעשיה בלתי מפותחות (גרמניה, בלגיה), מארצות חקלאיות בעקרן (צרפת,
+  אוסטריה-הונגריה) ומארצות נחשלות של עובדי אדמה (רוסיה, מדינות הבלקן). – השפעת
+  המשבר החקלאי באירלנד על ההגירה. – חלוקת המהגרים לפי ארצות הקליטה.
+   
+  ג.
+  צורות
+  ההתפשטות הקולוניאלית; ראשית ההתישבות התכניתית. – ההשפעה החלוצית של אדוארד
+  גיבון, וייקפילד, לורד דורהאם וסיר טשארלס בולר על תורת הדעות השוררות בפוליטיקה
+  הקולוניאלית של התקופה. – חברות ההתישבות למיניהן. – התערבות הממלכה בעניני
+  ההתישבות. – משרד המושבות שב לתחיה רק בש' 1854.
+   
+  ד.
+  הבעיה
+  הקרקעית הולכת ומחמירה. – השואת-מחירי הקרקע באירופה ובמושבות. – דיני הקרקע:
+  שיטת-וייקפילד טפוסית בראשית התקופה הזאת ושיטת "בית ונחלה" שלאחריה
+  (בש' 1862 – בארצות הברית, בש' 1872 – בקאנאדה). – הפוליטיקה של ההתישבות
+  המסוגרת והתפוררות הלאטיפונדיות שנוצרו בימי וייקפילד.
+   
+  ה.
+  התפתחות
+  ארצות-ההתישבות החדשות: ישוב זילנד החדשה. – ראשית ההתישבות באלג'יר. – פתוח המערב
+  התיכון בארצות הברית וקנדה. –התחלת הפתוח של ארצות האוקינוס השקט. – משיכת ארצות
+  דרום אמריקה לתנועת ההתישבות. – ההתקדמות באוסטרליה ובדרום אפריקה. – סכום
+  תוצאות ההתישבות. – התרחבות שטחי התבואות במושבות. – סימני המשבר האגרארי הגדול
+  באירופה בש' 1890-1880.
+  
+  
+ 
+
+
+
+
+ 
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+*  משלושת
+הפרקים האחרונים של ספר "תולדות ההתישבות בעולם" לא נשאר בעזבון המחבר
+אלא תוכני ענינים בלבד.
+
+
+
+
+
+
+
+
+</body>
+   </text>
+</TEI>

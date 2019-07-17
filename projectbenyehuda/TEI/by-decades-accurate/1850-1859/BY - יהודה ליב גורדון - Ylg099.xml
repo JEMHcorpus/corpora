@@ -1,0 +1,163 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>העורב והשועל</title>
+            <author>יהודה ליב גורדון</author>
+            <respStmt>
+               <name>Mandel Scholion Hebrew Revival Research Group</name>
+               <resp>Formatting of content from the Ben-Yehuda Project to TEI-XML according to the TEI P5 Guidelines.
+                  Addition of dates, not present in the online version, by Shira Wigderson, Asaf Isser, Adi Cohen, Nitzan Cohen, and Adi Cohen.
+               </resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <authority>Project Ben-Yehuda</authority>
+            <idno>http://benyehuda.org/yalag/Ylg099.html</idno>
+         </publicationStmt>
+         <sourceDesc xml:lang="Hebrew">
+            <bibl>
+               <date when="1859" notBefore="1859-01-01" notAfter="1859-12-31"/>
+            </bibl>
+            <p>The Ben-Yehuda Project (http://benyehuda.org/). Content provided within the Ben-Yehuda Hackathon at the University of Haifa (THATCamp Haifa, February 2014).</p>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <change>
+            <date>2018-11-01</date>
+            <name>Omer Waldman</name>
+            <note>Correction of previously annotated dates and addition of dates to majority of the works</note>
+         </change>
+         <change>
+            <date>2017-08-09</date>
+            <name>Jerusalem corpus of Emergent Modern Hebrew (JEMH) staff</name>
+            <note>Created the initial version of the content in TEI-XML and added dates (some based on estimation)</note>
+         </change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+
+
+
+
+
+
+העורב והשועל / יהודה ליב גורדון
+
+
+
+
+
+
+
+
+העורב
+והשועל
+
+דעה קנית מה חסרת,
+
+דעה חסרת מה קנית?
+
+(ויק"ר
+פ"א)
+
+ 
+
+עורב עלה
+ביער על ראש שיח
+
+ובפיו נתח
+בשר מן המטבח,
+
+ויעבר שועל
+ויריח
+
+את ריח
+הניחח
+
+ויתנכל
+וישת
+
+לעורב
+בחלקות רשת,
+
+ויקרב אליו
+לגשת
+
+ובחמאת פיו
+הפיח:
+
+צור עורב! מי
+זה יערך-לך ביפי!
+
+כלך יפה,
+דודי, אין מום בך, אין דפי!
+
+לו ברכך
+אלהים אלהיך
+
+לצקת חן והוד
+גם בשפתיך
+
+וכמראך נאוה
+לו ערב קולך,
+
+כי אז – הן
+תדע כי לא אדע חנף! – 
+
+כי אז
+יפיפית מכל עוף כנף
+
+ומאד נעלית
+על כל שכני בתי חמר.
+
+ 
+
+לדברים
+האלה רכו משמן
+
+הטה חיש
+העורב אזן שומעת
+
+– פתי יאמין
+לכל אמונה אמן! – 
+
+ויפצה פיהו
+בבלי דעת
+
+לשמיע קול
+בשיר וזמר,
+
+ויפל הבשר
+על הארץ מתחת
+
+ויקחהו
+השועל בנפש שומחת
+
+ויהתל
+בעורב ויאמר:
+
+אמת כל יתרון
+כל יפי צברת,
+
+רק האחת – היא
+הדעת – חסרת.
+
+ 
+
+
+
+
+
+ 
+
+
+
+
+
+
+</body>
+   </text>
+</TEI>

@@ -1,0 +1,120 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>עוד חיה חנה</title>
+            <author>מרדכי צבי מאנה</author>
+            <respStmt>
+               <name>Mandel Scholion Hebrew Revival Research Group</name>
+               <resp>Formatting of content from the Ben-Yehuda Project to TEI-XML according to the TEI P5 Guidelines.
+                  Addition of dates, not present in the online version, by Shira Wigderson, Asaf Isser, Adi Cohen, Nitzan Cohen, and Adi Cohen.
+               </resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <authority>Project Ben-Yehuda</authority>
+            <idno>http://benyehuda.org/maneh/017.html</idno>
+         </publicationStmt>
+         <sourceDesc xml:lang="Hebrew">
+            <bibl>
+               <date when="1880" notBefore="1880-01-01" notAfter="1880-12-31"/>
+            </bibl>
+            <p>The Ben-Yehuda Project (http://benyehuda.org/). Content provided within the Ben-Yehuda Hackathon at the University of Haifa (THATCamp Haifa, February 2014).</p>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <change>
+            <date>2018-11-01</date>
+            <name>Omer Waldman</name>
+            <note>Correction of previously annotated dates and addition of dates to majority of the works</note>
+         </change>
+         <change>
+            <date>2017-08-09</date>
+            <name>Jerusalem corpus of Emergent Modern Hebrew (JEMH) staff</name>
+            <note>Created the initial version of the content in TEI-XML and added dates (some based on estimation)</note>
+         </change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+
+
+
+
+
+
+עוד חיה חנה / מרדכי צבי מאנה
+
+
+
+ 
+
+
+
+
+  
+  
+
+
+עוד חיה חנה!
+/ מרדכי צבי מאנה
+
+(היא
+הבאראנעססע חנה גינצבורג אשר על שמה הוקם בפה בית־מחסה־יתומים).
+
+ 
+
+1.
+
+יום זה הן גועה חנה הגבירה
+
+ובסתר צל שדי תשכן שאננה;
+
+אך זכרון נצח לשמה פה השאירה,
+
+צדקותיה חיות: עוד חיה חנה!
+
+ 
+
+2.
+
+שם אבד החיו, הצליחו רחמיה,
+
+שם אך לבה האזין קול נפש נענה;
+
+אין קץ אין מספר אל רב צדקותיה.
+
+היא החיתה רבים: עוד חיה חנה!
+
+ 
+
+3.
+
+ויתומים את לבם ישפכו כמים
+
+כי יאיר אל עליון לה עדן גנה;
+
+בבית הנוסד לשמה יראו חיים,
+
+הם נצח יעידו: עוד חיה חנה!
+
+ 
+
+ביום נאספה אל עמה,
+1880
+
+
+
+
+
+ 
+
+
+
+
+
+
+</body>
+   </text>
+</TEI>

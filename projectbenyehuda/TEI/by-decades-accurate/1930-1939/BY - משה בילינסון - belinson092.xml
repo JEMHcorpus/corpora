@@ -1,0 +1,125 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>הלזה ייקרא משפט?</title>
+            <author>משה בילינסון</author>
+            <respStmt>
+               <name>Mandel Scholion Hebrew Revival Research Group</name>
+               <resp>Formatting of content from the Ben-Yehuda Project to TEI-XML according to the TEI P5 Guidelines.
+                  Addition of dates, not present in the online version, by Shira Wigderson, Asaf Isser, Adi Cohen, Nitzan Cohen, and Adi Cohen.
+               </resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <authority>Project Ben-Yehuda</authority>
+            <idno>http://benyehuda.org/beilinson/belinson092.html</idno>
+         </publicationStmt>
+         <sourceDesc xml:lang="Hebrew">
+            <bibl>
+               <date when="1936" notBefore="1936-01-01" notAfter="1936-12-31"/>
+            </bibl>
+            <p>The Ben-Yehuda Project (http://benyehuda.org/). Content provided within the Ben-Yehuda Hackathon at the University of Haifa (THATCamp Haifa, February 2014).</p>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <change>
+            <date>2018-11-01</date>
+            <name>Omer Waldman</name>
+            <note>Correction of previously annotated dates and addition of dates to majority of the works</note>
+         </change>
+         <change>
+            <date>2017-08-09</date>
+            <name>Jerusalem corpus of Emergent Modern Hebrew (JEMH) staff</name>
+            <note>Created the initial version of the content in TEI-XML and added dates (some based on estimation)</note>
+         </change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+
+
+
+
+
+
+
+הלזה ייקרא משפט? / משה בילינסון
+
+
+
+
+
+
+
+
+הלזה יקרא משפט?
+
+משה בילינסון
+
+
+
+ 
+
+
+
+
+ 
+  
+  האומנם כך יגמר הענין? אחרי ששמענו מפי
+  עדים רבים מה היה ומה קרה בזכרון-יעקב [הכאות ומאסר של פועלים יהודים תובעי
+  עבודה על-ידי שוטרים אירלנדיים], אחרי ששמענו על ההתנפלות הבלתי-צודקת של
+  המשטרה הארצישראלית על הפועלים והפועלות שלא עשו דבר המתנגד לחוק, אחרי
+  שבעקב המאורעות המבישים הללו תקפה התמרמרות רבה את ציבור הפועלים וגם אותו
+  חלק מן הישוב של לא-פועלים, אשר לא אבד לו עדין רגש הכבוד האנושי והלאומי
+  – אחרי כל אלה, היגמר הענין בזה שששת הפועלים נדונו למאסר שבעה ימים והובלו
+  כבולים לעכו?
+  התנהלה חקירה. אך לא על התנהגותם של השוטרים
+  האנגלים והערבים שהכו את הפועלים היא חלה, לא השוטרים הללו ולא מי שעליו
+  האחריות להתנהגותם, לא הם עמדו לפני בית-המשפט – אלא הפועלים. ומשפט הפועלים
+  התנהל באופן שלא נשמע כמוהו עד עתה: בלי
+  עורכי-דין ובלי עדות מצד הנאשמים, כלומר בלתי-מזוינים עמדו הפועלים
+  הללו לפני הקטיגור שלהם, לפני ממשלת ארץ-ישראל. פרט זה שופך אור מיוחד
+  ובהיר למדי – יותר מדי – על הצדק והיושר של המשפט החיפאי. דרשנו חקירה בנוגע
+  להתנהגותם של השוטרים, דרשנו את מסירת השוטרים הללו לבית-המשפט, אולם
+  היינו גם הראשונים למחות אילו קראנו שהנה נתמלאה דרישתנו, אלא שלא ניתנה לשוטרים
+  האפשרות להזמין עורכי-דין ולהועיד עדות העשויה להצדיק אותם. על אחת כמה
+  וכמה יש צורך למחות עתה, כאשר עמדו לפני בית-המשפט ונדונו למאסר ונשלחו
+  לעכו לא השוטרים שהכו, אלא הפועלים שהוכו.
+  אחד הקנינים החשובים של כל מדינה תרבותית
+  הוא – רגש הכבוד של האזרח כלפי בית-המשפט. אין ממשלה מסודרת, אין חיים צבוריים
+  מסודרים כאשר אין לאזרח האמון במשפט ואינו רוחש לו כבוד. ומשום כך
+  נדונו בחיפה למאסר לא רק ששת הפועלים. נעשה שם דבר הרבה יותר גרוע. עלבון
+  קשה נגרם שם למשפט עצמו, נפגמה קשה ההכרה המשפטית של הציבור הרחב, של כל
+  אזרח בארץ. וכל זמן שהממשלה לא תעשה את החקירה החדשה שתקיף את כל אלה, אשר
+  העדות המרובה מעידה עליהם כעל האשמים האמיתיים, כל זמן שבית-הדין ישפוט
+  אנשים בלי לתת להם את האפשרות השלמה להגנה אשר החוק מצוה עליה, – לא יפוג
+  העלבון הזה ותשלוט ההכרה בציבור, כי מעשה אלמות רשעית נעשה בידי השוטרים
+  האנגלים, כי לא בצדק נשפטו אנשים בבית-הדין הארצישראלי, ומעשה זה לא יסולח
+  לממשלת ארץ-ישראל גם כאשר יתמו שבעת הימים וששת הפועלים יעזבו את בית-הסוהר
+  שבעכו.
+   
+  ג' תמוז תרצ"ו (23.6.1936)
+  
+ 
+
+
+
+
+ 
+
+
+
+
+
+ 
+
+
+
+
+
+
+</body>
+   </text>
+</TEI>

@@ -1,0 +1,180 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>בואה, נער, אל קיטוני</title>
+            <author>חיים נחמן ביאליק</author>
+            <respStmt>
+               <name>Mandel Scholion Hebrew Revival Research Group</name>
+               <resp>Formatting of content from the Ben-Yehuda Project to TEI-XML according to the TEI P5 Guidelines.
+                  Addition of dates, not present in the online version, by Shira Wigderson, Asaf Isser, Adi Cohen, Nitzan Cohen, and Adi Cohen.
+               </resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <authority>Project Ben-Yehuda</authority>
+            <idno>http://benyehuda.org/bialik/izavon_poems_054.html</idno>
+         </publicationStmt>
+         <sourceDesc xml:lang="Hebrew">
+            <bibl>
+               <date when="1910" notBefore="1910-01-01" notAfter="1910-12-31"/>
+            </bibl>
+            <p>The Ben-Yehuda Project (http://benyehuda.org/). Content provided within the Ben-Yehuda Hackathon at the University of Haifa (THATCamp Haifa, February 2014).</p>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <change>
+            <date>2018-11-01</date>
+            <name>Omer Waldman</name>
+            <note>Correction of previously annotated dates and addition of dates to majority of the works</note>
+         </change>
+         <change>
+            <date>2017-08-09</date>
+            <name>Jerusalem corpus of Emergent Modern Hebrew (JEMH) staff</name>
+            <note>Created the initial version of the content in TEI-XML and added dates (some based on estimation)</note>
+         </change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+
+
+
+
+
+
+
+בואה, נער, אל קיטוני / חיים נחמן ביאליק
+
+
+
+ 
+
+
+
+
+  
+  
+
+
+(משירי עם) / חיים נחמן ביאליק
+
+ 
+
+1. 
+
+(בואה, נער, אל קיטוני
+
+ואראך את מטמוני).
+
+ 
+
+יש לי (שם) מרגלית יפה,
+
+עין זולתי עוד לא חשפה.
+
+ 
+
+אפשר גנבה ואפשר מציאה
+
+ואפשר נפלה מרקיע.
+
+ 
+
+2.
+
+שתי בנות לי יש: אבן-חן ומרגלית,
+
+זו עיני הימנית, זו עיני השמאלית.
+
+ 
+
+3.
+
+בידי, בחור, שתי יקרות –
+
+סמן הן לשתי נערות.
+
+   
+
+
+(כאן יש דנר וכאן מרגלית) -
+
+בחר בימנית או בשמאלית.
+
+        
+
+- - - עמד חרד,
+
+חוכך, ירא ומתגרד.
+
+ 
+
+וישאר אותו גולם
+
+רוק זקן עד העולם.
+
+ 
+
+4.
+
+אחד מוצא דנרים
+
+        אחד עשר מכות,
+
+לשכנתנו דבורה
+
+        יש שתי בנות
+רכות.
+
+ 
+
+אחת אבן טובה,
+
+  אחת
+דנר זהב –
+
+ובסתר לבי
+
+ 
+שתיהן יחד אהב.
+
+ 
+
+ובסתר לבי
+
+  שאל –
+אך אין פותר:
+
+איזו יותר נאה,
+
+  איזו
+אהב יותר.
+
+ 
+
+5.
+
+  - -
+אש להבה
+
+   
+הנוגע בה יכוה.
+
+ 
+
+
+
+
+
+ 
+
+
+
+
+
+
+</body>
+   </text>
+</TEI>

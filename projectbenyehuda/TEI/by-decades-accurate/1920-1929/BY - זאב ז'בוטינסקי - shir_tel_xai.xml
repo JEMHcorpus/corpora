@@ -1,0 +1,159 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>שיר תל-חי</title>
+            <author>זאב ז'בוטינסקי</author>
+            <respStmt>
+               <name>Mandel Scholion Hebrew Revival Research Group</name>
+               <resp>Formatting of content from the Ben-Yehuda Project to TEI-XML according to the TEI P5 Guidelines.
+                  Addition of dates, not present in the online version, by Shira Wigderson, Asaf Isser, Adi Cohen, Nitzan Cohen, and Adi Cohen.
+               </resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <authority>Project Ben-Yehuda</authority>
+            <idno>http://benyehuda.org/zhabotinsky/shir_tel_xai.html</idno>
+         </publicationStmt>
+         <sourceDesc xml:lang="Hebrew">
+            <bibl>
+               <date when="1929" notBefore="1929-01-01" notAfter="1929-12-31"/>
+            </bibl>
+            <p>The Ben-Yehuda Project (http://benyehuda.org/). Content provided within the Ben-Yehuda Hackathon at the University of Haifa (THATCamp Haifa, February 2014).</p>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <change>
+            <date>2018-11-01</date>
+            <name>Omer Waldman</name>
+            <note>Correction of previously annotated dates and addition of dates to majority of the works</note>
+         </change>
+         <change>
+            <date>2017-08-09</date>
+            <name>Jerusalem corpus of Emergent Modern Hebrew (JEMH) staff</name>
+            <note>Created the initial version of the content in TEI-XML and added dates (some based on estimation)</note>
+         </change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+
+
+
+
+
+
+שיר תל-חי / זאב ז'בוטינסקי
+
+
+
+ 
+
+
+
+
+  
+  
+
+
+שיר תל-חי / זאב
+ז'בוטינסקי
+
+ 
+
+חרמשים לכם –
+מדוע?
+
+אי קציר, אחי?
+
+– כי בזרע
+הזרוע
+
+תבנה תל-חי!
+
+ 
+
+   שם תל-חי
+
+   יתקדש – 
+
+תל המרץ
+החורש!
+
+ 
+
+בידיכם מגן
+וחרב –
+
+למה הם, אחי?
+
+– שינוח נחת
+ערב
+
+כל בונה
+תל-חי.
+
+ 
+
+   שם תל-חי
+
+   רם ימריא
+
+   תל הכח העברי!
+
+ 
+
+לפניכם פתוח
+ספר –
+
+מה שירו,
+אחי?
+
+– כי נטע אמת
+על אפר
+
+גבורי
+תל-חי.
+
+ 
+
+   שם תל-חי
+
+   עד יחי –
+
+   תל הרוח העברי!
+
+ 
+
+נזדין-נא לב וזרוע
+
+ונקום, אחי,
+
+ללחם,
+לכבוש, לנטוע
+
+ולבנות תל-חי!
+
+ 
+
+   שם תל-חי
+
+   סמל דור –
+
+   תל עמל ועז ואור!
+
+
+
+
+
+ 
+
+
+
+
+
+
+</body>
+   </text>
+</TEI>

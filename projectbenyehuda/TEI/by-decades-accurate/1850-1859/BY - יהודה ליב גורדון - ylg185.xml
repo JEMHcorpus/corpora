@@ -1,0 +1,137 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>החכם והמשוגע</title>
+            <author>יהודה ליב גורדון</author>
+            <respStmt>
+               <name>Mandel Scholion Hebrew Revival Research Group</name>
+               <resp>Formatting of content from the Ben-Yehuda Project to TEI-XML according to the TEI P5 Guidelines.
+                  Addition of dates, not present in the online version, by Shira Wigderson, Asaf Isser, Adi Cohen, Nitzan Cohen, and Adi Cohen.
+               </resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <authority>Project Ben-Yehuda</authority>
+            <idno>http://benyehuda.org/yalag/ylg185.html</idno>
+         </publicationStmt>
+         <sourceDesc xml:lang="Hebrew">
+            <bibl>
+               <date when="1859" notBefore="1859-01-01" notAfter="1859-12-31"/>
+            </bibl>
+            <p>The Ben-Yehuda Project (http://benyehuda.org/). Content provided within the Ben-Yehuda Hackathon at the University of Haifa (THATCamp Haifa, February 2014).</p>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <change>
+            <date>2018-11-01</date>
+            <name>Omer Waldman</name>
+            <note>Correction of previously annotated dates and addition of dates to majority of the works</note>
+         </change>
+         <change>
+            <date>2017-08-09</date>
+            <name>Jerusalem corpus of Emergent Modern Hebrew (JEMH) staff</name>
+            <note>Created the initial version of the content in TEI-XML and added dates (some based on estimation)</note>
+         </change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+
+
+
+
+
+
+
+החכם והמשוגע / יהודה ליב גורדון
+
+
+
+ 
+
+
+
+
+  
+  
+
+
+החכם והמשגע
+/ יהודה ליב גורדון
+
+ 
+
+אחרי גבר חכם
+יודע
+
+רדף ברחוב איש
+משתגע
+
+ויעפר בעפר
+עליו ויקללהו.
+
+ויפן החכם אחריו
+ויראהו
+
+ויאמר לו: גש-אלי
+הנה,
+
+מחצית השקל
+בעמלך אתנה,
+
+כי שכר אל כל
+עבדה ויגיע;
+
+אך יצר לי כי
+ידי לא תגיע
+
+די שלם לך על
+כל עבדתך;
+
+עשה זאת אפוא,
+הן שם לקראתנו
+
+ילך איש עשיר
+מגדלי עירנו,
+
+ירה בו אבן, שים
+עליו קללתך,
+
+וישלם לך כאשר
+תשיג ידהו.
+
+ויט חסר-הדעת
+
+אזן שמעת,
+
+וימהר באיש
+העשיר לפגע;
+
+אף לא אחר זה שלם
+די פעלהו,
+
+כי סריסיו הבהילו
+
+את המשגע הפילו
+
+ויכהו הכה
+ופצע.
+
+ 
+
+
+
+
+
+ 
+
+
+
+
+
+
+</body>
+   </text>
+</TEI>

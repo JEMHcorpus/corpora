@@ -1,0 +1,133 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>שְׁנֵי הַפּוֹעֲלִים אֲשֶׁר הָרְסוּ לִרְאוֹת בַּמְעָרָה</title>
+            <author>חיים נחמן ביאליק</author>
+            <respStmt>
+               <name>Mandel Scholion Hebrew Revival Research Group</name>
+               <resp>Formatting of content from the Ben-Yehuda Project to TEI-XML according to the TEI P5 Guidelines.
+                  Addition of dates, not present in the online version, by Shira Wigderson, Asaf Isser, Adi Cohen, Nitzan Cohen, and Adi Cohen.
+               </resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <authority>Project Ben-Yehuda</authority>
+            <idno>http://benyehuda.org/bialik/veyehi_hayom_shney_poalim.html</idno>
+         </publicationStmt>
+         <sourceDesc xml:lang="Hebrew">
+            <bibl>
+               <date when="1925" notBefore="1925-01-01" notAfter="1925-12-31"/>
+            </bibl>
+            <p>The Ben-Yehuda Project (http://benyehuda.org/). Content provided within the Ben-Yehuda Hackathon at the University of Haifa (THATCamp Haifa, February 2014).</p>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <change>
+            <date>2018-11-01</date>
+            <name>Omer Waldman</name>
+            <note>Correction of previously annotated dates and addition of dates to majority of the works</note>
+         </change>
+         <change>
+            <date>2017-08-09</date>
+            <name>Jerusalem corpus of Emergent Modern Hebrew (JEMH) staff</name>
+            <note>Created the initial version of the content in TEI-XML and added dates (some based on estimation)</note>
+         </change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+
+
+
+
+
+
+
+שני הפועלים אשר הרסו לראות במערה / ח"נ ביאליק
+
+
+
+
+
+
+
+
+שני הפועלים אשר הרסו לראות
+במערה
+
+ח"נ ביאליק
+
+
+
+
+
+
+ 
+  
+  
+  ואנשי
+  ירושלים משבי הגולה יספרו על קברות מלכי בית
+  דוד כדברים האלה: ימים רבים אחרי גלות הארץ לא ידע
+  איש מקום קברות המלכים איהו, כי בגבר החרבן בארץ
+  נשכח המקום מלב ויאבד כל-זכר לו.
+  ויהי מקץ
+  ימים רבים ויבא הכמר הגדול מן הגוים המושלים בירושלים
+  לבנות לו בית תפלה. 
+  וישכר פועלים, ויצום ליסד את-הבית באבני
+  החרבות אשר בהר ציון, עיר דוד, הוא מקום קברי מלכי
+  בית דוד לפנים. 
+  וילכו שמה שנים מן הפועלים להסיע אבנים,
+  ויהי הם מרימים אבן אחת גדולה, והנה פי מערה תחתה.  ויאמרו איש אל אחיו; הבה נרדה
+  אל המערה ונחפשה בה. אולי נמצא שם מטמון.  ויעשו כן וירדו בפי
+  המערה, וילכו במחלה מתחת לארץ ויבאו עד ארמון
+  גדול.   והארמון
+  בנוי על עמודי שיש ומצפה כסף וזהב, ושלחן זהב
+  עומד בו, ושרביט זהב ועטרת זהב על השלחן, וארונות
+  אבן סגורים עומדים שם איש על-יד אחיו, הם הארונות אשר
+  נתנו בהם עצמות מלכי יהודה, ארון למלך, ארון למלך.  ויהרסו שני הפועלים
+  לבא הארמונה פנימה, ותגח פתאם רוח סערה
+  ותשליכם מפתח הארמון וחוצה ותפילם ארצה, וישכבו
+  כמתים עד הערב.  עוד הם
+  שוכבים והנה קול באזנם: 
+  "קומו,
+  צאו מן המקום, פן תספו." 
+  ויתחזקו
+  לקום, ויצאו דחופים ומבהלים מן המערה ויבאו
+  ויגידו לכמר את-כל-הדברים.       
+  ושם
+  בירושלים איש יהודי חסיד, מאבלי ציון, רבי אברהם
+  שמו.  וישלח הכמר לקרא לו
+  וישאלהו לפשר המראה אשר ראו הפועלים במערה.
+  ויאמר
+  החסיד: 
+  "אין זאת
+  כי-אם מערת קברי מלכי בית דוד, ולא טוב בעיני אלהים
+  כי-יהרסו זרים אליה."
+  ויצו הכמר
+  וישיבו את-האבן אל פי המערה ויסתמוה, לא השאירו
+  בה בלתי-אם ארבה אחת. 
+  ויעלם כל-אשר במערה מעיני אדם עד היום הזה.
+  
+ 
+
+
+
+
+ 
+
+
+
+
+
+ 
+
+
+
+
+
+
+</body>
+   </text>
+</TEI>

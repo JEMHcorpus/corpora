@@ -1,0 +1,159 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>שיר לכבוד אליה קונציליי</title>
+            <author>משה חיים לוצאטו</author>
+            <respStmt>
+               <name>Mandel Scholion Hebrew Revival Research Group</name>
+               <resp>Formatting of content from the Ben-Yehuda Project to TEI-XML according to the TEI P5 Guidelines.
+                  Addition of dates, not present in the online version, by Shira Wigderson, Asaf Isser, Adi Cohen, Nitzan Cohen, and Adi Cohen.
+               </resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <authority>Project Ben-Yehuda</authority>
+            <idno>http://benyehuda.org/ramxal/001.html</idno>
+         </publicationStmt>
+         <sourceDesc xml:lang="Hebrew">
+            <bibl>
+               <date when="1723" notBefore="1723-01-01" notAfter="1723-12-31"/>
+            </bibl>
+            <p>The Ben-Yehuda Project (http://benyehuda.org/). Content provided within the Ben-Yehuda Hackathon at the University of Haifa (THATCamp Haifa, February 2014).</p>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <change>
+            <date>2018-11-01</date>
+            <name>Omer Waldman</name>
+            <note>Correction of previously annotated dates and addition of dates to majority of the works</note>
+         </change>
+         <change>
+            <date>2017-08-09</date>
+            <name>Jerusalem corpus of Emergent Modern Hebrew (JEMH) staff</name>
+            <note>Created the initial version of the content in TEI-XML and added dates (some based on estimation)</note>
+         </change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+
+
+
+
+
+
+
+שיר לכבוד
+אליה
+קונציליי /
+משה חיים
+לוצאטו
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+שיר
+לכבוד אליה
+קונציליי /
+משה חיים
+לוצאטו
+
+ 
+
+האי יומא
+דקא גרם. קול
+ששון וקול
+שמחה בקול
+השירים.
+יום הכתר
+בכתר הפילוסופיאה
+והרפואה
+בחור מעם
+סגלה החכם
+הרופא כמר
+אליה בן
+הגביר שמואל
+קונציליי
+יצ"ו. ובכן ראיתי
+חובה לעצמי.
+ואמרתי
+אין לי דמי
+ופי יגיד
+תהלתו. ובא
+האות והמופת
+לאמתת אהבתו.
+ואשא משלי:
+
+ 
+
+הן
+יזרעו עמל
+ושוא יקצרו
+אם בסלעים
+יוגבים יזרעו;
+כל עובדי
+אותם לריק
+ייגעו,
+מעדר וכל
+אתים לבד
+ישברו.
+
+מורי
+כסילים כן
+הלא יבצרו
+רק ענבי סכלות
+אשר נטעו;
+מוסר תבונתם
+הכי יפרעו,
+לא ידעו הבין
+רשעים זרו.
+
+לא
+כן, ידידי,
+כי פאר חבשת
+ושדה תרומות
+הוא שדה שכלך,
+חכמה ודעת
+בו כציץ שכנה.
+
+מחקר
+ומרפא כמעיל
+לבשת,
+חכמות בחוצות
+יקראו עליך:
+'כל דין וכל
+מן דין סמוכו
+לנא'.
+
+מתעלס
+באהבתו
+משה חיים
+בלא"א יעקב
+חי לוצאטו
+
+
+
+
+
+ 
+
+
+
+
+
+
+</body>
+   </text>
+</TEI>

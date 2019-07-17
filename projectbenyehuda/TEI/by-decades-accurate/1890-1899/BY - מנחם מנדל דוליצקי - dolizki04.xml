@@ -1,0 +1,263 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>על חרבות ציון</title>
+            <author>מנחם מנדל דוליצקי</author>
+            <respStmt>
+               <name>Mandel Scholion Hebrew Revival Research Group</name>
+               <resp>Formatting of content from the Ben-Yehuda Project to TEI-XML according to the TEI P5 Guidelines.
+                  Addition of dates, not present in the online version, by Shira Wigderson, Asaf Isser, Adi Cohen, Nitzan Cohen, and Adi Cohen.
+               </resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <authority>Project Ben-Yehuda</authority>
+            <idno>http://benyehuda.org/dolitsky/dolizki04.html</idno>
+         </publicationStmt>
+         <sourceDesc xml:lang="Hebrew">
+            <bibl>
+               <date when="1895" notBefore="1895-01-01" notAfter="1895-12-31"/>
+            </bibl>
+            <p>The Ben-Yehuda Project (http://benyehuda.org/). Content provided within the Ben-Yehuda Hackathon at the University of Haifa (THATCamp Haifa, February 2014).</p>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <change>
+            <date>2018-11-01</date>
+            <name>Omer Waldman</name>
+            <note>Correction of previously annotated dates and addition of dates to majority of the works</note>
+         </change>
+         <change>
+            <date>2017-08-09</date>
+            <name>Jerusalem corpus of Emergent Modern Hebrew (JEMH) staff</name>
+            <note>Created the initial version of the content in TEI-XML and added dates (some based on estimation)</note>
+         </change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+
+
+
+
+
+
+
+על חרבות ציון / מנחם מנדל דוליצקי
+
+
+
+ 
+
+
+
+
+  
+  
+
+
+על חרבות
+ציון / מנחם מנדל דוליצקי
+
+ 
+
+עליתי בלילה
+על מטתי,
+
+נאחזתי בזרעות השנה,
+
+ועל כנפי חזיון
+בשנתי,
+
+נשאתי ואדא ציונה.
+
+ 
+
+אל ציון השחרה
+והנאוה,
+
+אבלי
+ומשושי בחלד,
+
+הבלה מיגון
+ודאבה,
+
+ובלתה
+כעדנת הילד.
+
+ 
+
+אל ציון
+הזקנה והרכה,
+
+זה נבלה
+וכארז רעננה,
+
+שזופת השמש
+וזכה,
+
+קדרת ומאירה
+כלבנה.
+
+ 
+
+אל ציון לב
+עמי, חיתי,
+
+בה קשור
+בעבותים לבבי,
+
+באתי על כרוב
+בת שירתי
+
+בלילה, בחלם על משכבי.
+
+ 
+
+               *
+
+ 
+
+הלבנה
+במרמי רקיע, 
+
+נוגה כעטיה
+צעדת, 
+
+אור כהה על ציון
+תגיה 
+
+ובגלי מי
+קדרון רעדת.
+
+ 
+
+רעדת הלבנה
+הזכה 
+
+עת היא אל
+ציון נבטה, 
+
+עין השמים
+כמבכה, 
+
+כי נגע עד
+שמים משפטה...
+
+ 
+
+עמה כאבלים יסעו 
+
+אלפי ככבים
+במחוגה, 
+
+כעינים לה עזרות יראו
+
+לדלף עמה
+מתוגה...
+
+ 
+
+רוח חרישית
+לרגעים 
+
+בין רכסי הר
+ציון המיה, 
+
+המיתה קול
+הגה נכאים, 
+
+כמו תעורר על
+שברה תאניה.
+
+ 
+
+ועננים נפזרים בדממה 
+
+מתלקטים בשולי
+שמיה,
+
+כמקוננים יסעו ברמה
+
+לשפך דמעותם עליה.
+
+ 
+
+וסביבי, הה
+שממות עולם
+
+כשממות עמי
+בעמים,
+
+בני ינשוף יילילו בקולם
+
+בין גלים
+ועיים נשמים...
+
+ 
+
+תנים יבכו השאיה,
+
+בנות יענה –
+כל הר וכל גבע,
+
+עמם בת ציון
+בכיה,
+
+עמם כל
+תוצאות הטבע.
+
+ 
+
+ועמם אז
+אנחת תאניה,
+
+דממה וקול בכיה דקה,
+
+כאנחת אם רחמניה,
+
+על אבדן יחידה
+מבכה...
+
+ 
+
+כאנקת רעיה אהובה,
+
+על קבר בחיר לבה נתכת,
+
+כהמית יונה עזובה
+
+מקן גזליה משלכת,
+
+ 
+
+מחרבות הר
+ציון הקשבתי:
+
+"אי נוי?
+אי עמי סגלתי?
+
+אוי לי כי
+ביתי החרבתי,
+
+ובני הגליתי
+מאדמתי"...
+
+ 
+
+
+
+
+
+ 
+
+
+
+
+
+
+</body>
+   </text>
+</TEI>

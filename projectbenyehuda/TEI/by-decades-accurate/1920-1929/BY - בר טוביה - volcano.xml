@@ -1,0 +1,117 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>על הר געש</title>
+            <author>בר טוביה</author>
+            <respStmt>
+               <name>Mandel Scholion Hebrew Revival Research Group</name>
+               <resp>Formatting of content from the Ben-Yehuda Project to TEI-XML according to the TEI P5 Guidelines.
+                  Addition of dates, not present in the online version, by Shira Wigderson, Asaf Isser, Adi Cohen, Nitzan Cohen, and Adi Cohen.
+               </resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <authority>Project Ben-Yehuda</authority>
+            <idno>http://benyehuda.org/frenkel/volcano.html</idno>
+         </publicationStmt>
+         <sourceDesc xml:lang="Hebrew">
+            <bibl>
+               <date when="1922" notBefore="1922-01-01" notAfter="1922-12-31"/>
+            </bibl>
+            <p>The Ben-Yehuda Project (http://benyehuda.org/). Content provided within the Ben-Yehuda Hackathon at the University of Haifa (THATCamp Haifa, February 2014).</p>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <change>
+            <date>2018-11-01</date>
+            <name>Omer Waldman</name>
+            <note>Correction of previously annotated dates and addition of dates to majority of the works</note>
+         </change>
+         <change>
+            <date>2017-08-09</date>
+            <name>Jerusalem corpus of Emergent Modern Hebrew (JEMH) staff</name>
+            <note>Created the initial version of the content in TEI-XML and added dates (some based on estimation)</note>
+         </change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+
+
+
+
+
+
+
+על הר געש / בר טוביה
+
+
+
+ 
+
+
+
+
+  
+  
+
+
+על הר געש
+
+בר טוביה
+
+
+
+ 
+
+
+
+
+ 
+  
+  על הר געש יושב ישראל בעולם. בכל מקום, מבלי
+  יוצא מן הכלל,מוכנת הלהבה להתפרץ מתחתיו ולהתרומם בסערת כליון. האומות החיות,
+  האומות המנומסות, העמים השחורים, האדומים והלבנים, הכתות השחורות והאדומות –
+  כולם מוכנים ומזומנים למעשה ההרס, ואין הדבר תלוי אלא בשעת הכושר.
+  על הר געש יושב ישראל בעולם. הלוע פתוח תמיד,
+  מעלה עשן מלמעלה, ומתחת לעשן – גחלים עוממות, ומתחת לגחלים – להבות אש רובצות
+  למטה ושואפות בכל כוח אל על – ואין הדבר חסר אלא תנועה קלה, תואנה כל שהיא.
+  אחת היא: תהיה התנועה מימין או משמאל, לפנים
+  או לאחור, תהיה התואנה שחורה או אדומה. אין המקום ואין הצבע גורמים, ואין הזמן
+  גורם. ככה היה לפני אלפי שנים, ואולי גם לפני רבבות שנים. ככה יהיה בעוד אלפי
+  שנים ובעוד רבבות שנים.
+  היה מי שאמר: "שאלת היהודים תימשך כל זמן
+  שיהיה יהודי אחד בעולם" – ואמת פשוטה ועמוקה כחיים אמר.
+  וישראל לא ידע! עמי לא התבונן! – ומה היה עושה
+  אילו היה יודע?
+  מלמטה – להבות אש, ומלמעלה – חרבו של שר
+  העולם. וישראל בינתים.
+  הלוא ישתגע הרואה והיודע: הרואה בכל ראות
+  עצביו – לא בראות-עיניים שטחית; היודע בכל יצירי גוו – לא בשכל קר, שאחת היא לו.
+  והחיים נמשכים והולכים – כאילו אין מאומה, כאילו אין זרמי-הדמים, דמי ישראל,
+  לפנינו ולעינינו. כאילו קול שאונם מחריש אזנינו לדכאותנו ולהומנו. ובת קול מכרזת
+  ואומרת: "אוי לך! רזי לי! רזי לי!"
+   
+  [1922, "שאר ישוב"].
+  
+ 
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+</body>
+   </text>
+</TEI>

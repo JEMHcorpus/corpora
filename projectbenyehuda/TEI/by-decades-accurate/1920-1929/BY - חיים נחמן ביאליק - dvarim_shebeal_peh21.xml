@@ -1,0 +1,122 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>על אמריקה ויהודי אמריקה</title>
+            <author>חיים נחמן ביאליק</author>
+            <respStmt>
+               <name>Mandel Scholion Hebrew Revival Research Group</name>
+               <resp>Formatting of content from the Ben-Yehuda Project to TEI-XML according to the TEI P5 Guidelines.
+                  Addition of dates, not present in the online version, by Shira Wigderson, Asaf Isser, Adi Cohen, Nitzan Cohen, and Adi Cohen.
+               </resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <authority>Project Ben-Yehuda</authority>
+            <idno>http://benyehuda.org/bialik/dvarim_shebeal_peh21.html</idno>
+         </publicationStmt>
+         <sourceDesc xml:lang="Hebrew">
+            <bibl>
+               <date when="1926" notBefore="1926-01-01" notAfter="1926-12-31"/>
+            </bibl>
+            <p>The Ben-Yehuda Project (http://benyehuda.org/). Content provided within the Ben-Yehuda Hackathon at the University of Haifa (THATCamp Haifa, February 2014).</p>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <change>
+            <date>2018-11-01</date>
+            <name>Omer Waldman</name>
+            <note>Correction of previously annotated dates and addition of dates to majority of the works</note>
+         </change>
+         <change>
+            <date>2017-08-09</date>
+            <name>Jerusalem corpus of Emergent Modern Hebrew (JEMH) staff</name>
+            <note>Created the initial version of the content in TEI-XML and added dates (some based on estimation)</note>
+         </change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+
+
+
+
+
+
+
+על אמריקה ויהודי אמריקה / חיים נחמן ביאליק
+
+
+
+
+
+
+
+
+על אמריקה ויהודי אמריקה
+
+חיים נחמן ביאליק
+
+
+
+
+
+
+ 
+  
+   
+  (שיחה עם סופר "העולם" בלונדון על רשמי
+  נסיעותיו באמריקה, אב תרפ"ו).
+  – – – העם האמריקאי הצעיר מפליא ברעננותו
+  ובמנוחת נפשו האמיצה ללא כל דאגה.  אך אם בני העם הזקן מתחילים לחקות את השקט הנפשי הזה, הרי
+  אי-אפשר להם שיצליחו, והדבר עושה לפעמים גם רושם לא נעים, כשיר נכרי בפי מדקלם
+  גרוע וככל מה שהוא מלאכותי ומזויף... היהודים, בכל מקום שהם, נושאים עליהם,
+  ברצונם או שלא ברצונם, את המשא של תרבותנו עתיקת הימים.  אי-אפשר לו לעם להשליך את כל עברו מעל
+  גבו.  אף אם אלף פעמים יתאמץ לכך,
+  הוא רק מסכן את קיומו הטבעי, הבריא. 
+  ואם הוא רוצה להתקים כהוגן עליו לשמור על עברו – ולדאוג בעד עתידו, וכל
+  שגדול רכוש העבר של עם, כן תגדל דאגתו בעד העתיד וכן ירבו מאוויו אל העתיד.  ולא בנוגע לעתידנו הכללי, אלא גם
+  באמריקה עצמה אין עתידם של היהודים די בטוח.  גדולתם לפי שעה, כמה שאנו שמחים עליה ומאחלים לה אריכות
+  ימים, הרי היא באמת כשלפוחית של בורית, אשר אך תפיח בה ואינה, ולמרות כל השקט
+  המעושה מרגישים גם שם את חוסר-האונים ואי-הבטחון הפנימי... לפיכך, יש שם כר נרחב
+  לפני תעמולה ציונית רבת-ענין והיא מוצאת לה הד בלבבות, אלא שהשגת הציונים
+  באמריקה עדיין קטנה היא ועדיין הם רואים את מתנותיהם לקרנות הציוניות
+  כנדבות.  מנהיגי היהדות האמריקאית
+  מימין ושמאל, צריכים לתת את דעתם של הדבר הזה ולהעמיד את התעמולה הציונית בשטחה
+  הנכון.
+  אמריקה הסכינה לגדולות, ולפיכך אם יבררו לה,
+  ליהדות האמריקאית הגדולה שבציונות, שהיא באה להציל אומה מהתנונות, ואם הדבר
+  יוסבר לה בדברים קצרים אבל נמרצים החודרים עמוק לנפש, אין ספק שיהדות זו יכולה
+  לעשות גדולות גם היא.  צריך להעמיד
+  לה, ליהדות זו, מורים טובים, שלא יבואו אליה רק לעתים ולשם תביעות כספים, אלא
+  שירביצו בקרבה את תורת התחיה על כל ענפיה. ובנוסח ובבטוי הנאות להשגתם.  – – –
+  בקצרה: היהדות האמריקאית עשויה להתכנס ולהתבצר
+  על יסוד קניני התרבות הלאומית וההיסטוריה הלאומית ולהעשות משען עצום חמרי ומוסרי
+  לכלל האומה.  יש די סימנים
+  המוכיחים על טנדנציה כזו בהתפתחותה של היהדות האמריקאית ומן הראוי הוא שאומניה
+  של יהדות זו יבינו וישכילו לה. 
+  
+ 
+
+
+
+
+ 
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+</body>
+   </text>
+</TEI>

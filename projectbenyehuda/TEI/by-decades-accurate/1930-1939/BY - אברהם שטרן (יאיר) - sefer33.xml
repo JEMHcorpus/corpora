@@ -1,0 +1,454 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>[למתפלש תמיד ברפש]</title>
+            <author>אברהם שטרן ("יאיר")</author>
+            <respStmt>
+               <name>Mandel Scholion Hebrew Revival Research Group</name>
+               <resp>Formatting of content from the Ben-Yehuda Project to TEI-XML according to the TEI P5 Guidelines.
+                  Addition of dates, not present in the online version, by Shira Wigderson, Asaf Isser, Adi Cohen, Nitzan Cohen, and Adi Cohen.
+               </resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <authority>Project Ben-Yehuda</authority>
+            <idno>http://benyehuda.org/stern_avraham/sefer33.html</idno>
+         </publicationStmt>
+         <sourceDesc xml:lang="Hebrew">
+            <bibl>
+               <date when="1935" notBefore="1935-01-01" notAfter="1935-12-31"/>
+            </bibl>
+            <p>The Ben-Yehuda Project (http://benyehuda.org/). Content provided within the Ben-Yehuda Hackathon at the University of Haifa (THATCamp Haifa, February 2014).</p>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <change>
+            <date>2018-11-01</date>
+            <name>Omer Waldman</name>
+            <note>Correction of previously annotated dates and addition of dates to majority of the works</note>
+         </change>
+         <change>
+            <date>2017-08-09</date>
+            <name>Jerusalem corpus of Emergent Modern Hebrew (JEMH) staff</name>
+            <note>Created the initial version of the content in TEI-XML and added dates (some based on estimation)</note>
+         </change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+
+
+
+
+
+
+
+[למתפלש תמיד
+ברפש] / אברהם
+שטרן ("יאיר")
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[למתפלש
+תמיד ברפש] /
+אברהם שטרן
+("יאיר")
+
+ 
+
+א
+
+למתפלש
+תמיד
+ברפש,
+
+למתפתל
+בחיל-כאב,
+
+רק
+אמונה
+אחת
+בנפש,
+
+רק
+שאיפה
+אחת
+בלב.
+
+ 
+
+שכח
+הכל!
+היה?
+איננו!
+
+הכל
+כלה ומת
+אתמול.
+
+שכח
+הכל
+ובוא
+אלינו
+
+לחיות,
+ללחם,
+לבנות,
+לגאל.
+
+ 
+
+לחיות:
+להיות
+אחד
+מאלה
+
+החילים
+האלמונים,
+
+שבחזית,
+מחתרת,
+כלא
+
+עיי
+עמם
+מכוננים.
+
+ 
+
+ללחם:
+לשטם,
+לנקם,
+לפרע
+
+ולצמיתות
+מץ
+להצמית,
+
+כי
+לכובש
+צוה
+אלוה
+
+זכות
+למות
+ולהמית.
+
+ 
+
+לבנות
+מלבני-גופנו
+
+במלט
+שחק
+עצמות,
+
+המערב
+בדם
+לבנו,
+
+מלכות
+הכח
+וההוד.
+
+ 
+
+לגאל
+גר, בן
+חורג
+לישר,
+
+ואסופי
+אמות-עולם,
+
+לתת
+לו פת,
+פדות
+ועשר,
+
+מולדת
+וחיי-העם.
+
+ 
+
+מיון-גלות,
+משחין
+בית-סהר,
+
+מדמן
+חזירי-גויים,
+
+לטהרו,
+לתת לו
+תאר-
+
+אדם
+בצלם-אלהים.
+
+ 
+
+באש,
+במים –
+זה
+אלפים
+
+שנה
+בשחת-הגלות.
+
+אלת-האל.
+מאור-שמים
+
+ומחיים
+תמתק
+חרות.
+
+ 
+
+לשח.
+תורת
+חרות בחרט-
+
+ברזל
+על לב
+גורל
+חרת.
+
+בחרבות
+נחצב
+מחתרת
+
+בצור-המכורה.
+יירט
+
+ 
+
+הדרך
+ותכשל
+הברך,
+
+עזוז
+רצון –
+כדינמיט.
+
+ימעל
+עמית –
+הלב אל
+ירך;
+
+"מות
+שט
+בסיף"
+דין-עמי.
+
+ 
+
+ב
+
+יש
+גבורה
+שבמלחמת-
+
+שחרור.
+היא
+קדש-קדשים.
+
+נעלמה
+ונאלמת
+
+כרחש
+שבר
+חרישי.
+
+ 
+
+צוררת
+למרזח-תפארת.
+
+בדומיה,
+באין-רואים,
+
+כאש-המרד
+במחתרת,
+
+זוהרת
+נכח
+אלהים.
+
+ 
+
+גם
+בצינק
+לא
+יכבוה
+
+בדם
+ודמע
+תלינים.
+
+היא
+צור-מעז
+לדך,
+מבוע-
+
+התשועה
+לאין-אונים.
+
+ 
+
+ויום
+יבוא
+בירושלים,
+
+עיר-נביאים
+ובריונים,
+
+אש
+– ככוכב
+מן
+השמים,
+-
+
+תגה
+על
+קבר-אלמונים.
+
+ 
+
+ג
+
+לא
+זה אחי,
+אשר
+מרחם-
+
+אמי
+יצא,
+שדה ינק.
+
+בן-בריתי
+שכם אל
+שכם
+
+באון
+עם צר לי
+נאבק
+
+ 
+
+ומתפלל
+בסחי-הכלא
+
+לבוא
+גואל,
+ומיחל
+
+בליל
+אור-אל
+ליום-הפלא
+
+וחי
+ומת על
+ישראל.
+
+ 
+
+ד
+
+לקרבנות-חנם
+אין חקר,
+
+העם
+כלו על
+הגרדם.
+
+שוא
+ישוע
+נביא-השקר:
+
+"שלום,
+שלום".
+ואין
+שלום.
+
+ 
+
+יבוא
+שלום. מי
+ישורנו?
+
+כתם
+מלחמת-המצוה.
+
+בה
+נפלל:
+"ותחזינה"
+
+ברן
+רמון,
+בצבא
+צבא.
+
+ 
+
+ונברך
+"שהחינו"
+
+ביום
+קרב בו
+לא נחן.
+
+כי
+אנו עד
+עולם
+נשבענו:
+
+"המות
+או
+הנצחון!"
+
+ 
+
+ונצחון
+יבוא. ישח
+ער,
+
+יבלה
+ערפו
+בעל-עבדות,
+
+בדם
+ואש
+עלות
+השחר,
+
+תנץ
+כשמש
+הפדות.
+
+
+
+
+
+ 
+
+
+
+
+
+
+</body>
+   </text>
+</TEI>

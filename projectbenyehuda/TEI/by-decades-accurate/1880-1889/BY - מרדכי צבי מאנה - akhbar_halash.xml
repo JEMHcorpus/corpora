@@ -1,0 +1,283 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>עכבר קטן, חלש, אמו תניקהו</title>
+            <author>מרדכי צבי מאנה</author>
+            <respStmt>
+               <name>Mandel Scholion Hebrew Revival Research Group</name>
+               <resp>Formatting of content from the Ben-Yehuda Project to TEI-XML according to the TEI P5 Guidelines.
+                  Addition of dates, not present in the online version, by Shira Wigderson, Asaf Isser, Adi Cohen, Nitzan Cohen, and Adi Cohen.
+               </resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <authority>Project Ben-Yehuda</authority>
+            <idno>http://benyehuda.org/maneh/akhbar_halash.html</idno>
+         </publicationStmt>
+         <sourceDesc xml:lang="Hebrew">
+            <bibl>
+               <date when="1880" notBefore="1880-01-01" notAfter="1880-12-31"/>
+            </bibl>
+            <p>The Ben-Yehuda Project (http://benyehuda.org/). Content provided within the Ben-Yehuda Hackathon at the University of Haifa (THATCamp Haifa, February 2014).</p>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <change>
+            <date>2018-11-01</date>
+            <name>Omer Waldman</name>
+            <note>Correction of previously annotated dates and addition of dates to majority of the works</note>
+         </change>
+         <change>
+            <date>2017-08-09</date>
+            <name>Jerusalem corpus of Emergent Modern Hebrew (JEMH) staff</name>
+            <note>Created the initial version of the content in TEI-XML and added dates (some based on estimation)</note>
+         </change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+
+
+
+
+
+
+
+עכבר קטן, חלש, אמו תניקהו / מרדכי צבי מאנה
+
+
+
+ 
+
+
+
+
+  
+  
+
+
+עכבר קטן,
+חלש, אמו תניקהו / מרדכי צבי מאנה
+
+ 
+
+עכבר קטן,
+חלש, אמו תניקהו,
+
+בפתותי לחם
+נקדים תמיד תרוהו.
+
+                  בנקיק
+חור בקיר, שם שאנן ינוח;
+
+בגדלו
+יתאונן כי פחדים יתקפוהו:
+
+האדם, החתול,
+מנוחה ידריכוהו!
+
+                  להשמידו
+יארובו, רשת בכל רוח!...
+
+ 
+
+האדם קטן,
+חלש, אמו תניקהו,
+
+בערש הילדות
+שאנן אמו תשכיבהו,
+
+                  תשקהו,
+תחבקהו, תשיר לו שיר נעים;
+
+בגדלו
+יתאונן כי צרות יתקפוהו,
+
+המחסור
+והדאגה מנוחה ידריכוהו,
+
+                  הם
+ימיתו רגשותיו, כל רגש חיים!...
+
+ 
+
+שם קן צפור
+בקרבו ינוחו צעירים,
+
+אמם תסוכ
+עלימו, תישנם בשירים,
+
+                  לא
+תלא מעוף לאסוף למו תולעים;
+
+על גוזליה
+תרחף תושיט בפיה
+
+באהבה את
+הציד אשר הביאה,
+
+                  הרוח
+חנם יניע, האח!  ערש
+נעים.
+
+ 
+
+שם איש רבה
+קשת כונן חציהו,
+
+חיש חציו
+יעופו, והקן איהו?...
+
+                  האם
+על הבנים, בדמם יתבוססו!
+
+שם פריץ
+חיות שניו מתלעים,
+
+בדמי עוללים
+אלה קרביו ממלאים,
+
+                  על
+לא חמס בכפם, לא עולה עשו! –
+
+ 
+
+שם יתחולל
+סער, הרים מפוצץ,
+
+תחת שואה
+יתגלגל, כקטב יתרוצץ
+
+                  ויעקר
+קן משרש, האפרוחים נפצו!
+
+שם עיט
+מעופף, וטרפו בפיהו,
+
+אם אפרוחים
+רכים היא תשביעהו.
+
+                  והם
+יגועו ברעב, מספר ימיהם חצצו!...
+
+ 
+
+בינה, בן
+אדם, איש נבער מדעת
+
+אם יד בכל
+משלת הנ א תולעת.
+
+                  חלש
+ורפה, מול סערת התבל!
+
+צרות מאליפות,
+תחת שואה יתגלגלו
+
+יחרימו,
+ישחיתו, והם לא יכלו.
+
+                  אם
+בבקר צחקת בערב, הה! 
+הנה אבל! –
+
+ 
+
+בהיות עול
+ימים אז כביר כח,
+
+תשחק להמון
+תבל, באמ מבטח
+
+                  ותגדל,
+הה!  אז הנ אין אונים,
+
+תדכה, תשוח
+תחת סבל צרותי,
+
+תקרא נואש,
+כל ימי חיי
+
+                  לא
+תכיל כח מול מקרים שונים.
+
+ 
+
+כמקרה קן
+צפור כן מקרה בית:
+
+האיד יסל
+דרכו לעבור עלי,
+
+                  שם
+עשיר, אביון, נגידים, עניים!
+
+שם בית הפו
+עיני תחזינה,
+
+שם אביון
+גוע עיני תראינה,
+
+                  שם
+רוצח בסתר שואף דמי נקיים.
+
+ 
+
+לו כחבל
+הצפור כן גם גורלנו –
+
+אז מאשרים
+היינו כל ימי חיינו,
+
+                  היא
+לא תדע צער, נהי וקינה.
+
+הלא כל ימיה
+לשמחה תוצאות,
+
+לא תדאג
+לעתיד, לא תדע הבאות,
+
+                  תבלה
+מספר ימיה בקול רנה.
+
+ 
+
+א אנוש אנוש
+גבר אין כח,
+
+במעט ימי
+חייו לא ימצא מנוח.
+
+                  הדאגות
+יטלטלוהו טלטלה גבר
+
+מימי נעוריו
+מעת יפקח עיניהו,
+
+אז שלותו
+נעדרה, הדאגה תתקפהו,
+
+                  תתקפהו,
+תלוהו עד רדתו קבר.
+
+ 
+
+ 
+
+
+
+
+
+ 
+
+
+
+
+
+
+</body>
+   </text>
+</TEI>

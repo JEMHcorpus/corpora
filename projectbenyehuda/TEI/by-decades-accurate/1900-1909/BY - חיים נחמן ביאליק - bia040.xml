@@ -1,0 +1,183 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>צפרירים</title>
+            <author>חיים נחמן ביאליק</author>
+            <respStmt>
+               <name>Mandel Scholion Hebrew Revival Research Group</name>
+               <resp>Formatting of content from the Ben-Yehuda Project to TEI-XML according to the TEI P5 Guidelines.
+                  Addition of dates, not present in the online version, by Shira Wigderson, Asaf Isser, Adi Cohen, Nitzan Cohen, and Adi Cohen.
+               </resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <authority>Project Ben-Yehuda</authority>
+            <idno>http://benyehuda.org/bialik/bia040.html</idno>
+         </publicationStmt>
+         <sourceDesc xml:lang="Hebrew">
+            <bibl>
+               <date when="1900" notBefore="1900-01-01" notAfter="1900-12-31"/>
+            </bibl>
+            <p>The Ben-Yehuda Project (http://benyehuda.org/). Content provided within the Ben-Yehuda Hackathon at the University of Haifa (THATCamp Haifa, February 2014).</p>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <change>
+            <date>2018-11-01</date>
+            <name>Omer Waldman</name>
+            <note>Correction of previously annotated dates and addition of dates to majority of the works</note>
+         </change>
+         <change>
+            <date>2017-08-09</date>
+            <name>Jerusalem corpus of Emergent Modern Hebrew (JEMH) staff</name>
+            <note>Created the initial version of the content in TEI-XML and added dates (some based on estimation)</note>
+         </change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+
+
+
+
+
+
+
+צפרירים / חיים נחמן ביאליק
+
+
+
+
+
+
+
+
+
+
+
+
+צפרירים
+
+ 
+
+הנשיקת פי אמי, אם-צפצוף הדרור
+
+תנומתי וחלומי המתוק הפסיקו? –
+
+אני הקיצותי ואגדות של-אור
+
+הצליפו על-פני ובעיני הבהיקו.
+
+מעפעפי לא-נמחו עוד קורי החלום,
+
+עוד כרוביו מתפשים בכרכב הקיר –
+
+וכבר יצהל בקר, ישתקשק היום
+
+בדהרות עגלה על-מרצפת העיר.
+
+ 
+
+על-משקוף אשנבי התנער הקן,
+
+וירעע ויצפצף "צויץ, צויץ"
+עד-בלי די,
+
+ובזהר אשנבי בפחזות חן-חן
+
+צפרירי הבקר משקרים אלי.
+
+הם מפזזים ונוצצים במשובה צהלת,
+
+מתדפקים כיונים על זכוכית אשנבי,
+
+מחליקים, מתחמקים באורה נזלת
+
+השפעת, שפעת על-גבי.
+
+ 
+
+הם קרצים ורמזים ופניהם יקרנו:
+
+"אלינו צא, פחז! זרח, הזהר עמנו!
+
+עליזי גיל ילדות נפוצה, נצחקה,
+
+ובאשר נמצאה אור נזה, נזרקה:
+
+בשער ראש שבלים, בקוצות
+תלתלים,
+
+על-חלקת המים, בין רצי הגלים,
+
+בשחוק ילד ישן, בלב אם רחמניה,
+
+ברסיסי טל-בקר, בלחי יפה-פיה,
+
+בדמעת ילדים, בכנף הצפרת,
+
+במכתות כוס זכוכית, בבועה של-ברית,
+
+בכפתור נחשת, בחרוזי השירה –
+
+אלינו צא, פחז! נזרחה, נזהירה!"
+
+הם קרצים ורמזים, עיניהם מזהירות
+
+ופניהם הקטנות מאירות מאירות,
+
+גפיהם הזכות ובהירות משיקים,
+
+אורים חמים וגדולים על-פני מבהיקים.
+
+מה-נמוג הלב! עיני אפקח, אסגרה –
+
+אלהים, שטפתני האורה!
+
+ 
+
+הו, אלי באו, זכים! צפרירי התם!
+
+אל-מתחת לסדיני הצחר, הצח!
+
+שם נתפלש, נתפל עד-יכון היום,
+
+ופזזתם על-עורי ובשרי הרך.
+
+הו, אלי! על-תלתלי, עפעפי,
+שפתותי,
+
+אלי גומות לחיי, מעמקי בבותי;
+
+הזכוני, שטפוני, אל-לבי חדרו,
+
+באו רדו אל-נשמתי, היו שם ואורו! –
+
+חמדה מתוקה ונומה נפלת עלי,
+
+וכל-ערק וגיד צנור תענוג שפע,
+
+והלב שטף עבר על-גדותיו בלי-די,
+
+ומתפרץ כמעין של-נגה נבע – – –
+
+הו, מה-מתוק! עפעפי אפקחה, אסגרה –
+
+אלהים, שטפתני האורה!
+
+ 
+
+סיון, תר"ס.
+
+
+
+
+
+  
+
+
+</body>
+   </text>
+</TEI>

@@ -1,0 +1,232 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>לנופלים</title>
+            <author>אלתר לוין</author>
+            <respStmt>
+               <name>Mandel Scholion Hebrew Revival Research Group</name>
+               <resp>Formatting of content from the Ben-Yehuda Project to TEI-XML according to the TEI P5 Guidelines.
+                  Addition of dates, not present in the online version, by Shira Wigderson, Asaf Isser, Adi Cohen, Nitzan Cohen, and Adi Cohen.
+               </resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <authority>Project Ben-Yehuda</authority>
+            <idno>http://benyehuda.org/levin/054.html</idno>
+         </publicationStmt>
+         <sourceDesc xml:lang="Hebrew">
+            <bibl>
+               <date when="1920" notBefore="1920-01-01" notAfter="1920-12-31"/>
+            </bibl>
+            <p>The Ben-Yehuda Project (http://benyehuda.org/). Content provided within the Ben-Yehuda Hackathon at the University of Haifa (THATCamp Haifa, February 2014).</p>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <change>
+            <date>2018-11-01</date>
+            <name>Omer Waldman</name>
+            <note>Correction of previously annotated dates and addition of dates to majority of the works</note>
+         </change>
+         <change>
+            <date>2017-08-09</date>
+            <name>Jerusalem corpus of Emergent Modern Hebrew (JEMH) staff</name>
+            <note>Created the initial version of the content in TEI-XML and added dates (some based on estimation)</note>
+         </change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+
+
+
+
+
+
+
+לנופלים / אלתר לוין
+
+
+
+
+
+
+
+
+לנופלים
+
+ 
+
+הידעתם מדוע
+בחרו קנאי הר זה לקברים?
+
+כי עתיק ההר,
+גא ומתנשא למרום,
+
+נשקף על פני
+הר הבית מקדם
+
+וצופה הר ציון!
+
+ההר מה רם ומה
+גא ומה נאדר:
+
+ממרחב בנגב
+נשקף הר העברים,
+
+הר מני קדם;
+
+נבו, הר-ההר והרי
+הדרום
+
+מראה ההוד לכלהם;   
+
+מקרוב משתפכים
+בחזון
+
+בתי השן והמבצר
+וגם המגדלים,
+
+מגדלי עיר דוד,
+קיפולי ירושלם נושנה,
+
+כל עיר האלהים,
+
+אשר עד עתה לא
+פסקו מרדת עליה
+
+הטללים וענני
+כבוד!
+
+עתיק ההר, גא
+ומתנשא ערבות,
+
+הר קדוש יקראו
+לו,
+
+כי קדושת העבר
+חופפת
+
+מעבר מזה ומזה
+
+ושכינת אדני
+מהיכל הבית
+
+תמיד עליו צופיה–
+
+הידעתם מדוע
+בחרו קנאי הר זה לקברים? 
+
+ 
+
+- - - - - - - - - -
+- - - - - - -
+
+ 
+
+נוחו, קנאי, אתם
+מחונני ארצי,
+
+נוחו המנחה,
+גבורי!
+
+אתם הבאים לחונן
+הרגבים,
+
+לעמד ראשנה בבית
+אלהי–
+
+נוחו, נוחו לי!
+
+הנה נחל שלוח
+
+ הרעה מנוחות לרגלי הר קדשי
+
+ידע להעריץ עמלכם:
+
+וישם רסן לפיו,
+מעצר לגליו הקטנים
+
+וינהגם לאט,
+לאט
+
+לבלי הפרע מנוחתכם,
+קנאי!
+
+הנני גם אני.
+
+ענו בבנים, ותיק
+המעריץ עלילות
+
+אבותי אשר לפני
+דור זה–
+
+הנה נתתי ניבי,
+
+בהסירותי הפעם
+האשמה
+
+מהרכם, הרי,
+
+אשמת דור עזכם
+לשום הרי לקברים–
+
+אנכי אגיד לדור,
+
+דור צעיר שצמח
+לברכה על הרי ישראל:
+
+שוא אל תמיטו!
+לא הר קברים הראל,
+
+הרי, הר הזיתים;
+
+הר תחיה ופדות
+הוא ההר המתנשא,
+
+עדות בעמי הוא
+וסהד לארצי הקדושה:
+
+כל בונה ארץ
+והקים בית קברות ראשונה
+
+לחלוצים וגואלים
+הנופלים בבונים, ביוצרים;
+
+והעמיד ציונים
+לנופלים במרומי ההרים היפים,
+
+עדות לדורות רחוקים!..
+
+הר תחיה ופדות
+הוא, הרי הר הזיתים,
+
+עליו ישמע באחרית
+הימים הקול,
+
+קול שופר מריע
+לפדויי אדני,
+
+לפדויי הגולים
+הרחוקים
+
+ושבות ארץ אבותי!–
+–
+
+ 
+
+
+
+
+
+ 
+
+
+
+
+
+
+</body>
+   </text>
+</TEI>

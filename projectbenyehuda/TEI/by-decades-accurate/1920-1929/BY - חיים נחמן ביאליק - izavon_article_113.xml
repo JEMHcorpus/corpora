@@ -1,0 +1,127 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>דברי ספרות ואמנות לקטנים</title>
+            <author>חיים נחמן ביאליק</author>
+            <respStmt>
+               <name>Mandel Scholion Hebrew Revival Research Group</name>
+               <resp>Formatting of content from the Ben-Yehuda Project to TEI-XML according to the TEI P5 Guidelines.
+                  Addition of dates, not present in the online version, by Shira Wigderson, Asaf Isser, Adi Cohen, Nitzan Cohen, and Adi Cohen.
+               </resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <authority>Project Ben-Yehuda</authority>
+            <idno>http://benyehuda.org/bialik/izavon_article_113.html</idno>
+         </publicationStmt>
+         <sourceDesc xml:lang="Hebrew">
+            <bibl>
+               <date when="1923" notBefore="1923-01-01" notAfter="1923-12-31"/>
+            </bibl>
+            <p>The Ben-Yehuda Project (http://benyehuda.org/). Content provided within the Ben-Yehuda Hackathon at the University of Haifa (THATCamp Haifa, February 2014).</p>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <change>
+            <date>2018-11-01</date>
+            <name>Omer Waldman</name>
+            <note>Correction of previously annotated dates and addition of dates to majority of the works</note>
+         </change>
+         <change>
+            <date>2017-08-09</date>
+            <name>Jerusalem corpus of Emergent Modern Hebrew (JEMH) staff</name>
+            <note>Created the initial version of the content in TEI-XML and added dates (some based on estimation)</note>
+         </change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+
+
+
+
+
+
+
+דברי ספרות ואמנות לקטנים / ח"נ ביאליק
+
+
+
+
+
+
+
+
+דברי ספרות ואמנות לקטנים
+
+ח"נ ביאליק
+
+
+
+ 
+
+
+
+
+ 
+  
+  (הערה)
+  הפרובלימה של יצירת דברי ספרות ואמנות לקטנים
+  – "סוגיא" חמורה היא בכל לשון, וחמורה שבעתים בעברית.
+  אם יצירת דברים כאלה לנערים – כלומר,
+  לאלה שכבר קנו להם ראשית דעת הלשון בבית רבם – הוא דבר התלוי במעט כשרון ודעת
+  ובמעט רצון טוב וכונה טהורה, הנה יצירתה של ספרות טבעית לקטנים בלשון שאינה
+  לשון האם ממש – דבר כזה תלוי יותר "במזל", כמעט "ברחמי
+  שמים".
+  במקום הטבעיות הגמורה, – זו שלפי שעה
+  אנו חסרים אותה בלשון העברית של הקטנים על כרחנו – צריכה לבוא כאן האמנות
+  הגמורה, זו שיש בכחה לברוא בקסמיה אילוזיה של טבעיות ילדותית אפילו במקום
+  שאינה, בחינת יש מאין.
+  דברי ספרות לקטנים עברית מחויבים אפוא
+  להיות מן הבחינה האומנותית – סלת נקיה.
+  בכל לשון אחרת, חיה ממש, אפשר להקל.  הלשון החיה היא עצמה חותכת מנה יפה של
+  חיים ואמת משלה לעצם דברי היצירה.
+  מה שאין כן בעברית.  כאן רק כח האמת וכח ההוכחה שבאמנות טהורה, רק החיות והטבעיות
+  שבה גופה, הם הם שצריכים ויכולים להקנות לנפש הילד אגב עצמם גם מאמתה וטבעיותה
+  של הלשון ולהטעימו מטעם חייה ומאמת חייה שלה.
+  ואולם דוקא במקום זה פוגע האמן העברי במכשול
+  גדול, שאין כיוצא בו בשום לשון אחרת.
+  מדת כחו של הילד בלשון העברית – אפילו אם הגיע
+  בה לידי קריאה קלה בכח עצמו או בסיוע אמו – הרי היא לפי שעה קטנה הרבה ממדת
+  שלטונו בלשון האם ואין צריך לומר שהיא קטנה מהתפתחותו הכללית.  האמן העברי, בבואו לתת דבר יצירה
+  ספרותית לילד עברי, יש שהוא מוצא את עצמו בשביל כך נתון בין המצרים עד לאין מוצא.  אם יאמר להשאר נאמן לכשרונו ולדרישות
+  האמנות – יתן דבר שהוא למעלה מכחו הלשוני של הילד; ואם ירד דרגא, כדי
+  "להסתגל" למדרגתו הלשונית של הילד – לא די שיזייף בכך את חותם רוחו
+  ויתן דבר שאין לו מן הבחינה האמנותית שום ערך, אלא גם לא ישיג את מטרתו, לפי
+  שיתן ממילא דבר שהוא למטה גם ממדרגת התפתחותו הכללית של הילד, כלומר,
+  דבר, שלא יעשה שום רושם על הילד, ונמצא שהסופר זייף עצמו לבטלה.
+  תפקידו של הבא לתת במקצוע זה דבר נאה ומתוקן –
+  קשה אפוא מכל צד.  עליו למצוא,
+  ויהי מה, את המוצא מן המצרים.  עליו
+  להשלים בין דרישות שונות, – אמנותיות, פדגוגיות, סגנוניות – שכל אחת מהן צודקת
+  בפני עצמה, וכולן יחד סותרות על פי רוב זו את זו.  עליו למצוא, ויהי מה, את "הכתוב השלישי", אותו
+  "כתוב הפלאים", המכריע בין הכתובים הרבים, המכחישים זה את זה.
+  
+ 
+
+
+
+
+ 
+
+
+
+
+
+ 
+
+
+
+
+
+
+</body>
+   </text>
+</TEI>

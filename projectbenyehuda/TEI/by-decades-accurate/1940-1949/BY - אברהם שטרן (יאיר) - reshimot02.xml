@@ -1,0 +1,234 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>הודעת המפקדה מס' 112</title>
+            <author>אברהם שטרן ("יאיר")</author>
+            <respStmt>
+               <name>Mandel Scholion Hebrew Revival Research Group</name>
+               <resp>Formatting of content from the Ben-Yehuda Project to TEI-XML according to the TEI P5 Guidelines.
+                  Addition of dates, not present in the online version, by Shira Wigderson, Asaf Isser, Adi Cohen, Nitzan Cohen, and Adi Cohen.
+               </resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <authority>Project Ben-Yehuda</authority>
+            <idno>http://benyehuda.org/stern_avraham/reshimot02.html</idno>
+         </publicationStmt>
+         <sourceDesc xml:lang="Hebrew">
+            <bibl>
+               <date when="1940" notBefore="1940-01-01" notAfter="1940-12-31"/>
+            </bibl>
+            <p>The Ben-Yehuda Project (http://benyehuda.org/). Content provided within the Ben-Yehuda Hackathon at the University of Haifa (THATCamp Haifa, February 2014).</p>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <change>
+            <date>2018-11-01</date>
+            <name>Omer Waldman</name>
+            <note>Correction of previously annotated dates and addition of dates to majority of the works</note>
+         </change>
+         <change>
+            <date>2017-08-09</date>
+            <name>Jerusalem corpus of Emergent Modern Hebrew (JEMH) staff</name>
+            <note>Created the initial version of the content in TEI-XML and added dates (some based on estimation)</note>
+         </change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+
+
+
+
+
+
+
+הודעת
+המפקדה מס' 112 /
+אברהם שטרן
+("יאיר")
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+הודעת
+המפקדה מס' 112[1]
+
+אברהם
+שטרן ("יאיר")
+
+
+
+ 
+
+
+
+
+ 
+  
+  ביום כ'
+  סיון ת"ש שבה
+  המ-דה הראשית
+  של האצ"ל להנהגה
+  ולפיקוד.
+  בימי
+  מבוכה ואבדן
+  עשתונות
+  לישוב ולעם יש
+  רק דרך אחת
+  לחיים
+  ולחרות: דרך
+  האצ"ל.
+  ואלה הם
+  העקרונות
+  המורים את
+  הדרך:
+  א. האצ"ל
+  חי ולוחם
+  בנשק להקמתה
+  של מלכות
+  ישראל בגבולותיה
+  ההיסטוריים.  את
+  מלחמתו זו יאסור
+  האצ"ל כצבא
+  כיבוש שיהא
+  עברי על דגלו,
+  על נשקו ועל
+  קציניו. 
+  על אנשיו
+  להשתמט בכל הדרכים
+  מכל גיוס זר.
+  ב. האצ"ל
+  כורת בריתות
+  בישראל
+  ובגויים, אך
+  אינו עובט את
+  חרותו. 
+  בשום פנים
+  הוא לא יהפך
+  למכשיר בידי
+  בן בריתו
+  תמורת העזרה
+  שיתנו לו זרים;
+  ולא ישתף
+  פעולה עם
+  תבוסני
+  ה"הגנה".  הגנתנו
+  – התקפה. 
+  מלחמתנו –
+  בשטח האויב.
+  ג. האצ"ל
+  מציית
+  למפקדיו
+  המנחים אותו
+  לקרב.
+  בשעה זו
+  בה נופלים
+  עמים
+  ונהרסות
+  מדינות
+  הישיבה
+  באפס-מעשה
+  והצפיה לכל
+  רעה שבתבוא
+  היא עוול.  ההכרח
+  שבמקרה זו או
+  אחר יאבד העם
+  היא פשע. 
+  העם לא יאבד
+  לעולם אם ידע
+  להאמין
+  ולקדם את פני
+  הבאות בנשק.  האצ"ל
+  הוכיח אף
+  בראשית
+  מלחמתו את
+  נכונותו לקרב
+  ולקרבן. 
+  לכבוד
+  חברינו
+  שנקפדו חייהם,
+  לכבוד
+  חברינו
+  שקופחה
+  חרותם – דום!  תקופת
+  המלחמה הבאה
+  עלינו עתה
+  מחייבת את כל
+  אנשינו
+  לנכונות-יתר;
+  למוות
+  ולעינויים
+  קשים ממוות.  הנצחון
+  שיבוא לא
+  בנוחיות
+  ייקנה ולא
+  בשאננות. 
+  הנוחיות
+  למנצחים ולא
+  ללוחמים.  כל
+  יגע-מלחמה, כל
+  אובד-אמונה,
+  כל מפקפק ורך
+  הלבב –ישוב
+  לביתו.  האצ"ל
+  – שבט לוחמי
+  החרות – הנאמן
+  לרעיונו
+  שקודש בדמים
+  בעבר, יוסיף
+  ללחום עד
+  הנצחון. 
+  תכליתו של
+  הקרב – הכיבוש.  וסופו
+  של סיבלנו –
+  החרות.
+  
+ 
+
+
+
+
+ 
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+[1] הודעה
+על הפילוג
+
+
+
+
+
+
+
+
+</body>
+   </text>
+</TEI>

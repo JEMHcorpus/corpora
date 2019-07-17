@@ -1,0 +1,123 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>מוֹת דָּוִד</title>
+            <author>חיים נחמן ביאליק</author>
+            <respStmt>
+               <name>Mandel Scholion Hebrew Revival Research Group</name>
+               <resp>Formatting of content from the Ben-Yehuda Project to TEI-XML according to the TEI P5 Guidelines.
+                  Addition of dates, not present in the online version, by Shira Wigderson, Asaf Isser, Adi Cohen, Nitzan Cohen, and Adi Cohen.
+               </resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <authority>Project Ben-Yehuda</authority>
+            <idno>http://benyehuda.org/bialik/veyehi_hayom_mot_david.html</idno>
+         </publicationStmt>
+         <sourceDesc xml:lang="Hebrew">
+            <bibl>
+               <date when="1925" notBefore="1925-01-01" notAfter="1925-12-31"/>
+            </bibl>
+            <p>The Ben-Yehuda Project (http://benyehuda.org/). Content provided within the Ben-Yehuda Hackathon at the University of Haifa (THATCamp Haifa, February 2014).</p>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <change>
+            <date>2018-11-01</date>
+            <name>Omer Waldman</name>
+            <note>Correction of previously annotated dates and addition of dates to majority of the works</note>
+         </change>
+         <change>
+            <date>2017-08-09</date>
+            <name>Jerusalem corpus of Emergent Modern Hebrew (JEMH) staff</name>
+            <note>Created the initial version of the content in TEI-XML and added dates (some based on estimation)</note>
+         </change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+
+
+
+
+
+
+
+מות דוד / ח"נ ביאליק
+
+
+
+
+
+
+
+
+מות דוד
+
+ח"נ ביאליק
+
+
+
+
+
+
+ 
+  
+  ויהי במלאת
+  למלך שבעים שנה, ויבא יומו, וירד אליו מלאך
+  המות בדבר אלהים עם רדת היום, לקחת את-נפשו, וימצא
+  את-דוד יושב בבית הארזים ופיו לא יחדל משיר וזמרה
+  לאלהים, כי היה היום יום השבת, ואותו קדש המלך  כל-ימיו לאלהים  מבא היום ועד צאתו, ולא
+  יכל  המלאך לגשת
+  אליו, כי זמרת אלהים מגן לבעליה ממות.  ויתחכם ויבא אל הגן אשר מאחורי
+  הבית, וירעש עציו, ויצא דוד הגנה לראות מה
+  הרעש, ורוממות אל בפיו. ויהי
+  הוא עולה במדרגות הגן, והנה נהרסה המדרגה תחתיו,
+  ותדם זמרתו רגע וישלט בו מלאך המות, ודוד נפל
+  אחורנית אל חיק הפרחים אשר בערוגות הגן ופניו
+  השמימה.
+  רגע אחד
+  קרנו עוד פני המלך בהדרת שיבתם לנגה השמש
+  השוקעת עם צאת השבת ויהי להם הוד נצח ויפעת
+  עולמים.  
+  המלך דוד
+  מת, אך רוחו עוד עמד תעמוד בתוך עמו לעולמים
+  וזמירותיו לא תמושינה מפי כל-אשר נשמת שדי
+  תחיהו כל-ימי היות איש צמא לאלהים חיים על הארץ.  
+  ומדי שבת
+  בשבת כנטות צללי יום, ורוח
+  ערבים תרחש בין עפאים, ונאספו לבתי תפלה
+  ולמקדשי אל ענוי ארץ וחסידי דור ודור, כל-נכה-רוח
+  וכל-שבור לב בעמיו, ושפכו יחד את-ענותם ואת-צמאון
+  לבבם ואת-כליון נפשם לפני אלהים חיים בתפלות דוד
+  בן-ישי, וחי המלך החסיד, נעים זמירות ישראל, בפי
+  כל-האדם ובנפשו כל-ימי עולם. 
+  ובמוצאי כל-שבת,
+  בהסב איש ישראל לברות לחם, בלותו את-שבת המלכה
+  – והיתה הבריה קדש לשם המלך דוד וזכרו, היא
+  סעדת דוד המלך המשיח עד היום הזה.  ועל כן יאמר בישראל:
+  דוד מלך ישראל חי וקים!
+  
+ 
+
+
+
+
+ 
+
+
+
+
+
+ 
+
+
+
+
+
+
+</body>
+   </text>
+</TEI>

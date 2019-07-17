@@ -1,0 +1,121 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>אחינו אתה</title>
+            <author>מיכה יוסף ברדיצ'בסקי</author>
+            <respStmt>
+               <name>Mandel Scholion Hebrew Revival Research Group</name>
+               <resp>Formatting of content from the Ben-Yehuda Project to TEI-XML according to the TEI P5 Guidelines.
+                  Addition of dates, not present in the online version, by Shira Wigderson, Asaf Isser, Adi Cohen, Nitzan Cohen, and Adi Cohen.
+               </resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <authority>Project Ben-Yehuda</authority>
+            <idno>http://benyehuda.org/berdi/axinu_ata.html</idno>
+         </publicationStmt>
+         <sourceDesc xml:lang="Hebrew">
+            <bibl>
+               <date when="1920" notBefore="1920-01-01" notAfter="1920-12-31"/>
+            </bibl>
+            <p>The Ben-Yehuda Project (http://benyehuda.org/). Content provided within the Ben-Yehuda Hackathon at the University of Haifa (THATCamp Haifa, February 2014).</p>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <change>
+            <date>2018-11-01</date>
+            <name>Omer Waldman</name>
+            <note>Correction of previously annotated dates and addition of dates to majority of the works</note>
+         </change>
+         <change>
+            <date>2017-08-09</date>
+            <name>Jerusalem corpus of Emergent Modern Hebrew (JEMH) staff</name>
+            <note>Created the initial version of the content in TEI-XML and added dates (some based on estimation)</note>
+         </change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+
+
+
+
+
+
+
+אחינו אתה / מיכה יוסף ברדיצ'בסקי
+
+
+
+
+
+
+
+
+במרחבי עיר
+
+מיכה יוסף ברדיצ'בסקי
+(בן-גריון)
+
+
+
+ 
+
+
+
+
+ 
+  
+  "אחינו
+  אתה"
+  לא אומנות משורר בידי, אך סופר ומזכיר אנכי
+  לעובדות ראשונות ומציין אני טיפוס אנשים נרשמו בזכרוני משכבר הימים. אף את
+  נשמת רפאל בן מיכאל אזכיר.
+  רפאל הלז היה איש ארוך מאד ודק וצנום-הפנים.
+  חנוני פעוט היה במיני מרכולת, ולו חנות של עץ שיכולים להניע אותה באופנים.
+  אלמן היה מאשתו זה ימים ושנים, בתו שנתבגרה ולא נישאה מרוב כיעורה סידרה את צרכי
+  הבית ועזרה לאביה גם בדברי החנות. הוא לא היה שתקן בטבעו, אבל מוחרם היה מאחיו.
+  על כת חסידי ברסלב היה נמנה; והוא היה היחיד באנשי קיטוב שבחר לו אמונה
+  אפלית זו. גם הבורים ואנשי המון-העם, שאינם יודעים להבדיל בעניינים רוחניים
+  מעודם, הרגישו בחובם כי הדרך שהולך בה רפאל לא רצויה היא ביעקב, ולא רחשו לו
+  טובה. כל איש בקיטוב התרחק ממנו, לא שח עמו שיחה יתירה ולא הראה לו טובת-הנאה
+  גם בצר לו. אוי לו למי שנחשב לבדול בעיני הציבור! 
+  יום פורים היה, יום מרדכי ואסתר, והיום יום
+  משתה ושמחה ומשלוח-מנות, על שם פור, הוא הגורל. אוכלים בו ממתקים, שותים בו
+  לרויה, מתאספים אנשי הקהילה אל בית הרב דמתא ואל בית  שאר קלי-הקודש שבמתא, שמחים ומשחקים. איש איש נועץ ידו
+  באבנטו ומרגיש הוא חדות-הרוח. מה שייך? ביקש המן להשמיד את היהודים ונהפכה עליו
+  מחשבתו הרעה, ותלו אותו ואת זרעו על עץ.
+  נקרעה הדלת והתפרץ פתאום לכנופיה כזו רפאל
+  דנן, בקבוק יין בידו האחת וכוס בידו השנית. הרימו השמחים את ראשיהם אליו ושאלה
+  אחת על פניהם ותחלוף: מה לאיש מנודה בינינו? השיב הוא ואמר: "רבותי, בשעה
+  שחשב משנה-למלך אחשורוש צורר היהודים מחשבות רעות על עם יעקב וביקש להשמידם
+  ולהכחידם מעל פני האדמה, לא הבדיל בין כוהן ובין לוי וחרבו לטושה על כל היהודים,
+  ואף על כיתות כל החסידים אשר בשושן; 
+  נשישה ונגילה יחד, כי השיב אלהים אשמו בראשו וירד דומיה, ואנחנו כולנו
+  חיים וקיימים". מיד עמדו כולם ממקומם, שתו עמו "לחיים" וקראו
+  בעוז: "אחינו אתה, שתה עמנו".
+  בן עשר הייתי אז.
+  
+ 
+
+
+
+
+ 
+
+
+
+
+
+ 
+
+
+
+
+
+
+</body>
+   </text>
+</TEI>

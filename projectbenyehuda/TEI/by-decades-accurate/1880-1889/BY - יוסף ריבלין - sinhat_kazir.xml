@@ -1,0 +1,125 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>שמחת בקציר</title>
+            <author>יוסף ריבלין</author>
+            <respStmt>
+               <name>Mandel Scholion Hebrew Revival Research Group</name>
+               <resp>Formatting of content from the Ben-Yehuda Project to TEI-XML according to the TEI P5 Guidelines.
+                  Addition of dates, not present in the online version, by Shira Wigderson, Asaf Isser, Adi Cohen, Nitzan Cohen, and Adi Cohen.
+               </resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <authority>Project Ben-Yehuda</authority>
+            <idno>http://benyehuda.org/rivlin/sinhat_kazir.html</idno>
+         </publicationStmt>
+         <sourceDesc xml:lang="Hebrew">
+            <bibl>
+               <date when="1887" notBefore="1887-01-01" notAfter="1887-12-31"/>
+            </bibl>
+            <p>The Ben-Yehuda Project (http://benyehuda.org/). Content provided within the Ben-Yehuda Hackathon at the University of Haifa (THATCamp Haifa, February 2014).</p>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <change>
+            <date>2018-11-01</date>
+            <name>Omer Waldman</name>
+            <note>Correction of previously annotated dates and addition of dates to majority of the works</note>
+         </change>
+         <change>
+            <date>2017-08-09</date>
+            <name>Jerusalem corpus of Emergent Modern Hebrew (JEMH) staff</name>
+            <note>Created the initial version of the content in TEI-XML and added dates (some based on estimation)</note>
+         </change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+
+
+
+
+
+
+
+שמחת בקציר / יוסף ריבלין
+
+
+
+
+
+ 
+
+
+
+
+  
+  
+
+
+שמחת בקציר
+
+יוסף ריבלין
+
+
+
+ 
+
+
+
+
+ 
+  
+  כבוד ידיד נפשי הרב החכם...  מוהר"ר יואל משה שאלאמאן
+  נ"י.
+  הנה הבאתי מראשית בכורי פרי אדמת חברתינו
+  "משכנות ישראל" ועל מזבח "יהודה וירושלם" אקריבהו לריח נחוח
+  לאחינו התמימים, הדורשים שלום אדמת יהודה וירושלם באמת ובתמים, והחפצים בלב טהור
+  לראות בטוב ירושלם, גם אם נעשה על ידי יושביה, ולא בקולי קולות, חשך ענן וערפל.
+  זה שובי הבית מן השדה מאחר הקוצרים חטים בשדה
+  "משכנות ישראל", אשר אמרנו מדוע תשם האדמה העומדת להבנות אחר
+  שנים.  הלא טוב כי נזרעה חטים,
+  ותתן את יבולה לנו.  ואם אמנם בשנה
+  הזאת לא נתנה הארץ את יבולה לברכה, קוינו להרבה והנה מעט.  ונפשינו דאבה לראות כד שדי תבואות נלקו
+  בשדפון ובירקון, וגם שדה חברתינו לא נקתה מהם בעוונותינו הרבים.  ואולם אם הסיבותי עיני מברכת השנה,
+  אוכל לאמר, כי שמחת לבבי לא אוכל לתאר עלי גליון עת באתי השדה, ובגילה אדירה אשר
+  הזילה דמע מעיני אמרתי לקוצרים "ה' עמכם"!, וגם השיבו לי בקול רינה
+  "יברכך ה'"!, ופה עניים מלקטים לקט שכחה ופאה מאחר הקוצרים.  מה אומר לך ידידי הקורא – החדוה והגיל
+  אשר לבשו כל קרבי השכיחוני יגון הזמן, והאמנתי כי ישראל שוכנים על אדמתם, והננו
+  הולכים בחליל להביא בכורים בקלתות של זהב אל בית אלקי יעקב.
+  וברוך ה', אשר החל עוד לקדשישנו במצוות
+  התלויות בארץ, ופתח תקותינו הולכת ונפתחת לפנינו בעזר ה' במרחביה, כי עוד נזרע
+  שדות ונטעה כרמים בהרי ישראל בעמלינו ויגיעינו.  לא נקוה לאיש ולא נייחל לבני אדם, האומרים הרבה ואפילו מעט
+  אינם עושים.  החפצים לייסד בציון
+  חדשות לנחול כבוד לעצמם.  והלואי
+  שישארו בכבודם הראשון, אחרי רואינו התחלת תהלוכותיהם, – אך לא להם ולנו לבנות
+  הנהרסות ולטעת הנשמה.  ה' משמים
+  כבר נתן אות לבני מרי – האיש אשר בחר בו מטהו יפרח.
+   
+  יהודה וירושלם, כ"ז בסיון תרל"ז.
+   
+  
+ 
+
+
+
+
+ 
+
+
+
+
+
+ 
+
+
+
+
+
+
+</body>
+   </text>
+</TEI>

@@ -1,0 +1,108 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>מפנקס [ההתעללות]</title>
+            <author>יוסף חיים ברנר</author>
+            <respStmt>
+               <name>Mandel Scholion Hebrew Revival Research Group</name>
+               <resp>Formatting of content from the Ben-Yehuda Project to TEI-XML according to the TEI P5 Guidelines.
+                  Addition of dates, not present in the online version, by Shira Wigderson, Asaf Isser, Adi Cohen, Nitzan Cohen, and Adi Cohen.
+               </resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <authority>Project Ben-Yehuda</authority>
+            <idno>http://benyehuda.org/brenner/brn212.html</idno>
+         </publicationStmt>
+         <sourceDesc xml:lang="Hebrew">
+            <bibl>
+               <date when="1920" notBefore="1920-01-01" notAfter="1920-12-31"/>
+            </bibl>
+            <p>The Ben-Yehuda Project (http://benyehuda.org/). Content provided within the Ben-Yehuda Hackathon at the University of Haifa (THATCamp Haifa, February 2014).</p>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <change>
+            <date>2018-11-01</date>
+            <name>Omer Waldman</name>
+            <note>Correction of previously annotated dates and addition of dates to majority of the works</note>
+         </change>
+         <change>
+            <date>2017-08-09</date>
+            <name>Jerusalem corpus of Emergent Modern Hebrew (JEMH) staff</name>
+            <note>Created the initial version of the content in TEI-XML and added dates (some based on estimation)</note>
+         </change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+
+
+
+
+
+
+מפנקס [ההתעללות] / יוסף חיים ברנר
+
+
+
+ 
+
+
+
+
+  
+  
+
+
+מפנקס
+
+יוסף חיים ברנר
+
+
+
+ 
+
+
+
+
+ 
+  
+  ההתעללות
+  ההתעללות נמשכת.  בעינינו המנוקרות משחירה הבעתה.  ז'בוטינסקי וחבריו נידונו להרבה שנים של עבודת
+  פרך בעד נסיון של הגנה עצמית.  הזדים יודעים,
+  כי האנשים הנידונים לא נגעו באיש לרעה, אינם מסוגלים לנגוע באיש לרעה, אם לא
+  להפריע את הפורע; המענים יודעים, כי מעוניהם טהורי-כוונה וטהורי-מפעל הנה הנם
+  – ועל כן יענום!
+  מצאו אצלם שנים-שלושה כלי-נשק, מצאו אצלם איזו
+  בגדים של אנשי-צבא – והם מודים, שנכונים היו להשתמש בנשק כלפי הרוצחים – העל זאת
+  לא יאבדו חייהם של הנקיים והחפים האלה בבתי-כלאים?
+  "התליין! – – לך זרוע עם קרדום וכל
+  הארץ לי גרדום" –
+   
+  ["קונטרס",
+  אייר תר"ף; החתימה: י. ח. ב. ]
+  
+ 
+
+
+
+
+ 
+
+
+
+
+
+ 
+
+
+
+
+
+
+</body>
+   </text>
+</TEI>

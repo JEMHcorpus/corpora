@@ -1,0 +1,139 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>דָּוִד וְהַצִּרְעָה וְהַעַכָּבִישׁ</title>
+            <author>חיים נחמן ביאליק</author>
+            <respStmt>
+               <name>Mandel Scholion Hebrew Revival Research Group</name>
+               <resp>Formatting of content from the Ben-Yehuda Project to TEI-XML according to the TEI P5 Guidelines.
+                  Addition of dates, not present in the online version, by Shira Wigderson, Asaf Isser, Adi Cohen, Nitzan Cohen, and Adi Cohen.
+               </resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <authority>Project Ben-Yehuda</authority>
+            <idno>http://benyehuda.org/bialik/veyehi_hayom_david_vehazira.html</idno>
+         </publicationStmt>
+         <sourceDesc xml:lang="Hebrew">
+            <bibl>
+               <date when="1925" notBefore="1925-01-01" notAfter="1925-12-31"/>
+            </bibl>
+            <p>The Ben-Yehuda Project (http://benyehuda.org/). Content provided within the Ben-Yehuda Hackathon at the University of Haifa (THATCamp Haifa, February 2014).</p>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <change>
+            <date>2018-11-01</date>
+            <name>Omer Waldman</name>
+            <note>Correction of previously annotated dates and addition of dates to majority of the works</note>
+         </change>
+         <change>
+            <date>2017-08-09</date>
+            <name>Jerusalem corpus of Emergent Modern Hebrew (JEMH) staff</name>
+            <note>Created the initial version of the content in TEI-XML and added dates (some based on estimation)</note>
+         </change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+
+
+
+
+
+
+
+דוד והצרעה והעכביש / ח"נ ביאליק
+
+
+
+
+
+
+
+
+דוד והצרעה והעכביש
+
+ח"נ ביאליק
+
+
+
+ 
+
+
+
+
+ 
+  
+  ויהי היום עוד ודוד
+  יושב בגנו, וירא צרעה אוכלת עכביש, ויאמר:
+  "אלהים, למה בראת את-אלה
+  לשוא? הצרעה השחת תשחית את-הדבש ועשה לא
+  תעשנו; והעכביש ארג יארג כל-השנה וקוריו לא
+  יהיו לבגד.  מה-בצע
+  ומה-חפץ באלה?"
+  והנה קול
+  אלהים באזניו: 
+  "דוד
+  התבוז ליצירי כפי? יבא יום ומצאת בהם תשועה גדולה
+  וידעת כי לא בראתי דבר לשוא."
+  ולא מלאו
+  הימים ודוד ברח מפני שאול המלך, כי בקש שאול
+  את-נפשו, ויתחבא דוד במערה אשר במדבר.  וימן לו  אלהים עכביש, ויארג את-מסכתו על פי
+  המערה ויסגרנה.  ויעבר
+  שם שאול ואנשיו, ויאמר האחד: הבה נבאה  אל המערה ונרגלנה,
+  אולי דוד מסתתר שם. 
+  ויען השני: ראה המסכת השלמה בפי המערה,
+  ולוא בא איש שמה כי עתה נקרעו קורי העכביש
+  לקרעים.  אין זאת כי
+  ריקה היא.
+  ויסורו
+  האנשים משם ואל המערה לא באו.  ודוד שכב בירכתי המערה וישמע
+  את-כל-דבריהם.  ויהי
+  כי הרחיקו רודפיו, ויצא ממחבאו, וירא את-התשועה
+  אשר עשה לו העכביש, ויברכהו ויאמר:
+  "ברוך
+  בוראך וברוך גם אתה, העכביש!" 
+  ויהי אחר
+  הדברים האלה ושאול עודנו רודף את-דוד.  וישמע דוד כי באו שאול
+  ואנשיו אחריו המדברה, וידע את-המקום אשר חנו שם,
+  ויבא שמה וימצא את-שאול שוכב ישן במעגל,
+  וחניתו מעוכה בארץ וצפחת המים מראשותיו, ואבנר
+  והעם שוכבים סביבותיו. 
+  ויגש דוד בלאט, וירא והנה רגלי  אבנר זקופות בשנתו כשני עמודים,
+  כי איש קומה הוא, ויעבר תחתיהן, כעבר איש בין המזוזות
+  בשער, ויבא המעגלה ויקח את-החנית ואת-צפחת
+  המים מעם מראשותי שאול, ואין רואה ואין יודע ואין
+  מקיץ, כי כלם ישנים ותרדמת אלהים נפלה עליהם.  וישב לצאת – והנה מתח
+  אבנר את-רגליו
+  ויכס על דוד, ותכבדנה עליו כשתי קורות, עוד מעט
+  והתמעך.  וירע לדוד
+  ויקרא לאלהים מן המצר, ותבא צרעה ותשלח עקצה
+  בבשר רגל אבנר, וישב ויזקף את-רגליו, ודוד יצא
+  בשלום.
+  אז ידע  דוד כי אין דבר לריק במעשי  אלהים, ויש אשר יהי
+  העכביש מלאכו והצרעה עושת דברו.
+  
+ 
+
+
+
+
+ 
+
+
+
+
+
+ 
+
+
+
+
+
+
+</body>
+   </text>
+</TEI>

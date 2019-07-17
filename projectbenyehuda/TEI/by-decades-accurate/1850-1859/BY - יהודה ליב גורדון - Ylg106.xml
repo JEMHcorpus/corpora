@@ -1,0 +1,153 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>האריה וחמור יודע ציד</title>
+            <author>יהודה ליב גורדון</author>
+            <respStmt>
+               <name>Mandel Scholion Hebrew Revival Research Group</name>
+               <resp>Formatting of content from the Ben-Yehuda Project to TEI-XML according to the TEI P5 Guidelines.
+                  Addition of dates, not present in the online version, by Shira Wigderson, Asaf Isser, Adi Cohen, Nitzan Cohen, and Adi Cohen.
+               </resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <authority>Project Ben-Yehuda</authority>
+            <idno>http://benyehuda.org/yalag/Ylg106.html</idno>
+         </publicationStmt>
+         <sourceDesc xml:lang="Hebrew">
+            <bibl>
+               <date when="1859" notBefore="1859-01-01" notAfter="1859-12-31"/>
+            </bibl>
+            <p>The Ben-Yehuda Project (http://benyehuda.org/). Content provided within the Ben-Yehuda Hackathon at the University of Haifa (THATCamp Haifa, February 2014).</p>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <change>
+            <date>2018-11-01</date>
+            <name>Omer Waldman</name>
+            <note>Correction of previously annotated dates and addition of dates to majority of the works</note>
+         </change>
+         <change>
+            <date>2017-08-09</date>
+            <name>Jerusalem corpus of Emergent Modern Hebrew (JEMH) staff</name>
+            <note>Created the initial version of the content in TEI-XML and added dates (some based on estimation)</note>
+         </change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+
+
+
+
+
+
+האריה וחמור יודע ציד / יהודה ליב גורדון
+
+
+
+
+
+
+
+
+האריה וחמור
+יודע ציד
+
+ 
+
+הארי חגג חג
+יום הלדת
+
+ויכון
+היערה לרדת
+
+לטרף-טרף
+לצוד לו ציד.
+
+(ציד הארי לא
+צפור, לא עיט,
+
+כי איל
+וצבי, רים וזמר!)
+
+ויקרא אל
+החמור ויאמר:
+
+אל חכך שופר
+ובגרונך קרן,
+
+זה אפוא יהיה
+לי פעלך,
+
+כי תתן
+בכח קולך
+
+בעבור
+ישמעו חיתו היער
+
+וממחבאיהם
+אלי יחרדו.
+
+ויעמוד
+החמור על ראש הר כתרן
+
+ויתן קול עז
+כשריקות הסער;
+
+כל שומעיו
+חלו נבהלו, רעדו,
+
+את חריהם חיש
+נטשו יחד
+
+וינסו מקול
+הפחד,
+
+ובנוסם הארי
+חטפמו
+
+אשר מסבכו
+ארב למו.
+
+„ומה? – התהלל ארך – האזנים – 
+
+הלא טוב כיום
+שרתיך?
+
+נפלאות
+וגדלות פעלתי!”
+
+כן! – ענה
+הארי את רם-העינים –
+
+אין כמוך
+לקרוא בכח,
+
+מראש הרים
+לצרוח;
+
+לולא ידעתי
+מי היה אביך
+
+כי אז גם אני
+מקולך נבהלתי.
+
+ 
+
+
+
+
+
+ 
+
+
+
+
+
+
+</body>
+   </text>
+</TEI>

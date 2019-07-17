@@ -1,0 +1,315 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>מי יודע עיר לישטינא</title>
+            <author>חיים נחמן ביאליק</author>
+            <respStmt>
+               <name>Mandel Scholion Hebrew Revival Research Group</name>
+               <resp>Formatting of content from the Ben-Yehuda Project to TEI-XML according to the TEI P5 Guidelines.
+                  Addition of dates, not present in the online version, by Shira Wigderson, Asaf Isser, Adi Cohen, Nitzan Cohen, and Adi Cohen.
+               </resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <authority>Project Ben-Yehuda</authority>
+            <idno>http://benyehuda.org/bialik/bia103.html</idno>
+         </publicationStmt>
+         <sourceDesc xml:lang="Hebrew">
+            <bibl>
+               <date when="1901" notBefore="1901-01-01" notAfter="1901-12-31"/>
+            </bibl>
+            <p>The Ben-Yehuda Project (http://benyehuda.org/). Content provided within the Ben-Yehuda Hackathon at the University of Haifa (THATCamp Haifa, February 2014).</p>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <change>
+            <date>2018-11-01</date>
+            <name>Omer Waldman</name>
+            <note>Correction of previously annotated dates and addition of dates to majority of the works</note>
+         </change>
+         <change>
+            <date>2017-08-09</date>
+            <name>Jerusalem corpus of Emergent Modern Hebrew (JEMH) staff</name>
+            <note>Created the initial version of the content in TEI-XML and added dates (some based on estimation)</note>
+         </change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+
+
+
+
+
+
+
+מי יודע עיר
+לישטינא / חיים נחמן ביאליק
+
+
+
+
+
+
+
+
+
+
+
+
+מי
+יודע עיר
+לישטינא
+
+ 
+
+חזן:  מי יודע
+עיר
+לישטינא?
+–
+
+עיר
+לישטין
+אני
+יודע!
+
+יש בה
+מנין
+בעלי-בתים,
+
+ורצען
+גדם עם
+מרצע,
+
+וחיט
+מטליא
+שתום
+העין,
+
+פליטת
+צבאות
+ניקולי –
+
+ובזכותם
+כל-העיר
+
+יוצאת
+טלאי
+על-גבי
+טלאי.
+
+ 
+
+קהל:
+ובזכותם
+כל-העיר
+
+יוצאת
+טלאי
+על-גבי
+טלאי.
+
+ 
+
+חזן:  מי יודע
+במה
+עוסקים
+
+בעלי-בתים?
+– אני
+יודע!
+
+אחד
+גוהק
+ואחד
+פוהק
+
+ואחד –
+גופו
+פולט
+זעה;
+
+אחד לץ
+ואחד
+מבין
+
+ואחד
+ראשון
+למפטירים,
+
+ואחד
+סחר
+בשערות
+חזיר –
+
+אלו
+היו שם
+חזירים.
+
+ 
+
+קהל:
+ואחד
+סחר
+בשערות
+חזיר
+
+אלו
+היו שם
+חזירים.
+
+ 
+
+חזן:  מי יודע
+אמניות
+
+עיר
+לישטין? –
+אני
+יודע!
+
+אחד
+מטיל בטלית
+ציצית
+
+ואחד
+מקריא או
+בעל
+תוקע;
+
+אחד
+עושה
+מזרחאות,
+
+אחד
+חריף
+ואחד
+בקי,
+
+ואחד,
+אלו מצא
+אורחים –
+
+נעשה
+בו ביום
+פנדקי.
+
+ 
+
+קהל:
+ואחד,
+אלו מצא
+אורחים –
+
+נעשה
+בו ביום
+פנדקי.
+
+ 
+
+חזן:  יש-שם
+סוס לבעל
+עגלה
+
+מקבל
+מכות –
+ואינו
+בועט;
+
+וגבאי
+בית
+הכנסת
+נבחר
+
+לא
+בעצרת –
+בחל
+המועד!
+
+ולערבה
+נוהגים
+שמה
+
+לטול
+דוקא
+ה"א
+שרביטין
+–
+
+הבו גדל
+ללישטין
+
+ונוציאה
+לה מוניטין!
+
+ 
+
+קהל:
+הבו
+גדל
+ללישטין
+
+ונוציאה
+לה
+מוניטין!
+
+ 
+
+חזן:  יש-שם
+נכסי
+צבור –
+אשפה!
+
+תל
+מתלקט
+דורי-דורות,
+
+דורי-דורות
+זרקו
+שמה
+
+בלוים,
+שברים,
+חרשי
+קדרות.
+
+אשפה
+גדולה,
+אשפת
+אבות,
+
+כמה
+שקעו
+בך
+עביטין! –
+
+הבו גדל
+ללישטין
+
+ונוציאה
+לה
+מוניטין!
+
+ 
+
+קהל:
+הבו
+גדל
+ללישטין
+
+ונוציאה
+לה
+מוניטין!
+
+
+
+
+
+  
+
+
+</body>
+   </text>
+</TEI>

@@ -1,0 +1,182 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>שיר ידידות</title>
+            <author>מאיר הלוי לטריס</author>
+            <respStmt>
+               <name>Mandel Scholion Hebrew Revival Research Group</name>
+               <resp>Formatting of content from the Ben-Yehuda Project to TEI-XML according to the TEI P5 Guidelines.
+                  Addition of dates, not present in the online version, by Shira Wigderson, Asaf Isser, Adi Cohen, Nitzan Cohen, and Adi Cohen.
+               </resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <authority>Project Ben-Yehuda</authority>
+            <idno>http://benyehuda.org/letteris/ugav_028.html</idno>
+         </publicationStmt>
+         <sourceDesc xml:lang="Hebrew">
+            <bibl>
+               <date when="1822" notBefore="1822-01-01" notAfter="1822-12-31"/>
+            </bibl>
+            <p>The Ben-Yehuda Project (http://benyehuda.org/). Content provided within the Ben-Yehuda Hackathon at the University of Haifa (THATCamp Haifa, February 2014).</p>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <change>
+            <date>2018-11-01</date>
+            <name>Omer Waldman</name>
+            <note>Correction of previously annotated dates and addition of dates to majority of the works</note>
+         </change>
+         <change>
+            <date>2017-08-09</date>
+            <name>Jerusalem corpus of Emergent Modern Hebrew (JEMH) staff</name>
+            <note>Created the initial version of the content in TEI-XML and added dates (some based on estimation)</note>
+         </change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+
+
+
+
+
+
+
+שיר ידידות / מאיר הלוי לטריס
+
+
+
+
+
+
+
+
+שיר ידידות
+
+לכבוד ידיד
+נפשי, המשכיל היקר מוה' נטע הורוויץ, עם הבתולה היקרה מרת קונה, בת הרב החכם הכולל
+מוה' נחמן הכהן קראחמאל, ביום חתונתם ושמחת לבם.
+
+(1822)
+
+ 
+
+יפיפית בן משכיל! לך נחלת שפר
+
+יתר שאת יתר עז לך יספור יה בספר
+
+בת מי נצבה לימינך? בֽינה צולח!
+
+בת נדיב זה כשמש צדקה זורח.
+
+ 
+
+נודדת כנף ההצלחה תבז נחשתים
+
+יושבי תבל תזנח ותעלה שמים;
+
+אשרי האיש ידיד יה יצוד נפש יקרה
+
+היא תשיחהו גם כי ילך בקרב צרה.
+
+ 
+
+אשריך ידיד יה! נפש טובה מצאת
+
+להגיה אור חייך כשחר עלתה
+
+שמח על נעים חבלך גם את כלה גֽילי
+
+על בן גילך מצאת לאל שי הובילי.
+
+ 
+
+שמעי בת וראי! נוף מנטע תפארת
+
+הוא הוא יתמוך ימינך כלה אדרת!
+
+חוג שמים כי יהלך על כנף רוחהו
+
+זאת האהבה תמשכהו דרכך תטהו!
+
+ 
+
+עלזו אבות חמדה! הנותנים למו חיים
+
+שאו יחד לבכם אשכר לאל השמים
+
+זורעי צדקות! ראו נא הן בשלו פריכם
+
+מעל כל תוחלת יחדו בשמחה פניכם!
+
+ 
+
+ישמח לבך היקר! כי חכם בנך
+
+תבונות על כפים ישיב תגמולך
+
+ובאשת חן צדקה מעינה צופיה
+
+יכפל שמחת גילך ואת נפשך חיה.
+
+ 
+
+ואתה צבי עמי! בנפשי קשורה נפשך!
+
+תנה בלבך שמחה ביום כלולות בתך
+
+לך נאוה שמחה נפשות רבים שמחת
+
+לאור באור חיים תועי לבב הולכת.
+
+ 
+
+בשתלי אושר תעמול רבות השנים
+
+גם בלב חתנך נטע נטעי נעמנים!
+
+הוא למשרים הוכן לארץ צבי דמיתיהו
+
+יקח מוסר יעשה טוב לכן אהבתיהו.
+
+ 
+
+מה תיחל מני חתן! ביום שמחת לבך?
+
+במה פניך יקדם לב אוהבך?
+
+בזמירות תשתעשע וזמרה אתן אני
+
+מוצא פי יביע את ירחש מעיני.
+
+ 
+
+תבורך מבנים משכיל! כל ימי חייך
+
+ראה חיים עם אשתך ופרי בטן תעטרך
+
+ושבע ימים תשוב מרום כשמש שב אהלה
+
+כן היא, על דברתי! זאת נחלת תום סלה.
+
+ 
+
+ 
+
+
+
+
+
+ 
+
+
+
+
+
+
+</body>
+   </text>
+</TEI>

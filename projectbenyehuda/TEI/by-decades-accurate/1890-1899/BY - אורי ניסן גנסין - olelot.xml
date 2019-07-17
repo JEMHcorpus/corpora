@@ -1,0 +1,113 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>[עוללות]</title>
+            <author>אורי ניסן גנסין</author>
+            <respStmt>
+               <name>Mandel Scholion Hebrew Revival Research Group</name>
+               <resp>Formatting of content from the Ben-Yehuda Project to TEI-XML according to the TEI P5 Guidelines.
+                  Addition of dates, not present in the online version, by Shira Wigderson, Asaf Isser, Adi Cohen, Nitzan Cohen, and Adi Cohen.
+               </resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <authority>Project Ben-Yehuda</authority>
+            <idno>http://benyehuda.org/gnessin/olelot.html</idno>
+         </publicationStmt>
+         <sourceDesc xml:lang="Hebrew">
+            <bibl>
+               <date when="1895" notBefore="1895-01-01" notAfter="1895-12-31"/>
+            </bibl>
+            <p>The Ben-Yehuda Project (http://benyehuda.org/). Content provided within the Ben-Yehuda Hackathon at the University of Haifa (THATCamp Haifa, February 2014).</p>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <change>
+            <date>2018-11-01</date>
+            <name>Omer Waldman</name>
+            <note>Correction of previously annotated dates and addition of dates to majority of the works</note>
+         </change>
+         <change>
+            <date>2017-08-09</date>
+            <name>Jerusalem corpus of Emergent Modern Hebrew (JEMH) staff</name>
+            <note>Created the initial version of the content in TEI-XML and added dates (some based on estimation)</note>
+         </change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+
+
+
+
+
+
+
+[עוללות] / אורי ניסן גנסין
+
+
+
+
+
+
+
+
+[עוללות]
+
+אורי ניסן גנסין
+
+
+
+
+
+
+ 
+  
+   
+  [– – – –] פאטשעפ (פלך טשרניגוב) – הנוכל
+  המכנה עצמו בשם יעקב לנדא, בנו של הרב המו"צ בפטרבורג רי"ז לנדא
+  ז"ל (עיין "המליץ" נומר 165 ע"מ), סר ביום כ"ג אדר
+  לעירנו ויכנה א"ע [את עצמו] בשם שמואל לאנדא בן הרה"ג לאנדא חתן הג'
+  גינצבורג מראהצעוו וב"א של הרבה רי"ז לנדא מפ"ב, מחבר ספר
+  "בית יעקב", "שביל יעקב", נין ונכד להגאון בעל נודע ביהודה,
+  והדביק מודעות בבתי-כנסיות, כי יתאסף העם לשמוע אל ההספד אשר ישא על מות הגאון
+  ריא"ס זצ"ל. אולם הרב דפה ר' העשיך נטע, בראותו את האיש ואת שיחו, כי
+  הוא מתחסד בחגורתו אשר במתניו וגם מתפאר במגבעתו אשר בראשו, לא האמין באיש ההוא
+  ויחל לחקור ולדרוש אותו: מה מעשהו ואנה פניו מועדות, אך הוא אמר כי הוא נוסע
+  קיובה עפ"י מכתב הקריאה מהגביר בראדסקי, לשבת שם על כסא הרבנות. רבנו
+  שאלו איה המכתב מהג' ב. [ברודסקי] ואיה הם הספרים אשר בהם יתפאר. על השאלות
+  האלה ענה עזות, כי לא להחקר ולהדרש אותו בא הנה. אז שלח הרב תכף מכתב להג'
+  אוטעווסקי בבריאנסק, אשר משם הוא בא, ובאותו יום קיבל תשובה כי ברח משם יען
+  הכירוהו כי הוא הנוכל הנזכר שכנה א"ע בשנה שעברה בשם יעקב לנדא. בהוודע
+  תרמיתו לא התמהמה הנוכל גם פה וישם לדרך פעמיו. ולמען לא יחרך רמיה צידו ולא
+  יוליך שולל את אחינו ב"י בערים אחרות, הנני לסמן סימניו: קומתו ממוצעת,
+  שנותיו כבן חמשים, מראה פניו כהה שחרחר, זקנו ושערות ראשו  שחורים, רק זעיר שם שיבה זרקה בם.                                                                                                           
+  
+  א.נ. גנעסין
+                            
+                                                                                                   ("המליץ"
+  תרנ"ו)
+  
+ 
+
+
+
+
+ 
+
+
+
+
+
+ 
+
+
+
+
+
+
+</body>
+   </text>
+</TEI>

@@ -1,0 +1,304 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>אל הציפור</title>
+            <author>חיים נחמן ביאליק</author>
+            <respStmt>
+               <name>Mandel Scholion Hebrew Revival Research Group</name>
+               <resp>Formatting of content from the Ben-Yehuda Project to TEI-XML according to the TEI P5 Guidelines.
+                  Addition of dates, not present in the online version, by Shira Wigderson, Asaf Isser, Adi Cohen, Nitzan Cohen, and Adi Cohen.
+               </resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <authority>Project Ben-Yehuda</authority>
+            <idno>http://benyehuda.org/bialik/bia001.html</idno>
+         </publicationStmt>
+         <sourceDesc xml:lang="Hebrew">
+            <bibl>
+               <date when="1891" notBefore="1891-01-01" notAfter="1891-12-31"/>
+            </bibl>
+            <p>The Ben-Yehuda Project (http://benyehuda.org/). Content provided within the Ben-Yehuda Hackathon at the University of Haifa (THATCamp Haifa, February 2014).</p>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <change>
+            <date>2018-11-01</date>
+            <name>Omer Waldman</name>
+            <note>Correction of previously annotated dates and addition of dates to majority of the works</note>
+         </change>
+         <change>
+            <date>2017-08-09</date>
+            <name>Jerusalem corpus of Emergent Modern Hebrew (JEMH) staff</name>
+            <note>Created the initial version of the content in TEI-XML and added dates (some based on estimation)</note>
+         </change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+
+
+
+
+
+
+
+אל הציפור / חיים נחמן ביאליק 
+
+
+
+ 
+
+
+
+
+  
+  
+
+
+אל הצפור /
+חיים נחמן ביאליק
+
+להאזנה
+לשיר, בקריאת מוטי ברכאן, לחץ כאן
+
+ 
+
+שלום רב
+שובך, צפרה נחמדת,
+
+מארצות החם
+אל-חלוני -
+
+אל קולך כי
+ערב מה-נפשי כלתה
+
+בחרף
+בעזבך מעוני.
+
+ 
+
+זמרי, ספרי,
+צפורי היקרה,
+
+מארץ מרחקים
+נפלאות,
+
+הגם שם בארץ
+החמה, היפה,
+
+תרבינה
+הרעות, התלאות?
+
+ 
+
+התשאי לי
+שלום מאחי בציון,
+
+מאחי הרחוקים
+הקרובים?
+
+הוי
+מאשרים!  הידעו ידע
+
+כי אסבל, הוי
+אסבל מכאובים?
+
+ 
+
+הידעו ידע
+מה רבו פה שטני,
+
+מה רבים, הוי
+רבים לי קמים?
+
+זמרי,
+צפורי, נפלאות מארץ,
+
+האביב בה
+ינוה עולמים.
+
+ 
+
+התשאי לי
+שלום מזמרת הארץ,
+
+מעמק, מגיא,
+מראש הרים?
+
+הרחם, הנחם
+אלוה את-ציון,
+
+אם עודה
+עזובה לקברים?
+
+ 
+
+ועמק השרון
+וגבעת הלבונה -
+
+היתנו
+את-מרם, את-נרדם?
+
+ההקיץ
+משנתו השב ביערים,
+
+הלבנון
+הישן, הנרדם?
+
+ 
+
+הירד
+כפנינים הטל על הר חרמון,
+
+אם ירד ויפל
+כדמעות?
+
+ומה-שלום
+הירדן ומימיו הבהירים?
+
+ושלום
+כל-ההרים, הגבעות?
+
+ 
+
+הסר מעליהם
+הענן הכבד,
+
+הפרש עלטה,
+צלמות? -
+
+זמרי,
+צפורי, על-ארץ בה מצאו
+
+אבותי החיים,
+המות!
+
+ 
+
+האם-עוד
+לא-נבלו הפרחים שתלתי
+
+כאשר
+נבלתי אנכי?
+
+אזכרה ימים
+כמוהם פרחתי,
+
+אך עתה
+זקנתי, סר כחי.
+
+ 
+
+ספרי,
+צפורי, סוד שיח כל-שיח,
+
+ומה-לך
+טרפיהם לחשו?
+
+הבשרו
+נחומים אם-קוו לימים,
+
+פרימו
+כלבנון ירעשו?
+
+ 
+
+ואחי העבדים,
+הזרעים בדמעה -
+
+הקצרו ברנה
+העמר? -
+
+מי יתן-לי
+אבר ועפתי אל-ארץ
+
+בה ינץ
+השקד, התמר!
+
+ 
+
+ואני מה
+אספר לך, צפור נחמדה,
+
+מפי
+מה-תקוי לשמע?
+
+מכנף ארץ
+קרה לא-זמירות תשמעי,
+
+רק קינים, רק
+הגה ונה.
+
+ 
+
+האספר
+התלאות, שכבר הן בארצות
+
+החיים
+נשמעות, מודעות? -
+
+הוי, מספר מי
+ימנה לצרות העברות,
+
+לצרות
+מתרגשות ובאות?
+
+ 
+
+נודי, צפורי,
+אל-הרך, מדברך!
+
+אשרת, כי
+עזבת את-אהלי;
+
+לו עמי
+שכנת, אז גם-את, כנף רננים,
+
+בכית, מר
+בכית לגורלי.
+
+ 
+
+אך לא בכי
+ודמעות לי גהה ייטיבו,
+
+לא אלה
+ירפאו מכתי;
+
+כבר עיני
+עששו, מלאתי נאד דמעות,
+
+כבר הכתה
+כעשב לבתי;
+
+ 
+
+כבר כלו
+הדמעות, כבר כלו הקצים -
+
+ולא הקיץ הקץ
+על-יגוני,
+
+שלום רב
+שובך, צפורי היקרה,
+
+צהלי-נא קולך
+ורני!
+
+ 
+
+ניסן, תרנ"א.
+
+
+
+
+
+  
+
+
+</body>
+   </text>
+</TEI>

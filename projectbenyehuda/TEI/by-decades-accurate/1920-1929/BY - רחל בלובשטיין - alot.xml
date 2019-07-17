@@ -1,0 +1,137 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>על אות הזמן</title>
+            <author>רחל בלובשטיין</author>
+            <respStmt>
+               <name>Mandel Scholion Hebrew Revival Research Group</name>
+               <resp>Formatting of content from the Ben-Yehuda Project to TEI-XML according to the TEI P5 Guidelines.
+                  Addition of dates, not present in the online version, by Shira Wigderson, Asaf Isser, Adi Cohen, Nitzan Cohen, and Adi Cohen.
+               </resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <authority>Project Ben-Yehuda</authority>
+            <idno>http://benyehuda.org/rachel/alot.html</idno>
+         </publicationStmt>
+         <sourceDesc xml:lang="Hebrew">
+            <bibl>
+               <date when="1927" notBefore="1927-01-01" notAfter="1927-12-31"/>
+            </bibl>
+            <p>The Ben-Yehuda Project (http://benyehuda.org/). Content provided within the Ben-Yehuda Hackathon at the University of Haifa (THATCamp Haifa, February 2014).</p>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <change>
+            <date>2018-11-01</date>
+            <name>Omer Waldman</name>
+            <note>Correction of previously annotated dates and addition of dates to majority of the works</note>
+         </change>
+         <change>
+            <date>2017-08-09</date>
+            <name>Jerusalem corpus of Emergent Modern Hebrew (JEMH) staff</name>
+            <note>Created the initial version of the content in TEI-XML and added dates (some based on estimation)</note>
+         </change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+
+
+
+
+
+
+
+על אות הזמן / רחל
+
+
+
+ 
+
+
+
+
+  
+  
+
+
+על אות הזמן
+
+רחל
+
+
+
+ 
+
+
+
+
+ 
+  
+  ברור לי:  אות הזמן באמנות השירה היא פשטות הביטוי.  בטוי פשוט, לאמר:  בטוי פרפוריה הראשונים של האמוציה
+  הלירית, בטוי מידי, בטרם הספיקה לכסות על עריתה במחלצות משי ועדיי זהב;  בטוי הנקי מספרותיות, הנוגע ללב
+  באמתו האנושית, המשובב נפש ברעננותו; אשר יש בכוחות להחרת בזכרון, ללוותנו בחיי
+  יום-יום ולרון מתוכנו לפתע.
+  האין פשטות הבטוי הזו, או למצער החתירה אליה,
+  מציינת את רוב היצירות השיריות בני-זמננו, את הרוסים (בלוק, אכמטובה, יסנין), את
+  הצרפתים (ז'אם, פוללפור, שארל ויללדראק). 
+  עד כי בעיטה בחרוז וב"בית" הקדושים עד כדי יראה מריתמוס
+  מוסיקלי שגור?
+  כשדפדפתי בספר שיריו של בס ("אדם",
+  הוצאת "הדים") חשבתי: 
+  "אל אלהים!  איכה
+  הצליח להתחמק מאות הזמן?  תלישות
+  מקרקע בזמן תגונה כתלישות מקרקע המקום. 
+  לא נוח לנו ברחבי הנצח, פינה נבקש לנו להתגדר בה.
+  יש לו לבס סונטות מרודדות, מראות-נוף מצוירים
+  ביד בטוחה;  עשירת צבעים הפאליטרה
+  שלו, רק "צבע הזמן" חסרה היא.
+  ולטמקין ("נטפים", הוצאת
+  "כתובים") שבילו הוא, דמותו עולה מבין דפי ספרו, דמות איש של צדי
+  הדרך, של תוגת בין-השמשות, של רחמי אח. 
+  אף צליל אחד מזויף לא יצרום את האוזן, ואולם גם הוא, אם כי פחות מאשר בס,
+  מתנכר לאות הזמן.
+  ואז אתה נוטל את "לאבא-אמא"
+  (שלונסקי, "לאבא-אמא", הוצאת "כתובים") ואתה קורא, וחוזר
+  וקורא, ונכון "לסלוח" לו לשלונסקי את תעתועיו, בגלל כשרונו להיות כל
+  כך בן לתקופתו.
+  דומה עלי, כי אין פה מקום לקושיה:  פשטות הביטוי ומבול דמויות והשאלות –
+  הא כיצד?  כי כן יכולות ההשאלות
+  (ולא רק בלהטי הלשון של חרטומי-ארצנו הדברים אמורים) יכולות ההשאלות להיות תוצאה
+  בלתי אמצעית של ראית-עולם שירית, לאמור: 
+  העין ערוכה כך ולא אחרת, והאמוציה מגיחה מרחם בלבושה זה.  דוגמת ילדים "בני-מזל",
+  הנולדים בכתונת.
+  פשטות הביטוי לא תמיד מזווגה עם יכולת
+  הביטוי, הגם שהיא תמיד מכפרת על מיעוט היכולת (למשל, בשירי אלישבע).  ואף היכולת יש אשר תיכשל באי
+  פשטות.  וזה לא יכופר.  אמנם קשה דרכה של פשטות.  מכאן אורבת לה פרוזאיות ומכאן –
+  גנדרנות.  הופכת היא את כל
+  השגותינו הרגילות על פיהן.  הכרת
+  צדקתה באה לנו בלי אמצעי, מתוך קריאת-הפתעה בעקבות יעקב אבינו:  "אכן, יש תפארת בטוי חדשה במקום
+  הזה ואנכי לא ידעתי!".
+   
+  תרפ"ז
+  
+ 
+
+
+
+
+ 
+
+
+
+
+
+ 
+
+
+
+
+
+
+</body>
+   </text>
+</TEI>

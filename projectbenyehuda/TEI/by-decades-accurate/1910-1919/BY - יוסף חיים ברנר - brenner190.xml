@@ -1,0 +1,116 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>ביבליוגרפיה</title>
+            <author>יוסף חיים ברנר</author>
+            <respStmt>
+               <name>Mandel Scholion Hebrew Revival Research Group</name>
+               <resp>Formatting of content from the Ben-Yehuda Project to TEI-XML according to the TEI P5 Guidelines.
+                  Addition of dates, not present in the online version, by Shira Wigderson, Asaf Isser, Adi Cohen, Nitzan Cohen, and Adi Cohen.
+               </resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <authority>Project Ben-Yehuda</authority>
+            <idno>http://benyehuda.org/brenner/brenner190.html</idno>
+         </publicationStmt>
+         <sourceDesc xml:lang="Hebrew">
+            <bibl>
+               <date when="1919" notBefore="1919-01-01" notAfter="1919-12-31"/>
+            </bibl>
+            <p>The Ben-Yehuda Project (http://benyehuda.org/). Content provided within the Ben-Yehuda Hackathon at the University of Haifa (THATCamp Haifa, February 2014).</p>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <change>
+            <date>2018-11-01</date>
+            <name>Omer Waldman</name>
+            <note>Correction of previously annotated dates and addition of dates to majority of the works</note>
+         </change>
+         <change>
+            <date>2017-08-09</date>
+            <name>Jerusalem corpus of Emergent Modern Hebrew (JEMH) staff</name>
+            <note>Created the initial version of the content in TEI-XML and added dates (some based on estimation)</note>
+         </change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+
+
+
+
+
+
+
+ביבליוגרפיה - מארכס והיהדות לז' רובשוב / י"ח ברנר
+
+
+
+
+
+
+
+
+ביבליוגרפיה
+
+י"ח ברנר
+
+
+
+ 
+
+
+
+
+ 
+  
+  [מארכס
+  ויחוסו אל היהדות והיהדות שבתוך מארכס, מאת זלמן רובאשוב (ביהודית המדוברת),
+  הוצאת "פועלי ציון", ברלין, 1919.]
+  מארכס, תקיף-המוח ובעל המזג הסוער, הנוקם ונוטר
+  כנחש בפולימיקה ושוטם ובז לכל המערער על שיטתו, שטם את היהדות משטמה עזה.  אבל, איזה ערך יש לשנאתו זו? מה ידע
+  הוא מן היהדות, כלומר, מן הסכום הרוחני העולה מכל מעשי היהודים, החיים בקיבוצים
+  חיי-עם? הוא ראה לפניו בורגנים יהודים אשכנזים ומתאשכנזים, עצם מעצמיו, וקרא
+  איזו ספרים על מושגי היהדות המופשטת – ומצא לו.  ובהיותו נוטה מטבעו לשנאה יותר מאשר לאהבה, ובמצאו מקום כאן
+  לגבות את חוב-שיטתו מבעל-דינו הקאפיטאליסמוס, השליך נעל על היהדות, שהיא,
+  כביכול, האידיאה של הקאפיטאליסמוס, ומצוה להילחם בה.
+  בעל-המחברת העלה את כל זה מבלי משים באופן די
+  ברור, אם, כי תיאורו בפתיחתו על היהדות בגרמניה באותה שעה, שלא ידעה מה לעשות:
+  "יהדות בלי חופש רע, חופש בלי יהדות גם כן רע" – אינו נכון.  להד"ם! לא כך עמדה השאלה לפני
+  יהודי גרמניה, שבהשתנות תנאי החיים מחוץ, יצאו מעורם בכל הכוחות להינצל
+  מאסון-יהדותם באיזה אופן שהוא, כדי שלא יגיע נזק לעסקיהם, לכבודם ולמצבם
+  בחברה.  חזיון ידוע לנו בברלין
+  כבמוסקבה, ובמוסקבה כבווארשה, ואי-הבהירות הזאת בהגדרת היהדות בכלל (אהה, בנוגע
+  לזו גם מארכס גם רובאשוב חדלים להיות מארכסיסטים!) גרמה לו לבעל-המחברת בחלקה
+  השני להכניס "יהדות" לתוך...מארכס גופא: אמונה באושר, צדק, אופטימיזם
+  – ומה לא? ויצא דבר מגוחך: מארכס הורה: היהדות היא וכסל, והוכסל הוא דבר
+  שנאוי; רובאשוב אוהב את מארכס ואוהב את היהדות וטוען: היהדות היא אמונה
+  בגאולת-העולם, היהדות היא צדק, ומארכס בעצמו הוא חתיכה של יהדות.  והאמת אומרת: היהדות היא חיי היהודים
+  בפועל, ומארכס בפועל היה מוח רחב כפתחו של אולם בחכמת-הכלכלה ובן-משומדים.  גורלו אינו בגורלנו וחלקו אינו עמנו.
+  ["האדמה",
+  חשון תר"ף; החתימה: ח.ב.צלאל.]
+  
+ 
+
+
+
+
+ 
+
+
+
+
+
+ 
+
+
+
+
+
+
+</body>
+   </text>
+</TEI>

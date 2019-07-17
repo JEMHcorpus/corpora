@@ -1,0 +1,222 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>השועל והחתול</title>
+            <author>יהודה ליב גורדון</author>
+            <respStmt>
+               <name>Mandel Scholion Hebrew Revival Research Group</name>
+               <resp>Formatting of content from the Ben-Yehuda Project to TEI-XML according to the TEI P5 Guidelines.
+                  Addition of dates, not present in the online version, by Shira Wigderson, Asaf Isser, Adi Cohen, Nitzan Cohen, and Adi Cohen.
+               </resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <authority>Project Ben-Yehuda</authority>
+            <idno>http://benyehuda.org/yalag/ylg162.html</idno>
+         </publicationStmt>
+         <sourceDesc xml:lang="Hebrew">
+            <bibl>
+               <date when="1859" notBefore="1859-01-01" notAfter="1859-12-31"/>
+            </bibl>
+            <p>The Ben-Yehuda Project (http://benyehuda.org/). Content provided within the Ben-Yehuda Hackathon at the University of Haifa (THATCamp Haifa, February 2014).</p>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <change>
+            <date>2018-11-01</date>
+            <name>Omer Waldman</name>
+            <note>Correction of previously annotated dates and addition of dates to majority of the works</note>
+         </change>
+         <change>
+            <date>2017-08-09</date>
+            <name>Jerusalem corpus of Emergent Modern Hebrew (JEMH) staff</name>
+            <note>Created the initial version of the content in TEI-XML and added dates (some based on estimation)</note>
+         </change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+
+
+
+
+
+
+
+השועל והחתול / יהודה ליב גורדון
+
+
+
+
+
+
+
+
+
+
+השועל
+והחתול  / יהודה ליב גורדון
+
+ 
+
+שועל עם חתול
+שני בנים כחשים
+
+נוכלים
+וצבועים כאנשים
+
+רבים
+
+חבורי עצבים,
+
+הלובשים
+בגד יראת חטא וחסד
+
+על בגד
+ומזמה, חרפה וחסד,
+
+למקום קדוש
+נהרו,
+
+כי נדר נדרו,
+
+ובדרך קדשם
+זה מדי עברו
+
+גוזלים רבים
+גזלו וגבינות גנבו
+
+לשבור בם
+רעבונם עת כי ירעבו,
+
+כי לצום
+בדרך לא התנדבו.
+
+אף איש אל רעהו
+שחחו נדברו
+
+בעבור קצר
+למו ארך
+
+הדרך.
+
+"הנה נא
+שמעתי מהללים אתכה
+
+– השועל אל
+החתול דבר ככה –
+
+כי ערום אתה
+ומחשב הרע,
+
+היש לך
+כמני תחבלות סלף
+
+אלפי
+אלף?"
+
+"לא – יגיד
+רעו – אינני יודע
+
+רק דרך אחד
+בנתיב החיים
+
+אך טוב הוא לי
+מרבוא רבותים".
+
+עוד הם
+נדברים
+
+ועדת כלבי
+האתרים
+
+שמה הגיעה,
+
+שיחתם
+הפריעה.
+
+חפש נא בין
+אלפי תחבלותיך
+
+– אמר החתול –
+ומלט נפשך,
+
+ואני זה
+דרכי לפני בעינים
+
+דרך הנשר בשמים.
+
+וברגע עלה
+החתול על ראש שיח
+
+וישם עבי
+בדיו חתלתו,
+
+והשועל פתח
+אמתחת ערמתו
+
+ויבקש
+תחבלות למלט חיתו;
+
+וכמו נחש
+בריח
+
+נטה
+עקלקלות, נחבא, הניח
+
+נס ויסתר
+
+בין הררי
+בתר,
+
+עלה בכפים
+ויבא בעבים
+
+אך באשר
+ילך שם ילכו הכלבים
+
+וכדרכו גם
+המה דרכם נלפתו,
+
+כתרוהו,
+הדביקהו
+
+ומנוחה
+הדריכהו
+
+עדי אותו
+תפשו
+
+ומאכלות
+שניהם הודיעהו.
+
+טובה תחבלה
+טובה אחת
+
+ובתהפכות
+רבות אין נחת.
+
+ 
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+</body>
+   </text>
+</TEI>

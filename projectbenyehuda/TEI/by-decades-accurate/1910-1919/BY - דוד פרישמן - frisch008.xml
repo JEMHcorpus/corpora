@@ -1,0 +1,142 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>לא אנכי חלמתי החלום</title>
+            <author>דוד פרישמן</author>
+            <respStmt>
+               <name>Mandel Scholion Hebrew Revival Research Group</name>
+               <resp>Formatting of content from the Ben-Yehuda Project to TEI-XML according to the TEI P5 Guidelines.
+                  Addition of dates, not present in the online version, by Shira Wigderson, Asaf Isser, Adi Cohen, Nitzan Cohen, and Adi Cohen.
+               </resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <authority>Project Ben-Yehuda</authority>
+            <idno>http://benyehuda.org/frischmann/frisch008.html</idno>
+         </publicationStmt>
+         <sourceDesc xml:lang="Hebrew">
+            <bibl>
+               <date when="1917" notBefore="1917-01-01" notAfter="1917-12-31"/>
+            </bibl>
+            <p>The Ben-Yehuda Project (http://benyehuda.org/). Content provided within the Ben-Yehuda Hackathon at the University of Haifa (THATCamp Haifa, February 2014).</p>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <change>
+            <date>2018-11-01</date>
+            <name>Omer Waldman</name>
+            <note>Correction of previously annotated dates and addition of dates to majority of the works</note>
+         </change>
+         <change>
+            <date>2017-08-09</date>
+            <name>Jerusalem corpus of Emergent Modern Hebrew (JEMH) staff</name>
+            <note>Created the initial version of the content in TEI-XML and added dates (some based on estimation)</note>
+         </change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+
+
+
+
+
+
+לא אנכי חלמתי החלום
+
+
+
+
+
+
+
+
+
+
+
+*
+
+ 
+
+לא אנכי
+חלמתי החלום  –
+
+אני רק
+בקשתי הפתרון;
+
+אני רק
+בקשתי, דרשתי;
+
+"מה-הוה",
+"מה-תכלית", "מה-יתרון".
+
+ 
+
+לא אנכי
+חלמתי החלום  –
+
+היה לו אחר
+וחלמו;
+
+חלם לו עולם
+כה נפלא,
+
+וסוד בו
+השקיע  –  וסתמו.
+
+ 
+
+חלם לו שמש
+ולילה,
+
+חלם לו חיים
+ומות,
+
+ושמים וארץ
+ואדם
+
+ולב לו  – 
+ובו גיא צלמות.
+
+ 
+
+ואותי גם
+אותי רק חלם  –
+
+מין חרטם בין
+חכמי חרטמים;
+
+ויחלם מין לב
+לי בקרב,
+
+ובלב לי מין
+אורים ותמים.
+
+ 
+
+ואני פה
+כל-ימי רק אדרש,
+
+רק אשאל
+את-תמי ואת אורי:
+
+מה פשר
+חלומו של זה שם?
+
+וחיי מה המה
+ויסורי?
+
+
+
+
+
+
+
+
+
+
+</body>
+   </text>
+</TEI>

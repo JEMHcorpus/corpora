@@ -1,0 +1,253 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>הנשר ושעירי היער</title>
+            <author>יהודה ליב גורדון</author>
+            <respStmt>
+               <name>Mandel Scholion Hebrew Revival Research Group</name>
+               <resp>Formatting of content from the Ben-Yehuda Project to TEI-XML according to the TEI P5 Guidelines.
+                  Addition of dates, not present in the online version, by Shira Wigderson, Asaf Isser, Adi Cohen, Nitzan Cohen, and Adi Cohen.
+               </resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <authority>Project Ben-Yehuda</authority>
+            <idno>http://benyehuda.org/yalag/yalag_146.html</idno>
+         </publicationStmt>
+         <sourceDesc xml:lang="Hebrew">
+            <bibl>
+               <date when="1859" notBefore="1859-01-01" notAfter="1859-12-31"/>
+            </bibl>
+            <p>The Ben-Yehuda Project (http://benyehuda.org/). Content provided within the Ben-Yehuda Hackathon at the University of Haifa (THATCamp Haifa, February 2014).</p>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <change>
+            <date>2018-11-01</date>
+            <name>Omer Waldman</name>
+            <note>Correction of previously annotated dates and addition of dates to majority of the works</note>
+         </change>
+         <change>
+            <date>2017-08-09</date>
+            <name>Jerusalem corpus of Emergent Modern Hebrew (JEMH) staff</name>
+            <note>Created the initial version of the content in TEI-XML and added dates (some based on estimation)</note>
+         </change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+
+
+
+
+
+
+
+הנשר ושעירי היער / יהודה ליב גורדון
+
+
+
+
+
+
+
+
+הנשר ושעירי היער
+
+יהודה ליב גורדון
+
+ 
+
+להחכם הנודע רב המדעים, סופר מהיר ומליץ נעים נאמן
+
+באהבתו, עם עמו ושפתו, מאיר הלוי לעטעריס (ז"ל)
+
+ 
+
+אל גנת בת ציון
+וירושלים
+
+מימי ילדותי ירדתי
+לשוח –
+
+גן נעול ומסגר
+משנות אלפים
+
+ואבק רגלי הזמן
+עליו ינוח;
+
+אך סערות חרף
+זקנה וקרח
+
+עקבות עת חרפו
+עדן לא העבירו,
+
+עוד ביפי עלומים
+יבשיל כל פרח
+
+ונגהות בקר על
+שמיו יצהירו.
+
+ 
+
+בין המארות הגדולים
+שם יזרחו
+
+גם אותך מאיר ראיתי זורח,
+
+ובין פרחי עדן
+שמה יפרחו
+
+מטעי ששניך
+יתנו ריח.
+
+ובעוד רבים רבים
+מבני ארצך
+
+נזרו אחור בשדה
+זר לנוע –
+
+נשארת אתה
+ומעטים אתך
+
+על אדמת קדש
+עוד שתול נטוע.
+
+על כן מילדותי
+זכרך אוקירה
+
+ביקר השפה לה
+חיי הקדשתי,
+
+על כן קבל עם
+את שמך אזכירה
+
+על ראש זה המשל
+שי לך הגשתי
+
+כי בשפת קדשנו
+ישית את פיהו
+
+המחדשת עלומיה
+כנשר,
+
+לכן, מליץ ישר,
+לך הגשתיהו,
+
+כי אתה הנמשל,
+אתה הפשר.
+
+ 
+
+                *           *
+
+                     *
+
+אל סתר הלבנון,
+אל חיק היער,
+
+בשדות ריח ניחח,  בין ארזי אלוה,
+
+בא נשר זקן,
+ירד מגבוה
+
+לחליף את כחו
+ולחדש הנער.
+
+ימים רבים תחת
+שמים יחי
+
+אף הלך בגלה
+מדחי אל דחי,
+
+כי כל עוף השמים
+קשרו עליו קשר,
+
+ויגרשהו ממלוך
+ויסירהו מנשר,
+
+ומרב ימים, מחסרון
+מנוח,
+
+אבד לו חילו, לא
+עמד בו כח.
+
+עתה תר התחדש
+נעוריו הגיע
+
+וכבר החלה נוצתו
+הקרח
+
+וחדשה אחרת
+תחתנה צמח,
+
+על כן נחת הלבנון
+מגבהי רקיע.
+
+ושעירי היער
+אחריו קראו
+
+(כי גם בלבנון
+השעירים נמצאו):
+
+עלה קרח! עלה
+קרח!
+
+התאמר "התחדש
+תמיד כירח!
+
+הטרם תדע כי
+תחת שמים
+
+לכל תכלה, וזמן
+אל כל החיים!?"
+
+אולם הנשר חכם
+לב גם נבר
+
+לא התפל עמם,
+לא ענם דבר,
+
+עד צמחה נוצתו
+וכנפיו עלו,
+
+אז פרש כשחר
+מטות האבר
+
+ויסק אל עיניהם
+למרומי גבה.
+
+ראו השעירים
+ויתמהו תמה
+
+כי נפל עליהם
+פחד אלה.
+
+מי אתה? ! " כלם פה אחד שאלו"
+
+ויענם ממרומים:
+"אני הבת-עבר!!!"
+
+ 
+
+ומי השעירים?
+הן ידע כל גבר!
+
+ 
+
+
+
+
+
+ 
+
+
+
+
+
+
+</body>
+   </text>
+</TEI>

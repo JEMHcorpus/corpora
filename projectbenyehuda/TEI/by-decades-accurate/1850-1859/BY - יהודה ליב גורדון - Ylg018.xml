@@ -1,0 +1,170 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>על כרחך אתה חי</title>
+            <author>יהודה ליב גורדון</author>
+            <respStmt>
+               <name>Mandel Scholion Hebrew Revival Research Group</name>
+               <resp>Formatting of content from the Ben-Yehuda Project to TEI-XML according to the TEI P5 Guidelines.
+                  Addition of dates, not present in the online version, by Shira Wigderson, Asaf Isser, Adi Cohen, Nitzan Cohen, and Adi Cohen.
+               </resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <authority>Project Ben-Yehuda</authority>
+            <idno>http://benyehuda.org/yalag/Ylg018.html</idno>
+         </publicationStmt>
+         <sourceDesc xml:lang="Hebrew">
+            <bibl>
+               <date when="1852" notBefore="1852-01-01" notAfter="1852-12-31"/>
+            </bibl>
+            <p>The Ben-Yehuda Project (http://benyehuda.org/). Content provided within the Ben-Yehuda Hackathon at the University of Haifa (THATCamp Haifa, February 2014).</p>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <change>
+            <date>2018-11-01</date>
+            <name>Omer Waldman</name>
+            <note>Correction of previously annotated dates and addition of dates to majority of the works</note>
+         </change>
+         <change>
+            <date>2017-08-09</date>
+            <name>Jerusalem corpus of Emergent Modern Hebrew (JEMH) staff</name>
+            <note>Created the initial version of the content in TEI-XML and added dates (some based on estimation)</note>
+         </change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+
+
+
+
+
+
+
+על כרחך אתה חי
+
+
+
+ 
+
+
+
+
+  
+  
+
+
+על כרחך
+אתה חי
+
+(במלאת ביתי קיטור גחלים
+ואתעלף
+ויהי כפשע ביני ובין המות)
+
+ 
+
+רגעי מספר
+עמדתי על הגשר
+
+העומד כגבול
+בין חיים ומות,
+
+וכבר העלה
+רוחי אבר כנשר
+
+ובשרי נאחז
+ברתקות צלמות.
+
+ 
+
+וכבר יבש
+לבי, חושי בטלו,
+
+לא חשתי
+דבר, כל היה נשיתי.
+
+חדלו
+גלגלי המכונה, חדלו –
+
+עוד פשע – וכלא
+הייתי הייתי.
+
+ 
+
+הזה הוא מות
+מפניו נרעדה?
+
+אם זאת היא שחת
+מרגזת לב גבר?
+
+אחי, מפני
+דמיון כוזב נפחדה!
+
+אין פחד
+במות, מגור בקבר!
+
+ 
+
+אולי למות
+יקש, אך לא המות;
+
+אבל גם
+החבלים לא ימשכו
+
+אם דרך כזאת
+נרד בור צלמות –
+
+רק רגעי
+מספר יעברו ילכו.
+
+ 
+
+וכבר על דרך
+זאת רגלי דרכו,
+
+וכבר דלתות
+בית עולמי נפתחו
+
+וכבר לבוא בו
+הרימותי פעם –
+
+פתאם נקראתי
+אחור בשאון רעם.
+
+ 
+
+קול אנשי
+ביתי הוא – הוי מה-נואלו!
+
+בזרוע
+בחיים אותי יעצרו.
+
+פותים!  טוב ארץ תת לי לא תוכלו –
+
+למה לי
+שערי שמים תסגרו?
+
+ 
+
+                                                                              תרי"ב
+
+ 
+
+
+
+
+
+ 
+
+
+
+
+
+
+</body>
+   </text>
+</TEI>

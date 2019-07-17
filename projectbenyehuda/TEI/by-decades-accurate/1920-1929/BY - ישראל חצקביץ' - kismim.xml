@@ -1,0 +1,105 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>קיסמים</title>
+            <author>ישראל חצקביץ'</author>
+            <respStmt>
+               <name>Mandel Scholion Hebrew Revival Research Group</name>
+               <resp>Formatting of content from the Ben-Yehuda Project to TEI-XML according to the TEI P5 Guidelines.
+                  Addition of dates, not present in the online version, by Shira Wigderson, Asaf Isser, Adi Cohen, Nitzan Cohen, and Adi Cohen.
+               </resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <authority>Project Ben-Yehuda</authority>
+            <idno>http://benyehuda.org/xatskevich/kismim.html</idno>
+         </publicationStmt>
+         <sourceDesc xml:lang="Hebrew">
+            <bibl>
+               <date when="1929" notBefore="1929-01-01" notAfter="1929-12-31"/>
+            </bibl>
+            <p>The Ben-Yehuda Project (http://benyehuda.org/). Content provided within the Ben-Yehuda Hackathon at the University of Haifa (THATCamp Haifa, February 2014).</p>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <change>
+            <date>2018-11-01</date>
+            <name>Omer Waldman</name>
+            <note>Correction of previously annotated dates and addition of dates to majority of the works</note>
+         </change>
+         <change>
+            <date>2017-08-09</date>
+            <name>Jerusalem corpus of Emergent Modern Hebrew (JEMH) staff</name>
+            <note>Created the initial version of the content in TEI-XML and added dates (some based on estimation)</note>
+         </change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+
+
+
+
+
+
+קיסמים / ישראל חצקביץ
+
+
+
+ 
+
+
+
+
+  
+  
+
+
+קיסמים
+
+ישראל חצקביץ'
+
+
+
+ 
+
+
+
+
+ 
+  
+  (עם בוא העליה החמישית)
+  – – – והנה עוד קיסם ולא מעט ערכו. השעה שעה מאוחרת
+  בלילה. באולם התאספו כל החברים. הולכים רצוא ושוב. שותקים או משמיעים דברים
+  תפלים, ועל השפתים מרחף חיוך והעינים מאירות באור שמחה עצורה. מה קרה? באולם נמצאים
+  חברים חדשים. זה עתה באו, אין נאומים נלהבים, אדרבא, מורגש כעין
+  אי-נוחיות, כאי-ההתאמה שבין הרגש וביטויו. אבל הביטוי הוא מיותר. כדרך שהוא מיותר
+  כלפי קרובים שנעדרו ימים הרבה מן הבית וזה עתה שבו. שמא מצחיקה גם קצת התמונה, תמונת
+  אנשים מבוגרים, שאינם מוצאים מקומם. שמא כמוזרות נשמעו הקריאות שהתפרצו משנתקרבה
+  העגלה עם החברים לגבעה אולם בקריאות אלו יכולת לשמוע תרועות עוז ובטחון בנצחון
+  הבא.
+  בשעה מאוחרת זו שוועו כל פנים:
+  ברוך בואכם.
+  ­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­19.2.29
+  
+ 
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+</body>
+   </text>
+</TEI>

@@ -1,0 +1,299 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>חג האביב</title>
+            <author>מיכה יוסף לבנזון</author>
+            <respStmt>
+               <name>Mandel Scholion Hebrew Revival Research Group</name>
+               <resp>Formatting of content from the Ben-Yehuda Project to TEI-XML according to the TEI P5 Guidelines.
+                  Addition of dates, not present in the online version, by Shira Wigderson, Asaf Isser, Adi Cohen, Nitzan Cohen, and Adi Cohen.
+               </resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <authority>Project Ben-Yehuda</authority>
+            <idno>http://benyehuda.org/lebensohn/lebensohn_12.html</idno>
+         </publicationStmt>
+         <sourceDesc xml:lang="Hebrew">
+            <bibl>
+               <date when="1870" notBefore="1870-01-01" notAfter="1870-12-31"/>
+            </bibl>
+            <p>The Ben-Yehuda Project (http://benyehuda.org/). Content provided within the Ben-Yehuda Hackathon at the University of Haifa (THATCamp Haifa, February 2014).</p>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <change>
+            <date>2018-11-01</date>
+            <name>Omer Waldman</name>
+            <note>Correction of previously annotated dates and addition of dates to majority of the works</note>
+         </change>
+         <change>
+            <date>2017-08-09</date>
+            <name>Jerusalem corpus of Emergent Modern Hebrew (JEMH) staff</name>
+            <note>Created the initial version of the content in TEI-XML and added dates (some based on estimation)</note>
+         </change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+
+
+
+
+
+
+חג האביב / מיכה יוסף לבנזון
+
+
+
+
+
+
+
+
+חג האביב
+
+ 
+
+נטו צללי
+ערב, היום יפוח,
+
+כל רחבי העיר
+הצללים בלעו,
+
+ובשפרה
+היובל שמש ישוח –
+
+אך לקצות
+עבים עקבותיו נודעו!
+
+ 
+
+וברלין העיר
+הומיה צולחת,
+
+כי חג לה
+היום, חג פסח, חג אביב!
+
+וכמדה היא
+תלבש גילה ונחת,
+
+ובחוצותיה
+אך צהלה מסביב!
+
+ 
+
+משמים אשב
+ביתי, אנוש על שברי,
+
+על נחלה
+מכתי רוחי נעכרת –
+
+הה, בדמי
+ימי יהיה לבי קברי
+
+ויגון נשמתי
+בו כאש בוערת!
+
+ 
+
+הה, ודמעות
+לא עוד עיני תנהרנה,
+
+וכבר נהרי
+נחלי דמעה נבעו,
+
+לא עוד
+מקרבי אנחות תסערנה
+
+וכבר רב
+אנחות לבי קרעו.
+
+ 
+
+שקט-תהו בי
+ומנוחת הקברות
+
+כיער אחרי
+התחולל בו רוח,
+
+כצי אחרי
+נפץ אל ים הסערות –
+
+אויה! כי כן
+גם לבי בי ינוח!
+
+ 
+
+הנני חי, אך
+עיפה נפשי למות!
+
+חי אני! אם
+נקרא למות חיים...
+
+אם עלם נושא
+כל עקת צלמות
+
+עוד חי יקרא
+תחת השמים!
+
+ 
+
+חי הה עודני,
+כי לגדיל השבר
+
+עוד אהבת
+החיים בנו תנוח.
+
+הוי מה נורא
+הוא לשיש אלי קבר
+
+עת בחיים
+תדבק נפש ורוח.
+
+ 
+
+ארורה
+אהבת-החיים לנצח!
+
+במצוקות כל
+גבר היא הנוראה.
+
+היא תכלא ידי
+בעצמות שית רצח,
+
+ומדוחי
+תקוות-שוא היא נבאה! –
+
+                         
+*
+
+קול צהלת עם
+שם בחוצות יריע,
+
+וכבר אור הגז
+ברחובות זרוח;
+
+אעזבה-נא
+ביתי, אצאה ארגיע,
+
+הה, אולי רגע
+גם עצבי ינוח!
+
+ 
+
+וכבר עלמות
+יפות שם נהרו,
+
+הה, אך גילת
+רנן על כל אפים;
+
+בין מראות הוד
+אלה פני קדרו,
+
+כענן ישכון
+בין כוכבי שמים!
+
+ 
+
+ויפה-פיות
+עלמות עוטות שנים
+
+לשוא עיניהן
+תפקנה אהבים;
+
+הה, חלפה
+חמדת ימי, עת עדנים,
+
+עת ליפי-הוד
+נפשי שרה עגבים!
+
+ 
+
+זכרי... מה
+תזכרי? אם אותי שכחת!
+
+זכרי אך אלה
+– הוי לבי ינוע –!
+
+כי אל אבלי
+את צחקת אף שמחת
+
+– הוי מכאוב זה
+מי עוד ידע ידע! –
+
+ 
+
+וגאוני הקיץ
+אף רוחי התעברה,
+
+לא עוד, הה
+עלמה, כמשורר תרהבי...
+
+נתק
+מוסרותיך חילי אגברה
+
+ולנפשי
+אצוה:
+"אל עוד תאהבי!"
+
+ 
+
+אך אויה! – על
+נפשי אך את מולכת
+
+"אל-אהוב!"
+איך אצו נפש ורוח?
+
+האפקוד על
+דמי: "עמדו מלכת!" –
+
+וללבי:
+"אל תכה! הרף לנוח!" –
+
+ 
+
+איך מרוח
+הומה, מלב קודח
+
+אהבתי העזה
+אקרע קרע?
+
+– קרעו עלה
+מלב שושן פורח,
+
+פניו יחורו –
+אף יגוע גוע –.
+
+ 
+
+אך גאות
+נערה לא אשא אסבלה!
+
+אעזבך נצח! –
+לו אשוב לאדמה! –
+
+לו אף כציץ
+מבלי שמש אבלה
+
+וכגו נדכא
+כי יפרד מנשמה! –
+
+ 
+
+
+
+
+
+ 
+
+
+
+
+
+
+</body>
+   </text>
+</TEI>

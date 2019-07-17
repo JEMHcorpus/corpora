@@ -1,0 +1,210 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>אחת, שתים</title>
+            <author>חיים נחמן ביאליק</author>
+            <respStmt>
+               <name>Mandel Scholion Hebrew Revival Research Group</name>
+               <resp>Formatting of content from the Ben-Yehuda Project to TEI-XML according to the TEI P5 Guidelines.
+                  Addition of dates, not present in the online version, by Shira Wigderson, Asaf Isser, Adi Cohen, Nitzan Cohen, and Adi Cohen.
+               </resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <authority>Project Ben-Yehuda</authority>
+            <idno>http://benyehuda.org/bialik/bia113.html</idno>
+         </publicationStmt>
+         <sourceDesc xml:lang="Hebrew">
+            <bibl>
+               <date when="1891" notBefore="1891-01-01" notAfter="1891-12-31"/>
+            </bibl>
+            <p>The Ben-Yehuda Project (http://benyehuda.org/). Content provided within the Ben-Yehuda Hackathon at the University of Haifa (THATCamp Haifa, February 2014).</p>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <change>
+            <date>2018-11-01</date>
+            <name>Omer Waldman</name>
+            <note>Correction of previously annotated dates and addition of dates to majority of the works</note>
+         </change>
+         <change>
+            <date>2017-08-09</date>
+            <name>Jerusalem corpus of Emergent Modern Hebrew (JEMH) staff</name>
+            <note>Created the initial version of the content in TEI-XML and added dates (some based on estimation)</note>
+         </change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+
+
+
+
+
+
+
+אחת, שתים / חיים נחמן ביאליק
+
+
+
+
+
+
+
+
+
+
+
+
+אחת,
+שתים
+
+ 
+
+אחת,
+שתים,
+שלש,
+ארבע –
+
+הזמין
+אל לך
+אשה –
+בחר-בה!
+
+ 
+
+אל
+תתמהמה,
+אל תאחר,
+
+שמא
+יקדמך
+אחר.
+
+ 
+
+אף
+אנכי
+דבש
+מצאתי –
+
+אך-לא
+בא אל-פי
+ושפתי.
+
+ 
+
+שתים
+היו
+לאלמנה:
+
+אחת
+שחרה
+ואחת
+לבנה.
+
+ 
+
+לא
+עלמות –
+מרגליות,
+
+פרדות
+נאות
+ויפיפיות,
+
+ 
+
+אשרי
+מי שראה
+פניהן –
+
+ואני
+אהבתי
+שתיהן.
+
+ 
+
+אך
+אין מגיד,
+אך אין
+פותר,
+
+מי
+מהן
+אהבתי
+יותר.
+
+ 
+
+עברה
+עת, לא
+אדע כמה,
+
+ואתמהמה,
+ואתמהמה.
+
+ 
+
+פתאם
+בא השד
+וחטפן –
+
+שד
+גדל-בלרית
+ושד
+גדל-שפם.
+
+ 
+
+ואני
+נשארתי,
+גלם,
+
+רוק
+זקן עד
+העולם.
+
+ 
+
+ומכאן
+לכל-הנערים
+
+מוסר
+השכל
+ומישרים:
+
+ 
+
+אחת,
+שתים,
+שלש,
+ארבע –
+
+הזמין
+אל לך
+אשה –
+בחר-בה!
+
+ 
+
+אל
+תתמהמה,
+אל תאחר,
+
+שמא
+יקדמך
+אחר.
+
+
+
+
+
+  
+
+
+</body>
+   </text>
+</TEI>

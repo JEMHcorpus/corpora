@@ -1,0 +1,118 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>ביאליק על עצמו</title>
+            <author>חיים נחמן ביאליק</author>
+            <respStmt>
+               <name>Mandel Scholion Hebrew Revival Research Group</name>
+               <resp>Formatting of content from the Ben-Yehuda Project to TEI-XML according to the TEI P5 Guidelines.
+                  Addition of dates, not present in the online version, by Shira Wigderson, Asaf Isser, Adi Cohen, Nitzan Cohen, and Adi Cohen.
+               </resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <authority>Project Ben-Yehuda</authority>
+            <idno>http://benyehuda.org/bialik/izavon_article_114.html</idno>
+         </publicationStmt>
+         <sourceDesc xml:lang="Hebrew">
+            <bibl>
+               <date when="1923" notBefore="1923-01-01" notAfter="1923-12-31"/>
+            </bibl>
+            <p>The Ben-Yehuda Project (http://benyehuda.org/). Content provided within the Ben-Yehuda Hackathon at the University of Haifa (THATCamp Haifa, February 2014).</p>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <change>
+            <date>2018-11-01</date>
+            <name>Omer Waldman</name>
+            <note>Correction of previously annotated dates and addition of dates to majority of the works</note>
+         </change>
+         <change>
+            <date>2017-08-09</date>
+            <name>Jerusalem corpus of Emergent Modern Hebrew (JEMH) staff</name>
+            <note>Created the initial version of the content in TEI-XML and added dates (some based on estimation)</note>
+         </change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+
+
+
+
+
+
+
+ביאליק על עצמו / ח"נ ביאליק
+
+
+
+
+
+
+
+
+[ביאליק
+על עצמו]
+
+ח"נ ביאליק
+
+
+
+ 
+
+
+
+
+ 
+  
+  נמצאו אנשים, אשר הואילו, מתוך כוונות רצויות
+  ביותר כמובן, להזכיר את יום מלאת לי חמשים שנה במאמרים ובדברי תהלה ובמינוי
+  ועדים וכו' – הכל כנהוג.  אל נא
+  תחשב לא ליהירות מרובה ולא לענוותנות, אם אומר מפורש, כי מעולם לא הייתי שוטה
+  כל כך להאמין בכל הגדולות והגוזמאות אשר ייחסו לי.  אני אחד היהודים סתם, 'יהודי של כל ימות השנה', שקרא ושנה
+  מעט, וכתב מעט מן המעט, ואף זה בדרך ארעי, מבלי שהתיחד לשום מקצוע, – איש כמוני
+  וכל אלה הגדולות! לא ולא! מוטב שאהיה רשע כל ימי לפני המקום ולא אעשה שוטה כזה
+  שעה קלה אחת בעיני עצמי.  הייתי
+  שרוי בצער גדול לוא האמנתי רגע אחד כי אכן דל עמנו כל כך, אם נתן עיניו בי.
+  ובכל זאת אל נא אהיה כמשקר לומר, שהדבר לא גרם
+  לי גם מקצת קורת רוח.  התעוררות
+  זאת עדות היא על הצורך שנולד למשמש בגוף עצמנו כדי להרגיש את בשרו החי בתוך
+  האצבעות מתוך אמירת 'אני'.  בלי
+  ספק כי צורך כזה נולד אצל אדם הראשון בשעה שניטל ממנו לבושו הצפרני, צריך היה
+  למשמש באצבעותיו את גופו ואת בשרו. 
+  הקלפה הצפרנית הקשה שחצצה בין אצבעותיו ובין בשרו החי – היתה בלי ספק לא
+  נעימה ביותר, וכשסרה הקלפה – הרגיש בלי ספק רווחה גדולה.  במקרה פגעה הפעם האצבע בי.  העם, ברצותו לומר, אני, הוא מראה באצבע
+  ופוגע בנקודה אחת, איזו שתהיה, בבשרו החי, ואינו מקפיד אם היא פוגעת בלב או
+  בנקודה אחרת.
+  ...כזה נעשיתי אני המקום היחידי של אני, מחר
+  תפגע האצבע בנקודה שניה – ויעשה אף הוא ל"בן יחיד".  אם כל ישראל הם, כידוע, בני מלכים –
+  מדוע לא יהיו כולם "בנים יחידים"? סוף סוף האומה הישראלית – שהיא
+  משולה באגדותיה לשה, לאריה, לצבי, לשור, ליונה ולצפור, לתפוח, לאגוז ולרמון,
+  לספיר, למרגלית, לצור – סוף דבר כמעט לכל סוגי החי והצומח והדומם – הרי יכולה
+  להמשל גם לצורה גיאומטרית – לכדור למשל, ולומר: מה כדור זה כל מקום שהאצבע פוגעת
+  בה שם הטבור, אף ישראל – ואולי כל אומה – כך.
+  
+ 
+
+
+
+
+ 
+
+
+
+
+
+ 
+
+
+
+
+
+
+</body>
+   </text>
+</TEI>

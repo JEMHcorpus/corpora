@@ -1,0 +1,147 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>עוד נער אלהים</title>
+            <author>דוד פרישמן</author>
+            <respStmt>
+               <name>Mandel Scholion Hebrew Revival Research Group</name>
+               <resp>Formatting of content from the Ben-Yehuda Project to TEI-XML according to the TEI P5 Guidelines.
+                  Addition of dates, not present in the online version, by Shira Wigderson, Asaf Isser, Adi Cohen, Nitzan Cohen, and Adi Cohen.
+               </resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <authority>Project Ben-Yehuda</authority>
+            <idno>http://benyehuda.org/frischmann/frisch_naar_5.html</idno>
+         </publicationStmt>
+         <sourceDesc xml:lang="Hebrew">
+            <bibl>
+               <date when="1907" notBefore="1907-01-01" notAfter="1907-12-31"/>
+            </bibl>
+            <p>The Ben-Yehuda Project (http://benyehuda.org/). Content provided within the Ben-Yehuda Hackathon at the University of Haifa (THATCamp Haifa, February 2014).</p>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <change>
+            <date>2018-11-01</date>
+            <name>Omer Waldman</name>
+            <note>Correction of previously annotated dates and addition of dates to majority of the works</note>
+         </change>
+         <change>
+            <date>2017-08-09</date>
+            <name>Jerusalem corpus of Emergent Modern Hebrew (JEMH) staff</name>
+            <note>Created the initial version of the content in TEI-XML and added dates (some based on estimation)</note>
+         </change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+
+
+
+
+
+
+
+עוד נער אלהים / דוד פרישמן
+
+
+
+
+
+
+
+
+עוד נער
+אלהים...
+
+ 
+
+עוד נער,
+אלהים, היית וצעיר וחסר-נסיונות,
+
+ובחול עוד אז
+שעשעת ובעפרות האדמה,
+
+וצעצע לך
+עשית: בן-אדם עם נשמה
+
+ועם גידים
+ועם עצמות ובמסמרות ובדרבונות.
+
+ 
+
+ועם חלולים
+ועם נקבים. – אך האמן-לי, היוצר!
+
+צעצע רע
+ברת, צעצע מלא-סכנה
+
+עשית מרב
+חפזון ומבהל ובלי כונה.
+
+הישחק
+בשכין ילד? אם בחרמש נער קוצר?
+
+ 
+
+וביחוד זו
+הנשמה, שנפחת באף עפרך,
+
+את-זו לא תבין
+כלל! כי איך-זה כביכול
+
+יכלת ליצור
+כזה לצוות לו לא אכול – 
+
+ואתה לא
+ידעת כי לא ישמע זה לדברך?
+
+ 
+
+כי אכל מן
+הדעת, אכל מטעמים גנובים,
+
+ולא חש כלל
+לפקדתך ולא חש לפחדך פתאם,
+
+כי יתאו גם
+לחיים, זה רעמסס שלך ופיתום – 
+
+עד גם מתוך
+העדן גרשתו וביד שני כרובים.
+
+ 
+
+(שני שוטרים
+הם!) הוי אלי, למותר זה ולחנם!
+
+דע לך: כל-הטועם
+מן הדעת, זה לעולם
+
+כבר ימאס
+בכל-החיים ושאונם והמונם וקולם,
+
+וגם לו
+ישאר בעדן – לו יהיה רק גיהנם.
+
+ 
+
+ 
+
+
+
+
+
+ 
+
+
+
+
+
+
+</body>
+   </text>
+</TEI>

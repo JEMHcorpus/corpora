@@ -1,0 +1,114 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>השתדלות לחידוש "הלבנון" ו"החבצלת"</title>
+            <author>יוסף ריבלין</author>
+            <respStmt>
+               <name>Mandel Scholion Hebrew Revival Research Group</name>
+               <resp>Formatting of content from the Ben-Yehuda Project to TEI-XML according to the TEI P5 Guidelines.
+                  Addition of dates, not present in the online version, by Shira Wigderson, Asaf Isser, Adi Cohen, Nitzan Cohen, and Adi Cohen.
+               </resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <authority>Project Ben-Yehuda</authority>
+            <idno>http://benyehuda.org/rivlin/hishtadlut_lexidush_halevanon.html</idno>
+         </publicationStmt>
+         <sourceDesc xml:lang="Hebrew">
+            <bibl>
+               <date when="1864" notBefore="1864-01-01" notAfter="1864-12-31"/>
+            </bibl>
+            <p>The Ben-Yehuda Project (http://benyehuda.org/). Content provided within the Ben-Yehuda Hackathon at the University of Haifa (THATCamp Haifa, February 2014).</p>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <change>
+            <date>2018-11-01</date>
+            <name>Omer Waldman</name>
+            <note>Correction of previously annotated dates and addition of dates to majority of the works</note>
+         </change>
+         <change>
+            <date>2017-08-09</date>
+            <name>Jerusalem corpus of Emergent Modern Hebrew (JEMH) staff</name>
+            <note>Created the initial version of the content in TEI-XML and added dates (some based on estimation)</note>
+         </change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+
+
+
+
+
+
+
+השתדלות לחידוש "הלבנון" ו"החבצלת" / יוסף ריבלין
+
+
+
+ 
+
+
+
+
+  
+  
+
+
+השתדלות לחידוש "הלבנון" ו"החבצלת"
+
+יוסף ריבלין
+
+
+
+ 
+
+
+
+
+ 
+  
+  ירושלים ת"ו כ' סיון תרכ"ד.
+  הנה בגליון השמונה עשר בתוך דברי שמי בהמגיד
+  נפלו תיבות אשר לא ענה [צ"ל עלה] מלבי היינו אצל הלבנון תיבת "לא
+  יוסיף קום" ואצל החבצלת "ויבש קצירה".  כי מי ינבא לעת יבא? אם אמנם כן הוא לפי הנראה כי האיש יחיאל
+  בריל המליץ בתוך בעלי הלבנון זה יותר מארבעה חדשים שבתו בעיר הבירה
+  קאנסטאנטינאפעל להשיג רשיון מהממשלה לבית הדפוס אשר סוגר על מסגר מטעם הממשלה זה
+  כחצי שנה על חללם את כבוד הממשלה בהלבנון גליון 7.  וזה מקרוב השיג מענה מאת הוויזיר הוא השר היושב ראשונה
+  במלכות טירקייא בקאנסטאטינאפעל בזה"ל: "איך תתערב לבקש רשיון ואתה
+  חללת את כבוד הממשלה הרוממה?" אכן הוא בעצת ובעזרת מגדולי ורבי בני עמינו
+  הגיש עוד הפעם מכתב בקשתו לאמר: "הלא אך בהמ"ע חוללה כבוד הממלכה
+  האדירה ובשגגה ויבטל המכ"הע ויקום הדפוס.  גם הר"ר ישראל ב"ק מדפיס דפה זה כשבועות שתים נסע
+  גם הוא לקאנסטאנטינאפעל להשיג רשיון גם הוא לבית דפוסו אשר סוגר גם הוא בעת
+  הפקודה.  יתן ד' ושיגו שניהם רשיון
+  לבתי דפוסיהם למען יודפסו ספרי קדש בירושלים ויביאו המה טרף לביתם באומנותם.
+                                                                                                                       אדי"ר.
+                                                                                           המגיד,
+  כ"ג בתמוז תרכ"ד.
+  
+ 
+
+
+
+
+ 
+
+
+
+
+
+ 
+
+ 
+
+
+
+
+
+
+</body>
+   </text>
+</TEI>

@@ -1,0 +1,243 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>הולכת את מעמי</title>
+            <author>חיים נחמן ביאליק</author>
+            <respStmt>
+               <name>Mandel Scholion Hebrew Revival Research Group</name>
+               <resp>Formatting of content from the Ben-Yehuda Project to TEI-XML according to the TEI P5 Guidelines.
+                  Addition of dates, not present in the online version, by Shira Wigderson, Asaf Isser, Adi Cohen, Nitzan Cohen, and Adi Cohen.
+               </resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <authority>Project Ben-Yehuda</authority>
+            <idno>http://benyehuda.org/bialik/bia076.html</idno>
+         </publicationStmt>
+         <sourceDesc xml:lang="Hebrew">
+            <bibl>
+               <date when="1907" notBefore="1907-01-01" notAfter="1907-12-31"/>
+            </bibl>
+            <p>The Ben-Yehuda Project (http://benyehuda.org/). Content provided within the Ben-Yehuda Hackathon at the University of Haifa (THATCamp Haifa, February 2014).</p>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <change>
+            <date>2018-11-01</date>
+            <name>Omer Waldman</name>
+            <note>Correction of previously annotated dates and addition of dates to majority of the works</note>
+         </change>
+         <change>
+            <date>2017-08-09</date>
+            <name>Jerusalem corpus of Emergent Modern Hebrew (JEMH) staff</name>
+            <note>Created the initial version of the content in TEI-XML and added dates (some based on estimation)</note>
+         </change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+
+
+
+
+
+
+
+הולכת את מעמי / חיים נחמן ביאליק
+
+
+
+
+
+
+
+
+
+
+
+
+הולכת את
+מעמי
+
+ 
+
+הולכת את
+מעמי  – לכי לשלום
+
+ויהי רצונך
+לבדו נר לנתיבך,
+
+ומצאי
+את-השלוה באשר תהיי.
+
+אני?
+אל-תתני לב – אינני גלמוד:
+
+כל-עוד השמש
+ייף בצאתו ובבאו
+
+וכוכבי-אל
+לא-נלאו עוד מרמז לי –
+
+עוד לא ירדתי
+מכל-נכסי
+
+ומעין
+תנחומותי עוד לא-דלל.
+
+ראי, חסרתי
+אותך – אך עדין
+
+לי נשאר רב:
+לי יש עוד עולם מלא,
+
+היפה כמו
+שהוא בירק אביביו,
+
+בזהב סוף
+קיציו ובלבנונית חרפיו;
+
+ולב עוד לי –
+דביר חזון, קן-החלומות,
+
+וכאבי עצור
+שם, יגון הקדש,
+
+ומלאך טהור
+עמי – דמות דיוקנך,
+
+החופף עוד
+כחסד אל על-ראשי
+
+ולוחש ברכה,
+רותת ומתאפק
+
+כדמעת אם
+חשאית על נר שבת
+
+בדממת
+הקדשה השאננה,
+
+וכאותו כוכב
+חרד שם במרום,
+
+שמציץ עוד
+עלי בעין יפה
+
+ומושיט לי
+בחשך שרביט זהבו.
+
+ 
+
+ואני ידעתי,
+
+עוד יפשטו
+על-פני הארץ כלה
+
+ביריעת
+תכלתם המשבצת זהב
+
+ככושיות השחרות
+– לילי קיץ,
+
+מתוקי לילות,
+קודחים ומחרישים,
+
+מעלפי שחור
+וכלילי הכוכבים,
+
+כל-כוכב
+רמון זהב, רמון זהב;
+
+ורות הרהורי
+חטא ויגעת חמדה
+
+בחיק הלילה
+תרבץ כל-הארץ;
+
+ופתאם תקום
+דממה גדולה, רבה,
+
+ורטט חשק
+יחלף כל-העולם,
+
+וננערו
+כוכבים שפעות שפעות,
+
+ונתכו המה
+ומכתותם ארצה
+
+כנפל שלל
+עלי זהב בשלכת;
+
+וקלויי תאוה
+ואכולי חשק
+
+איש איש
+ברעבו ובצמאו יצא,
+
+יגשש קיר
+כעור, יחבק אבן,
+
+יתחבט ארצה,
+יזחל על-גחונו,
+
+ללקט רסיס
+פז אחד, פרור אחד
+
+ממה
+שהשליך לו מעל כוכבו
+
+ולמצא מלא כף
+אהבה, קרטוב אשר –
+
+בשעה זו
+אם-יתקפוך געגועים,
+
+ונוהה ועיפה
+תתע עינך
+
+ותשוטט חדלת
+תקוה בערפל,
+
+ונפשך תצא
+לאלהים ולאשר –
+
+כמוני שאי
+עיניך השמימה
+
+ולמדי-נא
+מהם את-לבך שלוה:
+
+ראי, כאלה
+וכאלה יאבדו
+
+כוכבים מדי
+לילה לשמים –
+
+והם בעשרם
+עומדים ובשלותם,
+
+ואינם חשים
+כלל באבדתם,
+
+וכמו לא-נגרע
+כלום מכל-זהבם.
+
+ 
+
+האאג, אלול,
+תרס"ז.
+
+
+
+
+
+  
+
+
+</body>
+   </text>
+</TEI>

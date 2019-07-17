@@ -1,0 +1,165 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>לְרֵאשִׁית שְׁנַת תרמ"ה</title>
+            <author>מרדכי צבי מאנה</author>
+            <respStmt>
+               <name>Mandel Scholion Hebrew Revival Research Group</name>
+               <resp>Formatting of content from the Ben-Yehuda Project to TEI-XML according to the TEI P5 Guidelines.
+                  Addition of dates, not present in the online version, by Shira Wigderson, Asaf Isser, Adi Cohen, Nitzan Cohen, and Adi Cohen.
+               </resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <authority>Project Ben-Yehuda</authority>
+            <idno>http://benyehuda.org/maneh/reshit_shnat_tarma.html</idno>
+         </publicationStmt>
+         <sourceDesc xml:lang="Hebrew">
+            <bibl>
+               <date when="1884" notBefore="1884-01-01" notAfter="1884-12-31"/>
+            </bibl>
+            <p>The Ben-Yehuda Project (http://benyehuda.org/). Content provided within the Ben-Yehuda Hackathon at the University of Haifa (THATCamp Haifa, February 2014).</p>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <change>
+            <date>2018-11-01</date>
+            <name>Omer Waldman</name>
+            <note>Correction of previously annotated dates and addition of dates to majority of the works</note>
+         </change>
+         <change>
+            <date>2017-08-09</date>
+            <name>Jerusalem corpus of Emergent Modern Hebrew (JEMH) staff</name>
+            <note>Created the initial version of the content in TEI-XML and added dates (some based on estimation)</note>
+         </change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+
+
+
+
+
+
+
+לראשית שנת תרמ"ה / מרדכי צבי מאנה
+
+
+
+ 
+
+
+
+
+  
+  
+
+
+לראשית שנת
+תרמ"ה / מרדכי צבי מאנה
+
+אחת שאלתי מאת ה' אותה אבקש.
+
+ 
+
+עוד שנה אחת
+לתהמות הנצח,
+
+חיש חלפה
+כרגע ממתים מחלד,
+
+ובלבי ינון
+גם ענן על מצח:
+
+לו נצח
+יכלתי להיות רק ילד!
+
+ 
+
+יום, יום יעבר
+קיץ גם כלה קציר,
+
+אין עוד
+שעשועים על ברכי הטבע,
+
+ולבבי יהום
+כהמות רוח בציר:
+
+לו נצח יפרחו
+שרון, גיא וגבע!
+
+ 
+
+א שנים
+תחלפנה, זקנה קופצת,
+
+כן תשמיד
+כל הדר חרב החרף;
+
+שוא נפשי
+כיונה בכלוב מתרוצצת,
+
+ולחזיונות
+תוגה שוא אפנה ערף.
+
+ 
+
+לא אעצור זרם
+העת ממרוצתו,
+
+ובעלה נבל לא
+אשיב החיים;
+
+תעוף העת!  ישלח חרף קרתו!
+
+ולנעם ילדות
+לא אשא עינים!
+
+ 
+
+רק אחת אבקש:
+לו רק אדעה,
+
+כי עוד שנים
+רבות תעברנה על פני;
+
+אז בימי חיי
+מרגוע אמצאה,
+
+וברצון תמיד
+אפגוש ראשי שני...
+
+ 
+
+אז אשמח
+בחרף, כי אדע נאמנה,
+
+עוד ישוב
+האביב וישובב הרוח;
+
+לכן רק זאת
+אשאל בימי ראש השנה:
+
+לו אשבע רב ימים עד יומי יפוח!
+
+ 
+
+ 
+
+
+
+
+
+ 
+
+
+
+
+
+
+</body>
+   </text>
+</TEI>

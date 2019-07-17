@@ -1,0 +1,163 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>עבר הקיץ</title>
+            <author>חיים נחמן ביאליק</author>
+            <respStmt>
+               <name>Mandel Scholion Hebrew Revival Research Group</name>
+               <resp>Formatting of content from the Ben-Yehuda Project to TEI-XML according to the TEI P5 Guidelines.
+                  Addition of dates, not present in the online version, by Shira Wigderson, Asaf Isser, Adi Cohen, Nitzan Cohen, and Adi Cohen.
+               </resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <authority>Project Ben-Yehuda</authority>
+            <idno>http://benyehuda.org/bialik/ezvon04.html</idno>
+         </publicationStmt>
+         <sourceDesc xml:lang="Hebrew">
+            <bibl>
+               <date when="1901" notBefore="1901-01-01" notAfter="1901-12-31"/>
+            </bibl>
+            <p>The Ben-Yehuda Project (http://benyehuda.org/). Content provided within the Ben-Yehuda Hackathon at the University of Haifa (THATCamp Haifa, February 2014).</p>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <change>
+            <date>2018-11-01</date>
+            <name>Omer Waldman</name>
+            <note>Correction of previously annotated dates and addition of dates to majority of the works</note>
+         </change>
+         <change>
+            <date>2017-08-09</date>
+            <name>Jerusalem corpus of Emergent Modern Hebrew (JEMH) staff</name>
+            <note>Created the initial version of the content in TEI-XML and added dates (some based on estimation)</note>
+         </change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+
+
+
+
+
+
+
+עבר הקיץ / חיים נחמן ביאליק
+
+
+
+
+
+
+
+
+ד
+
+עבר הקיץ...
+
+ 
+
+עבר הקיץ.
+כבר כלה האכר
+
+את כל עבודתו
+בשדה, בככר.
+
+כבר השליך
+אל פנה חרמשו, מגלו,
+
+ובגרנו הוא
+ימד שלומת עמלו
+
+ובגאוה הוא
+נושא עין מלאה עליצות
+
+אל ראש
+הערמה, פרי עמל וחריצות.
+
+גם נחנו
+נאסף היום לבן-גרננו
+
+את תבואת
+שדנו, את פרי עמלנו,
+
+ולעיני
+הורינו השערים נמדה,
+
+מצאנו בקיץ
+ההוא בעבודה.
+
+יראו: גם אנו
+חרשנו, זרענו,
+
+וברנה
+קצרנו ואלמות נשאנו,
+
+אחרי
+שעשועים וריק  לא
+הלכנו,
+
+אף כי ילדים אנחנו.
+
+ 
+
+מבקר  עד ערב גבנו כפפנו,
+
+את תורת אל חי
+ואמרתו שאפנו.
+
+מבעד החלון
+השמש הציצה
+
+ותקרא אותנו
+החוצה, החוצה,
+
+הצפור היפה
+צפצפה אלינו:
+
+אלי, ילדי  חמד, כמוני רננו!
+
+גם עצי הפרי
+הירוקים, המאירים,
+
+אל צלם
+קראונו: לכו רקדו כשעירים!
+
+ואנחנו
+אמצנו לבנו ונשב
+
+ולדברי
+מורנו הקשבנו רב קשב,
+
+לא נפתה
+לבנו אחרי הצפרים
+
+היפים,
+החפשים, השמחים ושרים,
+
+לא פתו אותנו
+גם עצי המגדים – 
+
+אף כי אנחנו
+ילדים.
+
+ 
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+</body>
+   </text>
+</TEI>

@@ -1,0 +1,217 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>אני</title>
+            <author>ישראל חצקביץ'</author>
+            <respStmt>
+               <name>Mandel Scholion Hebrew Revival Research Group</name>
+               <resp>Formatting of content from the Ben-Yehuda Project to TEI-XML according to the TEI P5 Guidelines.
+                  Addition of dates, not present in the online version, by Shira Wigderson, Asaf Isser, Adi Cohen, Nitzan Cohen, and Adi Cohen.
+               </resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <authority>Project Ben-Yehuda</authority>
+            <idno>http://benyehuda.org/xatskevich/shira01.html</idno>
+         </publicationStmt>
+         <sourceDesc xml:lang="Hebrew">
+            <bibl>
+               <date when="1934" notBefore="1934-01-01" notAfter="1934-12-31"/>
+            </bibl>
+            <p>The Ben-Yehuda Project (http://benyehuda.org/). Content provided within the Ben-Yehuda Hackathon at the University of Haifa (THATCamp Haifa, February 2014).</p>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <change>
+            <date>2018-11-01</date>
+            <name>Omer Waldman</name>
+            <note>Correction of previously annotated dates and addition of dates to majority of the works</note>
+         </change>
+         <change>
+            <date>2017-08-09</date>
+            <name>Jerusalem corpus of Emergent Modern Hebrew (JEMH) staff</name>
+            <note>Created the initial version of the content in TEI-XML and added dates (some based on estimation)</note>
+         </change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+
+
+
+
+
+
+
+אני – אלון /
+ישראל חצקביץ'
+(י. אדם)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+אני
+– אלון / ישראל
+חצקביץ' (י. אדם)
+
+למקוננים
+
+ 
+
+אני
+אלון
+משרש
+במולדת
+
+ודאגה
+אחת לי –
+הכות
+שרשים.
+
+מעל
+לראשי
+השמש
+יוקדת
+
+ושלוחותי
+מבקיעות
+טרשים.
+
+ 
+
+אני
+אלון
+משרש
+במולדת
+
+ודאגה
+אחת לי –
+הרבות
+זלזלים.
+
+בתכלת
+רקיע
+צמרתי
+טובלת
+
+וגם
+קרני אור
+מפזזות
+בעלים - -
+
+אני
+אלון
+משרש
+במולדת
+...
+
+ 
+
+אינני
+מתחנן,
+גם לא
+תובע,
+
+וככה
+חי לי
+וגדל.
+
+לכל
+השדות
+יונקים
+שולח
+
+ואת
+דרנו
+יגיש
+האל.
+
+ 
+
+סופה
+כי תבוא,
+סערה,
+
+אקבלנה
+– אף
+אשתוחח.
+
+אני
+יודע: אם
+את גזעי
+תפלח –
+
+גם
+את זרעי
+היא
+תזרע.
+
+ 
+
+אני
+יודע:
+תשקט
+הסערה,
+תחלוף,
+
+גזעי
+הגדוע
+עדת
+נצרים
+תאפוף,
+
+תשתה
+בצמא את
+קרני
+החמה
+הלוהטת
+
+ותינק
+מלמטה
+לשד
+שרשי ברטט
+- -
+
+ 
+
+חוזר
+הגלגל
+בלי סוף ...
+
+ואין
+קצה וסוף
+
+לאלון
+המשרש
+במולדת.
+
+ 
+
+1934
+
+
+
+
+
+ 
+
+
+
+
+
+
+</body>
+   </text>
+</TEI>

@@ -1,0 +1,201 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>תלונת המשורר</title>
+            <author>מנחם מנדל דוליצקי</author>
+            <respStmt>
+               <name>Mandel Scholion Hebrew Revival Research Group</name>
+               <resp>Formatting of content from the Ben-Yehuda Project to TEI-XML according to the TEI P5 Guidelines.
+                  Addition of dates, not present in the online version, by Shira Wigderson, Asaf Isser, Adi Cohen, Nitzan Cohen, and Adi Cohen.
+               </resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <authority>Project Ben-Yehuda</authority>
+            <idno>http://benyehuda.org/dolitsky/dolizki11.html</idno>
+         </publicationStmt>
+         <sourceDesc xml:lang="Hebrew">
+            <bibl>
+               <date when="1877" notBefore="1877-01-01" notAfter="1877-12-31"/>
+            </bibl>
+            <p>The Ben-Yehuda Project (http://benyehuda.org/). Content provided within the Ben-Yehuda Hackathon at the University of Haifa (THATCamp Haifa, February 2014).</p>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <change>
+            <date>2018-11-01</date>
+            <name>Omer Waldman</name>
+            <note>Correction of previously annotated dates and addition of dates to majority of the works</note>
+         </change>
+         <change>
+            <date>2017-08-09</date>
+            <name>Jerusalem corpus of Emergent Modern Hebrew (JEMH) staff</name>
+            <note>Created the initial version of the content in TEI-XML and added dates (some based on estimation)</note>
+         </change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+
+
+
+
+
+
+
+תלונת המשורר / מנחם מנדל דוליצקי
+
+
+
+ 
+
+
+
+
+  
+  
+
+
+תלנת המשורר / מנחם מנדל דוליצקי
+
+ 
+
+דומם כמות וכציון
+על קבר 
+
+בחדרי הצר
+ישבתי בעצבת, 
+
+לבי בי
+נשבר שבר על שבר, 
+
+לראות את
+עניי המר לי ממות. 
+
+מה אכל? מה
+אשת? בדאגה קראתי, 
+
+המיתני נא
+אלי, ואל אראה ברעתי!
+
+ 
+
+עוד יומי
+אקלל מיגון ודאבה, 
+
+עוד אקוץ
+בחיי, אבחר בשחת, 
+
+פתאם בת שירי אלי התגנבה 
+
+וקסת הספרים
+אלצתני לקחת; 
+
+אז שדוד נפלתי
+בזרעות שירתי, 
+
+מה מאשר
+הייתי, מה שפרה נחלתי!
+
+ 
+
+שרתי עם אראלם, עם אלפי שנאנים 
+
+וכאחד מהמה בעיני הייתי; 
+
+מערגות הבשם
+קטפתי ששנים 
+
+וחרוזים על
+שירי אתם שויתי, 
+
+מה אכל, מה שתה
+למאשר כמוני? 
+
+קראתי בחמי ובגבה
+וגאון, 
+
+הבמלאך אל עליון תשלט יד עני, 
+
+לענות את
+נפשו ברעב וצמאון?! 
+
+שכחתי
+מחסורי והוא עזבני,
+
+בת השיר לי
+ולבת שירי אני...
+
+              *
+
+והנה בת שירי
+פתאם עברה, 
+
+דלל המעין,
+עין המחשבת; 
+
+אז דאגת מחסורי
+לשוב נמהרה, 
+
+אין ששון, אין
+ענג, רק רוח עצבת..
+
+ 
+
+לא מלאך, לא
+שרף ולא בן שמים, 
+
+רק בשר אנכי
+קשי יומי הראני; 
+
+לי טחנות בפה,
+בבטן מעים, 
+
+גם שפקן תדרשנה מאדונן העני… 
+
+אויה, קראתי,
+מה אמלה לבתי 
+
+הן חלם בהקיץ
+בתבל הנני; 
+
+יתרוני
+חסרוני שירתי הותי, 
+
+כי תרמית עינים תמיד תראני.
+
+ 
+
+אך לו חסרתיה, מה מאשר הייתי! 
+
+בשער השמים
+לא הלכת לשוח, 
+
+מחסורי בקשתי
+ובשלוה חייתי-  
+
+אך עתה אני
+עני ורכב על רוח...
+
+                                    
+
+ביאליקסטאק, בחדש שבט, תרל"ח
+
+ 
+
+
+
+
+
+ 
+
+
+
+
+
+
+</body>
+   </text>
+</TEI>

@@ -1,0 +1,166 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>זאת נחמתי בעניי</title>
+            <author>מרדכי צבי מאנה</author>
+            <respStmt>
+               <name>Mandel Scholion Hebrew Revival Research Group</name>
+               <resp>Formatting of content from the Ben-Yehuda Project to TEI-XML according to the TEI P5 Guidelines.
+                  Addition of dates, not present in the online version, by Shira Wigderson, Asaf Isser, Adi Cohen, Nitzan Cohen, and Adi Cohen.
+               </resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <authority>Project Ben-Yehuda</authority>
+            <idno>http://benyehuda.org/maneh/009.html</idno>
+         </publicationStmt>
+         <sourceDesc xml:lang="Hebrew">
+            <bibl>
+               <date when="1880" notBefore="1880-01-01" notAfter="1880-12-31"/>
+            </bibl>
+            <p>The Ben-Yehuda Project (http://benyehuda.org/). Content provided within the Ben-Yehuda Hackathon at the University of Haifa (THATCamp Haifa, February 2014).</p>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <change>
+            <date>2018-11-01</date>
+            <name>Omer Waldman</name>
+            <note>Correction of previously annotated dates and addition of dates to majority of the works</note>
+         </change>
+         <change>
+            <date>2017-08-09</date>
+            <name>Jerusalem corpus of Emergent Modern Hebrew (JEMH) staff</name>
+            <note>Created the initial version of the content in TEI-XML and added dates (some based on estimation)</note>
+         </change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+
+
+
+
+
+
+
+זאת נחמתי בעניי / מרדכי צבי מאנה
+
+
+
+
+
+
+
+
+"זאת נחמתי בעניי"
+
+מרדכי
+צבי מאנה 
+
+ 
+
+1.
+
+לולא צפרי זמרה
+נגן ייטיבו
+
+בתרועת הידד לי שירים יביאו;
+
+שושני ניחוח
+נפשי ישיבו,
+
+ובשלל כל צבע נגדי יופיעו.
+
+ 
+
+2.
+
+לולא כוכבי זהר
+עיני שמים,
+
+אפלת ליל חיש מני יסירו;
+
+אז נפשי לא כלתה
+לראות בחיים,
+
+וכבר זיקי תקוה בי לא האירו.
+
+ 
+
+3.
+
+אך צפור-הזמיר
+שם שם על ענף,
+
+ישפוך בלבבי ממתקי שירתו;
+
+זמרת יה אקשיב
+מפי בעל כנף,
+
+אז ישכח לבי חיש פצעו, תוגתו.
+
+ 
+
+4.
+
+אך שושנה יפה,
+פה על חוף פלג,
+
+תפתח לי כוסה גם תפיץ ניחוח;
+
+פה זיו חכלילי,
+שם לבנת השלג,
+
+ירהיבו עיני עד תשמח שמח.
+
+ 
+
+5.
+
+אך כוכבי נשף
+ממרום יופיעו,
+
+הן קסם זיו נגהם אלי יושיטו;
+
+ובעמקי מרגוע
+לבי ישקיעו,
+
+גם עצבי, גם זעפי הם הם ישקיטו.
+
+ 
+
+6.
+
+הם הם ישקיטו
+כל עצב, כל תוגה,
+
+הם הם ימתיקו לי רעל החיים;            
+
+אך בם תתענג
+כל נפש ענגה,
+
+אך בם אתעלס פה תחת שמים!
+
+ 
+
+אב, תר"ם, עיר
+מולדתי.
+
+ 
+
+
+
+
+
+ 
+
+
+
+
+
+
+</body>
+   </text>
+</TEI>

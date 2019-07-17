@@ -1,0 +1,150 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>שיר גולה</title>
+            <author>מנחם מנדל דוליצקי</author>
+            <respStmt>
+               <name>Mandel Scholion Hebrew Revival Research Group</name>
+               <resp>Formatting of content from the Ben-Yehuda Project to TEI-XML according to the TEI P5 Guidelines.
+                  Addition of dates, not present in the online version, by Shira Wigderson, Asaf Isser, Adi Cohen, Nitzan Cohen, and Adi Cohen.
+               </resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <authority>Project Ben-Yehuda</authority>
+            <idno>http://benyehuda.org/dolitsky/dolizki16.html</idno>
+         </publicationStmt>
+         <sourceDesc xml:lang="Hebrew">
+            <bibl>
+               <date when="1895" notBefore="1895-01-01" notAfter="1895-12-31"/>
+            </bibl>
+            <p>The Ben-Yehuda Project (http://benyehuda.org/). Content provided within the Ben-Yehuda Hackathon at the University of Haifa (THATCamp Haifa, February 2014).</p>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <change>
+            <date>2018-11-01</date>
+            <name>Omer Waldman</name>
+            <note>Correction of previously annotated dates and addition of dates to majority of the works</note>
+         </change>
+         <change>
+            <date>2017-08-09</date>
+            <name>Jerusalem corpus of Emergent Modern Hebrew (JEMH) staff</name>
+            <note>Created the initial version of the content in TEI-XML and added dates (some based on estimation)</note>
+         </change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+
+
+
+
+
+
+
+שיר גולה / מנחם מנדל דוליצקי
+
+
+
+ 
+
+
+
+
+  
+  
+
+
+שיר  גולה / מנחם מנדל דוליצקי
+
+ 
+
+קח מקלך,
+יהודי עשוק, 
+
+מקל נודך כשנות אלפים, 
+
+קח ילקוטך,
+שים בו לחם, 
+
+מלא אמלל חמתך
+מים.  
+
+ 
+
+חגר מתניך, חגר בכח, 
+
+תקע באזור
+קצות שמלתך, 
+
+שים בם טפך –
+יהודים קטנים, 
+
+ועל שתי
+כתפיך עמס רעיתך.
+
+ 
+
+כף גבך,
+נודה, נודה, 
+
+לך בגולה,
+חמת אל נתכת... 
+
+לך אל תעמד –
+שם מאחריך 
+
+חרב איב מתהפכת!..
+
+ 
+
+מה קצרה העת!
+העזב בלי נשק, 
+
+כל אח ורע,
+כל מחמד עין!?.. 
+
+לך! שריקות
+נחש תשמע אזנך:
+
+נוסה קין,
+קין, קין!!!
+
+ 
+
+ומעל לראשך
+כנפי הפרס 
+
+עם קול השריקות
+
+
+לך משיקות: 
+
+נוסה קין,
+קין, קין!!! 
+
+אך הד שמי
+יה יענה אחרת: 
+
+מנוסה אין,
+אין. אין!!!..
+
+ 
+
+
+
+
+
+ 
+
+
+
+
+
+
+</body>
+   </text>
+</TEI>

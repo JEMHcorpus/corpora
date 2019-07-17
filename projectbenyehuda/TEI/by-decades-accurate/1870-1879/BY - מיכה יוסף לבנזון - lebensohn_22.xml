@@ -1,0 +1,201 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>אבל יחיד</title>
+            <author>מיכה יוסף לבנזון</author>
+            <respStmt>
+               <name>Mandel Scholion Hebrew Revival Research Group</name>
+               <resp>Formatting of content from the Ben-Yehuda Project to TEI-XML according to the TEI P5 Guidelines.
+                  Addition of dates, not present in the online version, by Shira Wigderson, Asaf Isser, Adi Cohen, Nitzan Cohen, and Adi Cohen.
+               </resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <authority>Project Ben-Yehuda</authority>
+            <idno>http://benyehuda.org/lebensohn/lebensohn_22.html</idno>
+         </publicationStmt>
+         <sourceDesc xml:lang="Hebrew">
+            <bibl>
+               <date when="1870" notBefore="1870-01-01" notAfter="1870-12-31"/>
+            </bibl>
+            <p>The Ben-Yehuda Project (http://benyehuda.org/). Content provided within the Ben-Yehuda Hackathon at the University of Haifa (THATCamp Haifa, February 2014).</p>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <change>
+            <date>2018-11-01</date>
+            <name>Omer Waldman</name>
+            <note>Correction of previously annotated dates and addition of dates to majority of the works</note>
+         </change>
+         <change>
+            <date>2017-08-09</date>
+            <name>Jerusalem corpus of Emergent Modern Hebrew (JEMH) staff</name>
+            <note>Created the initial version of the content in TEI-XML and added dates (some based on estimation)</note>
+         </change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+
+
+
+
+
+
+אבל יחיד / מיכה יוסף לבנזון
+
+
+
+
+
+
+
+
+אבל יחיד
+
+ 
+
+מי היא המבכה
+שם, תספוק כפים
+
+ומתופפת על
+לב – תגז השער,
+
+היא תוביל
+לקברות היחיד נער 
+
+יפה אף נעים
+מכוכב שמים!
+
+ 
+
+בין אבני
+הבור, בין רגבי אדמה,
+
+עוד ירגז
+הנער אין לו מנוח,
+
+כי אמו עוד תיליל
+עוד מר צרח
+
+עוד תשמע קול
+בכיה, קול הי ברמה!
+
+ 
+
+ובכיתה כי
+יזין מבור תחתיה
+
+הוא יזנח את
+קברו עפר גם רמה,
+
+יריד יבך
+תמרורים אף ייליל עמה,
+
+יתע באפלות,
+על קברות השאיה!
+
+ 
+
+עד תפז
+השמש על ראשי הרים
+
+כוכבי הליל
+ינוסו יחורו –
+
+אז יבשו מי
+עיניו, לא עוד נגרו
+
+ובעצב הדמי
+אז ירד לקברים! –
+
+ 
+
+אך היא עוד
+בוכיה בנהי עצבת
+
+ושנתה עוד
+יגזול אבל הדאבון,
+
+ובנה כן לא
+שלו בנוה רקבון
+
+עוד יקיץ
+לילה, לא יישן המות!
+
+ 
+
+פתע לפני
+אמו עמד הרוח:
+
+"אל-נא, הה
+אמי! אל תרדי בבכי!
+
+ותני פוגת
+ומחי דמעה מלחי
+
+ובקברי שלום
+גם אני אנוח!
+
+ 
+
+אז לא אנוד
+לילה, לא אבך אהימה,
+
+כי קול
+אנקתך יעלני מקבר –
+
+ויטלטלני
+הלום טלטלה גבר –
+
+מנעי קולך
+ופעמי לא ארימה!"
+
+ 
+
+"הוי בר
+בטני! לו לילות גם ימים
+
+אתך הייתי
+תוך קבר אדמה..."
+
+כה ענתה האם –
+ופתע נרדמה
+
+ותישן גם
+היא תרדמת עולמים!
+
+ 
+
+עתה שלה
+הנער וינוח –
+
+ובאזנו קול
+בוכים אל עוד יריע!
+
+הן עמו גם
+אמו בבור תרגיע –
+
+לכן לילה לא
+עוד יתע הרוח! 
+
+ 
+
+ 
+
+
+
+
+
+ 
+
+
+
+
+
+
+</body>
+   </text>
+</TEI>

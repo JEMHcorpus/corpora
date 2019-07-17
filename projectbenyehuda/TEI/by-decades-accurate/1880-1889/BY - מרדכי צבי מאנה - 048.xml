@@ -1,0 +1,176 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>בדד במעוני</title>
+            <author>מרדכי צבי מאנה</author>
+            <respStmt>
+               <name>Mandel Scholion Hebrew Revival Research Group</name>
+               <resp>Formatting of content from the Ben-Yehuda Project to TEI-XML according to the TEI P5 Guidelines.
+                  Addition of dates, not present in the online version, by Shira Wigderson, Asaf Isser, Adi Cohen, Nitzan Cohen, and Adi Cohen.
+               </resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <authority>Project Ben-Yehuda</authority>
+            <idno>http://benyehuda.org/maneh/048.html</idno>
+         </publicationStmt>
+         <sourceDesc xml:lang="Hebrew">
+            <bibl>
+               <date when="1883" notBefore="1883-01-01" notAfter="1883-12-31"/>
+            </bibl>
+            <p>The Ben-Yehuda Project (http://benyehuda.org/). Content provided within the Ben-Yehuda Hackathon at the University of Haifa (THATCamp Haifa, February 2014).</p>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <change>
+            <date>2018-11-01</date>
+            <name>Omer Waldman</name>
+            <note>Correction of previously annotated dates and addition of dates to majority of the works</note>
+         </change>
+         <change>
+            <date>2017-08-09</date>
+            <name>Jerusalem corpus of Emergent Modern Hebrew (JEMH) staff</name>
+            <note>Created the initial version of the content in TEI-XML and added dates (some based on estimation)</note>
+         </change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+
+
+
+
+
+
+
+בדד במעוני / מרדכי צבי מאנה
+
+
+
+ 
+
+
+
+
+  
+  
+
+
+בדד במעוני /
+מרדכי צבי מאנה
+
+ 
+
+שמים וארץ לוטים בערפל,
+
+שלג וכפור כסו גם רום, גם שפל,
+
+            ופני
+כל היקום ישאו תו המות;
+
+חשכת ליל חרף פרוש על אדמה,
+
+כבעמק הרפאים תשלט הדממה,
+
+            רק
+הסער יהם במרי עצבת.
+
+ 
+
+בדד במעוני הרחק משאון קרת,
+
+לבי בי דוי גם רוחי נעכרת,
+
+            מכאב
+השעול המפרק עצבים;
+
+הה ראשי ראשי, להבת תאכלנו!
+
+גוי מסביב רעד קר יאחזנו,
+
+            דם
+עורקי כברקים רצים גם שבים.
+
+ 
+
+בדד במעוני מבלי אח ורע,
+
+מבלי לב רגש מכאובי יודע,
+
+            אתאפק,
+אבליגה זעפי לשכח;
+
+ישבתי, פתחתי ספר טוב-טעם,
+
+א נשמת פי תפרץ בשאון קול רעם,
+
+            ויצורי
+יזועו מבלי מנוח...
+
+ 
+
+זנחתי ספרי בחמת לב ורוח,
+
+נגשתי אל ערשי לשכב לנוח,
+
+               על
+עפעפי עיני ירדה התנומה;
+
+א פתאם השעול נתן קולהו,
+
+לבי התעורר מעצמת מדוהו...
+
+            ובחדרי
+כליותי גדלה המהומה...
+
+ 
+
+ואיקץ משנתי, פקחתי עיני,
+
+ואביט מסביב – בדד הנני...
+
+            בדד
+במעוני כערער בציה!...
+
+מה אבכה, אתאונן, אם אין שומע?
+
+האקרא לעץ אב... ולאבן רע?
+
+            ואדום!
+גם סביב שכנה דומיה...
+
+ 
+
+וחצי הליל כמעט אז הגיע,
+
+וערפל כבד על ארץ הציע,
+
+            גם
+סערות שלג כחלילים יהמיו...
+
+– – – – – – – –  
+
+– – – – – – – –  
+
+                   (לא
+נגמר)
+
+                                   כסלו,
+תרמ"ד. פ"ב.
+
+
+
+
+
+ 
+
+
+
+
+
+
+</body>
+   </text>
+</TEI>

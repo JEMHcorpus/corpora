@@ -1,0 +1,145 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>שיר המנחה</title>
+            <author>יהודה ליב גורדון</author>
+            <respStmt>
+               <name>Mandel Scholion Hebrew Revival Research Group</name>
+               <resp>Formatting of content from the Ben-Yehuda Project to TEI-XML according to the TEI P5 Guidelines.
+                  Addition of dates, not present in the online version, by Shira Wigderson, Asaf Isser, Adi Cohen, Nitzan Cohen, and Adi Cohen.
+               </resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <authority>Project Ben-Yehuda</authority>
+            <idno>http://benyehuda.org/yalag/Ylg263.html</idno>
+         </publicationStmt>
+         <sourceDesc xml:lang="Hebrew">
+            <bibl>
+               <date when="1858" notBefore="1858-01-01" notAfter="1858-12-31"/>
+            </bibl>
+            <p>The Ben-Yehuda Project (http://benyehuda.org/). Content provided within the Ben-Yehuda Hackathon at the University of Haifa (THATCamp Haifa, February 2014).</p>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <change>
+            <date>2018-11-01</date>
+            <name>Omer Waldman</name>
+            <note>Correction of previously annotated dates and addition of dates to majority of the works</note>
+         </change>
+         <change>
+            <date>2017-08-09</date>
+            <name>Jerusalem corpus of Emergent Modern Hebrew (JEMH) staff</name>
+            <note>Created the initial version of the content in TEI-XML and added dates (some based on estimation)</note>
+         </change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+
+
+
+
+
+
+שיר המנחה / יהודה ליב גורדון
+
+
+
+
+
+
+
+
+שיר המנחה לפ"ק
+
+לכבוד הגביר המהולל המשכיל והמשורר המפואר כר' זה שמו
+המפורסם:
+
+אליעזר האלברשטאם
+
+(בשלחי לו את ספרי אדו"ם[1])
+
+ 
+
+יחש, עשר וגדלה לך לעזר,
+
+החכמה גם היא על ראשך לנזר
+
+ובשמן תורק כן שמך אליעזר
+
+נשמע לכל הגליל (לפ"ק).
+
+ 
+
+דעה הרבית, ענוה לא
+חסרת,
+
+לכן יודעיך בדבריך
+הוקרת,
+
+בנעימות שיריך למו עת שרת
+
+ידם תף וחליל (לפ"ק).
+
+ 
+
+אוחיל על כן, כי עת למאור פניך
+
+שורותי יצהירו, אז חסריך
+
+גם אותי ישמיעו הוד
+אמריך
+
+צרופים המה בעליל (לפ"ק).
+
+ 
+
+ריח ניחח יביאו לך מקצה
+
+דורשיך כלם, זה פדר, זה עצה,
+
+אנא גם ספר דל זה לך ירצה
+
+למנחת כליל (לפ"ק).
+
+ 
+
+ מידי המביאו אליך בלב תמים, לאות כבוד
+ואהבת עולמים
+
+(תרי"ח).
+
+ 
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+[1]  הכוונה
+לשיר העלילה "אהבת דוד ומיכל" פרי עטו של יל"ג. [אסף ברטוב]
+
+
+
+
+
+
+
+
+</body>
+   </text>
+</TEI>

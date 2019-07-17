@@ -1,0 +1,164 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>הילק והנמלה</title>
+            <author>יהודה ליב גורדון</author>
+            <respStmt>
+               <name>Mandel Scholion Hebrew Revival Research Group</name>
+               <resp>Formatting of content from the Ben-Yehuda Project to TEI-XML according to the TEI P5 Guidelines.
+                  Addition of dates, not present in the online version, by Shira Wigderson, Asaf Isser, Adi Cohen, Nitzan Cohen, and Adi Cohen.
+               </resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <authority>Project Ben-Yehuda</authority>
+            <idno>http://benyehuda.org/yalag/Ylg130.html</idno>
+         </publicationStmt>
+         <sourceDesc xml:lang="Hebrew">
+            <bibl>
+               <date when="1859" notBefore="1859-01-01" notAfter="1859-12-31"/>
+            </bibl>
+            <p>The Ben-Yehuda Project (http://benyehuda.org/). Content provided within the Ben-Yehuda Hackathon at the University of Haifa (THATCamp Haifa, February 2014).</p>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <change>
+            <date>2018-11-01</date>
+            <name>Omer Waldman</name>
+            <note>Correction of previously annotated dates and addition of dates to majority of the works</note>
+         </change>
+         <change>
+            <date>2017-08-09</date>
+            <name>Jerusalem corpus of Emergent Modern Hebrew (JEMH) staff</name>
+            <note>Created the initial version of the content in TEI-XML and added dates (some based on estimation)</note>
+         </change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+
+
+
+
+
+
+הילק והנמלה
+
+
+
+
+
+
+
+
+הילק
+והנמלה
+
+ 
+
+עבר קציר
+כלה קיץ, –
+
+הילק טמן יד
+בצלחת,
+
+וישורר
+ויזמר וירוה נחת
+
+ולפעל
+בשדה לא הטה שכם
+
+ופתאם ראה
+כי בנה חיץ
+
+כי טח תפל
+
+על קיר נפל!
+
+כי בא הסתיו,
+הגיע החרף,
+
+ובחריו אין
+טרף
+
+ובביתו לחם.
+
+וילך מר
+ביתה הנמלה
+
+המכינה
+בקיץ מאכלה.
+
+ויחנן קולו
+ויאמר הילק:
+
+„הבי, אחותי, לי נחלה וחלק
+
+במגורת
+הדגן אשר אגרת;
+
+נהליני
+בלחם מאשר צברת
+
+עד עבר הסתיו
+וימי החשך,
+
+ובבוא האביב
+עת נעמה
+
+אז, חי נפשי,
+לך אשלמה
+
+נשיך זה עם
+מרבית ונשך,
+
+נשך כסף,
+נשך אכל”.
+
+אולם הנמלה
+
+טובת-השכל
+
+פי הילק
+שאלה:
+
+„הגידה לי, אחי, איפה היית
+
+בימי הקיץ?
+ומה אז עשית?”
+
+– בימי
+הזמיר, אז התענגתי,
+
+כל היום
+שרתי, בדשא שחקתי,
+
+לא זכרתי
+הסתיו וימי החרף! – 
+
+„אם בקיץ שרת לא יגעת,
+
+במחול המשחקים
+צא נא עתה!” –
+
+ענתה הנמלה
+ותפן לו ערף.
+
+ 
+
+
+
+
+
+ 
+
+
+
+
+
+
+</body>
+   </text>
+</TEI>

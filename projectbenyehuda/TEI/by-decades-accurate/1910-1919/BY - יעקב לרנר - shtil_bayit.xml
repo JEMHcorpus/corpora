@@ -1,0 +1,160 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>שתיל-בית</title>
+            <author>יעקב לרנר</author>
+            <respStmt>
+               <name>Mandel Scholion Hebrew Revival Research Group</name>
+               <resp>Formatting of content from the Ben-Yehuda Project to TEI-XML according to the TEI P5 Guidelines.
+                  Addition of dates, not present in the online version, by Shira Wigderson, Asaf Isser, Adi Cohen, Nitzan Cohen, and Adi Cohen.
+               </resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <authority>Project Ben-Yehuda</authority>
+            <idno>http://benyehuda.org/lerner/shtil_bayit.html</idno>
+         </publicationStmt>
+         <sourceDesc xml:lang="Hebrew">
+            <bibl>
+               <date when="1913" notBefore="1913-01-01" notAfter="1913-12-31"/>
+            </bibl>
+            <p>The Ben-Yehuda Project (http://benyehuda.org/). Content provided within the Ben-Yehuda Hackathon at the University of Haifa (THATCamp Haifa, February 2014).</p>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <change>
+            <date>2018-11-01</date>
+            <name>Omer Waldman</name>
+            <note>Correction of previously annotated dates and addition of dates to majority of the works</note>
+         </change>
+         <change>
+            <date>2017-08-09</date>
+            <name>Jerusalem corpus of Emergent Modern Hebrew (JEMH) staff</name>
+            <note>Created the initial version of the content in TEI-XML and added dates (some based on estimation)</note>
+         </change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+
+
+
+
+
+
+
+שתיל-בית / יעקב לרנר
+
+
+
+
+
+
+
+
+שתיל – בית
+
+ 
+
+כבר יועם על כתלי
+זהב המטבע
+
+שזרקה לי חמה
+עם שקיעה...
+
+עיף עם ערב שתיל-ביתי
+ויהרהר –
+
+מעטף בצלו
+דומיה:
+
+ 
+
+...דרור-עולם...מרחביה...הררים...עמקים
+–
+
+וחלומי אך אדמת
+העציץ!
+
+ישגשג וידם
+כל חוסה בשחקים – 
+
+אנכי לא אבל,
+לא אציץ!
+
+ 
+
+לו חרול, לו חוח
+הייתי... לפעמים
+
+גם למו ינגב
+שחוק שחר...
+
+הה! הכלים השמש
+את יומי בימים:
+
+גם מותי גם חיי
+לא זכר!
+
+ 
+
+שתלתני יד-אנוש
+בהיכל דמדומים
+
+ותחנט לנצח
+את לבי...
+
+איך אפרח במקום
+אין צהלת-עלומים?
+
+איך אבל – ועודי
+באבי?
+
+ 
+
+נולד לי פרח –  לא נשקו לו זיזים:
+
+עודנו ציץ-בסר
+– ונשר...
+
+טאטאה השפחה
+לאשפות הביבים
+
+את פגרו היחידי
+– ותשר!...
+
+ 
+
+כבר נמח מכתלי
+זהב שמש שוקעה –
+
+הפנה בחדרי
+נעצבה...
+
+רחמה את שתילי
+היתום תולעה:
+
+הכתהו בסתר  – וגוע...
+
+ 
+
+תרע"ג
+
+ 
+
+
+
+
+
+ 
+
+
+
+
+
+
+</body>
+   </text>
+</TEI>

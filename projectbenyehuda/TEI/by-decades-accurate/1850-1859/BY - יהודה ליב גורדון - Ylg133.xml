@@ -1,0 +1,136 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>החמור והסוס</title>
+            <author>יהודה ליב גורדון</author>
+            <respStmt>
+               <name>Mandel Scholion Hebrew Revival Research Group</name>
+               <resp>Formatting of content from the Ben-Yehuda Project to TEI-XML according to the TEI P5 Guidelines.
+                  Addition of dates, not present in the online version, by Shira Wigderson, Asaf Isser, Adi Cohen, Nitzan Cohen, and Adi Cohen.
+               </resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <authority>Project Ben-Yehuda</authority>
+            <idno>http://benyehuda.org/yalag/Ylg133.html</idno>
+         </publicationStmt>
+         <sourceDesc xml:lang="Hebrew">
+            <bibl>
+               <date when="1859" notBefore="1859-01-01" notAfter="1859-12-31"/>
+            </bibl>
+            <p>The Ben-Yehuda Project (http://benyehuda.org/). Content provided within the Ben-Yehuda Hackathon at the University of Haifa (THATCamp Haifa, February 2014).</p>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <change>
+            <date>2018-11-01</date>
+            <name>Omer Waldman</name>
+            <note>Correction of previously annotated dates and addition of dates to majority of the works</note>
+         </change>
+         <change>
+            <date>2017-08-09</date>
+            <name>Jerusalem corpus of Emergent Modern Hebrew (JEMH) staff</name>
+            <note>Created the initial version of the content in TEI-XML and added dates (some based on estimation)</note>
+         </change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+
+
+
+
+
+
+החמור והסוס / יהודה ליב גורדון
+
+
+
+
+
+
+
+
+החמור והסוס
+
+ 
+
+עזרו בני
+אדם, עזרו איש רעהו,
+
+פן יכרע
+אחיך תחת נטלהו
+
+ולך יעמסו
+המשא על שכם.
+
+ 
+
+חמור מטען
+לעיפה בר ולחם
+
+התנהל
+בכבדת תחת שבט נגשהו,
+
+ולפניו דהר
+סוס אביר לבש רעם,
+
+אין עליו כל
+בלתי אם הרסן.
+
+„רעי! – חלה החמור את פני רעהו – 
+
+קח נא מנטלי,
+עזרני הפעם,
+
+פן לא אעצר
+כח, אגוע בדרך”.
+
+בן-בוז! – ענהו הסוס בחמת
+פתן – 
+
+האמר לסוס חמור?
+עבד אל שוע?
+
+חרפה היא לי,
+לא אעש עבודת פרך.
+
+שוא התחנן
+החמור, נאנח כמבכירה
+
+כי אטם הסוס
+את אזנו משמוע.
+
+ויהי עוד
+כברת ארץ לבא העירה
+
+ויכרע
+האמלל תחתיו כרע,
+
+כי אזל כחו
+ויאסף רוחהו.
+
+אז על הסוס
+עמסו את כל נטלהו,
+
+גם עור החמור
+עוד הוסיפו עליהו.
+
+ 
+
+
+
+
+
+ 
+
+
+
+
+
+
+</body>
+   </text>
+</TEI>

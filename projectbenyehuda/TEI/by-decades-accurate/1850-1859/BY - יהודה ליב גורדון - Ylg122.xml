@@ -1,0 +1,201 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>האיל</title>
+            <author>יהודה ליב גורדון</author>
+            <respStmt>
+               <name>Mandel Scholion Hebrew Revival Research Group</name>
+               <resp>Formatting of content from the Ben-Yehuda Project to TEI-XML according to the TEI P5 Guidelines.
+                  Addition of dates, not present in the online version, by Shira Wigderson, Asaf Isser, Adi Cohen, Nitzan Cohen, and Adi Cohen.
+               </resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <authority>Project Ben-Yehuda</authority>
+            <idno>http://benyehuda.org/yalag/Ylg122.html</idno>
+         </publicationStmt>
+         <sourceDesc xml:lang="Hebrew">
+            <bibl>
+               <date when="1859" notBefore="1859-01-01" notAfter="1859-12-31"/>
+            </bibl>
+            <p>The Ben-Yehuda Project (http://benyehuda.org/). Content provided within the Ben-Yehuda Hackathon at the University of Haifa (THATCamp Haifa, February 2014).</p>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <change>
+            <date>2018-11-01</date>
+            <name>Omer Waldman</name>
+            <note>Correction of previously annotated dates and addition of dates to majority of the works</note>
+         </change>
+         <change>
+            <date>2017-08-09</date>
+            <name>Jerusalem corpus of Emergent Modern Hebrew (JEMH) staff</name>
+            <note>Created the initial version of the content in TEI-XML and added dates (some based on estimation)</note>
+         </change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+
+
+
+
+
+
+האיל
+
+
+
+
+
+
+
+
+האיל
+
+ 
+
+במסבי הר
+הגלעד בנאות עשב
+
+הרביץ רעה
+עדרי בקר וכשב
+
+וכדברם כל
+היום רעו, רקדו
+
+ובעת האסף
+המקנה בקרב הליל
+
+ויחלל
+בחליל – אז חיש נועדו
+
+פרים עם
+עתודים, שה עז ועגל,
+
+איש איש
+למקמו, איש תחת הדגל;
+
+וכשר צבא
+נשא את ראש החיל
+
+אחד לא נעדר,
+בלתי אם האיל –
+
+לא אבה שמע
+לחליל רעהו,
+
+מאן לנטש
+רבצו אהב מרעהו,
+
+עד כי עורר
+הרעה עליו שבט.
+
+ויתאנף
+האיל בו ויאמר:
+
+„עם מרי האדם, דר כעם וממר
+
+הזרע בם
+לצדקה יאכל פרי כחש!
+
+הכי בן-בוז
+אני כי במקל אחבט?
+
+הלא איל אנכי
+רם היחש!
+
+אבי כביר
+כח לב וגדל-רוח
+
+(יבא שלום על
+משכבו ינוח!)
+
+הערה נפשו
+למות שם במזבח,
+
+במקום
+אל-אביך הוכן מטבח;
+
+גם עוד היום
+עת כי תצקו לחש
+
+תזכירו את
+אבי נשרף לאפר
+
+בעבור לחיים
+תחקו בספר.
+
+אבל בך
+הנמצא דבר טוב אחד
+
+כי תחפץ
+הכבד ותבקש נחת?!”
+
+– אני? הלא
+אבי הוא העלה תחת...
+
+„ידעתי כל, דבר מני לא נכחד,
+
+אבל אתה
+בנפשך
+
+מה-עשית
+ואכבדך?!”
+
+– אנכי? לא
+דבר! – „כי אז הסכלת
+
+לדרש שכר
+ומאומה לא פעלת;
+
+אביך עשה טוב
+ינחל תפארת,
+
+גם היום
+זכרו אתנו משמרת,
+
+אך אתה, איל
+צאן טוב בשר ומח,
+
+רק האכל צלי
+תצלח צלח”.
+
+ 
+
+מה רבו אילי
+הארץ אתנו
+
+האמרים: כבוד
+ויקר הבו לנו,
+
+כי אבתינו
+פעלמו הגדילו!
+
+בני אלים!
+מה-ימריצכם היחש
+
+אם אתם מאין
+ופעלכם כחש,
+
+ומתים לחיים
+מה-זה יועילו?
+
+ 
+
+
+
+
+
+ 
+
+
+
+
+
+
+</body>
+   </text>
+</TEI>

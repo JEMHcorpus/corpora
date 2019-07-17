@@ -1,0 +1,199 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>אחותי רחמה</title>
+            <author>יהודה ליב גורדון</author>
+            <respStmt>
+               <name>Mandel Scholion Hebrew Revival Research Group</name>
+               <resp>Formatting of content from the Ben-Yehuda Project to TEI-XML according to the TEI P5 Guidelines.
+                  Addition of dates, not present in the online version, by Shira Wigderson, Asaf Isser, Adi Cohen, Nitzan Cohen, and Adi Cohen.
+               </resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <authority>Project Ben-Yehuda</authority>
+            <idno>http://benyehuda.org/yalag/yalag_033.html</idno>
+         </publicationStmt>
+         <sourceDesc xml:lang="Hebrew">
+            <bibl>
+               <date when="1882" notBefore="1882-01-01" notAfter="1882-12-31"/>
+            </bibl>
+            <p>The Ben-Yehuda Project (http://benyehuda.org/). Content provided within the Ben-Yehuda Hackathon at the University of Haifa (THATCamp Haifa, February 2014).</p>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <change>
+            <date>2018-11-01</date>
+            <name>Omer Waldman</name>
+            <note>Correction of previously annotated dates and addition of dates to majority of the works</note>
+         </change>
+         <change>
+            <date>2017-08-09</date>
+            <name>Jerusalem corpus of Emergent Modern Hebrew (JEMH) staff</name>
+            <note>Created the initial version of the content in TEI-XML and added dates (some based on estimation)</note>
+         </change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+
+
+
+
+
+
+
+אחותי רחמה / י"ל גורדון
+
+
+
+
+
+
+
+
+אחותי רחמה
+
+(לכבוד בת יעקב אשר ענה בן חמור)
+
+ 
+
+מה-תתיפחי,
+אחותי רחמה,
+
+מה-נפל לבך,
+מה רוחך נפעמה,
+
+ולחייך שושנים
+מה-נבלו?
+
+כי באו שודדים
+וכבודך חללו?
+
+אם גבר האגרוף,
+יד זדים רמה,
+
+הבך העון,
+אחותי רחמה?!
+
+ 
+
+"אן אוליך
+חרפתי?" – איה חרפתך?
+
+לבך לא חרף,
+לא הסרת תמתך;
+
+קומי אפוא ושאי
+ממום פניך,
+
+לא לך החרפה כי אם למעניך,
+
+מטמאתם תמתך
+לא נכתמה;
+
+זכה כבר את,
+אחותי רחמה
+
+ 
+
+דם הבל הוא האות
+על מצח קין!
+
+ובדמיך גם את
+תחז כל עין
+
+אות קין אות קלון
+וכלמת נצח
+
+על מצח הנבלים
+אנשי הרצח;
+
+יראו יושבי תבל
+קדמה גם ימה,
+
+ידעו מה ענית,
+אחותי רחמה.
+
+ 
+
+טוב לי כי ענית:
+הן נפשי נשאה
+
+כל צרה ומצוקה
+אתה מצאה;
+
+כל חמס ושד נשאתי
+סבלתי,
+
+ארצי לא זנחתי,
+לטוב יחלתי,
+
+אך בשתך לשאת
+רוח בי לא קמה,
+
+קומי נלכה, אחותי
+רחמה
+
+ 
+
+קומי נלכה – הה
+בית אם אוהבת
+
+לא אוכל אביאך
+בטח לשבת:
+
+אם אין לנו ובביתה
+לא נגורה – 
+
+למלון אורחים
+אחר ללון נסורה,
+
+עד יחמל עלינו
+אבינו – שמה
+
+נשב ונחכה, אחותי
+רחמה
+
+ 
+
+קומי נלכה! במקום
+אור החפש
+
+יזרח על כל בשר
+יאיר כל נפש,
+
+במקום חביב כל
+הגברא בצלם,
+
+על עמו ואלהיו
+איש לא יכלם –
+
+שם לא יעשקוך
+זדים; שם נכלמה
+
+לא תהיי גם את,
+אחותי רחמה
+
+ 
+
+(תרמ"ב)
+
+ 
+
+
+
+
+
+ 
+
+
+
+
+
+
+</body>
+   </text>
+</TEI>

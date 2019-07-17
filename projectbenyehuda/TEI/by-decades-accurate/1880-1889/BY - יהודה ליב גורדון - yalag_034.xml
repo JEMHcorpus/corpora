@@ -1,0 +1,201 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>עדר אדני</title>
+            <author>יהודה ליב גורדון</author>
+            <respStmt>
+               <name>Mandel Scholion Hebrew Revival Research Group</name>
+               <resp>Formatting of content from the Ben-Yehuda Project to TEI-XML according to the TEI P5 Guidelines.
+                  Addition of dates, not present in the online version, by Shira Wigderson, Asaf Isser, Adi Cohen, Nitzan Cohen, and Adi Cohen.
+               </resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <authority>Project Ben-Yehuda</authority>
+            <idno>http://benyehuda.org/yalag/yalag_034.html</idno>
+         </publicationStmt>
+         <sourceDesc xml:lang="Hebrew">
+            <bibl>
+               <date when="1883" notBefore="1883-01-01" notAfter="1883-12-31"/>
+            </bibl>
+            <p>The Ben-Yehuda Project (http://benyehuda.org/). Content provided within the Ben-Yehuda Hackathon at the University of Haifa (THATCamp Haifa, February 2014).</p>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <change>
+            <date>2018-11-01</date>
+            <name>Omer Waldman</name>
+            <note>Correction of previously annotated dates and addition of dates to majority of the works</note>
+         </change>
+         <change>
+            <date>2017-08-09</date>
+            <name>Jerusalem corpus of Emergent Modern Hebrew (JEMH) staff</name>
+            <note>Created the initial version of the content in TEI-XML and added dates (some based on estimation)</note>
+         </change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+
+
+
+
+
+
+
+עדר אדני / י"ל גורדון
+
+
+
+
+
+
+
+
+עדר אדני
+
+(לכבוד בעל המחברת "אם אין אני לי, מי לי?")
+
+ 
+
+מה אנו,
+תשאלו, ומה חיינו.
+
+העם נחנו כעמים
+מסביבנו
+
+או רק עדת אישים
+בעלי דת אחת?
+
+הבה אגלה לכם
+סוד זה בנחת,
+
+אך אל תוציאו
+דבה מן החדר:
+
+לא עם, לא עדה
+אנחנו, רק – עדר
+
+ 
+
+עדר אדני, צאן
+קדשים הננו,
+
+הארץ היא המזבח
+לפנינו
+
+ואנחנו כחג
+בעבתים אסרנו,
+
+כי להיות השה
+לעלה נוצרנו.
+
+ומבטן לקבר
+כל הימים
+
+כן נצא ברצועות
+– ברצון חכמים.
+
+ 
+
+עדר בתוך הדברו,
+צאן מאכל הננו,
+
+הבעלים, הרעים
+אוכלים טובנו,
+
+צמרנו יגזו,
+עורנו יפשיטו
+
+ולאבוסנו כי
+רק לא יביטו,
+
+מנעורינו ינהגונו
+המדברה
+
+במקום אין מרעה
+וסביביו נשערה.
+
+ 
+
+עדר במדבר,
+צאן הרגה הננו
+
+הזאבים מכל
+צד ישתערו עלינו,
+
+איש איש בשאט
+נפש לבנו קורע
+
+נשוע לא נושע,
+נצעק אין שומע,
+
+סגר עלינו המדבר
+כל אפסים,
+
+הארץ נחשה, ברזל
+השמים.
+
+ 
+
+אמנם עדר היקר,
+צאן ברזל אנו,
+
+הן כל זאת באתנו
+ולא נכחד קימנו,
+
+הזאבים הרעבים
+השאירו גרם,
+
+הגזזים הבזזים
+לא הכו חרם,
+
+הרעים התועים
+לא כבו רוחנו –
+
+אך הלנצח נצחים
+יעמד כחנו?
+
+ 
+
+עדר עדר לבדו,
+צאן אבדות הננו.
+
+לא נצא חצץ להושיע
+נפשנו,
+
+איש ירעה ידו,
+כל עמלו לפיהו,
+
+אין דאג אין חלה
+בעמל אחיהו,
+
+על כן אין ישע,
+אין משטר וסדר;
+
+לא עם, לא עדה
+אנחנו, רק – עדר.
+
+ 
+
+ר"ח חשון,
+תרמ"ג
+
+ 
+
+
+
+
+
+ 
+
+
+
+
+
+
+</body>
+   </text>
+</TEI>

@@ -1,0 +1,149 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>קורות הזמן</title>
+            <author>רחל מורפורגו</author>
+            <respStmt>
+               <name>Mandel Scholion Hebrew Revival Research Group</name>
+               <resp>Formatting of content from the Ben-Yehuda Project to TEI-XML according to the TEI P5 Guidelines.
+                  Addition of dates, not present in the online version, by Shira Wigderson, Asaf Isser, Adi Cohen, Nitzan Cohen, and Adi Cohen.
+               </resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <authority>Project Ben-Yehuda</authority>
+            <idno>http://benyehuda.org/morpurgo/morp08.html</idno>
+         </publicationStmt>
+         <sourceDesc xml:lang="Hebrew">
+            <bibl>
+               <date when="1848" notBefore="1848-01-01" notAfter="1848-12-31"/>
+            </bibl>
+            <p>The Ben-Yehuda Project (http://benyehuda.org/). Content provided within the Ben-Yehuda Hackathon at the University of Haifa (THATCamp Haifa, February 2014).</p>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <change>
+            <date>2018-11-01</date>
+            <name>Omer Waldman</name>
+            <note>Correction of previously annotated dates and addition of dates to majority of the works</note>
+         </change>
+         <change>
+            <date>2017-08-09</date>
+            <name>Jerusalem corpus of Emergent Modern Hebrew (JEMH) staff</name>
+            <note>Created the initial version of the content in TEI-XML and added dates (some based on estimation)</note>
+         </change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+
+
+
+
+
+
+
+קורות הזמן / רחל מורפורגו
+
+
+
+
+
+
+
+
+
+
+
+קורות הזמן
+
+ 
+
+משפיל גאים
+השפיל כל-מלכי ארץ
+
+הרים לבות
+עמים ויבא קרץ
+
+אל כל ערי
+מבצר פרץ על פרץ
+
+הרוה מדם
+אדם זוחל ושרץ.
+
+ 
+
+חוגר כל איש
+חרבו זקן ונער
+
+ישא קולו לטרף
+מחיתו יער
+
+צועק להיות
+חפשי חכם ובער
+
+כי כל-סאון
+סואן מים בסער.
+
+ 
+
+לפרק מעל
+כבד מטל עלימו
+
+ירצו חכמי
+לבב, ובכל-חילמו
+
+ירהבו את
+מלכם כי סר צלמו
+
+קרב קצם אשר
+נגזר עלימו.
+
+ 
+
+לא כן עבדי
+האל גבורי חיל
+
+ילחמו את
+יצרם יומם וליל
+
+את על צורם
+ישאו, גם ישגו חיל
+
+דומה דודי
+לצבי ולעפר איל.
+
+ 
+
+שופר גדול
+יתקע יביא בן-פרץ
+
+צמח צדיק
+יצמח יפרץ בארץ
+
+צורם ירפא
+צירם יגדר כל-פרץ
+
+כי יי מלך
+תגל הארץ.
+
+ 
+
+ושם
+הקטנה רחל 
+
+ה'תר"ח,
+1848.
+
+
+
+
+
+
+
+
+</body>
+   </text>
+</TEI>

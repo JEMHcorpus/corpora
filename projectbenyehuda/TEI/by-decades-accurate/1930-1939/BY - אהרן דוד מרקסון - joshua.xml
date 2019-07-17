@@ -1,0 +1,267 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>יהושע</title>
+            <author>אהרן דוד מרקסון</author>
+            <respStmt>
+               <name>Mandel Scholion Hebrew Revival Research Group</name>
+               <resp>Formatting of content from the Ben-Yehuda Project to TEI-XML according to the TEI P5 Guidelines.
+                  Addition of dates, not present in the online version, by Shira Wigderson, Asaf Isser, Adi Cohen, Nitzan Cohen, and Adi Cohen.
+               </resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <authority>Project Ben-Yehuda</authority>
+            <idno>http://benyehuda.org/markson/joshua.html</idno>
+         </publicationStmt>
+         <sourceDesc xml:lang="Hebrew">
+            <bibl>
+               <date when="1938" notBefore="1938-01-01" notAfter="1938-12-31"/>
+            </bibl>
+            <p>The Ben-Yehuda Project (http://benyehuda.org/). Content provided within the Ben-Yehuda Hackathon at the University of Haifa (THATCamp Haifa, February 2014).</p>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <change>
+            <date>2018-11-01</date>
+            <name>Omer Waldman</name>
+            <note>Correction of previously annotated dates and addition of dates to majority of the works</note>
+         </change>
+         <change>
+            <date>2017-08-09</date>
+            <name>Jerusalem corpus of Emergent Modern Hebrew (JEMH) staff</name>
+            <note>Created the initial version of the content in TEI-XML and added dates (some based on estimation)</note>
+         </change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+
+
+
+
+
+
+יהושע / אהרן
+דוד מרקסון
+
+
+
+
+
+
+
+
+יהושע[1]
+
+אהרן
+דוד מרקסון
+
+
+
+ 
+
+
+
+
+ 
+  
+  פרק
+  ז'
+  אחרי שעה אחת
+  בצהרים
+  השלים תם עם
+  גורלו לעבור
+  את “שבעת
+  מדורי
+  הגיהנום “של
+  סדר ההלבשה
+  הכבוד ארוחת-הצהרים.
+  הוא מצא, כי על
+  צד האמת הנהו
+  לבוש גם עתה
+  בגדי כבוד
+  ותפארת, ורק
+  שהחליפו את
+  מלבושיו אלה
+  באחרים. כל
+  דבר היה שונה,
+  מן הצוארון
+  עד הפוזמקאות.
+  אחר זה
+  הובילו אותו
+  ברוב פאר
+  והדר אל מעון
+  מרווח
+  ומקושט, ששם
+  היה כבר ערוך
+  השולחן לאיש
+  אחד. כלי
+  השולחן היו
+  זהב מוצק
+  כולם, מעשי
+  ידי האמן
+  בינווינוטו.
+  החדר
+  היה מלא
+  למחצה משרתי
+  הכבוד. כהן
+  אחד ברך על
+  הלחם, ותם היה
+  מוכן ומזומן
+  להתנפל
+  ולחטוף, כי
+  הרעב הציק לו
+  כבר מאד. אולם
+  “האדון
+  בארקלי" עכב
+  אותו, כשמהר
+  לקשור מפית
+  מסביב
+  לצוארו; כי המשרה
+  הגדולה של
+  “מחתל חתולים
+  ליורש-העצר
+  הנסיך
+  מווילס"
+  נמסרה לבני
+  המשפחה
+  הכבודה ההיא,
+  משפחת
+  בארקלי,
+  לדורותם. השר
+  משקה היה שם,
+  והוא שם את כל
+  נסיונותיו
+  של תם להושיט
+  את כוס היין
+  לעצמו. “הטועם
+  אשר
+  להוד-כבוד
+  יורש-העצר
+  הנסיך מווילס"
+  היה שם גם הוא,
+  מוכן ועומד
+  לטעום כל דבר
+  אוכל, שהיה בו
+  משום חשד רעל,
+  כשיזמינו
+  אותו,
+  ולהעמיד את
+  עצמו בסכנה
+  למות מן הרעל.
+  משרה זו של
+  "טועם" היתה
+  בעת ההיא רק
+  לנוי, ונושא המשרה
+  נקרא למלא את
+  חובתו לעתים
+  רחוקות מאד; אולם
+  היתה עת, לפני
+  דורות לא
+  רבים, שסכנה
+  גדולה היתה
+  קשורה
+  וכרוכה 
+  במשרה זו,
+  ומעטים מאד
+  היו אלה, שהיו
+  משתוקקים לה.
+  לכאורה זר
+  ותמוה הוא,
+  מפני מה לא
+  השתמשו בכלב
+  או בעושה מלאכת
+  הצינורות ,
+  למלא חובת
+  "טועם". אולם
+  דרכי מלכים
+  ורוזנים
+  נפלאים הם
+  ולא נדעם.
+  “האציל ד'ארקי"
+  המשרת הראשי
+  של החדר, היה
+  שם גם הוא. הוא
+  עמד מאחורי
+  כסאו של תם,
+  להשגיח על
+  נמוסי
+  השולחן, בפקודת
+  “האציל
+  בן-המשק
+  הגדול" והאציל
+  ראש המבשלים,
+  שעמדו שם גם
+  הם. מלבד אלה
+  המנויים כאן
+  היו לתם עוד
+  שלש מאות
+  ושמונים
+  וארבעה
+  משרתים;
+  כמובן, לא היו
+  כל אלה בחדר
+  עתה, אף ללא
+  החלק הרביעי
+  מהם: ולא עוד
+  אלא שתם לא
+  ידע עוד ולא
+  הרגיש
+  במציאותם.
+  
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[1] קטע
+מתרגומו של
+“בן המלך
+והעני" מאת
+מארק טוויין,
+הוצאת שטיבל,
+ווארשה,
+תרפג. 
+כל היופי,
+הנטישות
+ועושר השפה
+והסגנון וכל
+הסגולות היקרות
+והנדירות
+הנמצאות
+במקור, ואפילו
+ההומור הדק
+והעדין התלוי
+כולו בלשון,
+נשתמרו בתרגומו
+המצויין של
+א.ד. מארקסון. –
+ב.א.
+
+
+
+
+
+
+
+
+</body>
+   </text>
+</TEI>

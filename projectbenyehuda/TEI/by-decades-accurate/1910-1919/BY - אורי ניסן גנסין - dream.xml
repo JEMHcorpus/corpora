@@ -1,0 +1,173 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>החלום האחרון</title>
+            <author>אורי ניסן גנסין</author>
+            <respStmt>
+               <name>Mandel Scholion Hebrew Revival Research Group</name>
+               <resp>Formatting of content from the Ben-Yehuda Project to TEI-XML according to the TEI P5 Guidelines.
+                  Addition of dates, not present in the online version, by Shira Wigderson, Asaf Isser, Adi Cohen, Nitzan Cohen, and Adi Cohen.
+               </resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <authority>Project Ben-Yehuda</authority>
+            <idno>http://benyehuda.org/gnessin/dream.html</idno>
+         </publicationStmt>
+         <sourceDesc xml:lang="Hebrew">
+            <bibl>
+               <date when="1910" notBefore="1910-01-01" notAfter="1910-12-31"/>
+            </bibl>
+            <p>The Ben-Yehuda Project (http://benyehuda.org/). Content provided within the Ben-Yehuda Hackathon at the University of Haifa (THATCamp Haifa, February 2014).</p>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <change>
+            <date>2018-11-01</date>
+            <name>Omer Waldman</name>
+            <note>Correction of previously annotated dates and addition of dates to majority of the works</note>
+         </change>
+         <change>
+            <date>2017-08-09</date>
+            <name>Jerusalem corpus of Emergent Modern Hebrew (JEMH) staff</name>
+            <note>Created the initial version of the content in TEI-XML and added dates (some based on estimation)</note>
+         </change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+
+
+
+
+
+
+
+החלום האחרון / א"נ גנסין
+
+
+
+
+
+
+
+
+
+
+
+החלום האחרון
+
+ 
+
+אני שכבתי
+בדד, אני שכבתי דם,
+
+ונכאים הגתה
+דממה בסתו בערב יום,
+
+ונפשי כבדה
+נבאה לי לילה בלי חלום.
+
+ 
+
+וחרש גוע
+יומי וחלוני עטה צל,
+
+וכתלי חדרי
+קדרו ועטו חשכת ליל.
+
+ולבבי לא
+החרידה אף נהמת ילל.
+
+ 
+
+ופתאם חרדה
+נפשי ועד מעמקי תהום,
+
+ותחלם רגע
+אהבה ורגע חלמה תם,
+
+מלאכי שב
+אליה ויארג לה חלום ...
+
+ 
+
+ויהי החלום
+כה חמים בסתו ללב הזר,
+
+וידע אז גם
+דמע, אשר לא ידע כבר,
+
+וקול מלאכי
+נוזל וחרש שר ושר ...
+
+ 
+
+לא שיר-עלומים
+אדיר – מלאכי אינו תם :
+
+לא נלחם עוד
+עם אלים, לא בא אלי בעים –
+
+מלאכי לאט
+פניו והקר אט שיר חם ...
+
+ 
+
+ועיני מלאו
+אדים בסתו בגווע יום,
+
+ורצי אורה
+נוגים נגרו, נגרו דם –
+
+וישר לי
+מלאכי : אמר לזה חלום ...
+
+ 
+
+אך רגע בין
+השמשות, רגע בימי סתו –
+
+אחר ירד
+לילה, ימש חשך עב,
+
+ורצי אורה
+נוגים עוברים אז לשוא ...
+
+ 
+
+ובדד אני
+שוכב ופני אל הקיר,
+
+וסביבי קודרה
+דממה וקרבי אפס שיר :
+
+עלומים
+וחלומות כבר אבד למו ניר ...
+
+
+
+ 
+
+
+
+נתפרסם בירחון "הזמן"
+
+ 
+
+
+
+
+
+ 
+
+
+
+
+
+
+</body>
+   </text>
+</TEI>

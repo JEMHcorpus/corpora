@@ -1,0 +1,311 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>חרמונים</title>
+            <author>אלתר לוין</author>
+            <respStmt>
+               <name>Mandel Scholion Hebrew Revival Research Group</name>
+               <resp>Formatting of content from the Ben-Yehuda Project to TEI-XML according to the TEI P5 Guidelines.
+                  Addition of dates, not present in the online version, by Shira Wigderson, Asaf Isser, Adi Cohen, Nitzan Cohen, and Adi Cohen.
+               </resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <authority>Project Ben-Yehuda</authority>
+            <idno>http://benyehuda.org/levin/xermonim.html</idno>
+         </publicationStmt>
+         <sourceDesc xml:lang="Hebrew">
+            <bibl>
+               <date when="1920" notBefore="1920-01-01" notAfter="1920-12-31"/>
+            </bibl>
+            <p>The Ben-Yehuda Project (http://benyehuda.org/). Content provided within the Ben-Yehuda Hackathon at the University of Haifa (THATCamp Haifa, February 2014).</p>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <change>
+            <date>2018-11-01</date>
+            <name>Omer Waldman</name>
+            <note>Correction of previously annotated dates and addition of dates to majority of the works</note>
+         </change>
+         <change>
+            <date>2017-08-09</date>
+            <name>Jerusalem corpus of Emergent Modern Hebrew (JEMH) staff</name>
+            <note>Created the initial version of the content in TEI-XML and added dates (some based on estimation)</note>
+         </change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+
+
+
+
+
+
+
+חרמונים / אלתר לוין
+
+
+
+
+
+ 
+
+
+
+
+  
+  
+
+
+חרמונים / אלתר
+לוין
+
+ 
+
+שיבת זקן, כפור
+עולמים,
+
+לבנת שלג, כדור
+קר;
+
+לבן נורא, סמל
+מות,
+
+חרף, חרף, חרף
+דור.
+
+ 
+
+שלג שנירים ראי
+לכוכב,
+
+נגה נבעת שם
+בליל;
+
+קונם עליו כל
+עץ, עשב,
+
+צמחי עמק, ציצי
+תל.
+
+ 
+
+אדם, חוה עת גרשו
+
+מעדן יה בזעם
+אל,
+
+באשם יפי תפוח
+אחד
+
+כאשר כעס כביר,
+אל– 
+
+ 
+
+קלל אותם בכליון
+מות,
+
+את האדם בעמל
+ניר,
+
+את האשה בהריון–
+
+
+עשה, חולל רכסי
+שניר.
+
+ 
+
+שם בצפון, שם
+זרקם,
+
+גם מאלה רחוק
+שם:
+
+לזכרון מות אותם
+העמיד,
+
+להרי נצח אותם
+שם.
+
+ 
+
+חולל שנירים,
+הם הדמעות
+
+שלח אלי הרטב
+ניר:
+
+שנקרשו, התקררו
+
+מאף עליון יוצר
+שניר.
+
+ 
+
+שאז בכה על האדם
+
+אשר אבד נצח
+חיש:
+
+את הנצח, העולמי,
+
+חיי מעלה אבד
+איש!
+
+ 
+
+ככה עומדים הם
+ענקים,
+
+נפילי שלג לשמי
+אור;
+
+דמעות מרום הם
+השנירים
+
+שנקפאו מדור
+דור.
+
+ 
+
+בעלטה ובלילות
+
+לאור ירח מכסף
+סוד:
+
+אז ברק פלי הם
+מבריקים
+
+ברק השגיא,
+ברק ההוד!
+
+ 
+
+נורא הודם, עת
+ברעדה,
+
+בפקודת שחקים
+ובעוד
+
+שלוחי עליון
+בם ישימו
+
+את הדמעות, את
+הנאד.
+
+ 
+
+נאד הדמעות המתמלא
+
+מחטא חדש, חטא
+הדורות,
+
+עת האדם נגרש
+שנית
+
+מן העדן רב האורות.
+
+ 
+
+יעמדו שנירים
+לעולמים,
+
+רכסי שלגים,
+שנירי עד;
+
+ככה יעמדו רבות,
+רבות
+
+עד כי יבלע מות,
+עד– 
+
+ 
+
+כי יבלע מות
+ונצח
+
+ישוב אז אל עולם
+זה
+
+ואל צבאות יגיל
+רננה,
+
+ירחף שחוק על
+שפת פה.
+
+ 
+
+עת ישחקה ישנה
+תבל,
+
+ישנה אדם, ישנה
+חי:
+
+אז האדם ישיג
+חזון,
+
+אז גם ישיג את
+אדני!
+
+ 
+
+אז מגאונו הם,
+ימסו,
+
+ימס, יגר כפור
+השניר;
+
+זרם אחר זרם יזל,
+
+סלעים ירעיש,
+אבני גיר!
+
+ 
+
+זרמים אלה הם
+ישטפו
+
+מן הארץ כל רשעה,
+
+כל החמס, כל
+הכסל– 
+
+ומלאה ארץ אך
+דעה!
+
+ 
+
+זרמים אלה כי
+ישטפו
+
+לטהר ארץ, תבל,
+עם:
+
+דמעות גיל הם
+אף יתגלגלו
+
+אל הנצח, אל הים!
+
+ 
+
+ 
+
+
+
+
+
+ 
+
+
+
+
+
+
+</body>
+   </text>
+</TEI>

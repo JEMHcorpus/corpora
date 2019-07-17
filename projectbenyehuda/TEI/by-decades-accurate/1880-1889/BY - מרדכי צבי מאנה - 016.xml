@@ -1,0 +1,150 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>ברכה ליום הולדת</title>
+            <author>מרדכי צבי מאנה</author>
+            <respStmt>
+               <name>Mandel Scholion Hebrew Revival Research Group</name>
+               <resp>Formatting of content from the Ben-Yehuda Project to TEI-XML according to the TEI P5 Guidelines.
+                  Addition of dates, not present in the online version, by Shira Wigderson, Asaf Isser, Adi Cohen, Nitzan Cohen, and Adi Cohen.
+               </resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <authority>Project Ben-Yehuda</authority>
+            <idno>http://benyehuda.org/maneh/016.html</idno>
+         </publicationStmt>
+         <sourceDesc xml:lang="Hebrew">
+            <bibl>
+               <date when="1881" notBefore="1881-01-01" notAfter="1881-12-31"/>
+            </bibl>
+            <p>The Ben-Yehuda Project (http://benyehuda.org/). Content provided within the Ben-Yehuda Hackathon at the University of Haifa (THATCamp Haifa, February 2014).</p>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <change>
+            <date>2018-11-01</date>
+            <name>Omer Waldman</name>
+            <note>Correction of previously annotated dates and addition of dates to majority of the works</note>
+         </change>
+         <change>
+            <date>2017-08-09</date>
+            <name>Jerusalem corpus of Emergent Modern Hebrew (JEMH) staff</name>
+            <note>Created the initial version of the content in TEI-XML and added dates (some based on estimation)</note>
+         </change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+
+
+
+
+
+
+ברכה ליום הולדת / מרדכי צבי מאנה
+
+
+
+ 
+
+
+
+
+  
+  
+
+
+ברכה ליום
+הולדת / מרדכי צבי מאנה
+
+(ילד בן אחד
+מידידי בפה עיר המלוכה).
+
+ 
+
+לילד פורח באביב הנער, כשמש זורח לו הוד לו תאר, שלוחה
+הברכה, מלב לוקחה.
+
+ 
+
+1.
+
+זה שנים ששת מיום בו נולדת,
+
+מיום לב הוריך בן יקיר שמחת.
+
+על סלם החיים שש מעלות צעדת;
+
+וכבר לקחת לב רבים הצלחת.
+
+עתה כי תחג יום חג הולדתך
+
+גם אוהבים רבים ישישו עליך.
+
+ 
+
+2.
+
+נעמת, בן פורת, באביב הנער,
+
+ככרוב שמים עוד זכה נפשך.
+
+על מצחך חן ילין, על פניך – טהר;
+
+גם תם ילד יציץ מחרכי עיניך.
+
+וביום זה יום חג עוד תיף שבעתים
+
+ככוכב נגה בין צבאות שמים.
+
+ 
+
+3.
+
+גם לבי לך ירחש אהבה וברכה
+
+כי הודך בל יבול, זיוך יופיע;
+
+כי יריק לך שדי מעיני הצלחה,
+
+כי כל רע עדיך לא יגיע;
+
+כי ינצור תמתך, טהר נפשך,
+
+ועל כל: כי יאריך גם ינעים חייך.
+
+ 
+
+4.
+
+שיש ושמח, בן נעים! שישו, אבותיו!
+
+כי ישיב נפשכם הן יתן אותותיו;
+
+ולתורה ולמעשים טובים גדלוהו
+
+ובלב עלז תחת החפה תראוהו;
+
+עשר גם כבוד וברכה ותהלה
+
+יכתירהו כל ימיו עד עולם סלה!
+
+ 
+
+
+
+
+
+ 
+
+
+
+
+
+
+</body>
+   </text>
+</TEI>

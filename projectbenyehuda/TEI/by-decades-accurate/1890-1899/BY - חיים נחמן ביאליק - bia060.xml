@@ -1,0 +1,133 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>גבעולי אשתקד</title>
+            <author>חיים נחמן ביאליק</author>
+            <respStmt>
+               <name>Mandel Scholion Hebrew Revival Research Group</name>
+               <resp>Formatting of content from the Ben-Yehuda Project to TEI-XML according to the TEI P5 Guidelines.
+                  Addition of dates, not present in the online version, by Shira Wigderson, Asaf Isser, Adi Cohen, Nitzan Cohen, and Adi Cohen.
+               </resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <authority>Project Ben-Yehuda</authority>
+            <idno>http://benyehuda.org/bialik/bia060.html</idno>
+         </publicationStmt>
+         <sourceDesc xml:lang="Hebrew">
+            <bibl>
+               <date when="1891" notBefore="1891-01-01" notAfter="1891-12-31"/>
+            </bibl>
+            <p>The Ben-Yehuda Project (http://benyehuda.org/). Content provided within the Ben-Yehuda Hackathon at the University of Haifa (THATCamp Haifa, February 2014).</p>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <change>
+            <date>2018-11-01</date>
+            <name>Omer Waldman</name>
+            <note>Correction of previously annotated dates and addition of dates to majority of the works</note>
+         </change>
+         <change>
+            <date>2017-08-09</date>
+            <name>Jerusalem corpus of Emergent Modern Hebrew (JEMH) staff</name>
+            <note>Created the initial version of the content in TEI-XML and added dates (some based on estimation)</note>
+         </change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+
+
+
+
+
+
+
+גבעולי אשתקד / חיים נחמן ביאליק
+
+
+
+
+
+
+
+
+
+
+
+
+גבעולי אשתקד
+
+ 
+
+עוד על-קירות לבבך מתרפקים ותלוים
+גבעולים
+
+של שושני אשתקד –
+
+חמדת נפשי! ראי: בין ערוגות הגן
+ואילניו
+
+אביב חדש מרקד.
+
+ 
+
+וכבר עובר המעדר, הנעץ ועפר בעפר,
+
+וערוגה, ערוגה תעדר;
+
+לא יעבר האביב – ופרחים חדשים
+ישגשגו,
+
+אף-יטפסו בסריגי הגדר.
+
+ 
+
+ומאילן לאילן כבר קופצה מזמרת
+הגנן
+
+ומקצצת בנטיעות;
+
+חמדת נפשי! הנובלות ילחכו עפר
+
+ותחיינה הבריאות.
+
+ 
+
+השומעת את ריח שרביטים חדשים
+וירקים
+
+בא עם ריח הנטף?
+
+ככה ישגה הפרדס היונק ומיניק
+וחי
+
+בכל-רבבות שבטיו.
+
+ 
+
+לפנות ערב – ובאה הילדה התמה, היפה,
+
+בת הגנן, ללקט
+
+את-כל-מפל מזמרה – והיו בלילה
+לבערה
+
+כל גבעולי אשתקד.
+
+ 
+
+ניסן, תרנ"א.
+
+
+
+
+
+  
+
+
+</body>
+   </text>
+</TEI>

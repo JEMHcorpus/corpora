@@ -1,0 +1,183 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>מי מנה עשרי</title>
+            <author>אלתר לוין</author>
+            <respStmt>
+               <name>Mandel Scholion Hebrew Revival Research Group</name>
+               <resp>Formatting of content from the Ben-Yehuda Project to TEI-XML according to the TEI P5 Guidelines.
+                  Addition of dates, not present in the online version, by Shira Wigderson, Asaf Isser, Adi Cohen, Nitzan Cohen, and Adi Cohen.
+               </resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <authority>Project Ben-Yehuda</authority>
+            <idno>http://benyehuda.org/levin/oshri.html</idno>
+         </publicationStmt>
+         <sourceDesc xml:lang="Hebrew">
+            <bibl>
+               <date when="1920" notBefore="1920-01-01" notAfter="1920-12-31"/>
+            </bibl>
+            <p>The Ben-Yehuda Project (http://benyehuda.org/). Content provided within the Ben-Yehuda Hackathon at the University of Haifa (THATCamp Haifa, February 2014).</p>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <change>
+            <date>2018-11-01</date>
+            <name>Omer Waldman</name>
+            <note>Correction of previously annotated dates and addition of dates to majority of the works</note>
+         </change>
+         <change>
+            <date>2017-08-09</date>
+            <name>Jerusalem corpus of Emergent Modern Hebrew (JEMH) staff</name>
+            <note>Created the initial version of the content in TEI-XML and added dates (some based on estimation)</note>
+         </change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+
+
+
+
+
+
+
+מי מנה עשרי / אלתר לוין (אסף הלוי איש ירושלים)
+
+
+
+ 
+
+
+
+
+  
+  
+
+
+מי מנה עשרי
+/ אלתר לוין (אסף הלוי איש ירושלים)
+
+ 
+
+י
+
+ 
+
+מי מנה עשרי?
+עשרי יפי ארץ:
+
+בקיעת שמש
+הוד ושקיעת שמש הרים,
+
+עמק שמי
+התכלת, שמים לאדני,
+
+וצפריר דרור
+לנפש, נוח ומענג!
+
+ 
+
+הם תמיד לי
+ישארו! בענין רע,
+
+לעולם לא יאבד,
+לא יאבד עשרי זה:
+
+ההרים לא ימוטו
+ושמש תצא, תבוא,
+
+שמים לא
+יעלמו וצפרירים ילחשו!
+
+ 
+
+יפי ארץ,
+ארצי הקוסמת!
+
+יום קיץ צוחק
+לפני עלות המנחה,
+
+בשפך אורים
+בהירים על מרומי שפיים
+
+ואורירים
+קלים נוגים מזעזעים האלנות!
+
+ 
+
+במרחק: הרי
+מואב עטופי צעיף התכלת,
+
+תערבת הר
+ואפק מולכים ומקסימים;
+
+תללי גדות
+הירדן טהורים ומזהיבים,
+
+נבעתים בראי
+ים השוכן בערבה!
+
+ 
+
+אויר רחמים!
+משוטטים מלאכיו
+
+מהר להר ומטהרים
+לב האדם;
+
+ועל חומות
+ציון, מסגד ומבצרים,
+
+יפילו רשת
+אורות בהירים ולבנים!
+
+ 
+
+ושקיעת הרים
+גדולה תבוא בערבים
+
+וליל חולם כביר
+יבא אחריה, –
+
+כמה אחלם חת
+כנפי ליל ירח,
+
+לילות אור
+כימים, לילות לאצילים!
+
+ 
+
+לא! לא אחליף
+עשרי באלפים,
+
+אלפי כסף,
+זהב, עוברים, בני-חלוף:
+
+לי זהב ההרים,
+כספי לילות כסא,
+
+עשרי יפי
+ארץ, יפי ארץ קסמים!...
+
+ 
+
+ 
+
+
+
+
+
+ 
+
+
+
+
+
+
+</body>
+   </text>
+</TEI>

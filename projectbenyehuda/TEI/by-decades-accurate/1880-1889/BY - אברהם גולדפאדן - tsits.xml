@@ -1,0 +1,294 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>ציץ הזהב</title>
+            <author>אברהם גולדפאדן</author>
+            <respStmt>
+               <name>Mandel Scholion Hebrew Revival Research Group</name>
+               <resp>Formatting of content from the Ben-Yehuda Project to TEI-XML according to the TEI P5 Guidelines.
+                  Addition of dates, not present in the online version, by Shira Wigderson, Asaf Isser, Adi Cohen, Nitzan Cohen, and Adi Cohen.
+               </resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <authority>Project Ben-Yehuda</authority>
+            <idno>http://benyehuda.org/goldfaden/tsits.html</idno>
+         </publicationStmt>
+         <sourceDesc xml:lang="Hebrew">
+            <bibl>
+               <date when="1889" notBefore="1889-01-01" notAfter="1889-12-31"/>
+            </bibl>
+            <p>The Ben-Yehuda Project (http://benyehuda.org/). Content provided within the Ben-Yehuda Hackathon at the University of Haifa (THATCamp Haifa, February 2014).</p>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <change>
+            <date>2018-11-01</date>
+            <name>Omer Waldman</name>
+            <note>Correction of previously annotated dates and addition of dates to majority of the works</note>
+         </change>
+         <change>
+            <date>2017-08-09</date>
+            <name>Jerusalem corpus of Emergent Modern Hebrew (JEMH) staff</name>
+            <note>Created the initial version of the content in TEI-XML and added dates (some based on estimation)</note>
+         </change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+
+
+
+
+
+
+ציץ הזהב /
+אברהם
+גולדפאדן
+
+
+
+
+
+
+
+
+ציץ
+הזהב / אברהם
+גולדפאדן
+
+(אשר
+שם חוט-הזהב
+על ראש רבנו
+הגדול פאר
+עדתו, אוהב
+עמו ואמונתו,
+נזר ישראל ה"ה
+הרב החכם המפורסם  מהור"ר
+צדוק כהן נ"י
+ביום נבחר פה
+אחד, מאת כל
+עדת בני ישראל
+בפאריז
+לרב-הכולל על
+מחוז ארץ צרפת
+הבירה ביום א'
+כ"ט לחדש תשרי
+תר"ן לפ"ק).
+
+ 
+
+מה
+היום
+מיומים
+כל לב
+שמח?
+
+בית
+יהודה
+ברכו ד'
+בנגינות
+מנצח,
+
+הן לא
+חג היום,
+לא שבת,
+לא חדש? –
+
+אכן,
+יום זה
+מכבד, לו
+יאתה
+שירה;
+
+כי
+נמשח
+הרב
+בצרפת
+הבירה
+
+נמשח
+רב צדוק
+כהן לכהן
+בקדש! –.
+
+ 
+
+הגידו
+זאת
+ביהודים
+יושבי רומניה!
+
+השמיעו
+בקהל-עדת-ישרון
+רוססיה!
+
+כי
+עלה
+מושיעם
+הלא הוא
+רב להושיע,
+
+על
+כסא רם
+ונשא
+להיות
+מורה-דרך,
+
+לחסות
+תחת
+כנפיו
+כל כשלי
+ברך,
+
+ולצמאים
+לתרתו
+אמר
+יביע – .
+
+ 
+
+מי
+אסף
+ביתה
+נדחים
+ארצם נטשו?
+
+מי
+פדה
+פליטי
+חרב מגו
+גורשו?
+
+מי
+עמד
+בפרץ
+לחזק
+הבדק?
+
+מי
+פרש
+כפיו
+לעניים
+אשפתות
+חבקו?
+
+וליתומים
+מי ענה
+בצר
+להם
+צעקו?
+
+הלא
+הוא
+צדוק-כהן,
+הוא כהן
+צדק! –
+
+ 
+
+עורה
+כנרי,
+עורה! 
+שחר אעירה,
+
+אנכי
+לרבי
+אנכי
+אשירה,
+
+ובמקהלות
+רבבות
+עמי
+אשמיע
+תהלתו!
+
+כי לו
+נאוה
+תהלה,
+איש דגול
+מרבבה,
+
+אמרתו
+כטל
+תזל,
+גשם
+נדבה,
+
+איש
+קנא
+לשם האל
+לעמו
+לעדתו –.
+
+ 
+
+אכן –
+די אמרי
+שפר – לו
+דומיה תהלה
+– ....
+
+עלי
+נפשי
+תשתוחח,
+ואני תפלה:
+
+כי
+תמת
+לבו
+לעולם לו
+ינון על
+מצח,
+
+כי,
+שפעת טל
+ברכתו,
+אל יריק על
+ראשהו,
+
+לשבוע
+בנעימים
+כל ימי חייהו,
+
+–כי
+יאריך
+ימיו, נרו
+יאיר לנצח!
+­– –
+
+ 
+
+כחפץ
+לתמידו
+מוקירו
+ומכבדו כערכו
+הרם
+
+              
+אברהם
+גאלדפאדען.
+
+ 
+
+פאריז
+10 אקטאבער 1889.
+
+ 
+
+
+
+
+
+ 
+
+
+
+
+
+
+</body>
+   </text>
+</TEI>

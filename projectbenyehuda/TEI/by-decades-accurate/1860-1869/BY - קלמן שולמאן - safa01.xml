@@ -1,0 +1,234 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>שפה ברורה - הקדמה</title>
+            <author>קלמן שולמאן</author>
+            <respStmt>
+               <name>Mandel Scholion Hebrew Revival Research Group</name>
+               <resp>Formatting of content from the Ben-Yehuda Project to TEI-XML according to the TEI P5 Guidelines.
+                  Addition of dates, not present in the online version, by Shira Wigderson, Asaf Isser, Adi Cohen, Nitzan Cohen, and Adi Cohen.
+               </resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <authority>Project Ben-Yehuda</authority>
+            <idno>http://benyehuda.org/schulmann/safa01.html</idno>
+         </publicationStmt>
+         <sourceDesc xml:lang="Hebrew">
+            <bibl>
+               <date when="1864" notBefore="1864-01-01" notAfter="1864-12-31"/>
+            </bibl>
+            <p>The Ben-Yehuda Project (http://benyehuda.org/). Content provided within the Ben-Yehuda Hackathon at the University of Haifa (THATCamp Haifa, February 2014).</p>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <change>
+            <date>2018-11-01</date>
+            <name>Omer Waldman</name>
+            <note>Correction of previously annotated dates and addition of dates to majority of the works</note>
+         </change>
+         <change>
+            <date>2017-08-09</date>
+            <name>Jerusalem corpus of Emergent Modern Hebrew (JEMH) staff</name>
+            <note>Created the initial version of the content in TEI-XML and added dates (some based on estimation)</note>
+         </change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+
+
+
+
+
+
+
+שפה ברורה -
+הקדמה / קלמן
+שולמאן
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+שפה
+ברורה –
+הקדמה
+
+קלמן
+שולמן
+
+
+
+ 
+
+
+
+
+ 
+  
+  שפה
+  ברורה
+   
+  תכלכל
+   
+  קבצת
+  מליצות
+  וספורים
+  שונים
+  יסודתם בשפת
+  קדש צחה
+  גם העתקות
+  ותוצאות
+  מספרי חכמי
+  העמים
+   
+  יצאה 
+  ראשונה
+  לאור בשנת
+  תר"ח,
+  ועתה
+  העתקתיה
+  בפעם שנית
+  בתקונים
+  והוספות.
+   
+  הקדמה
+  המחברת
+  הזאת יצאה
+  ראשונה לאור
+  בשנת 1847, ותמצא
+  חן בעיני כל
+  רואיה, עד כי
+  גם הרב החכם
+  הנעלה אוצר
+  שפת קדשנו דר. י',
+  פירסט הלל
+  אותה במכתב
+  עתו המהלל
+  (אריענט שנת 1849
+  נומרא 49),
+  וכמוהו עוד
+  רבים מבני ציון
+  היקרים
+  המוקירים את
+  יקרת לשוננו
+  היקרה, אצלו
+  לה תהלה אשר
+  לא יחלתי ולא
+  פללתי כי תהיה
+  כזאת.  והנה
+  זה שנים רבות
+  ספה תמה
+  המחברת ההיא,
+  ורבים
+  דורשיה בכל
+  עיר ומדינה,
+  על כן נועצתי
+  להוציאה
+  שנית לאור, אך
+  בפעם הזאת
+  עשיתי עוד
+  יתרה
+  והוספתי
+  עליה דברים
+  רבים אשר לא
+  היו בה
+  בראשונה. 
+  ואקו כי
+  גם עתה אשר
+  חזון שפת
+  הקדש נפרץ
+  מאד בארצנו,
+  תמצא עוד
+  המחברת הזאת
+  חן בעיני
+  שוחרי השפה הזאת
+  באמת. 
+  ואני תפלה
+  לאל חי כי
+  יחייני
+  ויעזור לי
+  להוציא לאור
+  גם את ספרי קדמוניות
+  היהודים
+  להכהן המשיח יוסף
+  בן מתתיהו
+  ז"ל אשר
+  העתקתים
+  ללשוננו
+  הקדושה
+  ושמתי עליהם
+  נוספות
+  הערות רבות
+  ומועילות.  והקורא
+  המשכיל יראה
+  כי מרבית
+  הענינים אשר
+  במחברת הזאת,
+  לקוחים הם
+  מסופרי חכמי
+  העמים, אך
+  במקומות
+  רבים נטיתי
+  מדרכיהם
+  ושמתי
+  הגות רוחי לקו
+  והלך
+  הגיוני
+  למשקלת, ומה
+  גם בספור
+  "אלישע בן
+  אבויה" אשר
+  שניתי פניו
+  ורוח חדשה
+  נתתי בו. 
+  ויתר
+  הדברים אשר במחברת
+  הזאת הרו
+  והגו מורשי
+  לבבי בנוח
+  עלי רוח
+  רגש
+  וימריצנו
+  לשפוך שיחי
+  על הגליון.  וברצות
+  ה' דרכי אוציא
+  לאור גם את
+  יתר החוברות
+  הערוכות בכל
+  ושמורות
+  לצאת
+  ממסגרותיהן
+  לעת מצוא.
+  
+ 
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+</body>
+   </text>
+</TEI>

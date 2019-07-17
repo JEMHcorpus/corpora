@@ -1,0 +1,165 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>על השחיטה</title>
+            <author>חיים נחמן ביאליק</author>
+            <respStmt>
+               <name>Mandel Scholion Hebrew Revival Research Group</name>
+               <resp>Formatting of content from the Ben-Yehuda Project to TEI-XML according to the TEI P5 Guidelines.
+                  Addition of dates, not present in the online version, by Shira Wigderson, Asaf Isser, Adi Cohen, Nitzan Cohen, and Adi Cohen.
+               </resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <authority>Project Ben-Yehuda</authority>
+            <idno>http://benyehuda.org/bialik/bia061.html</idno>
+         </publicationStmt>
+         <sourceDesc xml:lang="Hebrew">
+            <bibl>
+               <date when="1903" notBefore="1903-01-01" notAfter="1903-12-31"/>
+            </bibl>
+            <p>The Ben-Yehuda Project (http://benyehuda.org/). Content provided within the Ben-Yehuda Hackathon at the University of Haifa (THATCamp Haifa, February 2014).</p>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <change>
+            <date>2018-11-01</date>
+            <name>Omer Waldman</name>
+            <note>Correction of previously annotated dates and addition of dates to majority of the works</note>
+         </change>
+         <change>
+            <date>2017-08-09</date>
+            <name>Jerusalem corpus of Emergent Modern Hebrew (JEMH) staff</name>
+            <note>Created the initial version of the content in TEI-XML and added dates (some based on estimation)</note>
+         </change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+
+
+
+
+
+
+
+על השחיטה / חיים נחמן ביאליק
+
+
+
+
+
+
+
+
+
+
+
+
+על השחיטה
+
+ 
+
+שמים,
+בקשו רחמים עלי!
+
+אם-יש בכם אל
+ולאל בכם נתיב –
+
+ו א נ י   לא מצאתיו –
+
+התפללו
+אתם עלי!
+
+א נ י   –   לבי מת ואין עוד תפלה בשפתי,
+
+וכבר אזלת יד
+אף-אין תקוה עוד –
+
+עד-מתי,
+עד-אנה, עד-מתי?
+
+ 
+
+התלין! הא
+צואר – קום שחט!
+
+ערפני
+ככלב, לך זרע עם-קרדם,
+
+וכל-הארץ לי
+גרדם –
+
+ואנחנו –
+אנחנו המעט!
+
+דמי מתר –
+הך קדקד, ויזנק דם רצח,
+
+דם יונק ושב
+על-כתנתך –
+
+ולא ימח
+לנצח, לנצח.
+
+ 
+
+ואם יש-צדק –
+יופע מיד!
+
+אך אם-אחרי
+השמדי מתחת רקיע
+
+הצדק יופיע –
+
+ימגר-נא
+כסאו לעד!
+
+וברשע
+עולמים שמים ימקו;
+
+אף-אתם לכו,
+זדים, בחמסכם זה
+
+ובדמכם חיו
+והנקו.
+
+ 
+
+וארור האומר:
+נקם!
+
+נקמה כזאת,
+נקמת דם ילד קטן
+
+עוד לא-ברא
+השטן –
+
+ויקב הדם
+את-התהום!
+
+יקב הדם עד
+תהמות מחשכים,
+
+ואכל בחשך
+וחתר שם
+
+כל-מוסדות הארץ
+הנמקים.
+
+ 
+
+אייר, תרס"ג.
+
+
+
+
+
+  
+
+
+</body>
+   </text>
+</TEI>

@@ -1,0 +1,136 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>לאחר פּסק-דין אחד</title>
+            <author>משה בילינסון</author>
+            <respStmt>
+               <name>Mandel Scholion Hebrew Revival Research Group</name>
+               <resp>Formatting of content from the Ben-Yehuda Project to TEI-XML according to the TEI P5 Guidelines.
+                  Addition of dates, not present in the online version, by Shira Wigderson, Asaf Isser, Adi Cohen, Nitzan Cohen, and Adi Cohen.
+               </resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <authority>Project Ben-Yehuda</authority>
+            <idno>http://benyehuda.org/beilinson/beil083.html</idno>
+         </publicationStmt>
+         <sourceDesc xml:lang="Hebrew">
+            <bibl>
+               <date when="1925" notBefore="1925-01-01" notAfter="1925-12-31"/>
+            </bibl>
+            <p>The Ben-Yehuda Project (http://benyehuda.org/). Content provided within the Ben-Yehuda Hackathon at the University of Haifa (THATCamp Haifa, February 2014).</p>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <change>
+            <date>2018-11-01</date>
+            <name>Omer Waldman</name>
+            <note>Correction of previously annotated dates and addition of dates to majority of the works</note>
+         </change>
+         <change>
+            <date>2017-08-09</date>
+            <name>Jerusalem corpus of Emergent Modern Hebrew (JEMH) staff</name>
+            <note>Created the initial version of the content in TEI-XML and added dates (some based on estimation)</note>
+         </change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+
+
+
+
+
+
+לאחר פסק-דין אחד / משה בילינסון
+
+
+
+ 
+
+
+
+
+  
+  
+
+
+לאחר פסק-דין אחד
+
+משה בילינסון
+
+
+
+ 
+
+
+
+
+ 
+  
+  החלטת בית-הדין בירושלים לדחות את זכות הערעור
+  של שיף ופינקל ממיטה סכנה רצינית על תנועת הפועלים בארץ.  לפי החלטה זו רשאית האדמיניסטרציה להשתמש
+  בפקודה למניעת פשעים גם בסכסוכי עבודה. 
+  נוסח "הפקודה למניעת פשעים" הוא כה גמיש, עד שיתכן הדבר,
+  כי בית-דין שאינו רוצה לדעת לא את תולדות הפקודה ולא את המצב המדיני
+  המיוחד אשר בו הוצאה ולו נתכוונה, ואין לפניו אלא נקודת-מבט פורמלית
+  סתם, יכניס גם סכסוך-עבודה לחוג ה"פשעים", אשר האדמיניסטרציה
+  רשאית למנוע בעדם באמצעיה היא.  זכות
+  זו, אשר נטלה לה פעם האדמיניסטרציה על דעת עצמה, קיבלה מעתה תוקף חוקי מטעם
+  המשפט העליון בארץ.  וזכות זו
+  עלולה למסור את היחסים בין הפועלים והבעלים, את כל מלחמתו של הפועל על
+  הטבת תנאי חייו, את כל עבודת הארגון של תנועת הפועלים, ואפילו את גורלם
+  הפרטי של העוסקים בעניני ציבור של כלל הפועלים – לשיפוטה, להכרעתה
+  ולשרירות לבה של האדמיניסטרציה.  
+  מצב זה, העושה למפרע את תנועת הפועלים
+  לבלתי חוקית, אין לשאתו ואין להשלים אתו בשום אופן.  אין להירגע ולסמוך על זה, שלא כל השופטים
+  ישתמשו בפקודה זו לגבי סכסוכי עבודה. 
+  יתכן, ששופט זה או אחר יבין כי השימוש בפקודה הזאת אינו הולם
+  כלל את הסכסוכים הסוציאליים.  אולם
+  תנועת הפועלים אינה יכולה להיות תלויה ברוחב דעתו או בקוצר השגתו
+  של שופט פלוני או אלמוני.  תנועת
+  הפועלים צריכה להרגיש קרקע מוצקת תחת רגליה. 
+  היא צריכה לדעת, כי קיומה ופעולתה הם בגדר החוק ולא מחוץ
+  להגנתו, וכי במקרה של בירור משפטי לא יהיו החוק והשופט כלי-נשק בידי
+  מתנגדיה.  
+  אחרי פסק-דין זה של המשפט העליון אין דרך
+  אחרת אלא פקודה חדשה, אשר תגדיר בנוסחה ברורה ומדויקת את תחומי השימוש
+  בפקודה למניעת פשעים, ואשר תוציא, על כל פנים, את סכסוכי העבודה מחוג
+  סמכותה.  הזמן אשר בו הוצאה הפקודה
+  – אחרי הפרעות – והמכתב-החוזר של סמואל המבטיח את חופש השביתה, אינם מניחים
+  כל ספר בכונתו האמיתית של המחוקק.  ולפיכך
+  פסק-הדין הירושלמי, גם אם אינומתנגד לאות של החוק, הרי הוא מתנגד
+  לרוחו.  
+  אם אין הממשלה הארצישראלית רוצה לקבוע לה
+  עמדה מסוימת נגד הפועלים ועל צדם של הקבלנים והבעלים; אם היא אינה רוצה
+  לקפח את זכות השביתה שיש לפועל בכל העולם, ושהוכרה כאן על-ידי השלטון
+  הקודם; אם יש לה ההבנה האלמנטרית לכך, שסכסוכים סוציאליים לא יפתרו בדרך
+  שלטון בלתי-מוגבל של האדמיניסטרציה – כי אז עליה להרחיק את הטעות הפורמליסטית
+  שנפלה כאן, בעטים של השופטים ביפו וירושלים, ולהגדיר בפירוש את
+  תחומיה של הפקודה, ולהבטיח בגלוי את זכות הפועלים.  
+   
+  כ"ה אלול תרפה (14.9.1925)
+  
+ 
+
+
+
+
+ 
+
+
+
+
+
+ 
+
+
+
+
+
+
+</body>
+   </text>
+</TEI>

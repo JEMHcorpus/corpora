@@ -1,0 +1,141 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>שתי הרחלים</title>
+            <author>יהודה ליב גורדון</author>
+            <respStmt>
+               <name>Mandel Scholion Hebrew Revival Research Group</name>
+               <resp>Formatting of content from the Ben-Yehuda Project to TEI-XML according to the TEI P5 Guidelines.
+                  Addition of dates, not present in the online version, by Shira Wigderson, Asaf Isser, Adi Cohen, Nitzan Cohen, and Adi Cohen.
+               </resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <authority>Project Ben-Yehuda</authority>
+            <idno>http://benyehuda.org/yalag/ylg158.html</idno>
+         </publicationStmt>
+         <sourceDesc xml:lang="Hebrew">
+            <bibl>
+               <date when="1859" notBefore="1859-01-01" notAfter="1859-12-31"/>
+            </bibl>
+            <p>The Ben-Yehuda Project (http://benyehuda.org/). Content provided within the Ben-Yehuda Hackathon at the University of Haifa (THATCamp Haifa, February 2014).</p>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <change>
+            <date>2018-11-01</date>
+            <name>Omer Waldman</name>
+            <note>Correction of previously annotated dates and addition of dates to majority of the works</note>
+         </change>
+         <change>
+            <date>2017-08-09</date>
+            <name>Jerusalem corpus of Emergent Modern Hebrew (JEMH) staff</name>
+            <note>Created the initial version of the content in TEI-XML and added dates (some based on estimation)</note>
+         </change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+
+
+
+
+
+
+
+שתי הרחלים / יהודה ליב גורדון
+
+
+
+ 
+
+
+
+
+  
+  
+
+
+שתי הרחלים /
+יהודה ליב גורדון
+
+ 
+
+נותן מלחמו לדל איש טוב עינים,
+
+צדקתו תעמד לו בשאון ים החיים,
+
+יעבר שלום ופגעיו לו לא יוכלו,
+
+כי תמוט רגלו – אשרו לא תשפך,
+
+רבים עזרים לו עת גלגלו יהפך,      
+
+וכמו תמכו ידיו אחרים נפלו.
+
+אולם איש מחפץ דלים מונע
+
+יהיה שלל אל כל גל בו פוגע,
+
+מכבד לב אבן יצל כעופרת;
+
+אלהים ואנשים יעמדו מנגד
+
+עת תבגד טובתו כנחל בו בגד,
+
+עקב נתן גם הוא כתף סוררת.
+
+ושניהם לשתי הרחלים נמשלו
+
+שיחד בדרך נדדו אזלו –
+
+עטופה צמרה היתה האחת,
+
+השנית אך יצא יצאה מתחת
+
+תער גזזיה. ובעלת הצמר
+
+לעגה לאחותה הגזוזה ותאמר:
+
+"איככה זה נאלמת לפני גזזיך
+
+עת חשפו שתך, הפשיטו מעליך
+
+הצמר, שלמת אדר
+
+כל אבירי העדר ?!"
+
+מדי דברה באו לנהר מי שחו
+
+יחלף בסערה יחצה לב האחו,
+
+ושתיהן באו בו עד לב המצולה,
+
+אך שם המסבלה האמלה
+
+כרעה נפלה טבעה,
+
+כי עלו המים בקוצותיה
+
+ויכבידו עליה;
+
+הגזוזה עברה שלום, כל רע לא ידעה.
+
+ 
+
+
+
+
+
+ 
+
+
+
+
+
+
+</body>
+   </text>
+</TEI>

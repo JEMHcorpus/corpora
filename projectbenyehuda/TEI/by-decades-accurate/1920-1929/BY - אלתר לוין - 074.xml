@@ -1,0 +1,184 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>בנפול מגדלים</title>
+            <author>אלתר לוין</author>
+            <respStmt>
+               <name>Mandel Scholion Hebrew Revival Research Group</name>
+               <resp>Formatting of content from the Ben-Yehuda Project to TEI-XML according to the TEI P5 Guidelines.
+                  Addition of dates, not present in the online version, by Shira Wigderson, Asaf Isser, Adi Cohen, Nitzan Cohen, and Adi Cohen.
+               </resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <authority>Project Ben-Yehuda</authority>
+            <idno>http://benyehuda.org/levin/074.html</idno>
+         </publicationStmt>
+         <sourceDesc xml:lang="Hebrew">
+            <bibl>
+               <date when="1920" notBefore="1920-01-01" notAfter="1920-12-31"/>
+            </bibl>
+            <p>The Ben-Yehuda Project (http://benyehuda.org/). Content provided within the Ben-Yehuda Hackathon at the University of Haifa (THATCamp Haifa, February 2014).</p>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <change>
+            <date>2018-11-01</date>
+            <name>Omer Waldman</name>
+            <note>Correction of previously annotated dates and addition of dates to majority of the works</note>
+         </change>
+         <change>
+            <date>2017-08-09</date>
+            <name>Jerusalem corpus of Emergent Modern Hebrew (JEMH) staff</name>
+            <note>Created the initial version of the content in TEI-XML and added dates (some based on estimation)</note>
+         </change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+
+
+
+
+
+
+
+בנפול מגדלים / אלתר לוין
+
+
+
+
+
+
+
+
+בנפל
+מגדלים
+
+אלתר
+לוין
+
+ 
+
+אז ברעש
+עולמים ואיתנים כי ירעדו
+
+ונפלו על
+שאונם, על גדלם ותפארתם
+
+ונביאים כי
+יתנבאו ונבאו לימות זעם:
+
+טירות הוד
+יהרסו והיכלי שן הגמונים
+
+אבני גיר
+ינפצו, בירניות תרעדנה;
+
+תרעדנה
+חומות עמים על אבקן ועפרן,
+
+לרסיסים היה
+יהיו גם עפל וגם בחן;
+
+ונפל ביום
+ההוא גם אותו מבצר מרום,
+
+מבצר כח
+אנוש, מבצר בו בטחנו –
+
+אז בנפל
+מגדלים
+
+מפני סער
+מדבר, סער לא ידענו,
+
+משלח
+האדירים פתאם יבא לנו
+
+והרס ולא חמל
+את אשר חוללנו
+
+מעשה אנוש
+מימות דורות דור
+
+ונגע גם
+באלים ובמעללי ידם
+
+ושרש גם
+ארזים והפך הרי הרים
+
+ולא יחמל גם
+על שטן –
+
+אז בנפל
+מגדלים,
+
+לא נתן
+לזלעפה להרס ארץ רבה,
+
+להפך
+אדמתנו כסדום ופמפיה;
+
+נכונה לימות
+זעם, נבוז לברק אויב,
+
+חומה נבנה
+לנו אשר תבוז סער!
+
+חומת אש
+וברקים והעמדנו חומותים!
+
+אם אבני גיר
+נפצו, לבבות נבנה לנו
+
+החזקים
+שבעתים ממבצרי הסלעים – 
+
+ועל חומת לב
+ונשמה
+
+גדודי דם
+וברזל נעמיד החילים,
+
+בראשם שר
+שמים הרוח שוכן בנו,
+
+החוצה נשלחהו
+למען ילחם בנו,
+
+וידעו
+האבירים כי רוח יש בעברי
+
+המגן על
+מגדלים בניו בו בטחו,
+
+בו בטחו
+מבראשית גם אבות אבותיו –
+
+וידע לו
+האויב הוא ובאי אחריו:
+
+בנפל מגדלי
+עמים לא נפלו מגדלינו!
+
+ 
+
+ 
+
+
+
+
+
+ 
+
+
+
+
+
+
+</body>
+   </text>
+</TEI>

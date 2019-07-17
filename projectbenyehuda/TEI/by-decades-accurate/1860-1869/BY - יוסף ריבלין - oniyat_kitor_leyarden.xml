@@ -1,0 +1,136 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>אנית קיטור לירדן</title>
+            <author>יוסף ריבלין</author>
+            <respStmt>
+               <name>Mandel Scholion Hebrew Revival Research Group</name>
+               <resp>Formatting of content from the Ben-Yehuda Project to TEI-XML according to the TEI P5 Guidelines.
+                  Addition of dates, not present in the online version, by Shira Wigderson, Asaf Isser, Adi Cohen, Nitzan Cohen, and Adi Cohen.
+               </resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <authority>Project Ben-Yehuda</authority>
+            <idno>http://benyehuda.org/rivlin/oniyat_kitor_leyarden.html</idno>
+         </publicationStmt>
+         <sourceDesc xml:lang="Hebrew">
+            <bibl>
+               <date when="1864" notBefore="1864-01-01" notAfter="1864-12-31"/>
+            </bibl>
+            <p>The Ben-Yehuda Project (http://benyehuda.org/). Content provided within the Ben-Yehuda Hackathon at the University of Haifa (THATCamp Haifa, February 2014).</p>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <change>
+            <date>2018-11-01</date>
+            <name>Omer Waldman</name>
+            <note>Correction of previously annotated dates and addition of dates to majority of the works</note>
+         </change>
+         <change>
+            <date>2017-08-09</date>
+            <name>Jerusalem corpus of Emergent Modern Hebrew (JEMH) staff</name>
+            <note>Created the initial version of the content in TEI-XML and added dates (some based on estimation)</note>
+         </change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+
+
+
+
+
+
+
+אנית קיטור לירדן / יוסף ריבלין
+
+
+
+ 
+
+
+
+
+  
+  
+
+
+אנית-קיטור לירדן
+
+יוסף ריבלין
+
+
+
+ 
+
+
+
+
+ 
+  
+  ירושלים בחודש ניסן תרכ"ד.
+  אם חפץ בי בעל "המגיד" כי אודיעהו חדשות
+  ונצורות הנעשות פה בכל עת אחרי כי מכתב העתי "הלבנון" באדיר נפל ולא
+  יוסיף קום, וגם מכה"ע "החבצלת" נבולו עליה ויבש קצירה, (כי נשבתו
+  מטעם הממשלה הרוממה רי"ה) אז ישמיעני דברו* ואודיעהו כל הנדרש לדעת. 
+  ונכון לבו יהי בטוח כי כל דברי ריבות בעניני הכוללים בשערי ירושלים לא
+  ישמעו על פי כי גם אנכי בחלה נפשי בהם מאד מאד...  רק אודיע לו קשט אמרי אמת עניני חדשות כוללות והי' זה שכרי
+  כי ישלח לי את "המגיד" מדי שבת בשבתו.
+  ביום א' דר"ח אדר שני הובאה אנית-קטור
+  מפורקת טעונה על דבשת עשרים גמלים הולכים להורידם הירדנה. לשום עתה גם במי הירדן
+  נתיבה לאניות אשר בו יהלכון.  הדבר
+  החדש הזה נכבד מאד והרעיון יקר. 
+  בעלי האניה הם אנשים צרפתים ואין מי תכן רוחם אל נכון לדעת הדרך ילכו בו
+  והמעשה אשר יעשון.  רבות הנה
+  ההשערות אדות הענין הזה.  זה אומר
+  בכה וזה בכה, ימים יודיעו את פעולתם ואת מחשבתם.  בני עמנו המחכים בכליון עינים לקיום יעודי נביאינו וחוזינו
+  הקדושים נותנים להאניה הדאה (לע"ע) על כנפי הרוח, דרך לעבור גאולים – ואף
+  הם ישיבו אמריהם להם כי מי הירדן יכרתו והוא יסוב לאחור, וכימי עלותם ממצרים
+  יראנו פלאות, כן יהי רצון מפני צור ישראל וגואלו בב"א.
+                                                                                                                   אדי"ר.
+                                                                                           המגיד,
+  ה' באייר תרכ"ד.
+  
+ 
+
+
+
+
+ 
+
+
+
+
+
+ 
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+*
+עשה כן כאשר דברת רק בתנאי מפורש קודם למעשה שלא לנגח במחלוקת הכוללים שאינה לשם
+שמים ורק לבושת ולחרפת בני עמנו החוננים עפר ציון.  –  את המגיד נשלח
+לך כחפצך.  המו"ל.
+
+
+
+
+
+
+
+
+</body>
+   </text>
+</TEI>

@@ -1,0 +1,122 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>מגילת קדם</title>
+            <author>רחל בלובשטיין</author>
+            <respStmt>
+               <name>Mandel Scholion Hebrew Revival Research Group</name>
+               <resp>Formatting of content from the Ben-Yehuda Project to TEI-XML according to the TEI P5 Guidelines.
+                  Addition of dates, not present in the online version, by Shira Wigderson, Asaf Isser, Adi Cohen, Nitzan Cohen, and Adi Cohen.
+               </resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <authority>Project Ben-Yehuda</authority>
+            <idno>http://benyehuda.org/rachel/megilat.html</idno>
+         </publicationStmt>
+         <sourceDesc xml:lang="Hebrew">
+            <bibl>
+               <date when="1920" notBefore="1920-01-01" notAfter="1920-12-31"/>
+            </bibl>
+            <p>The Ben-Yehuda Project (http://benyehuda.org/). Content provided within the Ben-Yehuda Hackathon at the University of Haifa (THATCamp Haifa, February 2014).</p>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <change>
+            <date>2018-11-01</date>
+            <name>Omer Waldman</name>
+            <note>Correction of previously annotated dates and addition of dates to majority of the works</note>
+         </change>
+         <change>
+            <date>2017-08-09</date>
+            <name>Jerusalem corpus of Emergent Modern Hebrew (JEMH) staff</name>
+            <note>Created the initial version of the content in TEI-XML and added dates (some based on estimation)</note>
+         </change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+
+
+
+
+
+
+
+מגילת קדם / רחל
+
+
+
+
+
+
+
+
+
+
+מגלת קדם
+
+לאסף הלוי איש ירושלים
+
+רחל
+
+
+
+ 
+
+
+
+
+ 
+  
+  איש-ירושלים. אכן, אין להטיל ספק בירושלמיותו
+  של אסף הלוי.  כי איפה, אם לא בפנה
+  נדחת זו, נשתמרו תום-רגשות והשקפת עולם אידאלית שכאלה?
+  ה"שאלות הארורות" לא יצקו את רעלן
+  לתוך נשמתו, סערות-מרד איומות לא כווהו במגען,  והריהו יושב לו שטוף-זהרה של שמש-מולדת וחורז חרוזים
+  לכבודה.  ואנו, מפונקי דקות חולנית
+  של נפש בת-דורנו טפוחי מעוף-הרעיון ותהומות-ההרגשה, מסתכלים בתמהון בצמצום,
+  בבהירות ילדותית זו, ויהי הפייטן עצמו בעינינו כעין "מגלת-קדם"...
+  יש, אמנם, גם לאדם מודרני שאיפה
+  לפרימיטיביות;  אך שם היא באה מתוך
+  הרכבה של כוח אלמנטרי ותרבותיות יתרה; 
+  מה שאין כאן.
+  ומה יש כאן? – אהבה לנוף-מכורותיו, שהיא
+  נוגעת עד הלב בפשטות בטויה הילדותי, יש הבנה לרוחה של אגדה ערבית.  ויש אשר תעלה מבין דפי-הספר נשימת ארץ
+  קדומה באויר-הרחמים שלה, בכספי לילותיה, "ביריעת דינור עוטפת
+  שפולי-רקיעים".
+  לשונו העברית היא למדי ואף עשירה.  אך היא כמעט משוללת תמונות,
+  צבעי-דמיון, השאלות פיוטיות.
+  שירים אחרים מוצלחים הם מאד לפי שלמות סגנונם
+  וחן-המקום, כגון: 
+  "השבב".  על
+  אחרים נסוך חוט של הומור נעים. 
+  כזה הוא השיר "אפותיקי":  חולה במחלת-יבשה אנכי.
+   
+  תר"פ
+  
+   
+  
+ 
+
+
+
+
+ 
+
+
+
+
+
+ 
+
+
+
+
+
+
+</body>
+   </text>
+</TEI>

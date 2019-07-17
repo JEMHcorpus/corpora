@@ -1,0 +1,212 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>שם ברמה</title>
+            <author>דוד פרישמן</author>
+            <respStmt>
+               <name>Mandel Scholion Hebrew Revival Research Group</name>
+               <resp>Formatting of content from the Ben-Yehuda Project to TEI-XML according to the TEI P5 Guidelines.
+                  Addition of dates, not present in the online version, by Shira Wigderson, Asaf Isser, Adi Cohen, Nitzan Cohen, and Adi Cohen.
+               </resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <authority>Project Ben-Yehuda</authority>
+            <idno>http://benyehuda.org/frischmann/sham.html</idno>
+         </publicationStmt>
+         <sourceDesc xml:lang="Hebrew">
+            <bibl>
+               <date when="1892" notBefore="1892-01-01" notAfter="1892-12-31"/>
+            </bibl>
+            <p>The Ben-Yehuda Project (http://benyehuda.org/). Content provided within the Ben-Yehuda Hackathon at the University of Haifa (THATCamp Haifa, February 2014).</p>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <change>
+            <date>2018-11-01</date>
+            <name>Omer Waldman</name>
+            <note>Correction of previously annotated dates and addition of dates to majority of the works</note>
+         </change>
+         <change>
+            <date>2017-08-09</date>
+            <name>Jerusalem corpus of Emergent Modern Hebrew (JEMH) staff</name>
+            <note>Created the initial version of the content in TEI-XML and added dates (some based on estimation)</note>
+         </change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+
+
+
+
+
+
+
+שם ברמה / דוד פרישמן
+
+
+
+
+
+
+
+
+שם ברמה
+
+ 
+
+שם ברמה, שם
+נשקפת
+
+חרבה שממה
+אף נופלת,
+
+ובלילה שדי
+לילה
+
+שם יחלו, שם
+ירקדו.
+
+ 
+
+אך מלפנים,
+בימי קדם,
+
+שם – עוד
+זוכרים – ראתה עין
+
+בית גדול,
+בית-הכנסת,
+
+ובחורים שם
+למדו.
+
+ 
+
+ובחורים שם
+למדו – 
+
+אך בעמק שם
+באהל
+
+יחד אם ובת
+ישבו; 
+
+בת לוקחת לב
+רואיה.
+
+ 
+
+שם ברמה, שם
+ילמדו – 
+
+אך גם נפש
+יש לנער,
+
+נפש חפצה;
+ואחד נער
+
+חמד, אהב
+הנחמדה.
+
+ 
+
+לילה, לילה,
+עת כי נחו
+
+הבחורים
+ויישנו
+
+ויהי עזוב
+בית-הכנסת – 
+
+שם השנים,
+שם נועדו.
+
+ 
+
+שם ישבו, שם
+נעצבו,
+
+ויצחקו, אף
+נשקו; 
+שם שמחו, שם נאנחו – 
+
+אך בא יומם
+כי נתפשו.
+
+ 
+
+כי השמש
+צד אותמו
+
+כצפרים
+לפנות בקר...
+
+ובמקלהו
+ברזל עשת
+
+הכה, הכה
+ראש וזרע.
+
+ 
+
+אז את-חליו
+שם ברמה
+
+חלה שלשים
+יום הנער;
+
+גם הנערה
+שם בעמק
+
+חלתה שלשים
+יום חלתה.
+
+ 
+
+אז שכבו, אז
+נעצבו,
+
+לא צחקו, לא
+נשקו – 
+
+וימותו
+שניהם יחד,
+
+גם הנערה
+גם הנער.
+
+ 
+
+ומני-אז שם
+נשקפת
+
+חרבה שממה
+ומפלת,
+
+ובלילה שדי
+לילה
+
+שם יחלו אף
+ירקדו.
+
+ 
+
+
+
+
+
+ 
+
+
+
+
+
+
+</body>
+   </text>
+</TEI>

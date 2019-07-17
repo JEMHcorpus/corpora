@@ -1,0 +1,313 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>חנה</title>
+            <author>יהודה ליב גורדון</author>
+            <respStmt>
+               <name>Mandel Scholion Hebrew Revival Research Group</name>
+               <resp>Formatting of content from the Ben-Yehuda Project to TEI-XML according to the TEI P5 Guidelines.
+                  Addition of dates, not present in the online version, by Shira Wigderson, Asaf Isser, Adi Cohen, Nitzan Cohen, and Adi Cohen.
+               </resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <authority>Project Ben-Yehuda</authority>
+            <idno>http://benyehuda.org/yalag/Ylg004.html</idno>
+         </publicationStmt>
+         <sourceDesc xml:lang="Hebrew">
+            <bibl>
+               <date when="1852" notBefore="1852-01-01" notAfter="1852-12-31"/>
+            </bibl>
+            <p>The Ben-Yehuda Project (http://benyehuda.org/). Content provided within the Ben-Yehuda Hackathon at the University of Haifa (THATCamp Haifa, February 2014).</p>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <change>
+            <date>2018-11-01</date>
+            <name>Omer Waldman</name>
+            <note>Correction of previously annotated dates and addition of dates to majority of the works</note>
+         </change>
+         <change>
+            <date>2017-08-09</date>
+            <name>Jerusalem corpus of Emergent Modern Hebrew (JEMH) staff</name>
+            <note>Created the initial version of the content in TEI-XML and added dates (some based on estimation)</note>
+         </change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+
+
+
+
+
+
+חנה
+
+
+
+
+
+
+
+
+חנה!
+
+ 
+
+עת עיני
+ראשונה אתך חזיו
+
+נפל מעלימו
+מסך האפל,
+
+כברוח בן
+רגע צאלים נטיו
+
+בזרוח
+השמש מרום ושפל;
+
+כי אזי
+בינותי לשפוט גבוה
+
+כי יש גם
+בארץ מהלכים לאלה.
+
+ 
+
+כי מה אור
+כוכבים, שמש ירח
+
+מול אור
+עפעפיך עת חן תשקיפי?
+
+מה גבעת
+הלבונה כי תתן ריח
+
+מול ריח אפך
+עת אהבה תרעיפי?
+
+הנה נחת גן
+אל נחת פניך
+
+וכאור שבעת
+הימים אור עיניך
+
+ 
+
+על חלקת
+מצחך יד יוצרך לא שמה
+
+לבנת השלג
+וברי צמר צחר;
+
+ובמטוה
+עורקי לחיך לא רקמה
+
+יפעת ארגמן,
+חכלילות השחר:
+
+ומי הבל ייגע
+יפות היפי?
+
+מנו יפעתו –
+לא ישיגו דפי!
+
+ 
+
+נזם לא תעדי,
+לא פז וחלי כתם,
+
+בצמידים
+נוצצים לא רתקו ידיך;
+
+אך תמת
+לבך תרב בך הקסם,
+
+עדיך,
+חליתך – הם חסדך, דודיך;
+
+עוד טל
+ילדותך על מצחך ינוח
+
+הוא ישב לך
+הנפשות, ישלול כל רוח.
+
+ 
+
+לא שלמות הוד
+שלמותיך עליך
+
+ומנקיון
+גוך איכה יטהרו!
+
+לא נעלי פז,
+בת נדיב, מנעליך
+
+ופעמיך בם
+מה-יפו נהדרו.
+
+מותר הוד והדר
+בלבושך אין
+
+אך מהדרתך
+את תכה העין!
+
+ 
+
+כתמר כי
+ישגה רומה תלכי;
+
+כעטרת
+כפתיו עליו סרחת,
+
+כן מקלעות
+שערך תכתרנה ראשכי
+
+בעבתות אהבה
+ובמעדנות נחת;
+
+עינך תחדר
+כל לב, תפיק רב דעת,
+
+קולך מה-נאוה
+אל אזן שומעת.
+
+ 
+
+בערוץ יקהת
+לחיך, עת כי תשחקי,
+
+ירד הנעם לשכון
+משמים;
+
+ופיך עת
+תפצי לב גבר תינקי,
+
+כי טוב טעם
+יזל מנו כמים;
+
+וכניצוץ יכלה
+מפני השלהבת
+
+כן תכל כל
+רוח מולך, נאהבת.
+
+ 
+
+ובאצבע
+אלהים תפרטי על נבל
+
+תוציאי קול בהדר,
+קול בחיל,
+
+וירחים
+ושמשות במבוסת תבל
+
+אל עיני
+יעברון כרסיסי ליל.
+
+גם ארצי
+תחתי ממקומה נדעכה,
+
+הכל בגללך
+– גם אתך אשכחה.
+
+ 
+
+שבתך
+ודברך במסבת בית חבר,
+
+מבטך – אוצר
+כל חמדה וחפץ –
+
+יבקיעו לך
+מהר קירות לב גבר
+
+ממאה תותח,
+כרים וכלי נפץ.
+
+כל מגן לא
+יעמד מול חץ עיניך,
+
+כל מחסה לא
+יסתיר מאור פניך.
+
+ 
+
+שני עת
+החדות לך, חנה, קהו!
+
+אל תיראי
+זקנה המבלה כל יפי,
+
+לך חרמש
+הזמן לא קלקל פניהו;
+
+הגם פרח זה,
+עת רעה, תקטפי?
+
+הן רק ביפי
+בשר ידך משלת,
+
+לא ביפי רוח
+ובנפש משכלת.
+
+ 
+
+הן שושני
+הלחיים תבלנה,
+
+הבשר ירזה,
+צמקות שדים,
+
+עיני חן כהות,
+שני-שן תפלנה
+
+בקרוב
+הזקנה – הוא חרף החיים;
+
+אך כשרון
+נפש, יתרון רוח גבר
+
+עוד ינוב
+יפריח עד עפר קבר.
+
+ 
+
+מראיך
+ראשונה עת הראיתני
+
+נפקחו עיני
+לראות מראות אלה!
+
+אל נא, שמש
+חיי, אל תעזביני
+
+פן ימש חשך
+ויגרמני נה;
+
+פתחי נא
+בלבבך לי שערי שמי
+
+ונעימות
+אל-מות אשבע כל ימי.
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+</body>
+   </text>
+</TEI>

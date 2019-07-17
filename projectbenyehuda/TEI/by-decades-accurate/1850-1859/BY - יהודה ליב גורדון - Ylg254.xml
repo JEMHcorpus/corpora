@@ -1,0 +1,180 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>למאיר לטריס</title>
+            <author>יהודה ליב גורדון</author>
+            <respStmt>
+               <name>Mandel Scholion Hebrew Revival Research Group</name>
+               <resp>Formatting of content from the Ben-Yehuda Project to TEI-XML according to the TEI P5 Guidelines.
+                  Addition of dates, not present in the online version, by Shira Wigderson, Asaf Isser, Adi Cohen, Nitzan Cohen, and Adi Cohen.
+               </resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <authority>Project Ben-Yehuda</authority>
+            <idno>http://benyehuda.org/yalag/Ylg254.html</idno>
+         </publicationStmt>
+         <sourceDesc xml:lang="Hebrew">
+            <bibl>
+               <date when="1858" notBefore="1858-01-01" notAfter="1858-12-31"/>
+            </bibl>
+            <p>The Ben-Yehuda Project (http://benyehuda.org/). Content provided within the Ben-Yehuda Hackathon at the University of Haifa (THATCamp Haifa, February 2014).</p>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <change>
+            <date>2018-11-01</date>
+            <name>Omer Waldman</name>
+            <note>Correction of previously annotated dates and addition of dates to majority of the works</note>
+         </change>
+         <change>
+            <date>2017-08-09</date>
+            <name>Jerusalem corpus of Emergent Modern Hebrew (JEMH) staff</name>
+            <note>Created the initial version of the content in TEI-XML and added dates (some based on estimation)</note>
+         </change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+
+
+
+
+
+
+למאיר לטריס
+
+
+
+
+
+
+
+
+למאיר לטריס
+
+(ביום קבלי מאתו את תמונת פניו על לוח
+למנחה)
+
+ 
+
+נפשי
+אויתיך מקדמת נער,
+
+ובבקר חיי
+ובעודני ילד,
+
+עת שחר
+שחרותי הפיץ הזהר,
+
+עוד בקצות
+הקדים בשמי החלד
+
+תבניתך
+ברוח נכחי עברה
+
+ולמופת לי
+אותך נפשי בחרה.
+
+ 
+
+ושפת קדש
+ללמד כי התעוררתי
+
+אז גם
+בספריך להגות הרביתי,
+
+כי רוח שיר
+ציון במו הכרתי
+
+ומליץ כמוך
+היות אויתי ;
+
+ובכן מעיר
+רוחי מאיר היית
+
+ומבלי
+דעתך את דעתי נחית.
+
+ 
+
+ובסר עץ
+דעתי עת כי יגמל
+
+ופרי בכורים
+אשכלתיו הבשילו,
+
+אז לך, גבר
+חכם, נס לי וסמל.
+
+מפרי בכורי
+ידי שי הובילו,
+
+וברצון מבין
+את פניו קדמת
+
+ובחסד עולם
+גם אותי רחמת.
+
+ 
+
+ובברית אהבה
+אתך הבאתני,
+
+כרע כאח
+עמי התהלכת,
+
+ובלוח צלמך
+כיום כבדתני,
+
+אות אמת הוא
+כי חסד לי משכת,
+
+ולבכורי אות
+כי תמצא בם טעם,
+
+כי לא
+כתאנים שערים כלהם.
+
+ 
+
+נפשי
+אויתיך מקדמת נער,
+
+בחלום חזון
+לבי צלמך חזיתי,
+
+ובהקיץ עתה
+את נעם התאר
+
+פתוחי חותם,
+אל עיני ראיתי :
+
+תבניתך
+בלוח נכחי תנוח,
+
+על כן
+אזכרך עד יומי יפוח.
+
+ 
+
+                                                                              (תרי"ח)
+
+ 
+
+
+
+
+
+ 
+
+
+
+
+
+
+</body>
+   </text>
+</TEI>

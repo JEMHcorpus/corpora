@@ -1,0 +1,238 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>בשורה</title>
+            <author>חיים נחמן ביאליק</author>
+            <respStmt>
+               <name>Mandel Scholion Hebrew Revival Research Group</name>
+               <resp>Formatting of content from the Ben-Yehuda Project to TEI-XML according to the TEI P5 Guidelines.
+                  Addition of dates, not present in the online version, by Shira Wigderson, Asaf Isser, Adi Cohen, Nitzan Cohen, and Adi Cohen.
+               </resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <authority>Project Ben-Yehuda</authority>
+            <idno>http://benyehuda.org/bialik/bia059.html</idno>
+         </publicationStmt>
+         <sourceDesc xml:lang="Hebrew">
+            <bibl>
+               <date when="1903" notBefore="1903-01-01" notAfter="1903-12-31"/>
+            </bibl>
+            <p>The Ben-Yehuda Project (http://benyehuda.org/). Content provided within the Ben-Yehuda Hackathon at the University of Haifa (THATCamp Haifa, February 2014).</p>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <change>
+            <date>2018-11-01</date>
+            <name>Omer Waldman</name>
+            <note>Correction of previously annotated dates and addition of dates to majority of the works</note>
+         </change>
+         <change>
+            <date>2017-08-09</date>
+            <name>Jerusalem corpus of Emergent Modern Hebrew (JEMH) staff</name>
+            <note>Created the initial version of the content in TEI-XML and added dates (some based on estimation)</note>
+         </change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+
+
+
+
+
+
+
+בשורה / חיים נחמן ביאליק
+
+
+
+
+
+
+
+
+
+
+
+
+בשורה
+
+ 
+
+א
+
+ 
+
+חץ זהב ננעץ
+לרגלי,
+
+נפל כפתק
+מרקיע;
+
+ברור לי מלל
+ברק זהרו:
+
+דע, כי האביב
+הגיע!
+
+ 
+
+ואור חדש נפל
+בעולם –
+
+פחז הרוח
+ראשונה,
+
+שט ויעבר
+הבשורה:
+
+חדשות,
+חדשות תבאנה!
+
+ 
+
+שלוליות
+שמעו נחפזו,
+
+פזז וכרכר
+תרנה,
+
+אחת מול
+חברתה צהלת:
+
+הו, הו, חדשות
+תבאנה!
+
+ 
+
+פתח אל צהר
+במרום,
+
+לאמר: צאו,
+כרובים קטנים,
+
+פשטו בעולם
+וזרו בו
+
+ריח של-חיים
+רעננים.
+
+ 
+
+פתאם והנה
+גם-סנונית –
+
+אי מזה באה
+הפזיזה?
+
+חלפה כחץ,
+וממרום גג
+
+על חג העולם
+הכריזה –
+
+ 
+
+ב
+
+ 
+
+הולכים וזכים
+העבים,
+
+הולכים העבים
+וקלים;
+
+שבילי רקיע
+של-תכלת
+
+חדשה ובהירה
+מתגלים.
+
+ 
+
+אשא למרום
+את-עיני –
+
+נפרצה מחיצת
+העבים,
+
+פנים אל-פנים
+אדבר
+
+עם השמים
+הנאוים.
+
+ 
+
+פה אל-פה
+צנור לבבי
+
+אפתחה לקראת
+צנורם:
+
+יזלפו שחקים
+שפעתם,
+
+טהר ערבותם,
+זיו אורם;
+
+ 
+
+תזל
+על-ראשי, אל-לבי
+
+אותה התכלת
+הנקיה;
+
+תבא בקרבי
+כריח
+
+גן-עדן
+וכטללי תחיה!
+
+ 
+
+כבר תשמע
+אזני על-ראשי
+
+משק כנפים
+צחרחרות;
+
+כבר מרגיש
+לבי על-נימיו
+
+פזוז קרנים
+ואורות.
+
+ 
+
+פרו ורבו,
+אורים, בלבבי,
+
+זעזעו
+את-נימיו – וחיו,
+
+ובבת-אחת
+כל-קרבי
+
+שירה חדשה
+יהמיו.
+
+ 
+
+ניסן, תרס"ג.
+
+
+
+
+
+  
+
+
+</body>
+   </text>
+</TEI>

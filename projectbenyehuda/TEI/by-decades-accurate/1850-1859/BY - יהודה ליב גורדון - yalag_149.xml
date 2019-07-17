@@ -1,0 +1,150 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>איש שעיר ואיש חלק</title>
+            <author>יהודה ליב גורדון</author>
+            <respStmt>
+               <name>Mandel Scholion Hebrew Revival Research Group</name>
+               <resp>Formatting of content from the Ben-Yehuda Project to TEI-XML according to the TEI P5 Guidelines.
+                  Addition of dates, not present in the online version, by Shira Wigderson, Asaf Isser, Adi Cohen, Nitzan Cohen, and Adi Cohen.
+               </resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <authority>Project Ben-Yehuda</authority>
+            <idno>http://benyehuda.org/yalag/yalag_149.html</idno>
+         </publicationStmt>
+         <sourceDesc xml:lang="Hebrew">
+            <bibl>
+               <date when="1859" notBefore="1859-01-01" notAfter="1859-12-31"/>
+            </bibl>
+            <p>The Ben-Yehuda Project (http://benyehuda.org/). Content provided within the Ben-Yehuda Hackathon at the University of Haifa (THATCamp Haifa, February 2014).</p>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <change>
+            <date>2018-11-01</date>
+            <name>Omer Waldman</name>
+            <note>Correction of previously annotated dates and addition of dates to majority of the works</note>
+         </change>
+         <change>
+            <date>2017-08-09</date>
+            <name>Jerusalem corpus of Emergent Modern Hebrew (JEMH) staff</name>
+            <note>Created the initial version of the content in TEI-XML and added dates (some based on estimation)</note>
+         </change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+
+
+
+
+
+
+
+איש שעיר ואיש חלק / יהודה ליב גורדון
+
+
+
+
+
+
+
+
+איש שעיר ואיש חלק
+
+יהודה ליב גורדון 
+
+ 
+
+איש שעיר אחד
+כלו כאדרת,
+
+קדקד שער לו
+לצניף תפארת,
+
+רקתו ולחייו
+מסבת שער
+
+כעלים המכסים
+לעצי היער,
+
+וקוצתיו הערוכות
+תלתלים
+
+על תלמי ים שערותיו
+כגלים;
+
+השני קרח חלק
+כתרן,
+
+אין יש לו אף שערה
+אחת
+
+בקרחת ובגבחת.
+
+ושנימו נצבו
+פתח הגרן.
+
+וילעג השעיר
+ויאמר אל רעהו:
+
+"השער לאדם
+עדיו הנהו;
+
+אולם הקרחה
+מום היא לו ופחתת,
+
+כל תאר תגעיל,
+כל פנים מאסת,
+
+אין בה שמץ דבר
+טוב ונחת".
+
+ובדברו ויעל
+המץ מן הרחת
+
+ויכס את שניהם
+באבק פרח;
+
+אז ידו על ראשו
+יעביר הקרח
+
+וימח המץ רגע
+ויעבירנו,
+
+ובשער השני
+דבק כספחת
+
+לא יכל למיש את
+ראשו ממנו.
+
+ 
+
+אין רע שלם בתבל
+לאיש דעת,
+
+בכל חסרון יש
+יתרון, ומותר בכל מגרעת.
+
+ 
+
+ 
+
+
+
+
+
+ 
+
+
+
+
+
+
+</body>
+   </text>
+</TEI>

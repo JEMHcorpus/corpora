@@ -1,0 +1,163 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>אך קינה ונהי</title>
+            <author>אורי ניסן גנסין</author>
+            <respStmt>
+               <name>Mandel Scholion Hebrew Revival Research Group</name>
+               <resp>Formatting of content from the Ben-Yehuda Project to TEI-XML according to the TEI P5 Guidelines.
+                  Addition of dates, not present in the online version, by Shira Wigderson, Asaf Isser, Adi Cohen, Nitzan Cohen, and Adi Cohen.
+               </resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <authority>Project Ben-Yehuda</authority>
+            <idno>http://benyehuda.org/gnessin/axkina.html</idno>
+         </publicationStmt>
+         <sourceDesc xml:lang="Hebrew">
+            <bibl>
+               <date when="1900" notBefore="1900-01-01" notAfter="1900-12-31"/>
+            </bibl>
+            <p>The Ben-Yehuda Project (http://benyehuda.org/). Content provided within the Ben-Yehuda Hackathon at the University of Haifa (THATCamp Haifa, February 2014).</p>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <change>
+            <date>2018-11-01</date>
+            <name>Omer Waldman</name>
+            <note>Correction of previously annotated dates and addition of dates to majority of the works</note>
+         </change>
+         <change>
+            <date>2017-08-09</date>
+            <name>Jerusalem corpus of Emergent Modern Hebrew (JEMH) staff</name>
+            <note>Created the initial version of the content in TEI-XML and added dates (some based on estimation)</note>
+         </change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+
+
+
+
+
+
+
+אך קינה ונהי / א"נ גנסין
+
+
+
+
+
+
+
+
+
+
+
+*
+
+ 
+
+אך קינה
+ונהי, אך בכי ויללה,
+
+אך אנחות לב
+נדכה ונפש אמללה
+
+בחבלך,
+אחותי, נפלו ;
+
+אין זיק רגש
+נעם ועדן הרוח,
+
+אין קול,
+שממנו ב"אהבה" יפוח –
+
+הרגשות
+הרעלו, הרעלו ...
+
+ 
+
+מיום אל
+מיתרי הטית את אזניך
+
+לא חדלו
+מהזיל דם-דמע עיניך
+
+ונפשך,
+אחותי, נסערה ;
+
+ברן לא
+פצחת שפתותיך החרדות
+
+אך תמיד
+חבשת תהום מצוקות יוקדות,
+
+גועת גם
+מחם, גם מקרה ...
+
+ 
+
+וסביבך ? ...
+וסביבך – הה, לבי, ינוע –
+
+אך גילה, אך
+חיים, אך רגש ותנועה
+
+ומלאים
+רעננות כלהם ;
+
+שם אביב – השמש
+בהדרה מופעת,
+
+פה סתו, והסערות
+תגחנה בכעס,
+
+ומגרשות אור-יומם
+בזעם.
+
+ 
+
+אך את – את
+הוסיפי לסבל בדמיה ;
+
+הן עת יש
+לכל, ויש קץ גם לציה ;
+
+בה נתעה זה
+רבות בשנים ;
+
+עוד יופע גם
+לנו האביב באורה :
+
+יש יום
+לאדני, יום מאד גדול ונורא
+
+בו נחת
+נרויה ועדנים !..
+
+
+
+ 
+
+
+
+"ספר השנה" ב' 384, ורשה תרס"א
+
+
+
+
+
+ 
+
+
+
+
+
+
+</body>
+   </text>
+</TEI>

@@ -1,0 +1,213 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>נאד החלב</title>
+            <author>יהודה ליב גורדון</author>
+            <respStmt>
+               <name>Mandel Scholion Hebrew Revival Research Group</name>
+               <resp>Formatting of content from the Ben-Yehuda Project to TEI-XML according to the TEI P5 Guidelines.
+                  Addition of dates, not present in the online version, by Shira Wigderson, Asaf Isser, Adi Cohen, Nitzan Cohen, and Adi Cohen.
+               </resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <authority>Project Ben-Yehuda</authority>
+            <idno>http://benyehuda.org/yalag/yalag_150.html</idno>
+         </publicationStmt>
+         <sourceDesc xml:lang="Hebrew">
+            <bibl>
+               <date when="1859" notBefore="1859-01-01" notAfter="1859-12-31"/>
+            </bibl>
+            <p>The Ben-Yehuda Project (http://benyehuda.org/). Content provided within the Ben-Yehuda Hackathon at the University of Haifa (THATCamp Haifa, February 2014).</p>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <change>
+            <date>2018-11-01</date>
+            <name>Omer Waldman</name>
+            <note>Correction of previously annotated dates and addition of dates to majority of the works</note>
+         </change>
+         <change>
+            <date>2017-08-09</date>
+            <name>Jerusalem corpus of Emergent Modern Hebrew (JEMH) staff</name>
+            <note>Created the initial version of the content in TEI-XML and added dates (some based on estimation)</note>
+         </change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+
+
+
+
+
+
+
+נאד החלב / י"ל גורדון
+
+
+
+
+
+
+
+
+נאד החלב
+
+י"ל
+גורדון
+
+ 
+
+נאד החלב על שכמה,
+על ראשה מטפחת
+
+נעלי אגמון על
+רגליה
+
+וכתנת בד לבן
+עליה
+
+הלך הלכה בת-חוה
+אחת
+
+בצעדים קלים
+ובנפש שומחת
+
+לבוא העירה אל
+יום המכר.
+
+וכבר בלבבה
+
+חשב חשבה
+
+את כל השכר
+
+אשר תעשה מחלבה.
+
+במחיר חלבי –
+אל נפשה אמרה –
+
+אקנה בשוק ביצים
+עשרות שתים,      
+
+עלימו ארביץ
+תרנגלת דגרה
+
+ותמלט ותבקע
+אפרחים כפלים;
+
+אז מספר ימים
+אגדל אותמו
+
+ובמיטב כסף אמכר
+כלמו,
+
+אקנה לי בן בקר
+רך ואכלכלהו
+
+ובידי אשקהו
+גם אלעיטהו,
+
+עדי ישמן יתכס
+חלב ופדר
+
+ולשר טבחים
+במחיר טוב אתנהו,
+
+ובכספו אקנה
+לי פרה ועגל,
+
+שם ירעו יחד
+עם יתר העדר.
+
+האח האח! מה-מאד
+לבי יגל
+
+עת אראה עגלתי
+ככה מקפצת...
+
+לדברים האלה
+גם היא רקדה,
+
+וברקדה – אהה
+תפלצת מנאצת!
+
+נפל הנאד, החלב
+נשפך כמים,
+
+אין מפריס פרסה,
+אין בעלי קרנים,
+
+אין גם ביצים,
+אין אפרחים כפלים,
+
+פס חזון לבה,
+תוחלתה אבדה.
+
+ 
+
+מי לא יבנה לו
+מגדלים בשמים?
+
+מי לא יחלם בהקץ,
+יראה חזיונות?
+
+כאיש כאשה,
+כזקן כנער,
+
+כעשיר כדל,
+כחכם כבער,
+
+יחשבו מחשבות,
+יעשו עשתנות.
+
+כי אשב בדד
+מוזר לשאון קרת
+
+וירחף רוחי על
+ים הדמיונות,
+
+אז לי הכסף, לי
+הזהב,
+
+לי הגדולה הגבורה
+התפארת,
+
+אז ארעץ אויב
+אמחץ רהב,
+
+ובחלומי אראה
+כצפנת פענח
+
+משתחוים לי
+השמש עם הירח,
+
+ומקרה קטן יגע
+בי ויעירני
+
+וכמקדם קדמתי
+אביון הנני.
+
+ 
+
+ 
+
+
+
+
+
+ 
+
+ 
+
+
+
+
+
+
+</body>
+   </text>
+</TEI>

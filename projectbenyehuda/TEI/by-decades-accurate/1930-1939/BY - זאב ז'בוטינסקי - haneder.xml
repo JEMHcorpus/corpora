@@ -1,0 +1,180 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>הנדר</title>
+            <author>זאב ז'בוטינסקי</author>
+            <respStmt>
+               <name>Mandel Scholion Hebrew Revival Research Group</name>
+               <resp>Formatting of content from the Ben-Yehuda Project to TEI-XML according to the TEI P5 Guidelines.
+                  Addition of dates, not present in the online version, by Shira Wigderson, Asaf Isser, Adi Cohen, Nitzan Cohen, and Adi Cohen.
+               </resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <authority>Project Ben-Yehuda</authority>
+            <idno>http://benyehuda.org/zhabotinsky/haneder.html</idno>
+         </publicationStmt>
+         <sourceDesc xml:lang="Hebrew">
+            <bibl>
+               <date when="1934" notBefore="1934-01-01" notAfter="1934-12-31"/>
+            </bibl>
+            <p>The Ben-Yehuda Project (http://benyehuda.org/). Content provided within the Ben-Yehuda Hackathon at the University of Haifa (THATCamp Haifa, February 2014).</p>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <change>
+            <date>2018-11-01</date>
+            <name>Omer Waldman</name>
+            <note>Correction of previously annotated dates and addition of dates to majority of the works</note>
+         </change>
+         <change>
+            <date>2017-08-09</date>
+            <name>Jerusalem corpus of Emergent Modern Hebrew (JEMH) staff</name>
+            <note>Created the initial version of the content in TEI-XML and added dates (some based on estimation)</note>
+         </change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+
+
+
+
+
+
+
+הנדר / זאב ז'בוטינסקי
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+הנדר
+/ זאב ז'בוטינסקי
+
+ 
+
+ציון: אני בונה ממלכת זרע
+עבר,
+
+   ביתר לישראל השר והרוזן,
+
+   אשר ידו תמלך מהנה ומעבר
+
+               ללהב הירדן.
+
+ 
+
+חד-נס: לבן-תכל ואין שני,
+לא תעל
+
+    אדמת
+שעטנז על זיו הרעיון, –
+
+   הצהר
+היחיד
+לברית פועל
+ובעל –
+
+               אחים בוני ציון.
+
+ 
+
+עברית: לשון חיי, בגיל,
+יגון וזעם,
+
+    
+שפת עמל, הרהור, מזמור – ושפת בני:
+
+    
+שלשלת-פז נצחית בין שיר תל-חי ורעם
+
+                           הפלא של סיני.
+
+ 
+
+גיוס:   ביום שרות אני כמוט-נחשת,
+
+   כגוש-ברזל בידי נפח ושמו –
+ציון:
+
+   חרשני כרצונך – מגל,
+גלגל-חרשת
+
+               או חרב ופגיון.
+
+ 
+
+מגן[1]:      לברית-עמים אגש אדיר, כגשת
+
+   ארי אל אריות – אחי, לא מנצחי:
+
+   אני חיל ביתר, חיל
+למוד-הקשת,
+
+               נוטר על סף תל-חי.
+
+ 
+
+הדר:   מדם גדעון נזרעתי, לכמוני
+
+   הדר ניני מלכות בלב, בגו,
+בכל:
+
+   יהיר בפני שרים, ענו עמת
+בן-עני,
+
+               גובר – כדי למחול.
+
+ 
+
+ציות:  לגיל בדרור – כונן עליך גדר!
+
+   חפשי, את חק ביתר המלכתי על
+עצמי,
+
+   כי צו ביתר הוא הד לצו לבי –
+לנדר
+
+               השר בתהום דמי.
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+[1] המלה מחוקה במקור
+המודפס.  []
+
+
+
+
+
+
+
+
+</body>
+   </text>
+</TEI>

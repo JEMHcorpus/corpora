@@ -1,0 +1,131 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>צִיּוּנִים</title>
+            <author>יוסף חיים ברנר</author>
+            <respStmt>
+               <name>Mandel Scholion Hebrew Revival Research Group</name>
+               <resp>Formatting of content from the Ben-Yehuda Project to TEI-XML according to the TEI P5 Guidelines.
+                  Addition of dates, not present in the online version, by Shira Wigderson, Asaf Isser, Adi Cohen, Nitzan Cohen, and Adi Cohen.
+               </resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <authority>Project Ben-Yehuda</authority>
+            <idno>http://benyehuda.org/brenner/london_012.html</idno>
+         </publicationStmt>
+         <sourceDesc xml:lang="Hebrew">
+            <bibl>
+               <date when="1906" notBefore="1906-01-01" notAfter="1906-12-31"/>
+            </bibl>
+            <p>The Ben-Yehuda Project (http://benyehuda.org/). Content provided within the Ben-Yehuda Hackathon at the University of Haifa (THATCamp Haifa, February 2014).</p>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <change>
+            <date>2018-11-01</date>
+            <name>Omer Waldman</name>
+            <note>Correction of previously annotated dates and addition of dates to majority of the works</note>
+         </change>
+         <change>
+            <date>2017-08-09</date>
+            <name>Jerusalem corpus of Emergent Modern Hebrew (JEMH) staff</name>
+            <note>Created the initial version of the content in TEI-XML and added dates (some based on estimation)</note>
+         </change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+
+
+
+
+
+
+
+ציונים / י"ח ברנר
+
+
+
+
+
+
+
+
+ציונים
+
+י"ח ברנר
+
+
+
+ 
+
+
+
+
+ 
+  
+  אחינו בני עמנו, החרבים והקבצנים, אינם יודעים
+  מה לעשות ומה לאכול, והללו יושבים ומורים: היהודים הולכים ונעשים לעניים, הרי
+  שנכנסים הם בגדר הפרוליטאריזציה...  
+  הביאו קרבן-תודה!
+  *
+  "לחם וחופש" של פטר קרופוטקין,
+  נסיך אדמת רוסיה הגדולה והפראית, הרגיל לדבר בדחילו ורחימו על צדקת העם וגדולתו,
+  מגישים אדוקיו מבני-ברית לפליטי-הפרוגרומים, אלה הלומדים כאן, בגיטו הלונדוני,
+  להכאיב האצבע במחט.
+  *
+  בשעה שאני שומע את מנביאנו בני דת-קארל עומדים
+  ודורשים על היהודים ועל גזירת ההיסטוריה עליהם.  שמכיוון שהפרודוקציה והחיים האקונומיים שלהם – של היהודים
+  – תלויים בהתפתחות האקונומיקה של הארץ שבתוכה הם יושבים, הרי ברי ומחוור, שאין
+  להם, ליהודים, שום צרכים מיוחדים בעתיד ולא כל שכן גרגירי קולטורה בהווה, אם
+  לא לחשוב את הפאנאטיזם וגו' – אני יושב ומהרהר: כן, קארל אמת ותורתו אמת... ואולם...
+  מנדלי מו"ס למי יינתן?
+  *
+  "גזירת ההיסטוריה" – מנבאים הם
+  ואינם יודעים מה.
+  י.ל.פרץ – בימים ההם, כש"כל חלום חייו
+  ושיריו" היה ה"קסם על שפתי שושנים", כבר היתה "אצבעה
+  הרזה" של "אשת חבר" תקועה לתוך פי תינוקה הבוכה... "ותתקע
+  את אצבעה הרזה"... הקורסיב הוא של בעל "העוגב" גופו.
+  כן, בעת ההיא דייקן היה; רצה וטרח
+  שיבינוהו.  ועכשיו?
+  "מעשיותיו העממיות" – הנוי והרוממות!
+  אפס השאר... רובו של השאר...
+  אפס – 
+  *
+  יותר מדור שלם התכחשו הסוציאליסטים היהודים
+  שבאיסט-ברודבי לעמם ולרגשם הטבעי. 
+  ואולם, סוף-סוף, פורץ לו זה גדרו ומפלס לו נתיבו.  בני-חורין פוסקים להיות עבדים ומתחילים
+  לדבר בלשון הוגנת.  הקראתם
+  "דאס פאלק"?
+  *
+  עוד אלוהי ישראל חי הנהו! יצאו לאור
+  "משירי הזעם" של ח.נ.ביאליק.
+   
+  ["המעורר",
+  תרס"ו, חוברת ג', מרס 1906; החתימה: ח.ב.צ]
+  
+ 
+
+
+
+
+ 
+
+
+
+
+
+ 
+
+
+
+
+
+
+</body>
+   </text>
+</TEI>

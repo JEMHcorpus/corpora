@@ -1,0 +1,201 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>הֲשָׁלוֹם לָךְ, אָחִי!</title>
+            <author>מיכה יוסף לבנזון</author>
+            <respStmt>
+               <name>Mandel Scholion Hebrew Revival Research Group</name>
+               <resp>Formatting of content from the Ben-Yehuda Project to TEI-XML according to the TEI P5 Guidelines.
+                  Addition of dates, not present in the online version, by Shira Wigderson, Asaf Isser, Adi Cohen, Nitzan Cohen, and Adi Cohen.
+               </resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <authority>Project Ben-Yehuda</authority>
+            <idno>http://benyehuda.org/lebensohn/lebensohn_36.html</idno>
+         </publicationStmt>
+         <sourceDesc xml:lang="Hebrew">
+            <bibl>
+               <date when="1870" notBefore="1870-01-01" notAfter="1870-12-31"/>
+            </bibl>
+            <p>The Ben-Yehuda Project (http://benyehuda.org/). Content provided within the Ben-Yehuda Hackathon at the University of Haifa (THATCamp Haifa, February 2014).</p>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <change>
+            <date>2018-11-01</date>
+            <name>Omer Waldman</name>
+            <note>Correction of previously annotated dates and addition of dates to majority of the works</note>
+         </change>
+         <change>
+            <date>2017-08-09</date>
+            <name>Jerusalem corpus of Emergent Modern Hebrew (JEMH) staff</name>
+            <note>Created the initial version of the content in TEI-XML and added dates (some based on estimation)</note>
+         </change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+
+
+
+
+
+
+השלום לך, אחי! / מיכה יוסף לבנזון
+
+
+
+
+
+
+
+
+ 
+
+בשובו ממעיני מרפא הביתה והביא עמו
+
+ספרו "שירי בת ציון" אשר חבר שם ושלחו
+
+לאחיו ני"ל בעודנו בכתובים, כתב עליו השיר הזה:
+
+ 
+
+השלום לך,
+אחי! הן עתה באתי!
+
+למצוא שם
+מרפא שלחני אבינו!
+
+בקשתי
+חפשתי אך לא מצאתי –
+
+וראה מה
+הבאתי – אל נא תלינו –
+
+למצוא לי נחם
+על כנור הגיון
+
+שרתי לי
+שמה שירי בת ציון!
+
+                  
+*     *
+
+                     
+*
+
+קחם נא אחי!
+קחם נא ורצמו
+
+אולי גם בהם תמצא
+לך מרגוע;
+
+גם אבינו רצם
+ויקחמו
+
+כי גם מנחה
+זו הבאתי בזרע!
+
+ולאל חי
+קוה-נא, אחי, גם עמי
+
+ואהי לך אח –
+בן אל אבי ולאמי!
+
+               
+________
+
+על
+ספרו "שירי בת ציון" אשר שלח 
+
+לאחיו
+נ"י אחרי צאתו לאור, כתב לאמר:
+
+כבוד
+אחי יקירי רב המהללים כמוהר"ר
+
+אריה
+הכהן לעבענזאהן
+
+ 
+
+אח, אהוב,
+נחמד ויקר הרוח!
+
+זה ספרי נא
+קחה יאתה עדיך!
+
+מאח לך יחיד
+הלא לך שלוח –
+
+ולשיריו אלה
+נא שימה לבך!
+
+ 
+
+הן על ברכי
+השיר ראית חיים
+
+עת אבינו הרם
+בשיר נצח!
+
+בת שירו
+שעשעתך על כפים,
+
+בת גילך החמלה
+– הו אח צולח!
+
+ 
+
+לבך לב חכם,
+לך נפש משכלת,
+
+ותאהב גם
+שירי, "שירי בת ציון";
+
+עוד יותר
+מכלם שיר הקהלת –
+
+בו כל לבי
+שפכתי על גליון!
+
+ 
+
+אל נא, אחי,
+מהם תסב אפים,
+
+הן ילדי אחיך
+אהבך המה!
+
+אך זאת נחמתו
+פה לו בחיים
+
+ולחליו בם
+ימצא רפאות נעמה!
+
+            
+  _______
+
+ 
+
+ 
+
+ 
+
+
+
+
+
+ 
+
+
+
+
+
+
+</body>
+   </text>
+</TEI>

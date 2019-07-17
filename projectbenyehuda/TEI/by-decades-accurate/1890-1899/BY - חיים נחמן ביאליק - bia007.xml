@@ -1,0 +1,172 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>נושנות</title>
+            <author>חיים נחמן ביאליק</author>
+            <respStmt>
+               <name>Mandel Scholion Hebrew Revival Research Group</name>
+               <resp>Formatting of content from the Ben-Yehuda Project to TEI-XML according to the TEI P5 Guidelines.
+                  Addition of dates, not present in the online version, by Shira Wigderson, Asaf Isser, Adi Cohen, Nitzan Cohen, and Adi Cohen.
+               </resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <authority>Project Ben-Yehuda</authority>
+            <idno>http://benyehuda.org/bialik/bia007.html</idno>
+         </publicationStmt>
+         <sourceDesc xml:lang="Hebrew">
+            <bibl>
+               <date when="1894" notBefore="1894-01-01" notAfter="1894-12-31"/>
+            </bibl>
+            <p>The Ben-Yehuda Project (http://benyehuda.org/). Content provided within the Ben-Yehuda Hackathon at the University of Haifa (THATCamp Haifa, February 2014).</p>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <change>
+            <date>2018-11-01</date>
+            <name>Omer Waldman</name>
+            <note>Correction of previously annotated dates and addition of dates to majority of the works</note>
+         </change>
+         <change>
+            <date>2017-08-09</date>
+            <name>Jerusalem corpus of Emergent Modern Hebrew (JEMH) staff</name>
+            <note>Created the initial version of the content in TEI-XML and added dates (some based on estimation)</note>
+         </change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+
+
+
+
+
+
+
+נושנות / חיים נחמן ביאליק
+
+
+
+
+
+
+
+
+
+
+
+
+נושנות
+
+ 
+
+"כעינים
+קרצים שמה
+
+בשמים אורים
+זכים..."
+
+– בעיניהם פז
+הכרובים
+
+צופים בנו
+מן-החרכים.
+
+ 
+
+"סביב
+ימתח הירח
+
+חוטי אור
+ככסף זכו."
+
+– מקרניהו,
+יונה תמה,
+
+שערות ראשך
+יפו, רכו.
+
+ 
+
+"שם
+כגלי שיש טהור
+
+צפים גזרי
+עבים צחרות."
+
+– מן העבים,
+חמדת לבי,
+
+מעלות רוחך
+זכות, טהרות.
+
+ 
+
+"רסיסי
+לילה תלוים שמה
+
+בין עשבים,
+ומזהירים."
+
+– שתי עיניך
+יפו, ארו
+
+גם מרסיסים,
+מספירים.
+
+ 
+
+"חרש
+שוקק פלג שמה
+
+רוח ישב –
+קטרת כליל."
+
+– נשמת אפך
+– רוח עדן,
+
+קולך – המית
+פלג, חליל.
+
+ 
+
+"שם
+הזמיר יפצח רנה,
+
+מה רוממה היא,
+כבירה!..."
+
+– לילה צוי
+חסדך אתי,
+
+האהבה מקור
+השירה.
+
+ 
+
+"היאריך,
+דוד לבבי,
+
+היאריך ליל
+עדנים?"
+
+– דברים אלה,
+נערה פתה,
+
+מה-ישנים הם
+נושנים!...
+
+ 
+
+
+
+
+
+  
+
+
+</body>
+   </text>
+</TEI>

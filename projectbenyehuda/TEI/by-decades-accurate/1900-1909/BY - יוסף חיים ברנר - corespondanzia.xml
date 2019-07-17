@@ -1,0 +1,103 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>קוֹרֶסְפּוֹנְדֶּנְצִיָּה</title>
+            <author>יוסף חיים ברנר</author>
+            <respStmt>
+               <name>Mandel Scholion Hebrew Revival Research Group</name>
+               <resp>Formatting of content from the Ben-Yehuda Project to TEI-XML according to the TEI P5 Guidelines.
+                  Addition of dates, not present in the online version, by Shira Wigderson, Asaf Isser, Adi Cohen, Nitzan Cohen, and Adi Cohen.
+               </resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <authority>Project Ben-Yehuda</authority>
+            <idno>http://benyehuda.org/brenner/corespondanzia.html</idno>
+         </publicationStmt>
+         <sourceDesc xml:lang="Hebrew">
+            <bibl>
+               <date when="1906" notBefore="1906-01-01" notAfter="1906-12-31"/>
+            </bibl>
+            <p>The Ben-Yehuda Project (http://benyehuda.org/). Content provided within the Ben-Yehuda Hackathon at the University of Haifa (THATCamp Haifa, February 2014).</p>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <change>
+            <date>2018-11-01</date>
+            <name>Omer Waldman</name>
+            <note>Correction of previously annotated dates and addition of dates to majority of the works</note>
+         </change>
+         <change>
+            <date>2017-08-09</date>
+            <name>Jerusalem corpus of Emergent Modern Hebrew (JEMH) staff</name>
+            <note>Created the initial version of the content in TEI-XML and added dates (some based on estimation)</note>
+         </change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+
+
+
+
+
+
+
+קורספונדנציה / י"ח ברנר
+
+
+
+
+
+
+
+
+קורספונדנציה
+
+י"ח ברנר
+
+
+
+
+
+
+ 
+  
+   
+  לסופר ד.ב.בל.
+  "נסיונותיך" (למה קראת להם גם
+  "בחלום ובהקיץ"?) אנקדוטיים הם ביותר בשביל "המעורר".  מה שנוגע ל"חירות-הדיבור",
+  הנה, אמנם, נכון, אני לתת מקום גם למאמינים בגאולה ועובדים אותה וגם למטילים
+  ספק, למתיאשים או לבלתי מאמינים בשום בניה בכלל, אבל בשום אופן לא למתיחסים
+  בזרות או בקלות-ראש ל"אותו הדבר הנקרא ציונות".  "המעורר", כידוע לך, אינו
+  כלי-מבטאו של המחנה הציוני (שלאסוננו כמעט שאינו), אבל בהכרח הוא צריך להביע
+  ומתאמץ להביע, ובכל תוקף, את הכאב הציוני; ומי אשר באיזו מידה זר לו הכאב הלז,
+  הוא לא יבוא אלינו ולא יגש אל הקיר הנטוי, שלפניו אנו, סופרי "המעורר"
+  שופכים את לבותינו.
+   
+  ["המעורר", תרס"ז, חוברת
+  י"א, נובמבר 1906]
+  
+ 
+
+
+
+
+ 
+
+
+
+
+
+ 
+
+
+
+
+
+
+</body>
+   </text>
+</TEI>

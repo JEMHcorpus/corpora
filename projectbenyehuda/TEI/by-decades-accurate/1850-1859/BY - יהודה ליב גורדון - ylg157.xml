@@ -1,0 +1,169 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>האשה ושתי שפחותיה</title>
+            <author>יהודה ליב גורדון</author>
+            <respStmt>
+               <name>Mandel Scholion Hebrew Revival Research Group</name>
+               <resp>Formatting of content from the Ben-Yehuda Project to TEI-XML according to the TEI P5 Guidelines.
+                  Addition of dates, not present in the online version, by Shira Wigderson, Asaf Isser, Adi Cohen, Nitzan Cohen, and Adi Cohen.
+               </resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <authority>Project Ben-Yehuda</authority>
+            <idno>http://benyehuda.org/yalag/ylg157.html</idno>
+         </publicationStmt>
+         <sourceDesc xml:lang="Hebrew">
+            <bibl>
+               <date when="1859" notBefore="1859-01-01" notAfter="1859-12-31"/>
+            </bibl>
+            <p>The Ben-Yehuda Project (http://benyehuda.org/). Content provided within the Ben-Yehuda Hackathon at the University of Haifa (THATCamp Haifa, February 2014).</p>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <change>
+            <date>2018-11-01</date>
+            <name>Omer Waldman</name>
+            <note>Correction of previously annotated dates and addition of dates to majority of the works</note>
+         </change>
+         <change>
+            <date>2017-08-09</date>
+            <name>Jerusalem corpus of Emergent Modern Hebrew (JEMH) staff</name>
+            <note>Created the initial version of the content in TEI-XML and added dates (some based on estimation)</note>
+         </change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+
+
+
+
+
+
+
+האשה ושתי שפחותיה / יהודה ליב גורדון
+
+
+
+ 
+
+
+
+
+  
+  
+
+
+האשה ושתי
+שפחתיה / יהודה ליב גורדון
+
+ 
+
+אשה בלה היתה שרה וגברת,
+
+אשת מדינים הומיה סוררת,
+
+ושתי אמהות מבקר עד ערב
+
+טוו לה מטוה בשתי ובערב.
+
+ועליהן ידה עד למאד קשתה,
+
+מועד לא ידעו, שבתן שבתה,     
+
+לא ידעו רק תמיד מבלי מנוח
+
+לתמוך פלך, יד בכישור לשלוח.
+
+אפלות ליל אך עברו נגזו
+
+וזרעות עולם אדמו ויפזו,
+
+ויהי שם שכוי, עול לא ידע בשת,
+
+וישמע כמצפה קולו ברמה,
+
+אז חיש האשה ממטתה קמה
+
+ולערה שלמתה לבשה תלבשת,
+
+ותעל נר ותמהר בחמת זעם
+
+לחדר-המטות במקום שם נרדמו
+
+השפחות השתים כשכרות יין,
+
+ותתן עליהן קולה קול רעם,
+
+קול מפח נחר, קול הולם פעם,
+
+ובידי סלע אותן הנידה הניעה,
+
+אז מבלי חמדה האמללות קמו,
+
+נטשו רך משכבן חמדת העין
+
+ולסבלותן שבו עשקות שנה.
+
+"הוי שכוי ארור – אזי קראו יחד –
+
+מות תמות, זד, אמת בצעך הגיעה!"
+
+אף נמצא השכוי הזה יום אחד
+
+נופל מת, כי את ראשו מלקו הנה.
+
+אך הה! לשוא ידן בדם גאלו,
+
+שוא הכבידו על נפשן עון רצח,
+
+כי כל טוב בזה למו לא עוללו,
+
+כי עוד כבד סבלן, וכאבן נצח:
+
+כי מת הנותן הזמירות בליל,
+
+נצפנו העתים מאשת-החיל,            
+
+ותוסף עוד השכם ומנוחתן הפריע.
+
+אך שכב תשכבנה, עין תעצמנה,
+
+וכאשת לפידת תקום הגברת:
+
+"קמנה, חיש קמנה, כי העת עברת!"
+
+קול גדול לא יסף עליהן תשמיע
+
+עדי מבלי חפץ ממטתן תקמנה.       
+
+ 
+
+כן יש אנשים תחבלות ימצאו
+
+בעבור החלץ ממצר ושחת,
+
+ומבלי משים עוד יתר ישקעו –
+
+ינצלו מן הפח לנפול בפחת!
+
+ 
+
+
+
+
+
+ 
+
+
+
+
+
+
+</body>
+   </text>
+</TEI>

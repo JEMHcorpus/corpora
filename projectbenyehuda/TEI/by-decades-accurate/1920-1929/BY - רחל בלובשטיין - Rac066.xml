@@ -1,0 +1,140 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>אם צו הגורל...</title>
+            <author>רחל בלובשטיין</author>
+            <respStmt>
+               <name>Mandel Scholion Hebrew Revival Research Group</name>
+               <resp>Formatting of content from the Ben-Yehuda Project to TEI-XML according to the TEI P5 Guidelines.
+                  Addition of dates, not present in the online version, by Shira Wigderson, Asaf Isser, Adi Cohen, Nitzan Cohen, and Adi Cohen.
+               </resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <authority>Project Ben-Yehuda</authority>
+            <idno>http://benyehuda.org/rachel/Rac066.html</idno>
+         </publicationStmt>
+         <sourceDesc xml:lang="Hebrew">
+            <bibl>
+               <date when="1928" notBefore="1928-01-01" notAfter="1928-12-31"/>
+            </bibl>
+            <p>The Ben-Yehuda Project (http://benyehuda.org/). Content provided within the Ben-Yehuda Hackathon at the University of Haifa (THATCamp Haifa, February 2014).</p>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <change>
+            <date>2018-11-01</date>
+            <name>Omer Waldman</name>
+            <note>Correction of previously annotated dates and addition of dates to majority of the works</note>
+         </change>
+         <change>
+            <date>2017-08-09</date>
+            <name>Jerusalem corpus of Emergent Modern Hebrew (JEMH) staff</name>
+            <note>Created the initial version of the content in TEI-XML and added dates (some based on estimation)</note>
+         </change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+
+
+
+
+
+
+
+אם צו הגורל...
+
+
+
+
+
+
+
+
+
+
+
+אם
+צו
+הגורל...
+
+ 
+
+אם
+צו
+הגורל
+
+לחיות
+רחוקה
+מגבוליך
+–
+
+תתניני,
+כנרת,
+
+לנוח
+בבית-קברותיך.
+
+ 
+
+אין
+דמי-חדלון
+
+בעצב
+שלו
+הרוגע,
+
+ושיר-עבודה
+
+מעבר
+לדרך
+בוקע.
+
+ 
+
+וזכר
+שוכניו
+
+עודנו
+ארוג
+במסכת,
+
+ועץ
+מצבה
+
+ממעל
+כיד
+מברכת.
+
+ 
+
+אם
+צו
+הגורל
+
+לחיות
+רחוקה
+מגבוליך
+–
+
+אבואה,
+כנרת,
+
+לנוח
+בבית-קברותיך!
+
+ 
+
+תרפ"ח
+
+
+
+
+
+
+</body>
+   </text>
+</TEI>

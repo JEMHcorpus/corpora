@@ -1,0 +1,141 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>תיקון-טעות</title>
+            <author>אלתר דרויאנוב</author>
+            <respStmt>
+               <name>Mandel Scholion Hebrew Revival Research Group</name>
+               <resp>Formatting of content from the Ben-Yehuda Project to TEI-XML according to the TEI P5 Guidelines.
+                  Addition of dates, not present in the online version, by Shira Wigderson, Asaf Isser, Adi Cohen, Nitzan Cohen, and Adi Cohen.
+               </resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <authority>Project Ben-Yehuda</authority>
+            <idno>http://benyehuda.org/druyanov/tikun_taut.html</idno>
+         </publicationStmt>
+         <sourceDesc xml:lang="Hebrew">
+            <bibl>
+               <date when="1911" notBefore="1911-01-01" notAfter="1911-12-31"/>
+            </bibl>
+            <p>The Ben-Yehuda Project (http://benyehuda.org/). Content provided within the Ben-Yehuda Hackathon at the University of Haifa (THATCamp Haifa, February 2014).</p>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <change>
+            <date>2018-11-01</date>
+            <name>Omer Waldman</name>
+            <note>Correction of previously annotated dates and addition of dates to majority of the works</note>
+         </change>
+         <change>
+            <date>2017-08-09</date>
+            <name>Jerusalem corpus of Emergent Modern Hebrew (JEMH) staff</name>
+            <note>Created the initial version of the content in TEI-XML and added dates (some based on estimation)</note>
+         </change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+
+
+
+
+
+
+
+תיקון-טעות / אלתר דרויאנוב
+
+
+
+ 
+
+
+
+
+  
+  
+
+
+תקון-טעות
+
+אלתר דרויאנוב
+
+
+
+ 
+
+
+
+
+ 
+  
+  יש ברוסיה "חברת ספרות ישראל"
+  (כלומר: "חברה ישראלית לספרות").   מרכזה בפטרבורג וסניפיה בכמה וכמה ערים בתחום ומחוץ
+  לתחום.   על-פי תקנותיה חייבת
+  החברה לדאג לכל עניני ספרותנו בשלש הלשונות,  שיהודי רוסיה משתמשים בהן  –  עברית,  יודית ורוסית.   מוכיח על זה גם השער,  הנדפס בשלש הלשונות הללו על גליונותיו
+  של ועד החברה.   ורבים טועים
+  וחושבים,  שאמנם עוסקת החברה גם
+  בעניני הספרות העברית.   יש
+  אשר באחת הערים יאספו חברי החברה לאספה, 
+  יערך נשף להרצאה וקריאה, 
+  ויקום אחד מן הנאספים ויפתח את פיו לדרוש בשבחה של הספרות העברית או
+  להזכיר את שמם של סופרים עברים, 
+  והסו אותו יתר הנאספים ואמרו לו:   הכבד ושב!   לא זה המקום...   
+  וכדי להפטר מעלבון זה לעתיד,  מוטב שנוציא לכתחלה מלבם של הטועים את
+  טעותם:  אותה חברה אין לה עסק
+  בספרות העברית;   על מעשיה
+  מכוונים רק לתקונה ותועלתה של ספרותנו ביודית ורוסית.   
+  ואם יש צורך בראיה  –  הרי הודאתו
+  של הועד המרכזי עצמו ב"ידיעותיו" האחרונות (לחדשי דצמבר יאנואר
+  ופברואר) ששלח זה עתה לכל הסניפים.  
+  
+  ה"ידיעות" גופן כתובות
+  רוסית...   במשך ירחי החשבון
+  נשלחו מטעם הועד לערים שונות חמשה מרצים, 
+  שקראו תשע הרצאות:  
+  שתים מהן  –  יודית ושבע  – 
+  רוסיות.   שלש-עשרה
+  הרצאות ערך הועד בפטרבורג:  
+  ארבע  –  יודיות ותשע  – 
+  רוסיות.   משני
+  הזורנלים,  שהועד דאג להפצתם,  אחד  –  יודי
+  והשני  –  רוסי.   הועד נגש להוצאת קצת מספורי פרץ  –  ברוסית.  
+  הועד טרח ומצא את היכולת להספיק להסניפים מחזות  –  יודיים.  
+  הועד עוסק בסדור אגודה מיוחדה ליסוד תיאטרון  –  יודי.   ההרצאה היחידה שהכין הועד לחג
+  יובלו של מנדלי,  היתה  –  יודית.  
+  האדריסה,  ששלח הועד למנדלי
+  לחג יובל,  היתה  – יודית.   אף רמז קל לא היה בה לכבודו של מנדלי יוצר הסגנון
+  העברי החדש.   כדי שלא לעבור בשתיקה גם על אשר עשה
+  הועד לטובת הספרות העברית,  אנו
+  צריכים להזכיר,  ש"סייע"  להוצאת איזה מלון עברי.   
+  אין כונתנו לקנטר את החברה,  כי אין לה עסק בספרות העברית:  "מסתפקת"  היא בשתי לשונות "לאומיות" ולה
+  אין צורך בשלישית.   אין
+  כונתנו אלא לשם תקון טעות.  
+  אלמלי היה הועד נשמע לנו, 
+  היינו משיאים לו עצה להסיר ליתר בטחון מתוך תקנותיו את הסעיף על הספרות
+  העברית,  ומתוך השער של
+  גליונותיו  –  את השם העברי...   
+                                                                                                  העולם
+  1911
+  
+ 
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+</body>
+   </text>
+</TEI>

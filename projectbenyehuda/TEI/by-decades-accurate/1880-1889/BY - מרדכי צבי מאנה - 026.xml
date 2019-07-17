@@ -1,0 +1,341 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>נסיעה עם אבותי</title>
+            <author>מרדכי צבי מאנה</author>
+            <respStmt>
+               <name>Mandel Scholion Hebrew Revival Research Group</name>
+               <resp>Formatting of content from the Ben-Yehuda Project to TEI-XML according to the TEI P5 Guidelines.
+                  Addition of dates, not present in the online version, by Shira Wigderson, Asaf Isser, Adi Cohen, Nitzan Cohen, and Adi Cohen.
+               </resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <authority>Project Ben-Yehuda</authority>
+            <idno>http://benyehuda.org/maneh/026.html</idno>
+         </publicationStmt>
+         <sourceDesc xml:lang="Hebrew">
+            <bibl>
+               <date when="1882" notBefore="1882-01-01" notAfter="1882-12-31"/>
+            </bibl>
+            <p>The Ben-Yehuda Project (http://benyehuda.org/). Content provided within the Ben-Yehuda Hackathon at the University of Haifa (THATCamp Haifa, February 2014).</p>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <change>
+            <date>2018-11-01</date>
+            <name>Omer Waldman</name>
+            <note>Correction of previously annotated dates and addition of dates to majority of the works</note>
+         </change>
+         <change>
+            <date>2017-08-09</date>
+            <name>Jerusalem corpus of Emergent Modern Hebrew (JEMH) staff</name>
+            <note>Created the initial version of the content in TEI-XML and added dates (some based on estimation)</note>
+         </change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+
+
+
+
+
+
+
+נסיעה עם אבותי / מרדכי צבי מאנה
+
+
+
+ 
+
+
+
+
+  
+  
+
+
+נסיעה עם
+אבותי / מרדכי צבי מאנה
+
+ 
+
+על כנפי הדמיון. 
+
+(על דרך המלך) 
+
+ 
+
+1. 
+
+עיני השחר
+מקדים נשקפו, 
+
+וקצות רקיע
+כזהב יאירו, 
+
+צללי ליל קיץ
+מנגהו חלפו, 
+
+רק נעם קרה
+אחרימו השאירו. 
+
+  
+
+2. 
+
+התבל כלה
+פקחה עפעפים, 
+
+ומקטרת מור
+מפרחי ניחוח; 
+
+כל צפור, כל
+כנף מכל אפסים, 
+
+שיר בקר, שיר
+תודה יהגו בכח. 
+
+  
+
+3. 
+
+רוח צח אט, אט
+עפאים יניע, 
+
+וכצלצל נעים
+אל שירם ילוה; 
+
+גלי נחל זך
+בין שיחים יופיע, 
+
+המיתם גם היא
+לו כמדבר נאוה[1]
+
+  
+
+4. 
+
+ולקול שיר-יה
+זה שקטה התולדה 
+
+ובגיל קדש
+תקשיב קול צאצאיה, 
+
+ולקול שיר זה
+מראש גבעה נחמדה, 
+
+תרוץ עגלה
+ואני בין יושביה! 
+
+  
+
+5. 
+
+הורי מימיני
+ושמאלי ישבו,
+
+ידם חבקתני,
+עינם תרהיבני;
+
+כל קול כל
+הגה שפתותם דובבו,
+
+יבא בעצמי בצרי
+ויחיני. 
+
+ 
+
+6. 
+
+מה נעמת,
+אמי! מה יקרת, אבי! 
+
+זולתכם הן
+חיי אך צל, אך תהו!... 
+
+לרגעים
+תתהלך תוגה בלבבי: 
+
+כי שכול כי
+רחוק מכם הנהו! 
+
+  
+
+7. 
+
+אך אתכם, הורי,
+לי תבל זורחת! 
+
+ובכל לב
+ונפש חיים אשאפה; 
+
+אתכם לי תבל
+גן עדן ונחת, 
+
+וביפעה והוד
+לי תמיד נשקפה. 
+
+  
+
+8. 
+
+האח! רגעי
+אשר עמדו נא סלה! 
+
+אל נא לנצח,
+אבותי, יתטשוני! 
+
+עופו חיש קל
+אתי שמה אהלה, 
+
+אל צל קורתכם
+באהבה שאוני! 
+
+  
+
+9. 
+
+עופי לקראתנו
+את, עיר מולדת! 
+
+את, דרך
+המלך, חיקך הרחיבי! 
+
+השיבי אל
+קנה צפור נודדת, 
+
+למקור לקח מנהו
+לבי השיבי!... 
+
+  * * 
+
+    * 
+
+10. 
+
+שורו קדימה!
+בצבי קוי זהר 
+
+ירקיע
+השמש על חוג שמים; 
+
+ותכלת שחק –
+כספיר לטהר, 
+
+גם עננים קלים
+– כזהב פרוים. 
+
+  
+
+11. 
+
+שורו מסביב!
+כל מחזות הטבע, 
+
+בנגהות אור
+יום יפו שבעתים; 
+
+כל ציץ, כל
+צמח גם כל גיא וגבע, 
+
+מראות בהם לא
+תשבענה עינים! 
+
+  
+
+12. 
+
+האח! כל
+היקום בא בעדי עדים! 
+
+לי שלום
+יקראו כל בעלי כנף! 
+
+אך נעלה
+מקול עוגב ומצלתים, 
+
+הוא קול הקוקיאה
+מראש הענף!... 
+
+  
+
+13. 
+
+האח! שם
+החרס, 
+
+בת עינו
+נוהרת 
+
+לי, בחן
+ונעם! 
+
+האח! נטפי
+מים, 
+
+לי ישלחו
+קרנים, 
+
+כספיר
+ושהם! 
+
+  
+
+14. 
+
+ושדרות
+אלונים, 
+
+רעננים
+ודשנים, 
+
+לי עין
+יצהילו; 
+
+גם שדות, גם
+גנים, 
+
+גם חלקת
+שושנים, 
+
+אל שובי
+יגילו!!... 
+
+  
+
+בחדש סיון שנת
+תרמ"ב. פ"ב. 
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+[1] עשה"כ ומדברך נאוה,
+שה"ש.
+
+
+
+
+
+
+
+
+</body>
+   </text>
+</TEI>

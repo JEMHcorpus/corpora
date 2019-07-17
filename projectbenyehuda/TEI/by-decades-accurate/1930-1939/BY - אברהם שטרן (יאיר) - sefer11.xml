@@ -1,0 +1,189 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>[ככוכבי השמים]</title>
+            <author>אברהם שטרן ("יאיר")</author>
+            <respStmt>
+               <name>Mandel Scholion Hebrew Revival Research Group</name>
+               <resp>Formatting of content from the Ben-Yehuda Project to TEI-XML according to the TEI P5 Guidelines.
+                  Addition of dates, not present in the online version, by Shira Wigderson, Asaf Isser, Adi Cohen, Nitzan Cohen, and Adi Cohen.
+               </resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <authority>Project Ben-Yehuda</authority>
+            <idno>http://benyehuda.org/stern_avraham/sefer11.html</idno>
+         </publicationStmt>
+         <sourceDesc xml:lang="Hebrew">
+            <bibl>
+               <date when="1935" notBefore="1935-01-01" notAfter="1935-12-31"/>
+            </bibl>
+            <p>The Ben-Yehuda Project (http://benyehuda.org/). Content provided within the Ben-Yehuda Hackathon at the University of Haifa (THATCamp Haifa, February 2014).</p>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <change>
+            <date>2018-11-01</date>
+            <name>Omer Waldman</name>
+            <note>Correction of previously annotated dates and addition of dates to majority of the works</note>
+         </change>
+         <change>
+            <date>2017-08-09</date>
+            <name>Jerusalem corpus of Emergent Modern Hebrew (JEMH) staff</name>
+            <note>Created the initial version of the content in TEI-XML and added dates (some based on estimation)</note>
+         </change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+
+
+
+
+
+
+
+[ככוכבי
+השמים] / אברהם
+שטרן ("יאיר")
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[ככוכבי
+השמים] / אברהם
+שטרן ("יאיר")
+
+ 
+
+והרביתי
+את-זרעך
+ככוכבי
+השמים.
+
+בראשית
+כ"ו, ד
+
+ככוכבי-השמים
+זרע...צרי.
+
+וזרעי
+כעפר...לרגלם.
+
+כעדת
+חזירים את
+גויות בנותי
+
+נארו בתזנות-פגולם.
+
+ 
+
+בצאת-אלתם
+נאצו ארורים
+
+גוילי
+תורתי הקדושה.
+
+תוך מעי-אמהות
+בתקו עברים,
+
+רטשום
+בחרבם הקשה.
+
+ 
+
+ואתה
+אלהים, כאלהים
+אחרים:
+
+לך אזנים
+ולא תאזין;
+
+עינים
+לך – לא תראה
+יסורים;
+
+פה לך –
+לדבר לא
+תהין.
+
+ 
+
+מה תדם,
+אל נורא ואים?
+התירא
+
+כי ישחית
+פאותיך
+ערל?
+
+ויאר
+אותך, אל
+טהור? מצרע
+
+בקדוש
+ישראל יתעלל?
+
+ 
+
+ואתה
+תתפלש
+באשפות,
+חפוי-ראש,
+
+ותלק
+מוק חלאת-הגויים?
+
+תיבב:
+"דם-בני
+מידכם לא
+אדרש,
+
+אך תנו
+לי אתנן-החיים?"
+
+ 
+
+התנער
+מעפר, לבש
+עז, אין-אונים,
+
+אלהי-הגלות
+הגלמוד.
+
+צא
+ללחם על
+חרות
+בצבאות
+אלמונים
+
+לנצח
+עמם או
+למות.
+
+
+
+
+
+ 
+
+
+
+
+
+
+</body>
+   </text>
+</TEI>

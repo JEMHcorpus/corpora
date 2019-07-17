@@ -1,0 +1,175 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>הרעה והזאב</title>
+            <author>יהודה ליב גורדון</author>
+            <respStmt>
+               <name>Mandel Scholion Hebrew Revival Research Group</name>
+               <resp>Formatting of content from the Ben-Yehuda Project to TEI-XML according to the TEI P5 Guidelines.
+                  Addition of dates, not present in the online version, by Shira Wigderson, Asaf Isser, Adi Cohen, Nitzan Cohen, and Adi Cohen.
+               </resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <authority>Project Ben-Yehuda</authority>
+            <idno>http://benyehuda.org/yalag/Ylg114.html</idno>
+         </publicationStmt>
+         <sourceDesc xml:lang="Hebrew">
+            <bibl>
+               <date when="1859" notBefore="1859-01-01" notAfter="1859-12-31"/>
+            </bibl>
+            <p>The Ben-Yehuda Project (http://benyehuda.org/). Content provided within the Ben-Yehuda Hackathon at the University of Haifa (THATCamp Haifa, February 2014).</p>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <change>
+            <date>2018-11-01</date>
+            <name>Omer Waldman</name>
+            <note>Correction of previously annotated dates and addition of dates to majority of the works</note>
+         </change>
+         <change>
+            <date>2017-08-09</date>
+            <name>Jerusalem corpus of Emergent Modern Hebrew (JEMH) staff</name>
+            <note>Created the initial version of the content in TEI-XML and added dates (some based on estimation)</note>
+         </change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+
+
+
+
+
+
+הרעה והזאב / יהודה ליב גורדון
+
+
+
+
+
+
+
+
+הרעה והזאב
+
+עד שהזאב בא לצאן פרשו לו מצודה.
+
+(במד"ר
+פ"ד).
+
+ 
+
+כי תראה יד
+אחיך מטה
+
+ולעזרו
+תשיג ידך אתה,
+
+עזרהו חיש אל
+תוחר רגע
+
+טרם ימצאהו
+הפגע,
+
+פן יתמהמה
+לבא ישעך,
+
+ובין כה וכה
+יאבד רעך; 
+
+כי עזר לא
+בזמנו עלה
+
+כרפאה אחרי
+מות החלה.
+
+ 
+
+ושה אמלל זה
+אמתי יודיע,
+
+שרעה באחו
+בין הערבים,
+
+עת רוח ים צח
+חם היום יכניע,
+
+אל עיני רעו
+היושב מנגד
+
+לאכל
+מצקלונו כרמל ומגד
+
+ובצל הסוף
+מעמל יומו ירגיע.
+
+ויהי הוא
+יושב על-יד עין המים
+
+ויראה
+לעינים
+
+זאב יוצא
+מסבכו וסביביו יתע.
+
+וירא – אך לא
+קם לא זע מפניהו,
+
+כי אמר: הן יפחד
+הזאב לגשת,
+
+או כי עוד יש
+עת לציל צאנהו.
+
+אך הזאב
+התנפל כחץ מקשת
+
+על השה
+התמים ויטרפהו פתע;
+
+אף כי גם
+הרעה חש בחמת קרי
+
+ויאחז שיו
+בשתי הכרעים – 
+
+אך הה לתשועתו
+כי לבא אחרה
+
+וחמת הטרף
+ממנה מהרה,
+
+וכבר אחז
+טרפו כבמלקחים
+
+בין חרבות
+השנים; 
+
+ויהי כל שכר
+לעמלו ופרי
+
+אחרי האבקו
+עמו בזרוע – 
+
+כי נבקע
+השה בין שניהם בקע.
+
+ 
+
+
+
+
+
+ 
+
+
+
+
+
+
+</body>
+   </text>
+</TEI>

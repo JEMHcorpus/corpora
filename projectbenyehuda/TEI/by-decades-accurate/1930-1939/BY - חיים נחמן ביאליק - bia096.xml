@@ -1,0 +1,158 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>גם בהתערותו לעיניכם...</title>
+            <author>חיים נחמן ביאליק</author>
+            <respStmt>
+               <name>Mandel Scholion Hebrew Revival Research Group</name>
+               <resp>Formatting of content from the Ben-Yehuda Project to TEI-XML according to the TEI P5 Guidelines.
+                  Addition of dates, not present in the online version, by Shira Wigderson, Asaf Isser, Adi Cohen, Nitzan Cohen, and Adi Cohen.
+               </resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <authority>Project Ben-Yehuda</authority>
+            <idno>http://benyehuda.org/bialik/bia096.html</idno>
+         </publicationStmt>
+         <sourceDesc xml:lang="Hebrew">
+            <bibl>
+               <date when="1931" notBefore="1931-01-01" notAfter="1931-12-31"/>
+            </bibl>
+            <p>The Ben-Yehuda Project (http://benyehuda.org/). Content provided within the Ben-Yehuda Hackathon at the University of Haifa (THATCamp Haifa, February 2014).</p>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <change>
+            <date>2018-11-01</date>
+            <name>Omer Waldman</name>
+            <note>Correction of previously annotated dates and addition of dates to majority of the works</note>
+         </change>
+         <change>
+            <date>2017-08-09</date>
+            <name>Jerusalem corpus of Emergent Modern Hebrew (JEMH) staff</name>
+            <note>Created the initial version of the content in TEI-XML and added dates (some based on estimation)</note>
+         </change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+
+
+
+
+
+
+
+גם בהתערותו לעיניכם... / חיים נחמן ביאליק
+
+
+
+
+
+
+
+
+
+
+
+
+גם
+בהתערותו לעיניכם...
+
+ 
+
+גם
+בהתערותו לעיניכם, ועד למעמקיו –
+
+אל תצהלו
+כאבירים.
+
+אך התל התל
+בכם ללא רחמים
+
+ועד למנוד
+ראש לעג לכלכם.
+
+נקליתם
+מחשוף לכם אחת מני אלף
+
+מהגות לבו
+עליכם,
+
+על-כן יתגל,
+למען העלם מאד מעיניכם
+
+ולמען
+התעותכם.
+
+שוא
+תחפשוהו במחבואי חרוזיו – גם אלה
+
+אך כסות המה
+לצפוניו,
+
+מבעד
+לטוריהם, כמו מבינות לחרכי סוגר,
+
+לביא לוהט
+וזומם יציץ,
+
+ישלה למראה
+עין, יתאפק או ירגן חרש –
+
+ושאגת אש
+עצורה בעצמותיו.
+
+לילה מלילות
+יבא, ובעצם שנתכם המתוקה,
+
+יבהלכם הד
+רעמה פתאם,
+
+ממרחק לא
+פללתם, מילל ישימון, תגיעכם,
+
+ואתם טרם
+תבינו.
+
+נשבר הסוגר
+בן-לילה, היו בריחיו רסיסים,
+
+והלביא נמלט
+למכורתו.
+
+עוד הבקר עם
+פרץ שמש, עז-נפש ונאדר,
+
+נצב על קדקד
+צור יופיע,
+
+בוער בזהב
+תלתליו ונאפד רעמתו הכבדה –
+
+כלו אומר:
+מלך!
+
+עיניו
+תרשפנה בוז ואפו יריח טרף
+
+ותרועת
+דרורו שרשי הרים תחריד.
+
+ 
+
+ד' אדר, תרצ"א,
+לונדון.
+
+
+
+
+
+  
+
+
+</body>
+   </text>
+</TEI>

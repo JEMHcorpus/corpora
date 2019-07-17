@@ -1,0 +1,187 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>מורנו רב חסילא</title>
+            <author>חיים נחמן ביאליק</author>
+            <respStmt>
+               <name>Mandel Scholion Hebrew Revival Research Group</name>
+               <resp>Formatting of content from the Ben-Yehuda Project to TEI-XML according to the TEI P5 Guidelines.
+                  Addition of dates, not present in the online version, by Shira Wigderson, Asaf Isser, Adi Cohen, Nitzan Cohen, and Adi Cohen.
+               </resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <authority>Project Ben-Yehuda</authority>
+            <idno>http://benyehuda.org/bialik/bia_chds42.html</idno>
+         </publicationStmt>
+         <sourceDesc xml:lang="Hebrew">
+            <bibl>
+               <date when="1906" notBefore="1906-01-01" notAfter="1906-12-31"/>
+            </bibl>
+            <p>The Ben-Yehuda Project (http://benyehuda.org/). Content provided within the Ben-Yehuda Hackathon at the University of Haifa (THATCamp Haifa, February 2014).</p>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <change>
+            <date>2018-11-01</date>
+            <name>Omer Waldman</name>
+            <note>Correction of previously annotated dates and addition of dates to majority of the works</note>
+         </change>
+         <change>
+            <date>2017-08-09</date>
+            <name>Jerusalem corpus of Emergent Modern Hebrew (JEMH) staff</name>
+            <note>Created the initial version of the content in TEI-XML and added dates (some based on estimation)</note>
+         </change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+
+
+
+
+
+
+
+מורנו רב חסילא / חיים נחמן ביאליק
+
+
+
+
+
+
+
+
+מורנו רב חסילא
+
+ 
+
+פעם אחת ביום
+של אביב,
+
+תחת עץ יפה-הנוף,
+
+רב חסיל הקים
+בית-ספר
+
+לתלמידיו –  שרצי-עוף.
+
+ 
+
+חסילים, צרצרים,
+בני-ילק,
+
+פרות-משה, צרעה,
+דבורה,
+
+זבוב ויתוש
+כלם באו
+
+לעסק בדברי
+תורה.
+
+ 
+
+א
+– איל, ב – בית-ספר,
+
+ג –   גדר, ד –  דלת.
+
+מי שאינו
+לומד תורה
+
+כלמה היא לו
+גם אולת.
+
+ 
+
+ה
+– הר סיני, ו – וילונות,
+
+ז
+– זמיר, ח – חכמה,
+
+הס, החרגל, אל
+תנתר!
+
+צרעה, דבורה
+– שבו בדממה!
+
+ 
+
+ט
+–  טל בקר, י – ידים,
+
+כ
+– כלי-כתיבה, ל –  לוח.
+
+מי מכם שידע
+פרקו
+
+ילך אל הגן
+לשוח.
+
+ 
+
+שנו וחזרו
+ואמרו:
+
+מ
+– ממתקים, נ –  נמלה.
+
+אל תהימו, קול
+הרימו:
+
+ס,
+ע – סוס, עגלה.
+
+ 
+
+פ
+–  פטריה, צ –  צרצר,
+
+מהרו, שקצים,
+חיש! ק – 
+קציר.
+
+ר,
+ש, ת – תם, תם
+ונשלם! – 
+
+מי לגן ומי לחציר!
+
+ 
+
+ככה למד רב
+חסילא
+
+את תלמידיו
+דברי תורה:
+
+את הצרעה ואת
+הצרצר
+
+את הזבוב ואת
+הדבורה.
+
+ 
+
+ 
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+</body>
+   </text>
+</TEI>

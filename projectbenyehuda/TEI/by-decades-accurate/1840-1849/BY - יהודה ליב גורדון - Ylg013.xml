@@ -1,0 +1,134 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>אדני על מים רבים</title>
+            <author>יהודה ליב גורדון</author>
+            <respStmt>
+               <name>Mandel Scholion Hebrew Revival Research Group</name>
+               <resp>Formatting of content from the Ben-Yehuda Project to TEI-XML according to the TEI P5 Guidelines.
+                  Addition of dates, not present in the online version, by Shira Wigderson, Asaf Isser, Adi Cohen, Nitzan Cohen, and Adi Cohen.
+               </resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <authority>Project Ben-Yehuda</authority>
+            <idno>http://benyehuda.org/yalag/Ylg013.html</idno>
+         </publicationStmt>
+         <sourceDesc xml:lang="Hebrew">
+            <bibl>
+               <date when="1846" notBefore="1846-01-01" notAfter="1846-12-31"/>
+            </bibl>
+            <p>The Ben-Yehuda Project (http://benyehuda.org/). Content provided within the Ben-Yehuda Hackathon at the University of Haifa (THATCamp Haifa, February 2014).</p>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <change>
+            <date>2018-11-01</date>
+            <name>Omer Waldman</name>
+            <note>Correction of previously annotated dates and addition of dates to majority of the works</note>
+         </change>
+         <change>
+            <date>2017-08-09</date>
+            <name>Jerusalem corpus of Emergent Modern Hebrew (JEMH) staff</name>
+            <note>Created the initial version of the content in TEI-XML and added dates (some based on estimation)</note>
+         </change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+
+
+
+
+
+
+
+אדני על מים רבים
+
+
+
+ 
+
+
+
+
+  
+  
+
+
+שירי-זהב
+
+ 
+
+ח.  
+אדני על מים רבים
+
+ 
+
+מזרעות עמל
+בזרוע הנתקתי
+
+ואדא על
+כנפי רוח דבלינה,
+
+באחזת רעים
+שם לילה אלינה
+
+ובאור היום
+כחלום לנדוד הרחקתי.
+
+ 
+
+אך שם משד
+ים נעם רב ינקתי
+
+ופעלות האל
+וכבודו אבינה,
+
+מנו מזון רב
+אל נפשי אכינה.
+
+רחקת מני, דבלין,
+ממך לא רחקתי!
+
+ 
+
+עוד ספיר הים
+ותכלת רקיע,
+
+עוד רוח הצח
+שם יפוח שפי,
+
+עוד נשים
+צבאות, עוד בחורי יפי,
+
+ 
+
+עוד אני שיט
+אל עיני תופיע;
+
+עוד עת חזיוני
+את נפשי יעירו,
+
+דבלין ומלאה על פני יעבירו.
+
+ 
+
+תרט"ו
+
+
+
+
+
+ 
+
+
+
+
+
+
+</body>
+   </text>
+</TEI>

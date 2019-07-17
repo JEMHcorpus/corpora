@@ -1,0 +1,148 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>הדמעות</title>
+            <author>מרדכי צבי מאנה</author>
+            <respStmt>
+               <name>Mandel Scholion Hebrew Revival Research Group</name>
+               <resp>Formatting of content from the Ben-Yehuda Project to TEI-XML according to the TEI P5 Guidelines.
+                  Addition of dates, not present in the online version, by Shira Wigderson, Asaf Isser, Adi Cohen, Nitzan Cohen, and Adi Cohen.
+               </resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <authority>Project Ben-Yehuda</authority>
+            <idno>http://benyehuda.org/maneh/027.html</idno>
+         </publicationStmt>
+         <sourceDesc xml:lang="Hebrew">
+            <bibl>
+               <date when="1882" notBefore="1882-01-01" notAfter="1882-12-31"/>
+            </bibl>
+            <p>The Ben-Yehuda Project (http://benyehuda.org/). Content provided within the Ben-Yehuda Hackathon at the University of Haifa (THATCamp Haifa, February 2014).</p>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <change>
+            <date>2018-11-01</date>
+            <name>Omer Waldman</name>
+            <note>Correction of previously annotated dates and addition of dates to majority of the works</note>
+         </change>
+         <change>
+            <date>2017-08-09</date>
+            <name>Jerusalem corpus of Emergent Modern Hebrew (JEMH) staff</name>
+            <note>Created the initial version of the content in TEI-XML and added dates (some based on estimation)</note>
+         </change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+
+
+
+
+
+
+
+הדמעות / מרדכי צבי מאנה
+
+
+
+ 
+
+
+
+
+  
+  
+
+
+הדמעות / מרדכי
+צבי מאנה
+
+(העתקה משיר
+אשכנזי מאת שטאהל)
+
+ 
+
+1.
+
+רגשי הלב,
+הגיון הרוח,
+
+לא תנקב
+השפה בשער,
+
+אך מבת עין
+ציר שלוח:
+
+נטף דמע, ששון
+או צער.
+
+ 
+
+2.
+
+עת לבך בך
+אנוש מתוגה,
+
+נפעמת,
+נאלמת דומיה:
+
+אז תתנוצץ
+דמעה ענגה,
+
+ולשברך גם
+נפשי בוכיה.
+
+ 
+
+3. 
+
+עת לבך
+יתעלם, יריע,
+
+ולתאר
+שמחתך אין מלה:
+
+אז חיש דמעת
+ספיר תופיע,
+
+ולהבין רב
+אשרך אשכילה.
+
+ 
+
+4.
+
+עדי שחק
+דמעות עיניך,
+
+צירי הנפש
+בך יושבת;
+
+אם גם אין
+מלה בשפתיך:
+
+מכל רגש
+דמעה דובבת!
+
+ 
+
+תמוז, תרמ"ב.
+
+
+
+
+
+ 
+
+
+
+
+
+
+</body>
+   </text>
+</TEI>

@@ -1,0 +1,301 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>לאבל כינורי. ב</title>
+            <author>מנחם מנדל דוליצקי</author>
+            <respStmt>
+               <name>Mandel Scholion Hebrew Revival Research Group</name>
+               <resp>Formatting of content from the Ben-Yehuda Project to TEI-XML according to the TEI P5 Guidelines.
+                  Addition of dates, not present in the online version, by Shira Wigderson, Asaf Isser, Adi Cohen, Nitzan Cohen, and Adi Cohen.
+               </resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <authority>Project Ben-Yehuda</authority>
+            <idno>http://benyehuda.org/dolitsky/dolizki14.html</idno>
+         </publicationStmt>
+         <sourceDesc xml:lang="Hebrew">
+            <bibl>
+               <date when="1895" notBefore="1895-01-01" notAfter="1895-12-31"/>
+            </bibl>
+            <p>The Ben-Yehuda Project (http://benyehuda.org/). Content provided within the Ben-Yehuda Hackathon at the University of Haifa (THATCamp Haifa, February 2014).</p>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <change>
+            <date>2018-11-01</date>
+            <name>Omer Waldman</name>
+            <note>Correction of previously annotated dates and addition of dates to majority of the works</note>
+         </change>
+         <change>
+            <date>2017-08-09</date>
+            <name>Jerusalem corpus of Emergent Modern Hebrew (JEMH) staff</name>
+            <note>Created the initial version of the content in TEI-XML and added dates (some based on estimation)</note>
+         </change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+
+
+
+
+
+
+
+לאבל כינורי. ב / מנחם מנדל דוליצקי
+
+
+
+ 
+
+
+
+
+  
+  
+
+
+לאבל כנורי / מנחם מנדל דוליצקי
+
+ 
+
+ב.
+
+בחצות לילה תמיד, עת דממה השלכה, 
+
+על פני כל היקום בצל שנה ירגיע, 
+
+ואני את כנורי בידי אקחה, 
+
+אכה מיתריו ונגינות ישמיע, 
+
+ולצלצל זמירתו תמיד אשכחה, 
+
+דאגות בני תמותה, יגון ואנחה.
+
+ 
+
+יומם לאור שמש אפגש עלטה, 
+
+חשך ממעל, חלקלקות מתחת. 
+
+אראה צדיקים ידם כי מטה, 
+
+אראה נקיים קרבים לשחת. 
+
+אראה ואראה – אך הכל
+אשכחה, 
+
+כנורי בידי עת אקחה.
+
+ 
+
+כנורי קול יתן
+ולמרום ארקיע 
+
+בין רבבות
+שנאן, שרי שמים, 
+
+עמם אשורר,
+עמם אריע 
+
+ומאשר
+כמוני לא אמצא בחיים. 
+
+עמלי אשכחה
+והלמות עמלים 
+
+ולנעם זמירתו
+ירקדו בני אלים.
+
+ 
+
+אך מה זאת,
+אהה, עתה נהיתה, 
+
+תפשתי כנורי לשכיח עצבית, 
+
+ותחת קול
+ששון, הוי, אנחת אימתה, 
+
+התמלטה מקרבו כקול אנחת מות, 
+
+וכמסרק של
+ברזל, חרב לא מרטה, 
+
+אנחתו שרטת
+בנפשי שרטה...
+
+ 
+
+שכלתי אצבעותי ולנגן שיר נעים 
+
+אמצתי כל
+כחי אולי אוכלה, 
+
+אך שוא כל עמלי, הוא יהגה נכאים, 
+
+ואנחה כרעם
+מנו התגלגלה. 
+
+ואנחה נוראה,
+אנחה אימה, 
+
+אנחת בני
+עמי אנחת האמה. 
+
+ 
+
+אנחת אמתי
+מעקת אכזרים, 
+
+מקרב כנורי לה דרך סללה, 
+
+וכרגע בי
+לבי נקרע לגזרים 
+
+ודמעה אחר
+דמעה מעיני נזלה, 
+
+ומחזות
+נוראים, מחזות אימים, 
+
+עברו על פני,
+וכדם הם אדמים...
+
+ 
+
+ראיתי שמים
+וכעשן נמלחו, 
+
+ראיתי הארץ,
+בה במות לאלפים, 
+
+ראיתי כהנים מדורות ערכו, 
+
+עליהן בני
+עמי ראיתי נשרפים. 
+
+ראיתי חרבות,
+ראיתי רמחים, 
+
+אצלם את אחי
+ראיתי נרצחים...
+
+............................
+
+ 
+
+ראיתי בת עמי
+מקדם קדמתה, 
+
+עשוקה, רצוצה
+ומכה בלי הרף, 
+
+ראיתי גם עתה
+המכה פשתה 
+
+מעקת
+מרצחים, מזדון חיתו טרף. 
+
+ראיתי דמיה יזלו ישקו 
+
+בם זונות
+תרחצנה וכלבים ילקו...
+
+ 
+
+ראיתי למעלה
+נוצות חמרים 
+
+עפות ברוח  עד לב השמים; 
+
+ראיתי למטה
+מתים ופגרים 
+
+ודמים ודמעות
+סביבם כמים. 
+
+ראיתי בנות
+ציון, ראיתי שערוריות, 
+
+כמעשה
+הגבעה בשנים קדמניות...
+
+ 
+
+ראיתי בגולה
+אבות ובנים, 
+
+לארצות אחרות
+יקראו אמם. 
+
+ראיתי כי גם
+שם בם ידו אבנים 
+
+ובאשר יבאו
+שם קלונם עמם. 
+
+ראיתי בני
+עמי כי
+ידעו ארוכתם, 
+
+אך יישנו רעיהם
+ומתוקה להם שנתם.
+
+ 
+
+ראיתי אמתי
+תלויה ברוח, 
+
+תחתיה תהם נורא יפער הלע, 
+
+ורוח זעפת אל
+תהם הפתוח 
+
+מכל כנפות
+תבל תהדפה לטבע... 
+
+שמי חשך על
+ראשה ורעמים אימים 
+
+והיא על חוט
+דק – חוט חסד לאמים!.
+
+*
+
+מחזות כאלה
+ראה ראיתי, 
+
+עת אנחת כנורי רוחי העירה, 
+
+ולנגן שיר
+נעים עוד לא נסיתי, 
+
+כי קברים
+לעמי ולמי זה אשירה? 
+
+ותהפך שירתי וישפך לבבי, 
+
+ויהי לאבל כנורי ולקול בכים
+עגבי...
+
+ 
+
+
+
+
+
+ 
+
+
+
+
+
+
+</body>
+   </text>
+</TEI>

@@ -1,0 +1,187 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>הדגים והשלך</title>
+            <author>יהודה ליב גורדון</author>
+            <respStmt>
+               <name>Mandel Scholion Hebrew Revival Research Group</name>
+               <resp>Formatting of content from the Ben-Yehuda Project to TEI-XML according to the TEI P5 Guidelines.
+                  Addition of dates, not present in the online version, by Shira Wigderson, Asaf Isser, Adi Cohen, Nitzan Cohen, and Adi Cohen.
+               </resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <authority>Project Ben-Yehuda</authority>
+            <idno>http://benyehuda.org/yalag/yalag_153.html</idno>
+         </publicationStmt>
+         <sourceDesc xml:lang="Hebrew">
+            <bibl>
+               <date when="1859" notBefore="1859-01-01" notAfter="1859-12-31"/>
+            </bibl>
+            <p>The Ben-Yehuda Project (http://benyehuda.org/). Content provided within the Ben-Yehuda Hackathon at the University of Haifa (THATCamp Haifa, February 2014).</p>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <change>
+            <date>2018-11-01</date>
+            <name>Omer Waldman</name>
+            <note>Correction of previously annotated dates and addition of dates to majority of the works</note>
+         </change>
+         <change>
+            <date>2017-08-09</date>
+            <name>Jerusalem corpus of Emergent Modern Hebrew (JEMH) staff</name>
+            <note>Created the initial version of the content in TEI-XML and added dates (some based on estimation)</note>
+         </change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+
+
+
+
+
+
+
+הדגים והשלך / י"ל גורדון
+
+
+
+
+
+
+
+
+הדגים  והשלך / י"ל גורדון
+
+ 
+
+השלך שם מס על כל אגמי מים,
+
+בצאת וגבאים אשכר לו הקריבו
+
+וברכות ויארים מנחה השיבו,
+
+ומזויו מלאו משלל כל נחלים,
+
+ויאכל וישמן ופניו נהרו.
+
+אך ארכה העת, ימים רבים עברו
+
+ויחלש השלך כי שיבה בו זרקה,
+
+ותכהינה עיניו מראת תוך חשכת מים
+
+ובידו אין חכה אגמון ורשת
+
+לשליך ביאור לדיג לובשי קשקשת,
+
+אזי גם נחת שלחנו רחקה
+
+ויבאנו חסר;  אך רוחו לא נבקה
+
+ויעש בערמה ויצא האחו,
+
+ויפגש צפרדע בבץ מקפצת
+
+ויאמר: "מהרי אל גרי מי שחו,
+
+אמרי כי רעה עלימו נחרצת,
+
+כי הנה האדן בעוד יומים
+
+פרש מכמרת על כל נחלי מים
+
+ובאגמי נפש יעשה שכר –
+
+אז צרה ושכול למו, איד ונכר,
+
+כי כאסף החסיל יאסף כלמו
+
+ולבעלי הסנפיר לא ישאיר זכר".
+
+ותמהר הצפרדע ותגד זאת למו,
+
+וינע לבם, לא קם בם עוד רוח,
+
+וישלחו אל השלך מלאך שלוח
+
+לאמר: הגד-נא האם אל נכון שמעת
+
+כי נכנים הדיגים עלינו לרדת,
+
+אז עוץ נא עצה אם עזר ידעת!
+
+ויען: עזבו חיש ארץ מולדת
+
+ולארץ אחרת לכו לכם יחד,
+
+"אבל איך נעשה זאת ?" – אל תפחדו
+פחד
+
+אנכי מגן לכם, למקום סתר
+
+אשאכם על כתף אחד אחד:
+
+חביון עז הוא בערוץ הרי בתר,
+
+שם לא יקרבו אליכם לגשת
+
+פחים ורשת,
+
+חכה עם אגמון, מכמרת ושחת.
+
+עלו אלי, אל נא תבשו בשת
+
+החסד הזה מידי לקחת –
+
+שכנים טובים יעזרו איש אחיהו.
+
+ויתנו אזן שומעת
+
+הדגים קלי-הדעת
+
+אל קול אויבם ולמחמאות פיהו.
+
+ומכל פאה אליו נקבצו,
+
+שטו העם ובחפזון רצו,
+
+איש את אחיו ידחקו ילחצו,
+
+להיות ראשונה משוי מן המים.
+
+והשלך, רחום וחנון ארך אפים,
+
+על שכמו עמסם וברב עמל וטרח
+
+נשא אותם למעונו בנקיק סלע,
+
+במקום לא בא איש, שבת עובר ארח –
+
+שם אחד אחד יום יום אותם בלע
+
+חיים ותמימים כארץ את קרח.
+
+וילמדם דעת לבלי יאמינו
+
+באנשים לאכל נפש הסכינו.
+
+ 
+
+
+
+
+
+ 
+
+
+
+
+
+
+</body>
+   </text>
+</TEI>

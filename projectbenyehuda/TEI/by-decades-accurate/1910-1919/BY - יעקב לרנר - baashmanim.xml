@@ -1,0 +1,253 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>בָּאַשְׁמַנִּים</title>
+            <author>יעקב לרנר</author>
+            <respStmt>
+               <name>Mandel Scholion Hebrew Revival Research Group</name>
+               <resp>Formatting of content from the Ben-Yehuda Project to TEI-XML according to the TEI P5 Guidelines.
+                  Addition of dates, not present in the online version, by Shira Wigderson, Asaf Isser, Adi Cohen, Nitzan Cohen, and Adi Cohen.
+               </resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <authority>Project Ben-Yehuda</authority>
+            <idno>http://benyehuda.org/lerner/baashmanim.html</idno>
+         </publicationStmt>
+         <sourceDesc xml:lang="Hebrew">
+            <bibl>
+               <date when="1910" notBefore="1910-01-01" notAfter="1910-12-31"/>
+            </bibl>
+            <p>The Ben-Yehuda Project (http://benyehuda.org/). Content provided within the Ben-Yehuda Hackathon at the University of Haifa (THATCamp Haifa, February 2014).</p>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <change>
+            <date>2018-11-01</date>
+            <name>Omer Waldman</name>
+            <note>Correction of previously annotated dates and addition of dates to majority of the works</note>
+         </change>
+         <change>
+            <date>2017-08-09</date>
+            <name>Jerusalem corpus of Emergent Modern Hebrew (JEMH) staff</name>
+            <note>Created the initial version of the content in TEI-XML and added dates (some based on estimation)</note>
+         </change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+
+
+
+
+
+
+באשמנים / יעקב לרנר
+
+
+
+
+
+
+
+
+באשמנים
+
+ 
+
+א 
+
+כבר גוססת
+פתילת-נרי
+
+ובחדר צללים
+נעים:
+
+מן הפנה
+שעון חור
+
+נד ומונה לי
+הרגעים:
+
+ 
+
+"עוד אך
+רגע, עוד רק רגע 
+
+ויכבה שביב
+האש הדלוחה,
+
+אז תשתקע
+באשמנים,
+
+צללים פראים
+יחנקוך !"
+
+ 
+
+שביב הפתילה
+זע ויגוע :
+
+בא החשך
+ומזמותיו.
+
+חרש-חרש
+התאנחתי –
+
+ואתעלף
+בזרועותיו...
+
+ 
+
+ב
+
+צור-חלמיש
+סתם לבי,
+
+שממת-נצח
+אפפתני:
+
+הנני משלך
+אל ערבה –
+
+תבל כלה
+עזבתני.
+
+ 
+
+צללים-ימים
+כבמחזה
+
+עוברים-שבים
+כה בחשאי !...
+
+נפשי, נפשי
+אל הצללים.
+
+אך רתקתי
+אל קרקעי.
+
+ 
+
+קר והפקר,
+גלוי-עינים 
+
+הנני מטל
+בין הקברות:
+
+סביבי חולמים
+מתי-עולם 
+
+ומצבות
+אלמות, קרות...
+
+ 
+
+ג
+
+ 
+
+ חרש ארבה למראשותי
+
+דמות זקנה
+חדלת-חיים.
+
+רזי-מות
+הליטוה,
+
+עמקו
+נקרות-העינים.
+
+ 
+
+ומימינה
+ומשמאלה
+
+קפאו דיוקני
+השושבינים:
+
+החדלון עם
+הנצח –
+
+כה ערמים,
+כה רצינים !
+
+ 
+
+פרש פרשו
+על קדקדי
+
+השושבינים
+סדין-מחשכים:
+
+"חבקי,
+זקנה, את חתנך –
+
+המחתנים
+כבר מחכים !"
+
+ 
+
+דומם שחה לי
+הזקנה...
+
+קרות צחקו לי
+שניה:
+
+סנטר-שלדה
+זע ועוה,
+
+צמאו נקרות
+מבטיה.
+
+ 
+
+ותחבקני
+בין שדיה
+
+שופעי טחב
+ועלטה:
+
+"שכב
+בחיקי !– ששה חרש –
+
+נצח, נצח
+בחירי אתה!" 
+
+- - - - - - - - - -
+- - - - 
+
+צללים-ימים
+כבמחזה
+
+גזים, הולכים
+ונשכחים...
+
+הסי, הסי,
+תבל כלה:
+
+הנני צולל
+בין הנצחים !
+
+ 
+
+תר"ע
+
+ 
+
+
+
+
+
+ 
+
+
+
+
+
+
+</body>
+   </text>
+</TEI>

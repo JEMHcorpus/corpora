@@ -1,0 +1,169 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>לי לי הנהר</title>
+            <author>אלתר לוין</author>
+            <respStmt>
+               <name>Mandel Scholion Hebrew Revival Research Group</name>
+               <resp>Formatting of content from the Ben-Yehuda Project to TEI-XML according to the TEI P5 Guidelines.
+                  Addition of dates, not present in the online version, by Shira Wigderson, Asaf Isser, Adi Cohen, Nitzan Cohen, and Adi Cohen.
+               </resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <authority>Project Ben-Yehuda</authority>
+            <idno>http://benyehuda.org/levin/hanahar.html</idno>
+         </publicationStmt>
+         <sourceDesc xml:lang="Hebrew">
+            <bibl>
+               <date when="1920" notBefore="1920-01-01" notAfter="1920-12-31"/>
+            </bibl>
+            <p>The Ben-Yehuda Project (http://benyehuda.org/). Content provided within the Ben-Yehuda Hackathon at the University of Haifa (THATCamp Haifa, February 2014).</p>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <change>
+            <date>2018-11-01</date>
+            <name>Omer Waldman</name>
+            <note>Correction of previously annotated dates and addition of dates to majority of the works</note>
+         </change>
+         <change>
+            <date>2017-08-09</date>
+            <name>Jerusalem corpus of Emergent Modern Hebrew (JEMH) staff</name>
+            <note>Created the initial version of the content in TEI-XML and added dates (some based on estimation)</note>
+         </change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+
+
+
+
+
+
+
+לי לי הנהר / אלתר לוין (אסף הלוי איש ירושלים)
+
+
+
+ 
+
+
+
+
+  
+  
+
+
+לי לי הנהר / אלתר לוין (אסף
+הלוי איש ירושלים)
+
+ 
+
+ח
+
+ 
+
+הנהר בעמק,
+למזרח השמש,
+
+לרגלי הר גלעד
+ורוחץ בים;
+
+הנהר בעמק,
+בבקעת התמרים,
+
+לרגלי הר
+מואב הנשא ורם!
+
+         לתועפות מידבא,
+
+         שם יך גל-גל;
+
+         לתל עין גדי,
+
+         שם יך גל-גל.
+
+הס! הומה
+הנהר: הנהר למי?
+
+הירדן,
+הירדן, הנהר שלי!
+
+ 
+
+מרכסי
+הלבנון, מבין הארזים,
+
+יורד הנהר ומרוה
+התל;
+
+ומספרים
+הזרמים צפונות, קדמונות
+
+מגבורות
+הכובשים, פלאי האל:
+
+          לרגלי יריחו,
+
+          חלק גל-גל,
+
+          לרגלי גאולים,
+
+          יבש גל-גל.
+
+הס! הומה
+הנהר: הנהר למי?
+
+הירדן, הירדן,
+הנהר שלי!
+
+ 
+
+של מי הנהר?
+של אבות גבורים,
+
+כובשים קדומים
+ובאי בסערה;
+
+נוטרים
+אנחנו! על גדותיו מגנים,
+
+גליו
+שמרנו, גליו נשמרה!
+
+          לי-לי הנהר,
+
+          לי-לי ולא זר,
+
+          ונוטרו אנכי,
+
+          מגן מצר!
+
+הס! הומה
+הנהר: הנהר למי?
+
+הירדן,
+הירדן, הנהר שלי!
+
+ 
+
+ 
+
+
+
+
+
+ 
+
+
+
+
+
+
+</body>
+   </text>
+</TEI>

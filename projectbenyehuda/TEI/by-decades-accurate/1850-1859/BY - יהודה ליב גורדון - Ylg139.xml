@@ -1,0 +1,168 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>מי הנהר העצומים והרבים</title>
+            <author>יהודה ליב גורדון</author>
+            <respStmt>
+               <name>Mandel Scholion Hebrew Revival Research Group</name>
+               <resp>Formatting of content from the Ben-Yehuda Project to TEI-XML according to the TEI P5 Guidelines.
+                  Addition of dates, not present in the online version, by Shira Wigderson, Asaf Isser, Adi Cohen, Nitzan Cohen, and Adi Cohen.
+               </resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <authority>Project Ben-Yehuda</authority>
+            <idno>http://benyehuda.org/yalag/Ylg139.html</idno>
+         </publicationStmt>
+         <sourceDesc xml:lang="Hebrew">
+            <bibl>
+               <date when="1859" notBefore="1859-01-01" notAfter="1859-12-31"/>
+            </bibl>
+            <p>The Ben-Yehuda Project (http://benyehuda.org/). Content provided within the Ben-Yehuda Hackathon at the University of Haifa (THATCamp Haifa, February 2014).</p>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <change>
+            <date>2018-11-01</date>
+            <name>Omer Waldman</name>
+            <note>Correction of previously annotated dates and addition of dates to majority of the works</note>
+         </change>
+         <change>
+            <date>2017-08-09</date>
+            <name>Jerusalem corpus of Emergent Modern Hebrew (JEMH) staff</name>
+            <note>Created the initial version of the content in TEI-XML and added dates (some based on estimation)</note>
+         </change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+
+
+
+
+
+
+מי הנהר העצומים והרבים / יהודה ליב גורדון
+
+
+
+
+
+
+
+
+מי הנהר
+העצומים והרבים ומי השלח ההלכים לאט
+
+ 
+
+בהמלה
+נוראה ובשצף קצף
+
+פרץ נחל איתן
+מעם גר פרץ
+
+ויכס אפיקיו
+ויעל ויצף
+
+וישטף
+ויסחף עפר הארץ.
+
+ובלב הולכי
+ארחות הביא מרך,
+
+כי לא ערב
+איש לבו לשחות במים.
+
+ויהי רכב
+אחד הולך בדרך
+
+ויפלו עליו
+שודדים בצהרים.
+
+וירא כי אין
+מפלט מפני הלחץ
+
+ויקפץ אל
+השבלת, ויחץ
+
+גליו ויעבר
+הוא עם סוסו יחד.
+
+אז ראה ויבן
+כי שוא פחד פחד,
+
+כי מים עזים
+אלה הבהילוהו
+
+לא עמקים,
+וכמי מנוחת נהלוהו.
+
+אולם כמעט על
+החוף רגליו נחו
+
+וירא כי גם
+שודדיו הנחל צלחו,
+
+וישא רגליו
+ויסף לברח,
+
+ופתאם
+לקראתו מי השלח
+
+יתיצבו
+כנד לגדור לו הארח
+
+ויהי כמצחק;
+ומבלי כל טרח
+
+דמה למד מי
+זה היאר בשעל
+
+ויבא במים.
+אך הוי שד ושבר!
+
+כי נחל זה
+היה נחל בליעל:
+
+ממעל פלג
+אלהים מלא נחת
+
+ובקרבו עמק
+עמק כבאר שחת
+
+שם סוס עם
+רכבו גם מצאו קבר.
+
+ 
+
+כמים הפנים
+כן לב האדם!
+
+יש פנים
+נזעמים ולב טוב בקרב,
+
+ופני צוהלים
+ושמחים, ובידם
+
+תך הוות
+ומרמה ועונות חרב.
+
+ 
+
+
+
+
+
+ 
+
+
+
+
+
+
+</body>
+   </text>
+</TEI>

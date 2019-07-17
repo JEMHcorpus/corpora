@@ -1,0 +1,115 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>יוסף טרומפלדור</title>
+            <author>יוסף חיים ברנר</author>
+            <respStmt>
+               <name>Mandel Scholion Hebrew Revival Research Group</name>
+               <resp>Formatting of content from the Ben-Yehuda Project to TEI-XML according to the TEI P5 Guidelines.
+                  Addition of dates, not present in the online version, by Shira Wigderson, Asaf Isser, Adi Cohen, Nitzan Cohen, and Adi Cohen.
+               </resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <authority>Project Ben-Yehuda</authority>
+            <idno>http://benyehuda.org/brenner/brenner208.html</idno>
+         </publicationStmt>
+         <sourceDesc xml:lang="Hebrew">
+            <bibl>
+               <date when="1921" notBefore="1921-01-01" notAfter="1921-12-31"/>
+            </bibl>
+            <p>The Ben-Yehuda Project (http://benyehuda.org/). Content provided within the Ben-Yehuda Hackathon at the University of Haifa (THATCamp Haifa, February 2014).</p>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <change>
+            <date>2018-11-01</date>
+            <name>Omer Waldman</name>
+            <note>Correction of previously annotated dates and addition of dates to majority of the works</note>
+         </change>
+         <change>
+            <date>2017-08-09</date>
+            <name>Jerusalem corpus of Emergent Modern Hebrew (JEMH) staff</name>
+            <note>Created the initial version of the content in TEI-XML and added dates (some based on estimation)</note>
+         </change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+
+
+
+
+
+
+
+יוסף טרומפלדור / יוסף חיים ברנר
+
+
+
+ 
+
+
+
+
+  
+  
+
+
+יוסף טרומפלדור
+
+יוסף חיים ברנר
+
+
+
+ 
+
+
+
+
+ 
+  
+  לא זכיתי להכיר את יוסף טרומפלדור מקרוב; אבל
+  הקריאה במכתביו, יחד עם הידיעה על מעשיו (בשבי-יאפאן, במגדל, בגליפולי,
+  ב"החלוץ" בתל-חי) – מעמידה על אופיו האנושי.  זה היה אנוש שלם בתכלית: בפשטות של
+  תמימות, בהבנה של יושר, ברעות של טהרה, בהומור, ביחסי-אמת אל עצמו ואל
+  קיבוצו. –
+  הוא היה תמיד אוטופי, הוא חי תמיד עם
+  העולם, עם זרועות-העולם, ויחד עם זה היה נתון כולו – לד' אמות, שהוא נמצא בהן באותה
+  שעה, לאנשים המסובבים אותו באותה שעה. –
+  הוא היה איש-פעלים, איש-סדרים.   הוא הבין והוקיר את ערך הפרטים
+  שבמציאות, שבחיים.  הוא הבין, שהכל
+  חשוב.  הוא אהב את דומן-האדם, ועם
+  זה לא פחד ללוש אותו, לגבש אותו לגבעה נישאה.  את עצמו ראה באחרית-הימים עומד על הגבעה והוא גם אז איש-צבא.
+  רק איש-צבא.
+   
+  אשרי מי שעמד בד' אמותיו. – 
+   
+  ["קונטרס",
+  אדר ב' תרפ"א, למלאת שנה למאורעות תל-חי; החתימה: י. ח. ברנר]
+  
+ 
+
+
+
+
+ 
+
+
+
+
+
+ 
+
+ 
+
+
+
+
+
+
+</body>
+   </text>
+</TEI>

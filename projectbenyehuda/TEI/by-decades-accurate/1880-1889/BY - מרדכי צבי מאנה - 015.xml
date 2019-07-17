@@ -1,0 +1,122 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>התפילה</title>
+            <author>מרדכי צבי מאנה</author>
+            <respStmt>
+               <name>Mandel Scholion Hebrew Revival Research Group</name>
+               <resp>Formatting of content from the Ben-Yehuda Project to TEI-XML according to the TEI P5 Guidelines.
+                  Addition of dates, not present in the online version, by Shira Wigderson, Asaf Isser, Adi Cohen, Nitzan Cohen, and Adi Cohen.
+               </resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <authority>Project Ben-Yehuda</authority>
+            <idno>http://benyehuda.org/maneh/015.html</idno>
+         </publicationStmt>
+         <sourceDesc xml:lang="Hebrew">
+            <bibl>
+               <date when="1880" notBefore="1880-01-01" notAfter="1880-12-31"/>
+            </bibl>
+            <p>The Ben-Yehuda Project (http://benyehuda.org/). Content provided within the Ben-Yehuda Hackathon at the University of Haifa (THATCamp Haifa, February 2014).</p>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <change>
+            <date>2018-11-01</date>
+            <name>Omer Waldman</name>
+            <note>Correction of previously annotated dates and addition of dates to majority of the works</note>
+         </change>
+         <change>
+            <date>2017-08-09</date>
+            <name>Jerusalem corpus of Emergent Modern Hebrew (JEMH) staff</name>
+            <note>Created the initial version of the content in TEI-XML and added dates (some based on estimation)</note>
+         </change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+
+
+
+
+
+
+התפילה / מרדכי צבי מאנה
+
+
+
+ 
+
+
+
+
+  
+  
+
+
+התפילה / מרדכי
+צבי מאנה
+
+(העתקה משיר
+הרוסי להמשורר לערמאנטאוו  [לרמונטוב]).
+
+ 
+
+1.
+
+את פגעי החיים עדי יאתיו,
+
+עצב בלבבי ישכן וידכאני;
+
+אז אל אל שדי כליותי יהמיו,
+
+ותפלה נפלאה אהגה בלשוני.
+
+ 
+
+2.
+
+יש עז וכח בידי ניבים נאוים,
+
+הסיר כל עצב, שכך המית רוח;
+
+כל הגה יעיר בי רגשות נשגבים,
+
+ויפי חן קדש עלימו זרוח.
+
+ 
+
+3.
+
+משני השפק נפשי אצילה,
+
+נטל היגון חיש מהר ירפני;
+
+אאמין באלה, גם דמעה אזילה,
+
+אז אקל עצבי ומאשר הנני!
+
+ 
+
+חשון, תרמ"א,
+פ"ב.
+
+ 
+
+
+
+
+
+ 
+
+
+
+
+
+
+</body>
+   </text>
+</TEI>

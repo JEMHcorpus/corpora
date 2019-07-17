@@ -1,0 +1,258 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>לא הראני אלהים</title>
+            <author>חיים נחמן ביאליק</author>
+            <respStmt>
+               <name>Mandel Scholion Hebrew Revival Research Group</name>
+               <resp>Formatting of content from the Ben-Yehuda Project to TEI-XML according to the TEI P5 Guidelines.
+                  Addition of dates, not present in the online version, by Shira Wigderson, Asaf Isser, Adi Cohen, Nitzan Cohen, and Adi Cohen.
+               </resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <authority>Project Ben-Yehuda</authority>
+            <idno>http://benyehuda.org/bialik/bia085.html</idno>
+         </publicationStmt>
+         <sourceDesc xml:lang="Hebrew">
+            <bibl>
+               <date when="1911" notBefore="1911-01-01" notAfter="1911-12-31"/>
+            </bibl>
+            <p>The Ben-Yehuda Project (http://benyehuda.org/). Content provided within the Ben-Yehuda Hackathon at the University of Haifa (THATCamp Haifa, February 2014).</p>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <change>
+            <date>2018-11-01</date>
+            <name>Omer Waldman</name>
+            <note>Correction of previously annotated dates and addition of dates to majority of the works</note>
+         </change>
+         <change>
+            <date>2017-08-09</date>
+            <name>Jerusalem corpus of Emergent Modern Hebrew (JEMH) staff</name>
+            <note>Created the initial version of the content in TEI-XML and added dates (some based on estimation)</note>
+         </change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+
+
+
+
+
+
+
+לא הראני אלהים / חיים נחמן ביאליק
+
+
+
+
+
+
+
+
+
+
+
+
+לא הראני
+אלהים
+
+ 
+
+לא הראני
+אלהים בחלומות לילה
+
+וקוסם לא-נחש
+לי,
+
+איפה ידבקני
+יומי האחרון
+
+ומה-דמות
+לקצי כי-אדע:
+
+אם בתוך
+אהלי על-יצועי אגועה
+
+ומחמדי
+כלם על-ידי,
+
+עד-אחד יבאו,
+יחנו עלי דומם,
+
+משמרת אהבה
+וקדשה סביב מטתי,
+
+ומנו
+נשימותי האחרונות בחיק אל חיי
+
+כמנות סגלות
+חמדה –
+
+או בזוי
+ומנאץ, זעום אלהים ואדם,
+
+שנוא חבר
+ופליט משפחה,
+
+בתוך מכלא
+נטוש, על אלמת תבן,
+
+את-נפשי,
+חללה וטמאה, אפח;
+
+לא יעמד איש
+על יציאת נשמתי
+
+ויד לא-תרעד
+על-עיני הכבות.
+
+או אולי בעצם
+רעבי וצמאי
+
+לחיים
+ולכל-מנעמותם
+
+בשאט
+בנפש, על-אף היוצר וחמתו,
+
+במתת ידו
+אבעט,
+
+וכהשלך נעל
+מגאלת מרגל
+
+נפשי לרגליו
+אשליכה.
+
+ואולי מרב
+הארך רוח אמקה,
+
+ומרב יחל
+והחרש,
+
+ונשפכה
+נפשי ארצה במררתי,
+
+ובדמי לבי
+אפלטנה.
+
+או שמא
+כמרגלית, ונגה עולם לה,
+
+עם-דמעתי
+האחרונה תפל,
+
+ורעדה,
+וזרחה אחרי דורות רבים
+
+לעינים
+לא-ראוני.
+
+ואולי
+כפרפר, מסביב לשלהבת
+
+רקד ופזז
+תצא נפשי;
+
+או כשלהבת
+הנר עצמה, לפני כלות שמנה,
+
+בחבלי מותה
+תפרפר,
+
+והבהבה
+ועשנה עוד ימים רבים,
+
+תעתועים
+לעין,
+
+עדי נפלה
+פתאם אל תהום אפלה
+
+וכבתה לנצח.
+
+ואולי
+כשמש לפני שקעה – פתאם
+
+בכל-להבותיה
+תתלקח,
+
+והפיצה
+בעבים לפידי אשה,
+
+ומדורותיה
+בראשי הרים,
+
+ופקוחות
+לרוחה אלפי עינים
+
+לקראת זהרה
+האחרון ישתאו.
+
+ומי יודע,
+אולי יתאכזר לי אלי –
+
+ובעודני חי
+אמותה,
+
+וצררו
+את-נפשי בתכריכי ניר,
+
+וקברוני
+בארון ספרים,
+
+חלד הבית
+יגרר לילה עצמותי,
+
+ועכבר מחור
+יכרסמני,
+
+ועמדו אז
+רגלי על-קברי אני,
+
+ופי יגיד
+קדיש יתום אחרי.
+
+או אולי תפל
+וחסר טעם יבא מותי,
+
+ובארח לא
+קויתיו;
+
+בליל חרף
+זעף, מאחורי אחת הגדרות,
+
+ככלב רעב
+אקפא,
+
+וכסה השלג
+הרך על הכתם השחר
+
+ומחה חרפת
+אדם וחייו,
+
+וחרוק שני
+האחרון עם קללת מותי
+
+הרוח הזועם
+יסער.
+
+ 
+
+אדר, תרע"א.
+
+
+
+
+
+  
+
+
+</body>
+   </text>
+</TEI>

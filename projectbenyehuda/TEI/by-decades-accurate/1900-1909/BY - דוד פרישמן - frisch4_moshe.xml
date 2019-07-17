@@ -1,0 +1,178 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>משה</title>
+            <author>דוד פרישמן</author>
+            <respStmt>
+               <name>Mandel Scholion Hebrew Revival Research Group</name>
+               <resp>Formatting of content from the Ben-Yehuda Project to TEI-XML according to the TEI P5 Guidelines.
+                  Addition of dates, not present in the online version, by Shira Wigderson, Asaf Isser, Adi Cohen, Nitzan Cohen, and Adi Cohen.
+               </resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <authority>Project Ben-Yehuda</authority>
+            <idno>http://benyehuda.org/frischmann/frisch4_moshe.html</idno>
+         </publicationStmt>
+         <sourceDesc xml:lang="Hebrew">
+            <bibl>
+               <date when="1901" notBefore="1901-01-01" notAfter="1901-12-31"/>
+            </bibl>
+            <p>The Ben-Yehuda Project (http://benyehuda.org/). Content provided within the Ben-Yehuda Hackathon at the University of Haifa (THATCamp Haifa, February 2014).</p>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <change>
+            <date>2018-11-01</date>
+            <name>Omer Waldman</name>
+            <note>Correction of previously annotated dates and addition of dates to majority of the works</note>
+         </change>
+         <change>
+            <date>2017-08-09</date>
+            <name>Jerusalem corpus of Emergent Modern Hebrew (JEMH) staff</name>
+            <note>Created the initial version of the content in TEI-XML and added dates (some based on estimation)</note>
+         </change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+
+
+
+
+
+
+
+משה / דוד פרישמן
+
+
+
+
+
+
+
+
+משה
+
+ 
+
+על ראש ההר
+בדד חצבה באבן
+
+מטה רעננה,
+
+ושוכב
+במטה איש עיף בן-מאה
+
+ועשרים שנה.
+
+ 
+
+ועינו לא
+כהתה ולחו לא נס עוד – 
+
+אך לבו מה
+חלל;
+
+קול כנפי
+המות משיקות כבר נשמע
+
+בעטותו
+לשלל.
+
+ 
+
+ונאנח האיש
+הגוע: „הוי אלי,
+
+לחנם הייתי!
+
+כל-ימי לעמי
+עשיתי, עשיתי – 
+
+ומאום לא
+עשיתי.
+
+ 
+
+מארץ מצרים
+את-עם-זו אהבתי
+
+הנה הוצאתיו;
+
+ואולם
+לארץ-ישראל את-עם-זו
+
+הן לא הבאתיו.
+
+ 
+
+מקרב העבדות
+את-עמי הוצאתי,
+
+מעבדות
+מאסתי;
+
+ואולם אל-קרב
+החפשה זו-עמי
+
+הן לא
+הכנסתי.
+
+ 
+
+וגדול
+המדבר ונורא המדבר
+
+בין ארץ
+לארץ;
+
+וגדול ונורא
+בין עבדות וחפשה
+
+ואים הפרץ.
+
+ 
+
+וגדול העון
+ונורא העון,
+
+אם יקום
+בן-אדם
+
+וירד אל-עמו
+אל-בית-העבדים
+
+וקם ופדם,
+
+ 
+
+וארץ אחרת לא
+כבש בעבורם...
+
+טוב כי לא
+יוחל,
+
+טוב כי לא
+יוציא מעבדות, אם חפש
+
+תת לא יוכל!“
+
+ 
+
+
+
+
+
+ 
+
+
+
+
+
+
+</body>
+   </text>
+</TEI>

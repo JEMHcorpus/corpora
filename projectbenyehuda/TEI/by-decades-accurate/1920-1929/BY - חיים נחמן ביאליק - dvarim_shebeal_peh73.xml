@@ -1,0 +1,125 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>על מ. י. ברדיצ'בסקי</title>
+            <author>חיים נחמן ביאליק</author>
+            <respStmt>
+               <name>Mandel Scholion Hebrew Revival Research Group</name>
+               <resp>Formatting of content from the Ben-Yehuda Project to TEI-XML according to the TEI P5 Guidelines.
+                  Addition of dates, not present in the online version, by Shira Wigderson, Asaf Isser, Adi Cohen, Nitzan Cohen, and Adi Cohen.
+               </resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <authority>Project Ben-Yehuda</authority>
+            <idno>http://benyehuda.org/bialik/dvarim_shebeal_peh73.html</idno>
+         </publicationStmt>
+         <sourceDesc xml:lang="Hebrew">
+            <bibl>
+               <date when="1922" notBefore="1922-01-01" notAfter="1922-12-31"/>
+            </bibl>
+            <p>The Ben-Yehuda Project (http://benyehuda.org/). Content provided within the Ben-Yehuda Hackathon at the University of Haifa (THATCamp Haifa, February 2014).</p>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <change>
+            <date>2018-11-01</date>
+            <name>Omer Waldman</name>
+            <note>Correction of previously annotated dates and addition of dates to majority of the works</note>
+         </change>
+         <change>
+            <date>2017-08-09</date>
+            <name>Jerusalem corpus of Emergent Modern Hebrew (JEMH) staff</name>
+            <note>Created the initial version of the content in TEI-XML and added dates (some based on estimation)</note>
+         </change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+
+
+
+
+
+
+
+על מ. י. ברדיצ'בסקי / ח"נ ביאליק
+
+
+
+
+
+
+
+
+על מ.  י.  ברדיצ'בסקי
+
+ח"נ ביאליק
+
+
+
+ 
+
+
+
+
+ 
+  
+  (באספת זכרון,
+  שנערכה ע"י בית-הועד העברי בברלין, כ"א בשבט תרפ"ב)
+  אנחנו, הסופרים העברים, שהינו כל כך הרבה, כדי
+  שלשה חדשים בערך, לאחר שנסתם הגולל על חברנו הגדול, בהערכת אישיותו של המנוח
+  מרובת הפנים והגוונים.  אכן אין
+  שהיה זו אלא דבר שהמקום גרמא: 
+  הסופרים העברים שרובם ככלם גרים הם בעיר ברלין, אורחים שזה מקרוב באו,
+  עומדים היו וממתינים לבני המקום, התושבים הקבועים, שבתוכם ישב המנוח שנים רבות,
+  שיבואו הם ראשונה להספיד את המת הגדול ולחלק כבוד לתלמיד-חכם שמת בתוך המחנה,
+  שכן ניתן להם דין קדימה.  אספה זו,
+  שצפו לה, לא קמה ולא באה.  וכך
+  הדין נותן:  הללו שבחייהם קרויים
+  מתים לא יכלו להספיד את המנוח שבמותו קרוי חי.
+  דמותו ושיעור קומתו של ברדיצ'בסקי אינם ניתנים
+  להערכה על רגל אחת.  ברדיצ'בסקי גם
+  במותו קרוי חי.  אכן הדעה שהשארות
+  הנפש של היוצר כלולה דוקא באותו חלק של יצירתו הקשורה לעולם בשמו, שאי-אפשר
+  להפריד ממנו, ולא באותו חלק שנעשה לקנין הכלל והם זוכים בו כזוכה מן ההפקר מבלי
+  לדעת את מקור מחצבתו – "דוקא" זה נראה לי ללאו דוקא.  אדרבא היא היא הנותנת, דוקא חלק זה
+  שנעשה לנכסי צאן ברזל של הצבור ורכוש הרבים עד ששם היוצר כאלו מסולק ועומד, הוא
+  הוא הסמן המובהק להשארות הנפש של היוצר, המוסיפה לחיות ולהשפיע, ואדם נושם את
+  תורת הנפש החיה הזאת שלא מדעת יחד עם האויר המקיפו.  אכן אף החלק הנשאר שיש בו משום יחוד בעלים, שלא באה עליו
+  הסכמת הרבים ולא נתמזג בנשמת הצבור, חי גם הוא ומוסיף לחיות בקרב הרבים בשנוי
+  צורה, שכן מעורר הוא את הלבבות תמיד לחשוב חשבונה של נפש, למצות את עומק הדין
+  ולבחון מחדש את המוסכמות ולבקש להן ראיה, ועל ידי כך בודקים הם את נפשם לאור נרו.  ברדיצ'בסקי רב חילו בשני החלקים הללו
+  יחד.  ברדיצ'בסקי השפיע השפעה
+  כבירה על הספרות והחיים במאמריו שיצאו ב"הוצאת צעירים", הוא נסה
+  להגשים בעצמו אותו רעיון על דבר מוסד "התחיה" שעלה במחשבה להבראות
+  במסבתו, ולא נשאר נאמן לו אלא הוא בלבד. 
+  השקפת ברדיצ'בסקי על בנין התחיה שלנו היתה, שלכל בנין אין קיום אלא אם כן
+  אחוז הוא בנפש הבונה.  הלבנים
+  המשוקעות בבנין אינן מתדבקות יפה, אלא אם כן מצורף להן משהו נעלם וטמיר מעין
+  רואים, והוא נפשו של הבונה, הכח המקיים את הבנין.  משל יפה לדבר משמש "טוביה" בציורו הקטן של המנוח
+  בספרו "מעירי הקטנה", המשקיע את כל נפשו בתוך בנין ביתו הקטן.
+  
+ 
+
+
+
+
+ 
+
+
+
+
+
+ 
+
+
+
+
+
+
+</body>
+   </text>
+</TEI>

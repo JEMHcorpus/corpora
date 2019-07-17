@@ -1,0 +1,246 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>אצבעוני</title>
+            <author>חיים נחמן ביאליק</author>
+            <respStmt>
+               <name>Mandel Scholion Hebrew Revival Research Group</name>
+               <resp>Formatting of content from the Ben-Yehuda Project to TEI-XML according to the TEI P5 Guidelines.
+                  Addition of dates, not present in the online version, by Shira Wigderson, Asaf Isser, Adi Cohen, Nitzan Cohen, and Adi Cohen.
+               </resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <authority>Project Ben-Yehuda</authority>
+            <idno>http://benyehuda.org/bialik/bia_chds16.html</idno>
+         </publicationStmt>
+         <sourceDesc xml:lang="Hebrew">
+            <bibl>
+               <date when="1911" notBefore="1911-01-01" notAfter="1911-12-31"/>
+            </bibl>
+            <p>The Ben-Yehuda Project (http://benyehuda.org/). Content provided within the Ben-Yehuda Hackathon at the University of Haifa (THATCamp Haifa, February 2014).</p>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <change>
+            <date>2018-11-01</date>
+            <name>Omer Waldman</name>
+            <note>Correction of previously annotated dates and addition of dates to majority of the works</note>
+         </change>
+         <change>
+            <date>2017-08-09</date>
+            <name>Jerusalem corpus of Emergent Modern Hebrew (JEMH) staff</name>
+            <note>Created the initial version of the content in TEI-XML and added dates (some based on estimation)</note>
+         </change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+
+
+
+
+
+
+
+אצבעוני / חיים נחמן ביאליק
+
+
+
+ 
+
+
+
+
+  
+  
+
+
+אצבעוני
+
+ 
+
+ 
+
+–      
+מי זה דופק על חלוני?
+
+–      
+"נער קטן
+אצבעוני!"
+
+–      
+נערי, זעירי, מה-שמך?
+
+מי אביך, מי
+אמך?
+
+–      
+"אין מולדת לי ושם,
+
+אין לי אב ואין
+לי אם."
+
+–      
+ומאין תבא, נער?
+
+–      
+"בא אני משוט
+ביער."
+
+–      
+צידה יש לך לדרך?
+
+–      
+" אין לי צרך, אין לי
+צרך,
+
+כל הארץ לי
+היא, לי היא.
+
+ 
+
+משקי טל,
+ופרח –  גביעי.
+
+סוס רכובי –
+חרגל שדי,
+
+קור עכביש
+שוט בידי.
+
+זבובי רקמה,
+דבורי זהב, 
+
+מן יביאו לי
+ברעב,
+
+ולתפארת, לי
+תופרת
+
+כתנת פסים
+הצפורת..."
+
+ 
+
+–      
+ובליל סגריר, ליל
+חשכה
+
+איפה תלין,
+תשכב איכה?
+
+–      
+"ראש פטריה צל
+וגג לי,
+
+שם מנוח
+אמצא לרגלי.
+
+הנה ערשי,
+ערש ננס,
+
+קלפת אגוז
+בה אתכנס,
+
+כפי
+למראשותי כרי,
+
+עלה ירוק –
+מכסה בשרי.
+
+כל-הלילה עם
+הפנס
+
+שומרה לי
+ולראשי ערה
+
+הגחלילית,
+יאיר נרה."
+
+ 
+
+–      
+מתי תקום, מתי תעור?
+
+–      
+"מתי? אך הבקר
+יאור!
+
+קרן זהב
+תשקני,
+
+תפקח את עיני
+ותעירני.
+
+אקום, ארחץ
+ואטוס שוב
+
+עם הדבורה
+ועם הזבוב.
+
+כל החורים
+אני מלא,
+
+דבר מני לא
+יפלא,
+
+ובראותי אם
+ותינוקה
+
+בעד החלון –
+לו אדפקה,
+
+אקרא שלום לו
+וברכה,
+
+לו ולראש
+כל-המשפחה..."
+
+–      
+סורה, נערי, שב נא
+אתי,
+
+שתה מכוסי,
+שבע מפתי...
+
+ 
+
+–      
+"לא, כי, לא כי, לא,
+תינוקי!
+
+אץ לי דרכי,
+אץ לי שחוקי,
+
+מחר אבא שנית
+ברנה
+
+ומטעמים לי
+הכינה,
+
+ועתה, שלום!
+אין לי פני,
+
+שלום, שלום,
+כה לחי!.."
+
+ 
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+</body>
+   </text>
+</TEI>

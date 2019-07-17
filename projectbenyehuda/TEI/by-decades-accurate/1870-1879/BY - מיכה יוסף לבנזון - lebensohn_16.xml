@@ -1,0 +1,177 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>האוהב הנשבע</title>
+            <author>מיכה יוסף לבנזון</author>
+            <respStmt>
+               <name>Mandel Scholion Hebrew Revival Research Group</name>
+               <resp>Formatting of content from the Ben-Yehuda Project to TEI-XML according to the TEI P5 Guidelines.
+                  Addition of dates, not present in the online version, by Shira Wigderson, Asaf Isser, Adi Cohen, Nitzan Cohen, and Adi Cohen.
+               </resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <authority>Project Ben-Yehuda</authority>
+            <idno>http://benyehuda.org/lebensohn/lebensohn_16.html</idno>
+         </publicationStmt>
+         <sourceDesc xml:lang="Hebrew">
+            <bibl>
+               <date when="1870" notBefore="1870-01-01" notAfter="1870-12-31"/>
+            </bibl>
+            <p>The Ben-Yehuda Project (http://benyehuda.org/). Content provided within the Ben-Yehuda Hackathon at the University of Haifa (THATCamp Haifa, February 2014).</p>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <change>
+            <date>2018-11-01</date>
+            <name>Omer Waldman</name>
+            <note>Correction of previously annotated dates and addition of dates to majority of the works</note>
+         </change>
+         <change>
+            <date>2017-08-09</date>
+            <name>Jerusalem corpus of Emergent Modern Hebrew (JEMH) staff</name>
+            <note>Created the initial version of the content in TEI-XML and added dates (some based on estimation)</note>
+         </change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+
+
+
+
+
+
+
+האוהב הנשבע / מיכה יוסף לבנזון
+
+
+
+ 
+
+
+
+
+  
+  
+
+
+האוהב
+הנשבע
+
+ 
+
+סלחי, תמתי!
+אם חק דת הצנע
+
+עברה אהבתי –
+עתה אשבע!
+
+כי הצנע
+לכתך לא עוד אחללה
+
+אם גם מאשך
+תוקד נפשי סלה!
+
+ 
+
+באור
+נשבעתי ובמראות אלה
+
+בהדר כוכבים,
+כל צבאות גבה! –
+
+אך שוא אפצה
+פה, לא זכו כלמו
+
+עיניך אורים!
+– נשבעתי אך במו!
+
+ 
+
+לבלי התרפק
+– אף ידך לגעת
+
+ובתוך לבי
+עמק אשקיט הרעש;
+
+גם רשפי
+אהבה בי יכבו יועמו
+
+ושביבי חשק
+לא עיני יזרמו!
+
+ 
+
+אל נא, יונתי!
+אל עוד תתחמקי!
+
+שובי, הה
+שובי! אל עוד נא תרחקי!
+
+גם ידי גם
+עיני לא עוד ארימה
+
+ולחייך
+מבשת בל אאדימה!
+
+ 
+
+ושפתי צמאו
+לך לא עוד ירהבו
+
+למץ דודים
+מיין ערבו! –
+
+ולחבק לבך
+לבי לא ארגיע
+
+גם זכרך
+כעץ מלבבי אסיע!
+
+ 
+
+באי הה,
+יפתי, באי הבית,
+
+עור אלם
+אהי, וכפסל שית –
+
+על מורא הודך
+לא אגיל ברעדה
+
+ולחן מליך גם
+אזני כבדה!
+
+ 
+
+אך מה הדלת
+על צירה הוסבה?
+
+שבה יונתי!
+גילתי מה רבה!
+
+שוא פציתי
+פה! לבי לא ינוח!
+
+שוא
+נשבעתי! אלותי ישא רוח!
+
+ 
+
+
+
+
+
+ 
+
+
+
+
+
+
+</body>
+   </text>
+</TEI>

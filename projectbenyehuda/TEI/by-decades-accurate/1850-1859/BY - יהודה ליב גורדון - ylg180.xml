@@ -1,0 +1,241 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>אלמנה צעירה לימים</title>
+            <author>יהודה ליב גורדון</author>
+            <respStmt>
+               <name>Mandel Scholion Hebrew Revival Research Group</name>
+               <resp>Formatting of content from the Ben-Yehuda Project to TEI-XML according to the TEI P5 Guidelines.
+                  Addition of dates, not present in the online version, by Shira Wigderson, Asaf Isser, Adi Cohen, Nitzan Cohen, and Adi Cohen.
+               </resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <authority>Project Ben-Yehuda</authority>
+            <idno>http://benyehuda.org/yalag/ylg180.html</idno>
+         </publicationStmt>
+         <sourceDesc xml:lang="Hebrew">
+            <bibl>
+               <date when="1859" notBefore="1859-01-01" notAfter="1859-12-31"/>
+            </bibl>
+            <p>The Ben-Yehuda Project (http://benyehuda.org/). Content provided within the Ben-Yehuda Hackathon at the University of Haifa (THATCamp Haifa, February 2014).</p>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <change>
+            <date>2018-11-01</date>
+            <name>Omer Waldman</name>
+            <note>Correction of previously annotated dates and addition of dates to majority of the works</note>
+         </change>
+         <change>
+            <date>2017-08-09</date>
+            <name>Jerusalem corpus of Emergent Modern Hebrew (JEMH) staff</name>
+            <note>Created the initial version of the content in TEI-XML and added dates (some based on estimation)</note>
+         </change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+
+
+
+
+
+
+
+אלמנה צעירה לימים / יהודה ליב גורדון
+
+
+
+ 
+
+
+
+
+  
+  
+
+
+אלמנה צעירה
+לימים / יהודה ליב גורדון
+
+ 
+
+אל תאמינו לדמעות
+תוריד יפת תאר
+
+כי תתיפח תשמיע
+קול ברמה:
+
+"נצח אהיה
+אלמנה לא נחמה,
+
+כי ארד אל אישי
+אבלה קבר!" – 
+
+אל תאמינו לדברים
+דברה ביגונה,
+
+כי רק רגע בעצבה,
+חיים ברצונה;
+
+הזמן רופא אמן
+חיש יעל אבר,
+
+יעל צרי אל כל
+צרה ואבל
+
+ומעט מעט תשוב
+בה חמדת התבל.
+
+יסכרו מעינות
+דמעה ובכי,
+
+אל גלגל העין
+תשוב התכלת,
+
+אל גרון נטוי
+לבנת החבצלת
+
+וצחוק שעשעים
+למקצעות הלחי.
+
+האלמנה תתנחם
+לא עוד תתיפח,
+
+תרדף החיים,
+המת ישכח –.
+
+המבקשים אלמות
+תחת ירח
+
+למצא אותו בלבב
+אשה בל תוחילו
+
+אם את זה המשל
+לשמע תואילו.
+
+ 
+
+בעל אשה יפה
+בא אל אבתיו.
+
+"הוי –  קראה –  אישי! לא אחיה בלתך
+
+חכה נא כמעט,
+גם אני אחריך".
+
+ובגפו הובל המת
+אל קברותיו. – 
+
+ליפהפיה אב זקן
+ומלא דעת
+
+וידבר על לב
+בתו הנעצבת:
+
+רב מהיות עינך
+היפה דומעת!
+
+היספרו אנחותיך
+בקבר ומות?
+
+אם תפדי אישך
+כי יפיך תשחיתי ?
+
+שכחי המת, לבך
+לחיים שיתי!
+
+הן לא היום אף
+לא מחר לאיש תהי,
+
+אך ככלות עת
+אבלך וכתם הנהי
+
+כי יבא נער נחמד
+וכליל יפי
+
+וידבר על לבך
+אותך לקחת,
+
+אז אל נא תעטי
+בו, אל נא תקצפי.
+
+"לא! – קראה
+– כי ארד אל אישי שחת"
+
+וידם האב מדבר
+אליה
+
+עד תפוג תוגתה
+ברבות ימיה.
+
+ככלות החדש
+אחרי מות הבעל
+
+ותשקט המבכה,
+חרבו פניה;
+
+עוד יום – ולרעותיה
+אזן הטתה,
+
+ותסר הצעיף
+ושמלות עטתה,
+
+ותסך בשמן
+ותנעל נעל,
+
+ותעד חליתה
+ותשת עדי
+
+ותצא לחול במחלות
+עין גדי –
+
+אז שבו היונים
+אל ארבתמו!
+
+ובלב נואש ובנפש
+נובלת
+
+שב החפץ, התגנבה
+תוחלת,
+
+תענגות החיים
+שבו כלמו;
+
+האב מחריש אך
+נפשו בו שמחת
+
+כי גם זכרון
+המת ירד השחת;
+
+ובראות הבת כי
+יחריש אביה
+
+לא עוד התאפקה
+ותפתח היא פיה:
+
+"מה-תדם –
+קראה – ובמלין עצרת –
+
+איהו העלם אשר
+אמרת?
+
+ 
+
+
+
+
+
+ 
+
+
+
+
+
+
+</body>
+   </text>
+</TEI>

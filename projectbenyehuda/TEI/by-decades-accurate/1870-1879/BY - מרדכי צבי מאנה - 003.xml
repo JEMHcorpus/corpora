@@ -1,0 +1,246 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>האביב</title>
+            <author>מרדכי צבי מאנה</author>
+            <respStmt>
+               <name>Mandel Scholion Hebrew Revival Research Group</name>
+               <resp>Formatting of content from the Ben-Yehuda Project to TEI-XML according to the TEI P5 Guidelines.
+                  Addition of dates, not present in the online version, by Shira Wigderson, Asaf Isser, Adi Cohen, Nitzan Cohen, and Adi Cohen.
+               </resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <authority>Project Ben-Yehuda</authority>
+            <idno>http://benyehuda.org/maneh/003.html</idno>
+         </publicationStmt>
+         <sourceDesc xml:lang="Hebrew">
+            <bibl>
+               <date when="1879" notBefore="1879-01-01" notAfter="1879-12-31"/>
+            </bibl>
+            <p>The Ben-Yehuda Project (http://benyehuda.org/). Content provided within the Ben-Yehuda Hackathon at the University of Haifa (THATCamp Haifa, February 2014).</p>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <change>
+            <date>2018-11-01</date>
+            <name>Omer Waldman</name>
+            <note>Correction of previously annotated dates and addition of dates to majority of the works</note>
+         </change>
+         <change>
+            <date>2017-08-09</date>
+            <name>Jerusalem corpus of Emergent Modern Hebrew (JEMH) staff</name>
+            <note>Created the initial version of the content in TEI-XML and added dates (some based on estimation)</note>
+         </change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+
+
+
+
+
+
+
+האביב / מרדכי צבי מאנה
+
+
+
+
+
+
+
+
+האביב
+
+מרדכי
+צבי מאנה
+
+ 
+
+1. 
+
+החרף הן עבר,
+עף חיש ואין,
+
+            על
+טהר שחק השמש יצאה.
+
+הקיץ האביב וישמח
+כל עין
+
+               ובברק
+נגה אור תבל נמלאה.
+
+ 
+
+2.
+
+צפר כל כנף
+ביפי רקמתים
+
+            שרים
+לכבוד אביב שירים נשגבים;
+
+ובהוד קול זמרה
+ככרובי שמים
+
+יודו אל שדי ויתנו אהבים.
+
+ 
+
+3.
+
+שם כסו בפרחים
+עצים רעננים;
+
+כסו בפנינים – ברסיסי טל לילה;
+
+ושתולים עלי
+פלג זך שאננים,
+
+ונטישות יושיטו הגבה מעלה.
+
+ 
+
+4.
+
+שם יברק נחל
+בין שושני ריח,
+
+וכרצי כסף גליו יתגלגלו;
+
+על חפו כל עיף
+ימצא מנוח
+
+בשדרות אלונים סביב יגדלו.
+
+ 
+
+5.
+
+שם תבל – גן
+עדן עיניו יביטו,
+
+אך שלוה אך שקט ויפי עלומים;
+
+ענפי הדר בחן
+לו יד יושטו
+
+גם רוח צח לו יביע נחומים.
+
+ 
+
+6.
+
+הרקיע מעל כבדלח
+לטהר
+
+            בגאון
+הודו על ראשו ישתרע;
+
+לו יאיר שמש
+כזהב קרני זהר,
+
+               לו
+להקות צפרים יריעו רע.
+
+ 
+
+7.
+
+שושנים ופרחים
+בשלל כל צבע
+
+            הרים
+ועמקים בעבורו פארו;
+
+נגדו כל פלאי
+חזיונות הטבע.
+
+               בצבי
+תפארתם עתה יתעוררו
+
+ 
+
+8.
+
+פרדס מצל בזרועותיו
+חובקהו,
+
+            –ציציו
+ופקעיו כחלב הלבינו –;
+
+זהר גלי נחל
+ירהיב עינידי
+
+צלצלי זרמתם כל חושיו ירנינו
+
+ 
+
+9.
+
+אך חיים אך שמחה
+לבשה התבל,
+
+קול שירה עולה מכנפות הארץ;
+
+"הן הסירה
+ארץ מעטה האבל
+
+אפס עז החרף המביא קרץ"!
+
+ 
+
+10.
+
+מה יקרת אביב,
+מה רב הודך!
+
+ובצחצחות עדן נפשי תשביע;
+
+מה נפלאו נצניך
+ויצוריך
+
+מה נעים שירך במרום תשמיע
+
+ 
+
+11.
+
+רחמני נא, אביב,
+אתך שאני!
+
+בכנפיך מרפא לגו לנשמה,
+
+או אל תסור מזה
+אל נא תטשני,
+
+עמד, אביב, נצח עלי אדמה!–
+
+ 
+
+סיון, תרל"ט,
+ווילנא.
+
+ 
+
+
+
+
+
+ 
+
+ 
+
+
+
+
+
+
+</body>
+   </text>
+</TEI>

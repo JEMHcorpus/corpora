@@ -1,0 +1,116 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>גשם בעיתו</title>
+            <author>יוסף ריבלין</author>
+            <respStmt>
+               <name>Mandel Scholion Hebrew Revival Research Group</name>
+               <resp>Formatting of content from the Ben-Yehuda Project to TEI-XML according to the TEI P5 Guidelines.
+                  Addition of dates, not present in the online version, by Shira Wigderson, Asaf Isser, Adi Cohen, Nitzan Cohen, and Adi Cohen.
+               </resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <authority>Project Ben-Yehuda</authority>
+            <idno>http://benyehuda.org/rivlin/geshem_beito.html</idno>
+         </publicationStmt>
+         <sourceDesc xml:lang="Hebrew">
+            <bibl>
+               <date when="1887" notBefore="1887-01-01" notAfter="1887-12-31"/>
+            </bibl>
+            <p>The Ben-Yehuda Project (http://benyehuda.org/). Content provided within the Ben-Yehuda Hackathon at the University of Haifa (THATCamp Haifa, February 2014).</p>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <change>
+            <date>2018-11-01</date>
+            <name>Omer Waldman</name>
+            <note>Correction of previously annotated dates and addition of dates to majority of the works</note>
+         </change>
+         <change>
+            <date>2017-08-09</date>
+            <name>Jerusalem corpus of Emergent Modern Hebrew (JEMH) staff</name>
+            <note>Created the initial version of the content in TEI-XML and added dates (some based on estimation)</note>
+         </change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+
+
+
+
+
+
+
+גשם בעיתו / יוסף ריבלין
+
+
+
+ 
+
+
+
+
+  
+  
+
+
+גשם בעיתו
+
+יוסף ריבלין
+
+
+
+ 
+
+
+
+
+ 
+  
+  פע"הק ירושלם
+  ת"ו. יום ה' ח' מרחשון תרל"ח.
+  יפתח ה' את אוצרו הטוב ויברך בברכות שמים וכל
+  ברכות טוב את מע"כ ידיד ה' ועמו שר החסד והטוב הרה"ג המפואר דורש טוב
+  כש"ת מו"ה מאיר דר. לעהמאנן נ"י אב"ד ור"מ בעי"ת
+  מאינץ יע"א מו"ל מכתבי עתים היקרים העומדים לימין התורה והמצות
+  האיזראעליט והלבנון בעי"ת מאינץ יע"א.
+  הרבנים הג' חו"ר וראשי כל כוללות
+  עה"ק ת"ו בדרשם את שלום מעכ"ת בכל לב, שאלוני היום לבשר כי פקד
+  ה' את ארצו ואת עמו ובטרם יקראו, בטרם בא יום י"ז מרחשון, הוא ענה והוריד
+  לנו מורה גשם נדבה וברכה ורצון, אשר ממנו תקותנו נמצא כי מפקיעי שערים יפתחו
+  ממגרותיהם, ואז ירדו השערים. וגם מים אשר עד כה מוכרי נודות המים דלה דלו את לשד
+  עצמות העניים היבשות וכלו כחם ואונם, עתה ב"ה השיקו הבורות חשרת מים ושתה
+  העם לרויה. אלו פינו מלא שירה כו' – ברוך אל רוב ההודאות.
+  ויתן ה' והגשם ירד כסדרו אשר אם אמנם בשנה זו
+  אף אם ירדו השערים לא יוכלו לירד רק מעט, והסאה חטים נמכרת בששה או בשבעה ושלשים
+  גרוש, יש תקוה כי תמכר בשלשה או ארבעה ושלשים גרוש. והיוקר אינו זז ממקומו ולחץ
+  העניים ורעבונם במקומו וכמעט שלא יוכר להם הטוב במעוטו. והעזר שצריכים צריכים.
+  בכל זאת מה שלא יוסיף היוקר להתגבר והתקוה של שנה הבאה אור חדש על ציון יאיר.
+  דברי הכותב וחותם בפקודת הרה"ג ראשי הכוללות הי"ו ודו"ש בכללם.
+  הלבנון, י"ז בכסלו תרל"ח.
+  
+ 
+
+
+
+
+ 
+
+
+
+
+
+ 
+
+
+
+
+
+
+</body>
+   </text>
+</TEI>

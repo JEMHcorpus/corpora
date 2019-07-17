@@ -1,0 +1,134 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>בהמיר ארץ</title>
+            <author>יעקב לרנר</author>
+            <respStmt>
+               <name>Mandel Scholion Hebrew Revival Research Group</name>
+               <resp>Formatting of content from the Ben-Yehuda Project to TEI-XML according to the TEI P5 Guidelines.
+                  Addition of dates, not present in the online version, by Shira Wigderson, Asaf Isser, Adi Cohen, Nitzan Cohen, and Adi Cohen.
+               </resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <authority>Project Ben-Yehuda</authority>
+            <idno>http://benyehuda.org/lerner/behamir.html</idno>
+         </publicationStmt>
+         <sourceDesc xml:lang="Hebrew">
+            <bibl>
+               <date when="1909" notBefore="1909-01-01" notAfter="1909-12-31"/>
+            </bibl>
+            <p>The Ben-Yehuda Project (http://benyehuda.org/). Content provided within the Ben-Yehuda Hackathon at the University of Haifa (THATCamp Haifa, February 2014).</p>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <change>
+            <date>2018-11-01</date>
+            <name>Omer Waldman</name>
+            <note>Correction of previously annotated dates and addition of dates to majority of the works</note>
+         </change>
+         <change>
+            <date>2017-08-09</date>
+            <name>Jerusalem corpus of Emergent Modern Hebrew (JEMH) staff</name>
+            <note>Created the initial version of the content in TEI-XML and added dates (some based on estimation)</note>
+         </change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+
+
+
+
+
+
+
+בהמיר ארץ / יעקב לרנר
+
+
+
+
+
+
+
+
+בהמיר  ארץ 
+
+יעקב
+לרנר
+
+ 
+
+אז ישבת לבב
+ההויה ועמדו גלגלי הבריאה,
+
+וחזר העולם
+לתהו וצלל בחלומות-הגויעה.
+
+והיתה שעת-חרם
+ענקית ותקופת לא-יום ולא-לילה,
+
+כי יכבו ירח
+ושמש ותחומי-הזמנים יבטלו; 
+
+ושנים לרבבות
+תקפאנה לא-נראות ואלמות כמות:
+
+בלי מות וחיים
+כל-עקר, בלי ששון ואנחות לבבות.
+
+ 
+
+–   –   –  
+–   –   –   –  
+–   –   –   –  
+–   –   –
+
+ 
+
+אז תשלט הדממה
+הגדולה וקפאה תעלומת-הנצחים,
+
+והעמיק השחק
+להרהר על דורות ויובלים נשכחים; 
+
+ועמדו משאות
+על תלן מחרישות ולוטות בצללים–
+
+זכרון לעולם
+שהיה ופליטת הבל-ההבלים...
+
+והררי-המגור
+ישתקו עד-נצח בזרועות-מצוקה,
+
+ונחנק שאון-האקינוס
+ודמי מצולותיו ידכא.
+
+וישנה הארץ
+לבדד נכלמה ורחוקה ממאורות,
+
+ורבצה עליה הקללה
+ופרשה כנפיה השחורות...
+
+ 
+
+תרס"ט
+
+ 
+
+
+
+
+
+ 
+
+
+
+
+
+
+</body>
+   </text>
+</TEI>

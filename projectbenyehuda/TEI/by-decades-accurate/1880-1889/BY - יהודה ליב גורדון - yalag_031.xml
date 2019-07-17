@@ -1,0 +1,208 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>סלוק שכינה</title>
+            <author>יהודה ליב גורדון</author>
+            <respStmt>
+               <name>Mandel Scholion Hebrew Revival Research Group</name>
+               <resp>Formatting of content from the Ben-Yehuda Project to TEI-XML according to the TEI P5 Guidelines.
+                  Addition of dates, not present in the online version, by Shira Wigderson, Asaf Isser, Adi Cohen, Nitzan Cohen, and Adi Cohen.
+               </resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <authority>Project Ben-Yehuda</authority>
+            <idno>http://benyehuda.org/yalag/yalag_031.html</idno>
+         </publicationStmt>
+         <sourceDesc xml:lang="Hebrew">
+            <bibl>
+               <date when="1880" notBefore="1880-01-01" notAfter="1880-12-31"/>
+            </bibl>
+            <p>The Ben-Yehuda Project (http://benyehuda.org/). Content provided within the Ben-Yehuda Hackathon at the University of Haifa (THATCamp Haifa, February 2014).</p>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <change>
+            <date>2018-11-01</date>
+            <name>Omer Waldman</name>
+            <note>Correction of previously annotated dates and addition of dates to majority of the works</note>
+         </change>
+         <change>
+            <date>2017-08-09</date>
+            <name>Jerusalem corpus of Emergent Modern Hebrew (JEMH) staff</name>
+            <note>Created the initial version of the content in TEI-XML and added dates (some based on estimation)</note>
+         </change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+
+
+
+
+
+
+
+סלוק שכינה / י"ל גורדון
+
+
+
+
+
+
+
+
+סלוק שכינה
+
+ 
+
+מארבע רוחות
+יתחולל הסער,
+
+מוסדי תבל ינועו
+כעצי יער,
+
+בכל מטה ושד,
+שמה ופרץ –
+
+הבא יום אדני
+לערוץ הארץ?
+
+ 
+
+גם בתי הנפש
+הכה הרוח,
+
+רפו כל ידים,
+כהתה כל רוח
+
+כי מגור מסביב,
+זרם ונפץ,
+
+נתקו כל תקוה,
+הפיצו כל חפץ.
+
+ 
+
+ומשאון ההפכה,
+מתוך הרעש,
+
+קול נה אשמע
+ודממה וכעש;
+
+קול כתר ימר
+על יונה נאהבת –
+
+רוח הקדש הארץ
+עזבת:
+
+ 
+
+"מה-לי פה,
+מי לי פה ביון השחת?
+
+"כל קדש מרמס,
+על עפר כל נחת!
+
+"אך חציר העם
+יתור לו ברפש;
+
+"החציר כסה
+כל אגמי הנפש".
+
+ 
+
+"אעלה וארחף
+כאז על המים
+
+"עד לא עשה
+אל ארץ עם שמים
+
+" עד לא למד
+אדם בשנות שש אלף
+
+"הוסיף דעת
+ורע, בינה וסלף".
+
+ 
+
+"צר לי עליך,
+המשורר בן-אוני!
+
+"גם אתה,
+ידעתי, חלית כמוני,
+
+"נרדך יבאש
+פה מצחנה ורפש
+
+"ומרחב יה
+אין לך להלך-הנפש".
+
+ 
+
+"ומה הלך-נפש
+בלי ראות-עינים?!
+
+"ומה-תחזה
+עתה תחת שמים?
+
+"סלם מצב
+ארצה תראה לעין
+
+"ואנשים ירדים
+בו אך עלים אין".
+
+ 
+
+"צר, בעל החלמות,
+צר לי עליך!
+
+"ממררים תשבע
+כל חיי הבלך;
+
+"תישן תראה
+חלום, רגע תנוח,
+
+"תיקץ תראה
+שברו – שבר ברוח".
+
+ 
+
+"שא אפוא כנורך,
+נחת קסתך;
+
+"הא שלמת
+אור, צר בה חלמותיך,
+
+"עלה אתי
+מזה, נסק גבה;
+
+"שם – מחזות
+שדי, פתרנים לאלה".
+
+ 
+
+ס"ט פ"ט,
+7 פעברואר 1880
+
+יומים אחרי הרעש
+(בהיכל החרף)
+
+ 
+
+
+
+
+
+ 
+
+
+
+
+
+
+</body>
+   </text>
+</TEI>

@@ -1,0 +1,259 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>שיר לחתונת יצחק בן שבתי מאריני</title>
+            <author>משה חיים לוצאטו</author>
+            <respStmt>
+               <name>Mandel Scholion Hebrew Revival Research Group</name>
+               <resp>Formatting of content from the Ben-Yehuda Project to TEI-XML according to the TEI P5 Guidelines.
+                  Addition of dates, not present in the online version, by Shira Wigderson, Asaf Isser, Adi Cohen, Nitzan Cohen, and Adi Cohen.
+               </resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <authority>Project Ben-Yehuda</authority>
+            <idno>http://benyehuda.org/ramxal/006.html</idno>
+         </publicationStmt>
+         <sourceDesc xml:lang="Hebrew">
+            <bibl>
+               <date when="1725" notBefore="1725-01-01" notAfter="1725-12-31"/>
+            </bibl>
+            <p>The Ben-Yehuda Project (http://benyehuda.org/). Content provided within the Ben-Yehuda Hackathon at the University of Haifa (THATCamp Haifa, February 2014).</p>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <change>
+            <date>2018-11-01</date>
+            <name>Omer Waldman</name>
+            <note>Correction of previously annotated dates and addition of dates to majority of the works</note>
+         </change>
+         <change>
+            <date>2017-08-09</date>
+            <name>Jerusalem corpus of Emergent Modern Hebrew (JEMH) staff</name>
+            <note>Created the initial version of the content in TEI-XML and added dates (some based on estimation)</note>
+         </change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+
+
+
+
+
+
+
+שיר לחתונת
+יצחק בן שבתי
+מאריני / משה
+חיים לוצאטו
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+שיר
+לחתונת יצחק
+בן שבתי
+מאריני / משה
+חיים לוצאטו
+
+ 
+
+עת לטעת
+בית נאמן,
+עמודיו על
+אדני פז מיסדים.
+תרי יחדיו,
+אחד באחד
+יגשו והיו
+לאחדים. ה"ה
+הבחור מעם
+סגלה המשכיל
+כמ"ר יצחק
+בן חכם ישמח
+אב, אב בחכמה,
+החכם הכולל
+כמוהר"ר שבתי
+מאריני נר"ו
+ועזר כנגדו
+הבתולה הצנועה
+מר' יהודית
+בת הגביר
+המפאר כמ"ר
+מנחם איטליא
+יצ"ו, ולא יכול
+משה להתאפק
+לקול ששון
+וקול שמחה
+ביום טובתם.
+כי תאלצני
+תקף אהבתם.
+לשמח בשמחתם.
+ולכבוד יקר
+תפארתם.
+הרימותי קולי.
+ואשא משלי:
+
+קומו,
+בנות שיר,
+מהרו אתיו,
+קומו שאו
+זמרה מגלות
+ספר,
+לא עת חנות
+העת עלי הר
+שפר,
+לשכן לחוף
+ימים רצו
+ובעיו.
+
+שם נשאו
+קולם ושיר
+ישמיעו
+עדרי שמחות
+נוסדו גם יחד,
+אך לא בפיהם
+שוא ושירי
+כחד,
+שירי תהלות
+רק אמת יביעו.
+
+שמע
+תרועה שם,
+תרועת שמע,
+תעוף ולא
+תיעף לקצוי
+ארץ,
+שמה יקר
+ישכן ויפרץ
+פרץ,
+יתקע נדיבות
+צלצלי השמע.
+
+שם נראתה
+נאוה ושם
+נצבה
+גד על מרום
+אופן מלאת
+עשר,
+שבט מלוכה
+אך לתם וישר,
+נגה בנגהי
+זהרה נקרבה.
+
+תקף
+רשפים שם
+ואש שלהבת
+רשפי ידידות
+אהבה יעירו,
+גלי שאון
+גילה גבול
+יסירו,
+שם נהרי שלום
+וכר נרחבת.
+
+'מי זה
+ואיזה הוא?'
+הלא תשאלו,
+שבע שמחות
+בעדי נצמדו,
+יוסדו יחדיו
+ויועדו,
+מה־זה ועל
+מה־זה הלום
+יובלו?'
+
+אך זה
+ידידי הוא
+אשר הופיע
+עם יעלת החן
+בהסתפח,
+ישכן לחוף
+ימים בלב
+שמח,
+חוף ים תבונות
+הוא וכן ירגיע.
+
+שמעם
+תרועתה
+בקול נשמעת,
+אף כנשרים
+תעלה האבר,
+מהר לעופף
+חיש אלי כל
+עבר
+כי בין נדיבים
+יחבשו מגבעת.
+
+ירבה
+כבוד ביתם
+כגלי ימה,
+צדק ומשפט
+כמעיל ילבשו,
+עשר וישר
+בם הכי נפגשו,
+נגה עטרת
+זיו בראשם
+שמה.
+
+מחץ
+תשועת אהבה
+עצמה
+חשק בחיק
+דודים כאש
+בוערת
+בין נהרי
+שלום תהי
+נסגרת,
+כן נחלתם
+שפרה נעמה.
+
+אף עוד
+מעט זרעם
+יהי פורח
+כעץ אשר
+שתול בפלגי
+מים,
+ירבה וכן
+יפרץ לרבותים
+וכמו דגי
+הים להשתבח.
+
+אך טוב
+אבשר לך
+ויפרץ פרץ,
+תשתה בשלום
+נוזלי בורך,
+יגדל שמך,
+ירום וכלבבך
+וכשם גדולים
+הם אשר בארץ.
+
+ 
+
+
+
+
+
+ 
+
+
+
+
+
+
+</body>
+   </text>
+</TEI>

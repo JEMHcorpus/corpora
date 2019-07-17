@@ -1,0 +1,161 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>הפרות הנושאות ארון יי</title>
+            <author>יהודה ליב גורדון</author>
+            <respStmt>
+               <name>Mandel Scholion Hebrew Revival Research Group</name>
+               <resp>Formatting of content from the Ben-Yehuda Project to TEI-XML according to the TEI P5 Guidelines.
+                  Addition of dates, not present in the online version, by Shira Wigderson, Asaf Isser, Adi Cohen, Nitzan Cohen, and Adi Cohen.
+               </resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <authority>Project Ben-Yehuda</authority>
+            <idno>http://benyehuda.org/yalag/Ylg110.html</idno>
+         </publicationStmt>
+         <sourceDesc xml:lang="Hebrew">
+            <bibl>
+               <date when="1859" notBefore="1859-01-01" notAfter="1859-12-31"/>
+            </bibl>
+            <p>The Ben-Yehuda Project (http://benyehuda.org/). Content provided within the Ben-Yehuda Hackathon at the University of Haifa (THATCamp Haifa, February 2014).</p>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <change>
+            <date>2018-11-01</date>
+            <name>Omer Waldman</name>
+            <note>Correction of previously annotated dates and addition of dates to majority of the works</note>
+         </change>
+         <change>
+            <date>2017-08-09</date>
+            <name>Jerusalem corpus of Emergent Modern Hebrew (JEMH) staff</name>
+            <note>Created the initial version of the content in TEI-XML and added dates (some based on estimation)</note>
+         </change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+
+
+
+
+
+
+הפרות הנושאות ארון יי / יהודה ליב גורדון
+
+
+
+
+
+
+
+
+הפרות
+הנושאות ארון יי
+
+ 
+
+עת על
+הפלשתים כבדה יד אלוה
+
+ותכם
+בעפלים ותרב בם נה
+
+וסרנימו
+גמרו
+
+לשיב למקומו
+ארון אל שמים
+
+ולכפר פניו
+בתשורת אפים; 
+
+אז צמד פרות
+בעגלה אסרו,
+
+את ארון
+האלהים עליה שמו
+
+וישלחום.
+ויהי בהיות בדרך
+
+ויהי כל ראם
+ויכרע ברך
+
+לפני ארון
+האלהים רב הערך;
+
+ויגבה לב
+הפרות, עיניהן רמו:
+
+„את מי יוקירו – אמרו – יותר ממנו?
+
+ולמי יסגדו
+העברים אם לא לנו?
+
+הלא כלוים
+נחשבנו גם אנו,
+
+כי משא קדש
+נשא על שכמנו”.
+
+כה הגו
+הפרות, ככה התגאו,
+
+עד לגבול בית
+שמש הגיעו באו;
+
+שם את הארון
+הלוים הורידו
+
+ובמקום קדוש
+אותו העמידו
+
+ועצי העגלה
+לעצי עלה בקעו
+
+ושתי הפרות
+לטבח הובילו – 
+
+אז לא בעתה
+לראות השכילו
+
+כי לא להן
+הכבוד אשר ראו
+
+כי אם לארון
+אל עליהן נשאו.
+
+ 
+
+זה חלק רעה
+אוילי עת גדלהו,
+
+כל ראיו
+בברכה שפה יפטירו; 
+
+לו חכם
+השכיל כי לא אותו יוקירו
+
+כי אם אדר
+היקר אשר עליהו.
+
+ 
+
+
+
+
+
+ 
+
+
+
+
+
+
+</body>
+   </text>
+</TEI>

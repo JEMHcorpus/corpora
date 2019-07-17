@@ -1,0 +1,222 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>כנגן המנגן</title>
+            <author>אלתר לוין</author>
+            <respStmt>
+               <name>Mandel Scholion Hebrew Revival Research Group</name>
+               <resp>Formatting of content from the Ben-Yehuda Project to TEI-XML according to the TEI P5 Guidelines.
+                  Addition of dates, not present in the online version, by Shira Wigderson, Asaf Isser, Adi Cohen, Nitzan Cohen, and Adi Cohen.
+               </resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <authority>Project Ben-Yehuda</authority>
+            <idno>http://benyehuda.org/levin/048.html</idno>
+         </publicationStmt>
+         <sourceDesc xml:lang="Hebrew">
+            <bibl>
+               <date when="1920" notBefore="1920-01-01" notAfter="1920-12-31"/>
+            </bibl>
+            <p>The Ben-Yehuda Project (http://benyehuda.org/). Content provided within the Ben-Yehuda Hackathon at the University of Haifa (THATCamp Haifa, February 2014).</p>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <change>
+            <date>2018-11-01</date>
+            <name>Omer Waldman</name>
+            <note>Correction of previously annotated dates and addition of dates to majority of the works</note>
+         </change>
+         <change>
+            <date>2017-08-09</date>
+            <name>Jerusalem corpus of Emergent Modern Hebrew (JEMH) staff</name>
+            <note>Created the initial version of the content in TEI-XML and added dates (some based on estimation)</note>
+         </change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+
+
+
+
+
+
+
+כנגן המנגן / אלתר לוין
+
+
+
+
+
+
+
+
+כנגן המנגן
+
+ 
+
+והיה בנגן המנגן
+ומיתרים ברעדה נמתחים,
+
+כאשר שוקע
+ההמנון וקולות המזמור יכאיבו,
+
+מתמוגג הכנור
+הבוכה בצערו וכאבו העמק,
+
+זרוע אימה קורעת
+במחי המשתפך ויחיד
+
+מבלי רחם וחנן
+ודאב למצפון האדם וחבו;
+
+וגדול חפזון התנוסה
+בין גלי האויר ההומים,
+
+הגדודים נרדפים
+ונופלים, נאנחים וזבים ופצועים
+
+וצוללות סמפניות
+הדוקרות עם יגון סהרורי בוקע,
+
+חודרים לעמקי
+הנפש ושואבים בדלים הדמעות;
+
+כאשר מתנכר
+למנגן המיתר העליז, המנחם
+
+וברית לא תופר,
+לא תכלה, כרתה+ בינו ולתוגה,
+
+שלטת לו ישלט
+המנגן בעולם הנכנע בבכיו
+
+וטובעים הנימים
+בנפש, מכים ההדים משברים...
+
+הצליח המנגן
+לפוצץ הלבב באבקת השרפה,
+
+העבר מאכלת פיפיות
+בנשמה נבלעת בנעימה;
+
+הצליח להפיל
+לרגליו, בכשפי הכנור הארור,
+
+כל ילדי הטבע,
+עליהם הטביע חותמת הצער:
+
+מתעלפים זלזלים
+מעצב, התיתם הכנף מפזמון,
+
+קרעו טפחים ההרים,
+שקעה עולמים השמש
+
+השקיעה עופרת
+וברזל בחיק שפולי הרקיעים–
+
+ונורא הכבד בכל
+ונורא ומעיק עד תהום...
+
+אז יעלה הצער
+העולמי ומנסר ברגשות כלנו
+
+ושותת הכאב
+החרישי, מעשנים גחליו ברמץ
+
+ושואל האנוש
+ודורש מאלו, משמיו, מלבבו,
+
+פתרון לחידות
+הסתומות לא גלה הנביא עד עתה:
+
+מדוע משתרעה
+הארץ לעמים אדירים וכובשים
+
+ואין ארבע אמות
+עליה לקטני העמים הסובלים?
+
+מדוע זה יושב
+בהיכל עם שמש עליזה וגאה,
+
+מדוע שם נודד
+ערירי עם סהר בלילה העגם?
+
+מדוע נותן האחד
+שפע באלים וקדושים
+
+וכפויה התבל
+לנותנם באמרה: זה הכל שלי?
+
+איה החזון למיחלים?
+ היבא מאליו אלינו?
+
+או שוא נקוה
+לגואל אם לא הורד בזרוע אלינו?..
+
+מדוע רק חולמים
+אנחנו לעולם העתיד, המשפר,
+
+מסתפקים בשכלול
+המחר מבלי השתפר היום?
+
+מדוע לא נקרא
+לחרש, לוטש העשת ופטיש,
+
+הבקע דלתים
+ובריח לדפקי מצודת החידה,
+
+הפל הקסם מפינו
+למען יפתח הארמון?
+
+מדוע לא נסיר
+המסך מבמת חיינו הפלאית?
+
+מדוע לא נשא
+המשאת, נריע בשופר האחרון?
+
+מדוע? מדוע?
+מדוע?..  ואולם כה סמן השאלה
+
+תלוי בין ארץ
+ושחקים, תועה, תמה ושואל!..
+
+בזאת תתגאה,
+המנגן, לו סמן השאלה מחקת,
+
+הפרוש בלעג
+ומרירות על דבר אין לו פתרונים!
+
+לו ידע כנורך
+לענות ולא לתמה, רק לתמה כמונו!
+
+אולם לא תדע, המנגן,
+רק לשרט שרטת בפצועים–
+
+ולכן מי בקש
+מידך הוריד עלינו הלילה,
+
+הוציא מפינו האלה,
+השאגה העולמית לדורות?..
+
+ 
+
+ 
+
+
+
+
+
+ 
+
+
+
+
+
+
+</body>
+   </text>
+</TEI>

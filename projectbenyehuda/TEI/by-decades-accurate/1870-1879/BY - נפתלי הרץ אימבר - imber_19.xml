@@ -1,0 +1,278 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>התקוה</title>
+            <author>נפתלי הרץ אימבר</author>
+            <respStmt>
+               <name>Mandel Scholion Hebrew Revival Research Group</name>
+               <resp>Formatting of content from the Ben-Yehuda Project to TEI-XML according to the TEI P5 Guidelines.
+                  Addition of dates, not present in the online version, by Shira Wigderson, Asaf Isser, Adi Cohen, Nitzan Cohen, and Adi Cohen.
+               </resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <authority>Project Ben-Yehuda</authority>
+            <idno>http://benyehuda.org/imber/imber_19.html</idno>
+         </publicationStmt>
+         <sourceDesc xml:lang="Hebrew">
+            <bibl>
+               <date when="1878" notBefore="1878-01-01" notAfter="1878-12-31"/>
+            </bibl>
+            <p>The Ben-Yehuda Project (http://benyehuda.org/). Content provided within the Ben-Yehuda Hackathon at the University of Haifa (THATCamp Haifa, February 2014).</p>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <change>
+            <date>2018-11-01</date>
+            <name>Omer Waldman</name>
+            <note>Correction of previously annotated dates and addition of dates to majority of the works</note>
+         </change>
+         <change>
+            <date>2017-08-09</date>
+            <name>Jerusalem corpus of Emergent Modern Hebrew (JEMH) staff</name>
+            <note>Created the initial version of the content in TEI-XML and added dates (some based on estimation)</note>
+         </change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+
+
+
+
+
+
+
+התקוה / נפתלי הרץ אימבר
+
+
+
+
+
+
+
+
+התקוה
+
+ 
+
+              
+1 
+
+כל עוד בלבב
+פנימה 
+
+נפש יהודי הומיה,
+
+
+ולפאתי מזרח
+קדימה, 
+
+עין לציון צופיה.
+
+
+     עוד לא אבדה תקותנו
+
+
+     התקוה הנושנה:
+
+
+     לשוב לארץ אבותינו,
+
+
+     לעיר בה דוד חנה.
+
+
+ 
+
+              
+2
+
+כל-עוד דמעות
+מעינינו 
+
+יזלו כגשם נדבות,
+
+
+ורבבות מבני
+עמנו 
+
+עוד הולכים על
+קברי אבות. 
+
+                            
+עוד לא אבדה...
+
+ 
+
+              
+3
+
+כל-עוד חומת מחמדינו
+
+
+לעינינו מופעת,
+
+
+ועל חרבן מקדשנו
+
+
+עין אחת עוד דומעת.
+
+                            
+עוד לא אבדה...
+
+ 
+
+               4
+
+כל-עוד מי הירדן
+בגאון 
+
+מלא גדותיו יזלו,
+
+
+ולים כנרת בשאון
+
+
+בקול המולה יפלו.
+
+
+                            
+עוד לא אבדה...
+
+ 
+
+              
+5
+
+כל-עוד שם עלי
+דרכים 
+
+שער יכת שאיה,
+
+
+ובין חרבות ירושלים
+
+
+עוד בת ציון בוכיה.
+
+
+                            
+עוד לא אבדה...
+
+ 
+
+        
+      6
+
+כל-עוד דמעות
+טהורות 
+
+מעין בת עמי
+נוזלות, 
+
+ולבכות לציון
+בראש אשמורות 
+
+עוד תקום בחצי
+הלילות.
+
+                            
+עוד לא אבדה...
+
+ 
+
+              
+7
+
+כל-עוד נטפי דם
+בעורקינו 
+
+רצוא ושוב יזלו,
+
+
+ועלי קברות אבותינו
+
+
+עוד אגלי טל יפלו.
+
+
+                            
+עוד לא אבדה...
+
+ 
+
+              
+8
+
+כל-עוד רגש אהבת
+הלאום 
+
+בלב היהודי
+פועם, 
+
+עוד נוכל קוות
+גם היום 
+
+כי עוד ירחמנו
+אל זועם. 
+
+                            
+עוד לא אבדה...
+
+ 
+
+              
+9
+
+שמעו אחי בארצות
+נודי 
+
+את קול אחד חוזינו,
+
+
+כי רק עם אחרון
+היהודי 
+
+גם אחרית תקותנו!
+
+                            
+עוד לא אבדה...
+
+ 
+
+               *
+
+לך עמי, לשלום
+שוב לארצך, 
+
+הצרי בגלעד,
+בירושלים רופאך, 
+
+רופאך יי, חכמת
+לבבו, 
+
+לך עמי לשלום,
+ורפואה קרובה לבוא...
+
+ 
+
+ 
+
+
+
+
+
+ 
+
+
+
+
+
+
+</body>
+   </text>
+</TEI>

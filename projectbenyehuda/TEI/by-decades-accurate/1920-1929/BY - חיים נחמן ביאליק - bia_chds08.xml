@@ -1,0 +1,260 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>הגדי בבית המלמד</title>
+            <author>חיים נחמן ביאליק</author>
+            <respStmt>
+               <name>Mandel Scholion Hebrew Revival Research Group</name>
+               <resp>Formatting of content from the Ben-Yehuda Project to TEI-XML according to the TEI P5 Guidelines.
+                  Addition of dates, not present in the online version, by Shira Wigderson, Asaf Isser, Adi Cohen, Nitzan Cohen, and Adi Cohen.
+               </resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <authority>Project Ben-Yehuda</authority>
+            <idno>http://benyehuda.org/bialik/bia_chds08.html</idno>
+         </publicationStmt>
+         <sourceDesc xml:lang="Hebrew">
+            <bibl>
+               <date when="1924" notBefore="1924-01-01" notAfter="1924-12-31"/>
+            </bibl>
+            <p>The Ben-Yehuda Project (http://benyehuda.org/). Content provided within the Ben-Yehuda Hackathon at the University of Haifa (THATCamp Haifa, February 2014).</p>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <change>
+            <date>2018-11-01</date>
+            <name>Omer Waldman</name>
+            <note>Correction of previously annotated dates and addition of dates to majority of the works</note>
+         </change>
+         <change>
+            <date>2017-08-09</date>
+            <name>Jerusalem corpus of Emergent Modern Hebrew (JEMH) staff</name>
+            <note>Created the initial version of the content in TEI-XML and added dates (some based on estimation)</note>
+         </change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+
+
+
+
+
+
+
+הגדי בבית המלמד / חיים נחמן ביאליק
+
+
+
+
+
+
+
+
+הגדי בבית
+המלמד
+
+ 
+
+אלף, בית,
+גימל, דלת –                        
+
+מי זה בא בסף
+הדלת?  
+
+ 
+
+הא, וו, זין,
+חית –                    
+
+גדיי? –
+מה-לו פה כעת?                       
+
+ 
+
+גדיי בא אלי
+בטענה:                                         
+
+חוס נא,
+רחם-נא, הושע-נא!                            
+
+ 
+
+כבר גדלתי,
+ברוך השם,                                   
+
+וטרם אדע
+צורת מם,                           
+
+ 
+
+אויה לי, כי
+יתום אני,                          
+
+עוד מעט
+וצמחה זקני.              
+
+ 
+
+עוד מעט
+וצמחו קרני –               
+
+ועתה איכה
+אשא פני?              
+
+ 
+
+על-כן באתי:
+רחם, חן,                        
+
+קום למדני
+שפת הצאן.            
+
+ 
+
+המה לבי לו
+ואקח           
+
+את-הגדי ללמדו
+לקח.   
+
+ 
+
+טית, יוד, כף,
+למד,                   
+
+הבה אהיה לך
+למלמד.             
+
+ 
+
+גשה אלי
+ושבה על ברכי,                      
+
+ושניתי לך
+את פרקי.                
+
+ 
+
+שב והתבונן,
+ראה מה-זה:                              
+
+מם וסגל –
+כלומר: מה.                       
+
+ 
+
+מם סגולה, מם
+סגולה –
+
+זוהי כל
+התורה כלה.
+
+ 
+
+קרא, אל
+תחשך, קרא בפה,     
+
+שנה ושלש:
+מה, מה, מה.
+
+ 
+
+מה ביום ומה
+בלילה,
+
+מה למטה, מה
+למעלה.
+
+ 
+
+"מה" –
+בפזר ובשלשלת –       
+
+למה תביט אל
+הדלת?!
+
+ 
+
+עתה שב וחזר
+חלילה,
+
+אות באות
+ומלה במלה.
+
+ 
+
+"מה-מה-מה"
+לשונך תרן
+
+כל היום בפה
+ובגרון.
+
+ 
+
+ככה למד לו
+הגדי
+
+צרוף אותיות
+מפי.
+
+ 
+
+למד, רם ויהי
+לתיש,
+
+קרניו ברזל,
+מצחו שיש.
+
+ 
+
+ובהתהלכו
+בראש עדרים         
+
+מראים
+באצבע: עוקר הרים!
+
+ 
+
+זקנו מגדל,
+פרקו נאה –
+
+ובתלמידי זה
+אתגאה.
+
+ 
+
+תעמד זכותי
+לי למגן
+
+כי העמדתי
+תלמיד הגן.
+
+ 
+
+נפש אלמה
+חכמת-מה-לה
+
+נתן פה לה,
+אמן סלה.              
+
+ 
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+</body>
+   </text>
+</TEI>

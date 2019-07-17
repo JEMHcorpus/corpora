@@ -1,0 +1,132 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>שני הכלבים</title>
+            <author>יהודה ליב גורדון</author>
+            <respStmt>
+               <name>Mandel Scholion Hebrew Revival Research Group</name>
+               <resp>Formatting of content from the Ben-Yehuda Project to TEI-XML according to the TEI P5 Guidelines.
+                  Addition of dates, not present in the online version, by Shira Wigderson, Asaf Isser, Adi Cohen, Nitzan Cohen, and Adi Cohen.
+               </resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <authority>Project Ben-Yehuda</authority>
+            <idno>http://benyehuda.org/yalag/ylg168.html</idno>
+         </publicationStmt>
+         <sourceDesc xml:lang="Hebrew">
+            <bibl>
+               <date when="1859" notBefore="1859-01-01" notAfter="1859-12-31"/>
+            </bibl>
+            <p>The Ben-Yehuda Project (http://benyehuda.org/). Content provided within the Ben-Yehuda Hackathon at the University of Haifa (THATCamp Haifa, February 2014).</p>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <change>
+            <date>2018-11-01</date>
+            <name>Omer Waldman</name>
+            <note>Correction of previously annotated dates and addition of dates to majority of the works</note>
+         </change>
+         <change>
+            <date>2017-08-09</date>
+            <name>Jerusalem corpus of Emergent Modern Hebrew (JEMH) staff</name>
+            <note>Created the initial version of the content in TEI-XML and added dates (some based on estimation)</note>
+         </change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+
+
+
+
+
+
+
+שני הכלבים / יהודה ליב גורדון
+
+
+
+
+
+
+
+
+שני הכלבים /
+יהודה ליב גורדון
+
+ 
+
+בכפר אחד היו
+שני כלבים,
+
+ויהיו כל היום
+נצים ורבים,
+
+כי שנא איש אחיו
+שנאה נצחת.
+
+ויהי האחד רבץ
+על יד גדר
+
+המכלה, וירא
+פעם אחת
+
+זאב ערב
+
+יארב ארב
+
+במקום נצב רעו
+לשמור העדר.
+
+ותהי נפש הכלב
+שמחת,
+
+כי אמר: עתה
+בא עליו הקרץ,
+
+עתה יכחד שנאי
+מן הארץ!
+
+אך שב ויתנחם
+על דבריו רגע
+
+ויאמר: אם היום
+לא אעזרהו אני
+
+אז צפון מחר גם
+לי זה הפגע,
+
+כי יגבר עליו
+הזאב וימיתהו,
+
+אחר יבא גם עלי
+והכחידני.
+
+כה חשב וירץ
+אל עמיתהו
+
+וישלם עמו;
+אז יחד חברו
+
+ובמשנה כחם
+על הזאב גברו.
+
+ 
+
+
+
+
+
+ 
+
+
+
+
+
+
+</body>
+   </text>
+</TEI>

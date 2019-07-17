@@ -1,0 +1,184 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>מנחת בכורים</title>
+            <author>אברהם גולדפאדן</author>
+            <respStmt>
+               <name>Mandel Scholion Hebrew Revival Research Group</name>
+               <resp>Formatting of content from the Ben-Yehuda Project to TEI-XML according to the TEI P5 Guidelines.
+                  Addition of dates, not present in the online version, by Shira Wigderson, Asaf Isser, Adi Cohen, Nitzan Cohen, and Adi Cohen.
+               </resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <authority>Project Ben-Yehuda</authority>
+            <idno>http://benyehuda.org/goldfaden/minxat.html</idno>
+         </publicationStmt>
+         <sourceDesc xml:lang="Hebrew">
+            <bibl>
+               <date when="1864" notBefore="1864-01-01" notAfter="1864-12-31"/>
+            </bibl>
+            <p>The Ben-Yehuda Project (http://benyehuda.org/). Content provided within the Ben-Yehuda Hackathon at the University of Haifa (THATCamp Haifa, February 2014).</p>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <change>
+            <date>2018-11-01</date>
+            <name>Omer Waldman</name>
+            <note>Correction of previously annotated dates and addition of dates to majority of the works</note>
+         </change>
+         <change>
+            <date>2017-08-09</date>
+            <name>Jerusalem corpus of Emergent Modern Hebrew (JEMH) staff</name>
+            <note>Created the initial version of the content in TEI-XML and added dates (some based on estimation)</note>
+         </change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+
+
+
+
+
+
+מנחת בכורים
+/ אברהם
+גולדפאדן
+
+
+
+
+
+
+
+
+מנחת
+בכורים /
+אברהם
+גולדפאדן
+
+ 
+
+לכבוד
+
+ 
+
+אבי
+אהובי, מאור
+עיני, וחמדת
+נפשי, 
+חובב דעת,
+
+ונבון דבר,
+הולך מישרים,
+ושונא בצע
+מעשקות,
+
+ומפרי
+עמלו ישבע סלה
+– כבוד שמו
+הר"ר
+
+ 
+
+                           חיים
+ליפא
+גאלדפאדען.
+
+ 
+
+משבת
+תחכמוני
+מחדרי בית
+ספר,
+
+משם תשמע
+קולי אבי יקר-ערך;
+
+משם אערוך
+לך נעם אמרי
+שפר,
+
+מישרי
+מצליחי, מדריכי
+על דרך.
+
+ 
+
+ללמוד
+שלחתני
+פה לשון וספר,
+
+אם גם בשפת
+עמים עמלתי
+בפרך,
+
+בריתו
+עם שפתנו
+לבי לא יפר,
+
+הלא היא
+הורתי, אמנתי
+על ברך –.
+
+ 
+
+זכר – עת
+זרועיה על
+לבי זרעת,
+
+אז בדמע
+שאלת: מתי
+יצמחו? –
+
+האח!  שור אבי,
+לא לריק יגעת,
+
+שור!  איך ינץ
+ציץ, ופרחים
+יפרחו– ­;
+
+ענדם על
+ראשך, הם
+עטרת שיבתך,
+
+לוית-חן
+והוד ללבן-שערותיך.
+
+ 
+
+מקטרה
+ומנשה באהבה,
+בכבוד ובענוה
+
+                                  מאת בנך
+בכורך
+
+                                         אברהם.
+
+זיטאמיר
+יום ה' כ"ה
+לחודש "מנחם
+אב" תרכ"ה.
+
+ 
+
+ 
+
+
+
+
+
+ 
+
+
+
+
+
+
+</body>
+   </text>
+</TEI>

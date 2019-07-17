@@ -1,0 +1,179 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>מקראי ציון</title>
+            <author>חיים נחמן ביאליק</author>
+            <respStmt>
+               <name>Mandel Scholion Hebrew Revival Research Group</name>
+               <resp>Formatting of content from the Ben-Yehuda Project to TEI-XML according to the TEI P5 Guidelines.
+                  Addition of dates, not present in the online version, by Shira Wigderson, Asaf Isser, Adi Cohen, Nitzan Cohen, and Adi Cohen.
+               </resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <authority>Project Ben-Yehuda</authority>
+            <idno>http://benyehuda.org/bialik/bia027.html</idno>
+         </publicationStmt>
+         <sourceDesc xml:lang="Hebrew">
+            <bibl>
+               <date when="1897" notBefore="1897-01-01" notAfter="1897-12-31"/>
+            </bibl>
+            <p>The Ben-Yehuda Project (http://benyehuda.org/). Content provided within the Ben-Yehuda Hackathon at the University of Haifa (THATCamp Haifa, February 2014).</p>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <change>
+            <date>2018-11-01</date>
+            <name>Omer Waldman</name>
+            <note>Correction of previously annotated dates and addition of dates to majority of the works</note>
+         </change>
+         <change>
+            <date>2017-08-09</date>
+            <name>Jerusalem corpus of Emergent Modern Hebrew (JEMH) staff</name>
+            <note>Created the initial version of the content in TEI-XML and added dates (some based on estimation)</note>
+         </change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+
+
+
+
+
+
+
+מקראי ציון / חיים נחמן ביאליק
+
+
+
+
+
+
+
+
+
+
+
+
+מקראי ציון
+
+לזכר הקונגרס בבזיליאה
+
+ 
+
+איד עמכם
+קבצכם מפנות הגלה,
+
+נאקתו המרה
+את-כלכם הקימה –
+
+והנה נהיתה
+המראה הגדולה,
+
+ותפרץ
+ממקורה הנאמן הדמעה
+
+הגדולה,
+הנעימה, הבהירה, החמה,
+
+אליה נתפלל
+זה-כמה.
+
+ 
+
+אין זאת כי
+אם-באו עד-נפש המים,
+
+ובבבת העין
+הרעה נגעה,
+
+כי קרעה
+הזעקה את-לב השמים,
+
+ושאול
+בעדנו לרחמים קראה.
+
+ולבב מי
+לא-עלץ ברעדה לקראתכם,
+
+לא ברך מרחוק
+עדתכם?
+
+ 
+
+מכנפות הארץ
+לא-זמירות הבאתם –
+
+כי קינות
+נושנות החדשות לבקרים,
+
+ולעיני
+השמש את-עמכם הראיתם
+
+מגולל בדמיו
+כמים מגרים;
+
+ובעמדם נד
+אחד וברדתם יחד –
+
+בשר מי אז
+לא-יסמר מפחד?
+
+ 
+
+תרדנה נא
+יחדו גם-דמעות עמנו,
+
+תבאנה נאד
+אחד מתפוצות הגלה.
+
+אם-פדות אין
+עמנו – עוד חי גאלנו,
+
+וקמה ובאה
+השעה הגדולה.
+
+ואחרון
+על-עפר את-קולכם יעלה
+
+הראשון ליסד
+המעלה.
+
+ 
+
+ובדברי
+ימינו המלאים אנחות
+
+תאצר
+כפנינה דמעתכם הקדושה.
+
+מציבי
+הדלתות ובני הטפחות
+
+יכירו מי-ירה
+האבן הראשה –
+
+אך
+גם-במחשכים כשמש בל-ידעך
+
+זכרונכם
+בעמכם הנדח.
+
+ 
+
+תשרי, תרנ"ח,
+סוסנוביצא.
+
+
+
+
+
+  
+
+
+</body>
+   </text>
+</TEI>

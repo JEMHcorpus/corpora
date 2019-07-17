@@ -1,0 +1,231 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>שני הכלבים ונבלת החמור</title>
+            <author>יהודה ליב גורדון</author>
+            <respStmt>
+               <name>Mandel Scholion Hebrew Revival Research Group</name>
+               <resp>Formatting of content from the Ben-Yehuda Project to TEI-XML according to the TEI P5 Guidelines.
+                  Addition of dates, not present in the online version, by Shira Wigderson, Asaf Isser, Adi Cohen, Nitzan Cohen, and Adi Cohen.
+               </resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <authority>Project Ben-Yehuda</authority>
+            <idno>http://benyehuda.org/yalag/ylg191.html</idno>
+         </publicationStmt>
+         <sourceDesc xml:lang="Hebrew">
+            <bibl>
+               <date when="1859" notBefore="1859-01-01" notAfter="1859-12-31"/>
+            </bibl>
+            <p>The Ben-Yehuda Project (http://benyehuda.org/). Content provided within the Ben-Yehuda Hackathon at the University of Haifa (THATCamp Haifa, February 2014).</p>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <change>
+            <date>2018-11-01</date>
+            <name>Omer Waldman</name>
+            <note>Correction of previously annotated dates and addition of dates to majority of the works</note>
+         </change>
+         <change>
+            <date>2017-08-09</date>
+            <name>Jerusalem corpus of Emergent Modern Hebrew (JEMH) staff</name>
+            <note>Created the initial version of the content in TEI-XML and added dates (some based on estimation)</note>
+         </change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+
+
+
+
+
+
+
+שני הכלבים ונבלת החמור / יהודה ליב גורדון
+
+
+
+ 
+
+
+
+
+  
+  
+
+
+שני הכלבים
+ונבלת החמור / יהודה ליב גורדון
+
+ 
+
+הדעות
+הטובות תפרדנה
+
+ובלב אחד לא
+–תתאחדנה:
+
+זה חכם ורע,
+זה טוב וחסר דעת;
+
+לזה לב מבין,
+לזה אזן שמעת:
+
+זה ישכיל
+מבלי אמונה,
+
+וזה יאמין
+מבלי תבונה
+
+בין בהמות
+שדי הכלב יעמידו
+
+למשל עמים
+באמונה לאדניהו,
+
+אך זולל, סבא
+וחסר לב הנהו,
+
+ושני
+הכלבים אלה אמתי יעידו.
+
+ 
+
+על יד הנחל
+עמדו כלבים שנים
+
+ויראו פגר
+חמור צף על המים,
+
+אך רחוק רחוק
+הרוח יוליכהו.
+
+"שא, אחי,
+עיניך – אמר האחד –
+
+וראה מה
+הצפה, כי עיני כהו
+
+משיבי, אף
+כי לא לקחתי שחד".
+
+גם אני לא
+אחזה, כי בא הליל
+
+– יגיד רעו –
+אראה רק פגר;
+
+אך יהיה פגר
+סוס או איל
+
+לו רק בידינו
+עתה יסגר.
+
+אפס כי רב
+הדרך בינותינו
+
+אם נרדף לא
+נשיג לבי בטוח,
+
+גם איככה
+נשחה נגד הרוח?
+
+זאת אפוא נעש:
+קום, אחי, הבה
+
+כל מי הנחל
+נגיח אל קרבנו
+
+עד יעמד
+הפגר בחרבה
+
+ובנקל
+נקחהו".
+
+טוב! – ענהו
+רעהו.
+
+נחרצה,
+נעשתה!
+ אז חיש החלו
+
+לשתות מי
+הנהר, אף לא חדלו
+
+עד צבתה בטנם
+וכאובות נבקעו.
+
+ 
+
+זה חלק אישים
+שבעה לא ידעו!
+
+קול חפצם
+דופק, דופק לא ינוח,
+
+וחלום חזון
+לבם עת כי יחלמו
+
+ישכחו כי
+בשר הם לא רוח,
+
+ובמשאות
+שוא מעל הארץ ירמו,
+
+לא יראו אבני
+נגף אלפי אלף,
+
+מכשלים
+והדורים ומעקשי סלף,       
+
+ושדודי כח
+חיש יפלו יכרעו . –
+
+"לו שבעים
+לשון ידעתי למדתי,
+
+לו חכמתי
+מחרטמי מצרים,
+
+לו מלאתי
+ביתי בזהב פרוים,
+
+לו
+כנבוכדנצר ארצות לכדתי!!"
+
+הנה חפצך
+
+רב מכחך,
+
+מעבר לים
+הגדול הנהו,
+
+גמא כל
+מימיו או אז תשיגהו!
+
+שבעתים
+כשנות מתושלח יחד
+
+לא ימצאו די
+מלאת חפץ איש אחד.
+
+ 
+
+
+
+
+
+ 
+
+
+
+
+
+
+</body>
+   </text>
+</TEI>

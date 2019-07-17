@@ -1,0 +1,159 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>הנער והזקן</title>
+            <author>יהודה ליב גורדון</author>
+            <respStmt>
+               <name>Mandel Scholion Hebrew Revival Research Group</name>
+               <resp>Formatting of content from the Ben-Yehuda Project to TEI-XML according to the TEI P5 Guidelines.
+                  Addition of dates, not present in the online version, by Shira Wigderson, Asaf Isser, Adi Cohen, Nitzan Cohen, and Adi Cohen.
+               </resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <authority>Project Ben-Yehuda</authority>
+            <idno>http://benyehuda.org/yalag/Ylg113.html</idno>
+         </publicationStmt>
+         <sourceDesc xml:lang="Hebrew">
+            <bibl>
+               <date when="1859" notBefore="1859-01-01" notAfter="1859-12-31"/>
+            </bibl>
+            <p>The Ben-Yehuda Project (http://benyehuda.org/). Content provided within the Ben-Yehuda Hackathon at the University of Haifa (THATCamp Haifa, February 2014).</p>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <change>
+            <date>2018-11-01</date>
+            <name>Omer Waldman</name>
+            <note>Correction of previously annotated dates and addition of dates to majority of the works</note>
+         </change>
+         <change>
+            <date>2017-08-09</date>
+            <name>Jerusalem corpus of Emergent Modern Hebrew (JEMH) staff</name>
+            <note>Created the initial version of the content in TEI-XML and added dates (some based on estimation)</note>
+         </change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+
+
+
+
+
+
+הנער והזקן / יהודה ליב גורדון
+
+
+
+
+
+
+
+
+הנער והזקן
+
+ 
+
+נער משלח
+שחק על חוף השלח
+
+ויכשל בעץ
+ויפל אל המים;
+
+וימן אלהים
+ערבה לו לנער
+
+וימשך
+אותה אליו בכח
+
+ויתפש בה
+ויעמד בחיים.
+
+עדנו מחזיק
+בערבה תלוי על בלי מה
+
+ויעבר זקן
+מזקני השער,
+
+ויקרא אליו
+הטובע בדמעה:
+
+„הושיעני כי באו מים עד נפש!”
+
+ויפן וירא
+ממעל לזרם
+
+נער בכה
+בסבך-עץ יתפש
+
+ויאמר
+להצילו; אך טרם
+
+ימשהו מלא
+פיו תוכחת,
+
+ויעמד על חוף
+הנהר ויאמר:
+
+„הוי פרחח אוילי! בן חסר טעם;
+
+כעס אל אביו
+וליולדתו ממר!
+
+מה עשית לו
+לא באתי הפעם,
+
+מי הציל
+חיתך מרדת שחת?
+
+הן אז מבלי
+מציל אבד אבדת!
+
+דע אפוא כי
+עשה הסכלת,
+
+כי לרחץ על
+היאר ירדת
+
+ופי הוריך לא
+שאלת,
+
+מה אמלל
+אביך, הורתך מה אמלה!
+
+מלדת בן
+מביש טוב היות שכלה!”
+
+כן הרבה להג
+– והילד במים
+
+שוכב
+ומפרפר בין מות וחיים.
+
+ 
+
+מתקני עולם,
+אל לשון תגברו,
+
+הצילו
+בתחלה, אחר דברו!
+
+ 
+
+
+
+
+
+ 
+
+
+
+
+
+
+</body>
+   </text>
+</TEI>

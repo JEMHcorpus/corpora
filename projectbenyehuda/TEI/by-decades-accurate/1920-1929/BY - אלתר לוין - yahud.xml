@@ -1,0 +1,186 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>כרבת אל יהוד</title>
+            <author>אלתר לוין</author>
+            <respStmt>
+               <name>Mandel Scholion Hebrew Revival Research Group</name>
+               <resp>Formatting of content from the Ben-Yehuda Project to TEI-XML according to the TEI P5 Guidelines.
+                  Addition of dates, not present in the online version, by Shira Wigderson, Asaf Isser, Adi Cohen, Nitzan Cohen, and Adi Cohen.
+               </resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <authority>Project Ben-Yehuda</authority>
+            <idno>http://benyehuda.org/levin/yahud.html</idno>
+         </publicationStmt>
+         <sourceDesc xml:lang="Hebrew">
+            <bibl>
+               <date when="1920" notBefore="1920-01-01" notAfter="1920-12-31"/>
+            </bibl>
+            <p>The Ben-Yehuda Project (http://benyehuda.org/). Content provided within the Ben-Yehuda Hackathon at the University of Haifa (THATCamp Haifa, February 2014).</p>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <change>
+            <date>2018-11-01</date>
+            <name>Omer Waldman</name>
+            <note>Correction of previously annotated dates and addition of dates to majority of the works</note>
+         </change>
+         <change>
+            <date>2017-08-09</date>
+            <name>Jerusalem corpus of Emergent Modern Hebrew (JEMH) staff</name>
+            <note>Created the initial version of the content in TEI-XML and added dates (some based on estimation)</note>
+         </change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+
+
+
+
+
+
+
+כרבת אל יהוד / אלתר לוין (אסף הלוי איש ירושלים)
+
+
+
+ 
+
+
+
+
+  
+  
+
+
+כרבת אל יהוד / אלתר לוין
+(אסף הלוי איש ירושלים)
+
+ 
+
+יב
+
+ 
+
+בין ערגות
+ביתר חולם כי אתהלך
+
+ועיני אל
+ההרים;
+
+נחלי מים
+פורצים ומשתפכים
+
+מבין
+גבנונים, מבין חלקת סלעים
+
+ועיני אל
+ההרים...
+
+בין ערגות
+טללים חולם לי אתהלך
+
+על חרבות
+ביתר, ביתר תמול ושלשם,
+
+על תלמי
+ירקה של היום!..
+
+ 
+
+אדמה, אדמה
+הערגה, אדמו פני הירק,
+
+מימי נחל
+אבדו טהרם, גלו תערבתם,
+
+תערבת דם
+ודמים...
+
+הכי אדם חמה
+יורדת בערבים,
+
+כדור דם
+באפק, האדים קרית ביתר?...
+
+הס!
+
+ממרומים נפל
+דבר, הבהיק נגה,
+
+נפל דבר
+משמים, כוכב נופל הוא –
+
+הס!
+
+מבטן האדמה
+קולות לי נשמעים,
+
+נשמע רעם,
+נהמת גבור, סערות דם ואש –
+
+הס!
+
+צלמי קרבות
+שמה בין ההרים,
+
+רמח נתקע אל התאנה,
+מחסה פי המערה,
+
+משק סיפים,
+קול מגנים
+
+בכרבת-אל-יהוד...
+
+ 
+
+אדמה, אדמה
+הערגה.  אדמה ביתר.  אדמו פני ההרים
+
+נחלי מים
+מאדמים פורצים מבין סלעים,
+
+נופלים בוכים
+אל העמק, אל הגיא הפורה,
+
+גיא בו יצמח
+ירק ביתר...
+
+אדמה חמה!
+
+ובין ערגות
+אנכי כי אתהלך,
+
+טובל טללי,
+דם בריוני,
+
+שותה מימי,
+מיץ קנאי –
+
+ודמי לבבי
+מרוים כרבת-אל-יהוד! – –
+
+– – – – – – – – – –
+– – – – – – – –
+
+ 
+
+
+
+
+
+ 
+
+
+
+
+
+
+</body>
+   </text>
+</TEI>

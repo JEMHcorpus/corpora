@@ -1,0 +1,206 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>השועל והזאב</title>
+            <author>יהודה ליב גורדון</author>
+            <respStmt>
+               <name>Mandel Scholion Hebrew Revival Research Group</name>
+               <resp>Formatting of content from the Ben-Yehuda Project to TEI-XML according to the TEI P5 Guidelines.
+                  Addition of dates, not present in the online version, by Shira Wigderson, Asaf Isser, Adi Cohen, Nitzan Cohen, and Adi Cohen.
+               </resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <authority>Project Ben-Yehuda</authority>
+            <idno>http://benyehuda.org/yalag/ylg187.html</idno>
+         </publicationStmt>
+         <sourceDesc xml:lang="Hebrew">
+            <bibl>
+               <date when="1859" notBefore="1859-01-01" notAfter="1859-12-31"/>
+            </bibl>
+            <p>The Ben-Yehuda Project (http://benyehuda.org/). Content provided within the Ben-Yehuda Hackathon at the University of Haifa (THATCamp Haifa, February 2014).</p>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <change>
+            <date>2018-11-01</date>
+            <name>Omer Waldman</name>
+            <note>Correction of previously annotated dates and addition of dates to majority of the works</note>
+         </change>
+         <change>
+            <date>2017-08-09</date>
+            <name>Jerusalem corpus of Emergent Modern Hebrew (JEMH) staff</name>
+            <note>Created the initial version of the content in TEI-XML and added dates (some based on estimation)</note>
+         </change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+
+
+
+
+
+
+
+השועל והזאב / יהודה ליב גורדון
+
+
+
+ 
+
+
+
+
+  
+  
+
+
+השועל והזאב
+/ יהודה ליב גורדון
+
+ 
+
+שועל רעב עבר
+על עין מים,
+
+וירא הירח
+
+במים זורח
+
+ויהי כגבינה
+לו בעינים.
+
+ושני דליי הבאר
+בגלגל תלו
+
+וחליפות הבארה
+ירדו גם עלו,
+
+אז בדלי העליון
+השועל יעל
+
+ויכבד עליו
+וירד חיש מטה.
+
+אהה! ומה ראו
+עיניו שם עתה?
+
+ראו כי תקותו
+מעלה בו מעל!
+
+כי תרמית עיניו
+זה הגבינה
+
+מרגיזי ארצות
+עוד בה לא עלו,
+
+שני הזמן עליה
+לא משלו –
+
+אף כי שני שועל
+אין בינה!
+
+עתה ישכב השועל
+בדלי שמה,
+
+מאפס-תקוה רוח
+בו לא קמה,
+
+כי מפלט אין
+
+לעלות מן העין
+
+אם מלאך פלאי
+
+לא יבא בשלי
+
+הסב הגלגל ולהוציא
+הכלי,
+
+ככה עבר יום,
+כן עברו יומים,
+
+השועל עודנו
+בבאר המים
+
+וכבר החלה הלבנה
+האסף
+
+ולהקטין כל לילה
+קערת הכסף –
+
+וזאב צמא הנה
+על פניו עבר;       
+
+אז נשמע קול השועל
+אליו דבר:
+
+"הזאב! בא
+הלם, נפשך אשביע
+
+מבלי הסכן,
+מבלי עמל ויגיע;
+
+הלא תראה חריץ
+החלב במים?
+
+מיץ חלב ודבש
+הוא נחמד לעינים,
+
+וכבר מחציתו
+אכלתי החסרתי
+
+ושאריתו לך,
+אהובי, הותרתי,
+
+גם הדלי הרק
+שם לך העמדתי.
+
+שב-בו ורדה,
+כי כן גם ירדתי".
+
+ויפת הזאב
+אל דברי רעהו
+
+וירד, ויעל
+הנוכל מעל.
+
+ 
+
+הן נבער הזאב
+לאמין לבליעל,
+
+ובכל זאת אל נא
+נצחק עליהו,
+
+כי גם פעמים
+רבות ידע לבנו
+
+אשר גם אנחנו
+כמהו
+
+נאמין בשוא
+ובתקות תהו,
+
+ומה גם בדבר
+לו תתאו נפשנו.
+
+ 
+
+
+
+
+
+ 
+
+
+
+
+
+
+</body>
+   </text>
+</TEI>

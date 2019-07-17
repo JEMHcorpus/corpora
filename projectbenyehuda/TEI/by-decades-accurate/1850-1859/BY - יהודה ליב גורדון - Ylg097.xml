@@ -1,0 +1,197 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>הארז והקנה</title>
+            <author>יהודה ליב גורדון</author>
+            <respStmt>
+               <name>Mandel Scholion Hebrew Revival Research Group</name>
+               <resp>Formatting of content from the Ben-Yehuda Project to TEI-XML according to the TEI P5 Guidelines.
+                  Addition of dates, not present in the online version, by Shira Wigderson, Asaf Isser, Adi Cohen, Nitzan Cohen, and Adi Cohen.
+               </resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <authority>Project Ben-Yehuda</authority>
+            <idno>http://benyehuda.org/yalag/Ylg097.html</idno>
+         </publicationStmt>
+         <sourceDesc xml:lang="Hebrew">
+            <bibl>
+               <date when="1859" notBefore="1859-01-01" notAfter="1859-12-31"/>
+            </bibl>
+            <p>The Ben-Yehuda Project (http://benyehuda.org/). Content provided within the Ben-Yehuda Hackathon at the University of Haifa (THATCamp Haifa, February 2014).</p>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <change>
+            <date>2018-11-01</date>
+            <name>Omer Waldman</name>
+            <note>Correction of previously annotated dates and addition of dates to majority of the works</note>
+         </change>
+         <change>
+            <date>2017-08-09</date>
+            <name>Jerusalem corpus of Emergent Modern Hebrew (JEMH) staff</name>
+            <note>Created the initial version of the content in TEI-XML and added dates (some based on estimation)</note>
+         </change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+
+
+
+
+
+
+הארז והקנה / יהודה ליב גורדון
+
+
+
+
+
+
+
+
+הארז והקנה
+
+לעולם יהא אדם רך כקנה
+
+ואל יהי קשה כארז (תענית כ').
+
+ 
+
+צדיק אתה כי
+תריב אל אל בשמים
+
+– אמר לקנה
+הארז ביער – 
+
+חלש מחשש
+עשך, רפה מתבן,
+
+צלצל
+הכנפים לך כבד אבן,
+
+רוח צח נוססה
+בפני יובל מים
+
+רוח עזה היא
+לך סעה וסער;
+
+גם צל כי
+יברח עליך ברח
+
+לא תעמד הכן,
+כי תדכה תשח.
+
+ואני – רם
+ככרמל, אדיר מהררי טרף,
+
+אשים מחשך
+לאור ואכס עין השמש;
+
+סער מתגורר
+אבזה, אפנה לו ערף
+
+ונשרים קלו
+לי כקטני הרמש.
+
+צר לי עליך,
+אמלל! רב מנשוא אידך,
+
+לו עוד תחת
+פארותי היית צומח
+
+זו מסביבות
+מטעי אנכי שלח,
+
+כי אז
+בסעפותי שכתי בעדך;
+
+אך יונקתך
+תצא על יבלי מים,
+
+במקום אין
+מעצר אל רוחות שמים
+
+וערירי צפוי
+אתה אל כל קרץ.
+
+הוי מדוע זה
+השפט כל הארץ
+
+לא יעשה לך משפט,
+רק לך לבדך?!
+
+„חשך נא ניד פיך” – הקנה ענהו – 
+
+„כמוני כמוך נגור כעס רוח;
+
+„אמת כי עת סער יפוח
+
+אכף ראשי עד
+יעבר-זעם,
+
+„אתה לא תערץ מפניו, תרים מצח,
+
+„אך נוחיל לקץ – חסן לא לנצח!”
+
+עודנו דובר
+ופתאם רוח סער,
+
+משתו יגורו
+אילים, הרים יתמהו,
+
+בצורים
+יתקלס, משחק לו חרש,
+
+נעור
+מירכתי צפון בשאון רעם
+
+ויבא
+וירעש בין שיחי היער.
+
+הקנה כפף נפשו
+כפעם בפעם,
+
+הארז לא שח
+אף לא זע ממנו;
+
+ויוסף הרוח
+אמץ בחמת זעם
+
+וישערהו
+ויהפכהו משרש
+
+ובערפו אחז
+ויפצפצנו.
+
+אז אל כל
+גאיות דליותיו נפרדו
+
+ושבבים היה
+הארז רם העינים,
+
+אשר העלה
+שיאו שמים,
+
+ולקצבי הרים
+שרשיו ירדו.
+
+ 
+
+
+
+
+
+ 
+
+
+
+
+
+
+</body>
+   </text>
+</TEI>

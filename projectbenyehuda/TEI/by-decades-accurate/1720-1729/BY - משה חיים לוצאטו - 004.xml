@@ -1,0 +1,242 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>שיר לכבוד עמנואל כלבו</title>
+            <author>משה חיים לוצאטו</author>
+            <respStmt>
+               <name>Mandel Scholion Hebrew Revival Research Group</name>
+               <resp>Formatting of content from the Ben-Yehuda Project to TEI-XML according to the TEI P5 Guidelines.
+                  Addition of dates, not present in the online version, by Shira Wigderson, Asaf Isser, Adi Cohen, Nitzan Cohen, and Adi Cohen.
+               </resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <authority>Project Ben-Yehuda</authority>
+            <idno>http://benyehuda.org/ramxal/004.html</idno>
+         </publicationStmt>
+         <sourceDesc xml:lang="Hebrew">
+            <bibl>
+               <date when="1724" notBefore="1724-01-01" notAfter="1724-12-31"/>
+            </bibl>
+            <p>The Ben-Yehuda Project (http://benyehuda.org/). Content provided within the Ben-Yehuda Hackathon at the University of Haifa (THATCamp Haifa, February 2014).</p>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <change>
+            <date>2018-11-01</date>
+            <name>Omer Waldman</name>
+            <note>Correction of previously annotated dates and addition of dates to majority of the works</note>
+         </change>
+         <change>
+            <date>2017-08-09</date>
+            <name>Jerusalem corpus of Emergent Modern Hebrew (JEMH) staff</name>
+            <note>Created the initial version of the content in TEI-XML and added dates (some based on estimation)</note>
+         </change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+
+
+
+
+
+
+
+שיר לכבוד
+עמנואל כלבו /
+משה חיים
+לוצאטו
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+שיר
+לכבוד עמנואל
+כלבו / משה
+חיים לוצאטו
+
+ 
+
+ביום
+המשח
+בחור
+מעם
+סגלה.
+לשם ולתפארת
+ולתהלה.
+ה"ה
+מעלת היקר
+והנעלה
+המשכיל
+והנבון
+הדין
+השלם
+כמה"ר עמנואל
+בן החכם השלם
+הדין
+המצין
+כמוהר"ר רפאל
+כלבו
+זצ"ל.
+ועליו
+יציץ נזר
+הפילוסופיאה
+והרפואה,
+אמרתי:
+אשירה
+נא
+לידידי
+ביום
+המשח
+אותו.
+בהראותו
+את כל
+יקר
+תפארת
+גדלתו.
+
+ואשא
+משלי:
+
+עד
+אן,
+מליצתי,
+כמתגנבת
+עצות
+בנפשך
+לחשות
+תשימי?
+מה
+תיראי,
+כי תרדי
+לשבת
+אל
+ירכתי
+הרים
+ושם
+תעימי
+נגהך,
+ולא
+תהיי
+בשיר
+דובבת
+לכבוד
+ידידי זה,
+וקול
+תרימי?
+ותשבי
+נגדו
+כיונת
+אלם,
+וכהחריש
+לפני זקנים
+עלם?
+
+אך
+מה
+לדבר
+לך,
+מליצה?
+דמי,
+אם
+מעשיו
+המה כבר
+ירנו.
+לא עת
+לשיר
+היום,
+ולא
+תלחמי
+עם מחנות
+פלא,
+אשר
+נכונו
+מפליא
+להראותו,
+אבל
+הרומי,
+השתחוי
+לו - כי
+אזי
+יכונו
+ברכות
+נסיעתך
+לפניו
+סלה,
+זבחי
+תהלות,
+אם
+זרועך
+תלה.
+
+מחקר
+עטרת לו
+ומרפא
+יחד,
+מכל
+חמודות
+יעטה
+אדרת.
+ישחק,
+ולא יחת,
+לחיל
+ופחד
+כי עז
+אלהים לו
+לראש
+כתרת.
+כן בל
+יהי
+שירי כשירי
+כחד
+בגדר
+פארך,
+דוד - לפי
+משמרת
+אשים,
+ולא
+אשיג
+גבול
+שבחך.
+אדם -
+ואז
+אגיד
+תהלתך.
+
+אהב
+דבק מאח
+משה
+חיים
+בלא"א יעקב
+חי
+לוצאטו
+
+ 
+
+
+
+
+
+ 
+
+
+
+
+
+
+</body>
+   </text>
+</TEI>

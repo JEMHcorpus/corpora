@@ -1,0 +1,218 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>צלצלי קיץ</title>
+            <author>יעקב לרנר</author>
+            <respStmt>
+               <name>Mandel Scholion Hebrew Revival Research Group</name>
+               <resp>Formatting of content from the Ben-Yehuda Project to TEI-XML according to the TEI P5 Guidelines.
+                  Addition of dates, not present in the online version, by Shira Wigderson, Asaf Isser, Adi Cohen, Nitzan Cohen, and Adi Cohen.
+               </resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <authority>Project Ben-Yehuda</authority>
+            <idno>http://benyehuda.org/lerner/tziltzaley.html</idno>
+         </publicationStmt>
+         <sourceDesc xml:lang="Hebrew">
+            <bibl>
+               <date when="1909" notBefore="1909-01-01" notAfter="1909-12-31"/>
+            </bibl>
+            <p>The Ben-Yehuda Project (http://benyehuda.org/). Content provided within the Ben-Yehuda Hackathon at the University of Haifa (THATCamp Haifa, February 2014).</p>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <change>
+            <date>2018-11-01</date>
+            <name>Omer Waldman</name>
+            <note>Correction of previously annotated dates and addition of dates to majority of the works</note>
+         </change>
+         <change>
+            <date>2017-08-09</date>
+            <name>Jerusalem corpus of Emergent Modern Hebrew (JEMH) staff</name>
+            <note>Created the initial version of the content in TEI-XML and added dates (some based on estimation)</note>
+         </change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+
+
+
+
+
+
+
+צלצלי קיץ / יעקב לרנר
+
+
+
+
+
+
+
+
+צלצלי  קיץ
+
+יעקב
+לרנר
+
+ 
+
+לא שפי כגונב
+הגבולים –
+
+הוא נכנס בפומבי
+ותרועה,
+
+וישלח מלאכים
+מרנינים
+
+להביא אלינו השמועה:
+
+ 
+
+כי פרחה בשדמות
+הקמה,
+
+כי ירן כל פרח
+למינו,
+
+כי חנטו היערים
+מסביב,
+
+כי יהגה כבר
+גוזל מקנו;
+
+ 
+
+ובגלי האחו
+יתהוללו:
+
+פה עגל בן-בקר,
+פה סיח;
+
+ומשבץ בחופיו
+כבערש,
+
+מתפנק הפלג
+ומחיך.
+
+ 
+
+וקורא קול-קיץ
+אלינו:
+
+צאו-נא מכבשן
+הכרכים!
+
+הזקיפו שדרתכם
+השחוחה
+
+וחזקו שריריכם
+הנמקים.
+
+ 
+
+הדליקו בעינכם
+נר-חיים
+
+ורפאו נשמכתכם
+הרעועה;
+
+טבלוה באורות
+ארגמן
+
+ובטל השמים
+רחצוה.
+
+ 
+
+המלטו מתימרות
+האבק
+
+ולינו בנוים שאננים,
+
+הטמירים בחיק
+העמקים
+
+ואובדים בירקות
+וגנים.
+
+ 
+
+תשכימו עם עמוד-השחר
+
+ותטילו בשבילי
+הכרמים:
+
+שם תרוו מדשן
+התנובות
+
+ושכרתם מחריפות-הבשמים.
+
+ 
+
+ופטורים מחובות
+ועלים
+
+תתפשטו הגשמות
+השחורה –
+
+וקרם עליכם
+עור חדש 
+
+וטהרתם ככרוכי-האורה;
+
+ 
+
+וצצו בן-רגע על
+גבכם
+
+גפים קלילים
+אורירים –
+
+ודאיתם לרומו
+של עולם
+
+וצללתם בזיוים
+אדירים.
+
+ 
+
+וראיתם כל גנזי
+הבריאה,
+
+כל חסנה ועזוזי
+תפארתה –
+
+ונשמתם בחזות
+אבירים,
+
+ולבכם המחדש
+יקרטע.
+
+ 
+
+תרס"ט
+
+ 
+
+
+
+
+
+ 
+
+ 
+
+
+
+
+
+
+</body>
+   </text>
+</TEI>

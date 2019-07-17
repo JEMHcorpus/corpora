@@ -1,0 +1,139 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>עֲלָטָה</title>
+            <author>דוד פרישמן</author>
+            <respStmt>
+               <name>Mandel Scholion Hebrew Revival Research Group</name>
+               <resp>Formatting of content from the Ben-Yehuda Project to TEI-XML according to the TEI P5 Guidelines.
+                  Addition of dates, not present in the online version, by Shira Wigderson, Asaf Isser, Adi Cohen, Nitzan Cohen, and Adi Cohen.
+               </resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <authority>Project Ben-Yehuda</authority>
+            <idno>http://benyehuda.org/frischmann/frisch003.html</idno>
+         </publicationStmt>
+         <sourceDesc xml:lang="Hebrew">
+            <bibl>
+               <date when="1912" notBefore="1912-01-01" notAfter="1912-12-31"/>
+            </bibl>
+            <p>The Ben-Yehuda Project (http://benyehuda.org/). Content provided within the Ben-Yehuda Hackathon at the University of Haifa (THATCamp Haifa, February 2014).</p>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <change>
+            <date>2018-11-01</date>
+            <name>Omer Waldman</name>
+            <note>Correction of previously annotated dates and addition of dates to majority of the works</note>
+         </change>
+         <change>
+            <date>2017-08-09</date>
+            <name>Jerusalem corpus of Emergent Modern Hebrew (JEMH) staff</name>
+            <note>Created the initial version of the content in TEI-XML and added dates (some based on estimation)</note>
+         </change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+
+
+
+
+
+
+עלטה
+
+
+
+
+
+
+
+
+
+
+
+עלטה
+
+ 
+
+לא יום אף לא
+לילה: דמדומים היו 
+
+חיי.
+
+וזה אשר-לא
+היה וזה אשר לא יהיה  –
+
+היה מאויי.
+
+ 
+
+בין השמשות
+ארך אחד  –  ורק לרגעים
+
+יש כי אנער.
+
+אשפשף עיני:
+עלטה. אך
+פאת-שמים אחת
+
+אדמה
+עד-לבער.
+
+ 
+
+אביט וכף
+לעין: האם הוא לפנות-ערב?
+
+האם
+לפנות-שחרית?
+
+לא אדע. ולא
+אדע אם עתה רק אחל
+
+או אם זה כבר
+אחרית.
+
+ 
+
+לא אהבתי
+ולא שנאתי. הוי אלי, אלי!
+
+אלפי אלפי
+זוכים
+
+עמלים על כל
+סביבי והומים פה ורועשים,
+
+ורבבות
+אמללים בוכים,
+
+ 
+
+וגלגל מנסר
+גלגל ושורקת כל המכונה
+
+והעולם חי
+וקים.
+
+אך מה-לי פה
+אני ומי לי פה אני,
+
+וחיי אים?
+
+
+
+
+
+
+
+
+
+
+</body>
+   </text>
+</TEI>

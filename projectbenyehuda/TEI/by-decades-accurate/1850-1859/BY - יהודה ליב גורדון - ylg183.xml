@@ -1,0 +1,197 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>הארנבת והצב</title>
+            <author>יהודה ליב גורדון</author>
+            <respStmt>
+               <name>Mandel Scholion Hebrew Revival Research Group</name>
+               <resp>Formatting of content from the Ben-Yehuda Project to TEI-XML according to the TEI P5 Guidelines.
+                  Addition of dates, not present in the online version, by Shira Wigderson, Asaf Isser, Adi Cohen, Nitzan Cohen, and Adi Cohen.
+               </resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <authority>Project Ben-Yehuda</authority>
+            <idno>http://benyehuda.org/yalag/ylg183.html</idno>
+         </publicationStmt>
+         <sourceDesc xml:lang="Hebrew">
+            <bibl>
+               <date when="1859" notBefore="1859-01-01" notAfter="1859-12-31"/>
+            </bibl>
+            <p>The Ben-Yehuda Project (http://benyehuda.org/). Content provided within the Ben-Yehuda Hackathon at the University of Haifa (THATCamp Haifa, February 2014).</p>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <change>
+            <date>2018-11-01</date>
+            <name>Omer Waldman</name>
+            <note>Correction of previously annotated dates and addition of dates to majority of the works</note>
+         </change>
+         <change>
+            <date>2017-08-09</date>
+            <name>Jerusalem corpus of Emergent Modern Hebrew (JEMH) staff</name>
+            <note>Created the initial version of the content in TEI-XML and added dates (some based on estimation)</note>
+         </change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+
+
+
+
+
+
+
+הארנבת והצב / יהודה ליב גורדון
+
+
+
+ 
+
+
+
+
+  
+  
+
+
+הארנבת והצב
+/ יהודה ליב גורדון
+
+לא לקלים
+המרוץ (קהלת ז' י"א)
+
+ 
+
+גם יד חרוצים
+לא תועילך
+
+אם לא בזמנם
+תעש מפעליך!
+
+ 
+
+התערב-נא עמי
+– אמר צב לארנבת –
+
+מי משנינו, אם
+יחד נרוצה הפעם,
+
+יקדים יגש אל
+המטרה הנצבת
+
+"בי תתערב?
+– ענתהו קלת הרגלים –
+
+לך-נא המכתש,
+בין הריפות, חסר טעם!
+
+אולי שם בעלי
+אותך כי יכתשו יכתו
+
+אולת הקשורה
+בך ממך יפשטו".
+
+מה-לך ולי – ענה
+הצב רם העינים –
+
+אם חכם כמוך
+או חסר טעם הנני,
+
+אם רק אתערב בך,
+אף ערבון אשימה ?!
+
+"טוב! – ענתה
+בצחוק – שימה נא עמך ערבני!"
+
+שמו ערבתם,
+תקעו כפים –
+
+"רץ אתה ראשונה
+ופעמיך הרימה
+
+ואני ארוץ אחריך"
+– אמרה הארנבת.
+
+הן עוד עת רבה
+לי – כן בלבבה חשבת –
+
+עת לאכול, עת לשתות,
+עת לישון, עת לנוח,
+
+עת לנטות אזנים
+לשמור דרך הרוח;
+
+ירוץ לו הצב –
+הן בצעדים ששת
+
+אעבר על פניו
+ואמהר לגשת.
+
+ככה חשבה שאננה
+קלת הרגלים,
+
+בין כה שרך
+הצב דרכו, חש בעצלתים,
+
+וכבר הקריב לבוא,
+נגש המטרתה
+
+ועוד הארנבת
+
+שאננה שוכבת,
+
+אוכלת, חושבת,
+
+ומעלת הגרה;
+
+עד אשר ראתה
+
+כי יתם הצב
+דרכו, כי יקרב לגשת,      
+
+אז קמה חיש ותעף
+כחץ מני קשת –
+
+אך הה! לשוא
+עתה לרוץ מהרה
+
+ומקומה לניח
+מראש אחרה;
+
+ויקדמה הצב,
+ראשונה הגיע:
+
+ומה? התפאר עליה
+שרץ
+
+הארץ,
+
+ובעוד ישם ישאף
+מרב היגיע –
+
+מה הועילוך עתה,
+הארנבת, רגליך?
+
+ומה לו עוד נשאת
+ביתך על כתפיך ?!
+
+ 
+
+
+
+
+
+ 
+
+
+
+
+
+
+</body>
+   </text>
+</TEI>

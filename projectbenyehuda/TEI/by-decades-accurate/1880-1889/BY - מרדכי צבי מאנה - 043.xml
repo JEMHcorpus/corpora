@@ -1,0 +1,166 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>זמר לפורים</title>
+            <author>מרדכי צבי מאנה</author>
+            <respStmt>
+               <name>Mandel Scholion Hebrew Revival Research Group</name>
+               <resp>Formatting of content from the Ben-Yehuda Project to TEI-XML according to the TEI P5 Guidelines.
+                  Addition of dates, not present in the online version, by Shira Wigderson, Asaf Isser, Adi Cohen, Nitzan Cohen, and Adi Cohen.
+               </resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <authority>Project Ben-Yehuda</authority>
+            <idno>http://benyehuda.org/maneh/043.html</idno>
+         </publicationStmt>
+         <sourceDesc xml:lang="Hebrew">
+            <bibl>
+               <date when="1883" notBefore="1883-01-01" notAfter="1883-12-31"/>
+            </bibl>
+            <p>The Ben-Yehuda Project (http://benyehuda.org/). Content provided within the Ben-Yehuda Hackathon at the University of Haifa (THATCamp Haifa, February 2014).</p>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <change>
+            <date>2018-11-01</date>
+            <name>Omer Waldman</name>
+            <note>Correction of previously annotated dates and addition of dates to majority of the works</note>
+         </change>
+         <change>
+            <date>2017-08-09</date>
+            <name>Jerusalem corpus of Emergent Modern Hebrew (JEMH) staff</name>
+            <note>Created the initial version of the content in TEI-XML and added dates (some based on estimation)</note>
+         </change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+
+
+
+
+
+
+
+זמר לפורים / מרדכי צבי מאנה
+
+
+
+ 
+
+
+
+
+  
+  
+
+
+זמר לפורים / מרדכי
+צבי מאנה
+
+(לסעודת פורים אשר עשה לנו רענו משה מיימון)
+
+ 
+
+ליל שמרים
+
+הוא ליל פורים,
+
+ליל שמרים לנו:
+
+בו נביע,
+
+בו נשמיע,
+
+את אשר קרנו.
+
+–––
+
+אשר עשה
+
+בן המדתא
+
+לאבות אבותינו,
+
+ועדתהו,
+
+פה כמוהו,
+
+יאבו לשמידנו!
+
+–––
+
+א אל ישע
+
+ירעץ רשע,
+
+ישמיד חיש עולתה!
+
+ולעינינו,
+
+כל אויבינו,
+
+אחריתם נכרתה!
+
+–––
+
+אור צחצחות,
+
+גיל ושמחות,
+
+אז יופיע לנו!
+
+אז נביע,
+
+אז נשמיע,
+
+את אשר קרנו!
+
+–––
+
+אז אל יין,
+
+נשא עין,
+
+יין ישן חזק.
+
+פה יופיע,
+
+בגביע,
+
+מראהו כבזק!
+
+–––
+
+גם משמנים,
+
+ומעדנים,
+
+לנו פה ערכו!
+
+אכלו, רעים,
+
+תמימי דעים,
+
+אכלו נא ושמחו!
+
+פורים, תרמ"ג,
+פ"ב.
+
+
+
+
+
+ 
+
+
+
+
+
+
+</body>
+   </text>
+</TEI>

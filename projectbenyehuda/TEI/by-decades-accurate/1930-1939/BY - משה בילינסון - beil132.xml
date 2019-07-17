@@ -1,0 +1,123 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>"טיהור" הפקידות הגבוהה מיהודים</title>
+            <author>משה בילינסון</author>
+            <respStmt>
+               <name>Mandel Scholion Hebrew Revival Research Group</name>
+               <resp>Formatting of content from the Ben-Yehuda Project to TEI-XML according to the TEI P5 Guidelines.
+                  Addition of dates, not present in the online version, by Shira Wigderson, Asaf Isser, Adi Cohen, Nitzan Cohen, and Adi Cohen.
+               </resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <authority>Project Ben-Yehuda</authority>
+            <idno>http://benyehuda.org/beilinson/beil132.html</idno>
+         </publicationStmt>
+         <sourceDesc xml:lang="Hebrew">
+            <bibl>
+               <date when="1933" notBefore="1933-01-01" notAfter="1933-12-31"/>
+            </bibl>
+            <p>The Ben-Yehuda Project (http://benyehuda.org/). Content provided within the Ben-Yehuda Hackathon at the University of Haifa (THATCamp Haifa, February 2014).</p>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <change>
+            <date>2018-11-01</date>
+            <name>Omer Waldman</name>
+            <note>Correction of previously annotated dates and addition of dates to majority of the works</note>
+         </change>
+         <change>
+            <date>2017-08-09</date>
+            <name>Jerusalem corpus of Emergent Modern Hebrew (JEMH) staff</name>
+            <note>Created the initial version of the content in TEI-XML and added dates (some based on estimation)</note>
+         </change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+
+
+
+
+
+
+"טיהור" הפקידות הגבוהה מיהודים / משה בילינסון
+
+
+
+ 
+
+
+
+
+  
+  
+
+
+"טיהור"
+הפקידות הגבוהה מיהודים
+
+משה בילינסון
+
+
+
+
+
+
+ 
+  
+  ד"ר [א. ל.] מאיר [מומחה לאמנות
+  האיסלאם], אשר עבד במחלקת-העתיקות הממשלתית, עבר לאוניברסיטה העברית
+  בירושלים. בעובדה הזאת כשהיא לעצמה אין כל פלא ובודאי גרמו לכך עניני
+  המקצוע. משנודע הדבר כי ד"ר מאיר עומד לעזוב את משרתו הממשלתית, נמצא
+  מי שבא אל הממשלה והציע לה מלומד יהודי צעיר אחר למלא את מקומו. למלומד
+  הזה כל התכונות הנדרשות למשרה. איש מאנשי השלטון לא כפר בכך וגם ניתנה
+  לו ההבטחה לקבל את מועמדותו בחשבון, אלא בתנאי: אם לא ימצא איש אנגלי המתאים
+  למשרה זאת... ואכן, האנגלי הזה נמצא, והעתונות הודיעה לפני ימים אחדים על
+  מינויו. פרט בלתי חשוב ביותר במערכת היחסים בין השלטון ותושבי הארץ,
+  ואולם פרט אפייני. פירוש הדבר: לא רק את "מפתחות השלטון", את
+  העמדות הנחוצות לצרכי שלטון ממש, אלא גם את המשרות "הצדדיות",
+  המדעיות, שואפת הרשות האנגלית להחזיק בידי אנשיה היא. ואם קרה המקרה ורשלנותו
+  של מישהו גרמה לכך שכמה יהודים חדרו, בתקופה הקודמת, לתוך המנגנון
+  הממשלתי, הרי משתמשים עתה בכל הזדמנות לתקן את המעוות, ורק באין ברירה
+  אחרת, כשאין לממשלה סיכויים להשיג אנגלי המוכן לכהן במשרה הפנויה, מותר
+  לו ליהודי להציג את מועמדותו, ורק אז יתחיל הבירור העניני.
+  אכן, ידועה היא המגמה האנגלית הזאת. מסורת
+  היא באנגליה, שהשירות הקולוניאלי מהווה מקום-עבודה ופרנסה לפלוגות הנוער
+  האנגלי, שצר להן המקום במולדת – ביחוד בימים הקשים האלה. אדרבא: רבים רואים
+  בכך אחד היתרונות העיקריים של הקולוניאליות האנגלית, וכל פעם שמישהו
+  מציע לצמצם אותה, באים סניגוריה וטוענים: ומה יהיה על הנוער האנגלי הגומר
+  את לימודיו בבית-הספר? גם נכון הדבר, שנוח יותר להימצא "בינינו לבין
+  עצמנו", ב"חברתנו אנו בלבד". אלא לא פחות נכון הוא,
+  שעל-ידי הפוליטיקה הממשלתית הזאת נמצאים תושבי הארץ מקופחים, מידת התפתחותם
+  מצטמצמת וסופו של דבר, כי גם רמת-הפקידות יורדת על ידי מניעת התחרות
+  החפשית" של כשרונות ותכונות. הזרות שבין השלטון ותושבי הארץ הולכת
+  וגוברת והתקציב הממשלתי נעשה כבד מנשוא. על אחת כמה וכמה יש להשתומם על
+  "החופש", שבו מעתיקה הממשלה לארץ-ישראל את מגמות הפוליטיקה הקולוניאלית
+  המקובלת שלה.
+  כ"ו שב תרצ"ג (23.2.1933)
+  
+ 
+
+
+
+
+ 
+
+
+
+
+
+ 
+
+
+
+
+
+
+</body>
+   </text>
+</TEI>

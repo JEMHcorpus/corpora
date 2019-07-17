@@ -1,0 +1,135 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>שיר תהלה</title>
+            <author>רחל מורפורגו</author>
+            <respStmt>
+               <name>Mandel Scholion Hebrew Revival Research Group</name>
+               <resp>Formatting of content from the Ben-Yehuda Project to TEI-XML according to the TEI P5 Guidelines.
+                  Addition of dates, not present in the online version, by Shira Wigderson, Asaf Isser, Adi Cohen, Nitzan Cohen, and Adi Cohen.
+               </resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <authority>Project Ben-Yehuda</authority>
+            <idno>http://benyehuda.org/morpurgo/morp19.html</idno>
+         </publicationStmt>
+         <sourceDesc xml:lang="Hebrew">
+            <bibl>
+               <date when="1855" notBefore="1855-01-01" notAfter="1855-12-31"/>
+            </bibl>
+            <p>The Ben-Yehuda Project (http://benyehuda.org/). Content provided within the Ben-Yehuda Hackathon at the University of Haifa (THATCamp Haifa, February 2014).</p>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <change>
+            <date>2018-11-01</date>
+            <name>Omer Waldman</name>
+            <note>Correction of previously annotated dates and addition of dates to majority of the works</note>
+         </change>
+         <change>
+            <date>2017-08-09</date>
+            <name>Jerusalem corpus of Emergent Modern Hebrew (JEMH) staff</name>
+            <note>Created the initial version of the content in TEI-XML and added dates (some based on estimation)</note>
+         </change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+
+
+
+
+
+
+
+שיר תהלה / רחל מורפורגו
+
+
+
+
+
+
+
+
+
+
+
+שיר תהלה.
+
+החסיד היקר והנעלה,
+ולו דומיה תהלה. הוא צי"ר משה מונטיפיורי עם כל הנלוים אליו ה' ישמרם ויברכם
+עברו בעירנו פה ללכת לירושלים עיר הקדש. ואני רמ"ה ותולעה חשבתי לעמוד ולשרת
+כאחת השפחות לפני הגבירה מרת אשתו.  כדי
+לעלות שמה ולישב עמהם, ולא עלתה בידי. ואחרי נסעם לשלום, הגיעני ברכה ושלום מאת
+החכם השלם ההולך עמהם כמ"ו אליעזר לוי יצ"ו. ולכן אקוה בשוב צדיק מדרכו
+וחיה, אעיז פני לבוא להתחנן לו שיגיד לי אם עלה השחר. וארצנו תתן ייבולה. כאמור,
+ואתם הרי ישראל ענפכם תתנו ופריכם תשאו לעמי ישראל כי קרבו לבוא. ואני אמרתי
+בחפזי:
+
+ 
+
+לבוא לבית
+השר נכסף נכספתי
+
+כי כלתה רוחי
+אל אדמת קדש,
+
+נכזבה
+תוחלתי עבר החדש
+
+בשתי
+להתראות לפני הגבר.
+
+ 
+
+נכבד נשוא
+פנים, אמנם הוספתי
+
+ששון ושמחת
+לב כי יש עוד שבר
+
+ישוב ויגיד
+לי אם יש שם שבר
+
+כי אות לטובה
+היא לא עוד השבר.
+
+ 
+
+גם אלי – עזר
+לי וברכני
+
+הגיעה ברכתו
+ופה הנחני
+
+ארח חיים היא
+לי שהחיני.
+
+ 
+
+שמחתי
+בראותי הדרת פניו
+
+כי זה האיש
+משה איש הענו
+
+הקים את
+המשכן עם אדניו.
+
+ 
+
+ה'תרט"ו, 1855
+
+
+
+
+
+
+
+
+</body>
+   </text>
+</TEI>

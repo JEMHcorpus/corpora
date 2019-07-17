@@ -1,0 +1,205 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>נר חנכה</title>
+            <author>יוסף הלוי זליגר</author>
+            <respStmt>
+               <name>Mandel Scholion Hebrew Revival Research Group</name>
+               <resp>Formatting of content from the Ben-Yehuda Project to TEI-XML according to the TEI P5 Guidelines.
+                  Addition of dates, not present in the online version, by Shira Wigderson, Asaf Isser, Adi Cohen, Nitzan Cohen, and Adi Cohen.
+               </resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <authority>Project Ben-Yehuda</authority>
+            <idno>http://benyehuda.org/seliger/ner_hanukka.html</idno>
+         </publicationStmt>
+         <sourceDesc xml:lang="Hebrew">
+            <bibl>
+               <date when="1907" notBefore="1907-01-01" notAfter="1907-12-31"/>
+            </bibl>
+            <p>The Ben-Yehuda Project (http://benyehuda.org/). Content provided within the Ben-Yehuda Hackathon at the University of Haifa (THATCamp Haifa, February 2014).</p>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <change>
+            <date>2018-11-01</date>
+            <name>Omer Waldman</name>
+            <note>Correction of previously annotated dates and addition of dates to majority of the works</note>
+         </change>
+         <change>
+            <date>2017-08-09</date>
+            <name>Jerusalem corpus of Emergent Modern Hebrew (JEMH) staff</name>
+            <note>Created the initial version of the content in TEI-XML and added dates (some based on estimation)</note>
+         </change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+
+
+
+
+
+
+
+נר חנכה / יוסף הלוי זליגר
+
+
+
+ 
+
+
+
+
+  
+  
+
+
+נר חנכה / יוסף
+הלוי זליגר
+
+ 
+
+הנה עת
+מתוקה,
+
+הימים חנכה;
+
+הרשעים כלו
+
+הצדיקים
+עלו.
+
+ 
+
+א.
+
+מאור שמן זית
+
+זיו מלא
+הבית;
+
+הנרות
+מאירים,
+
+ככוכבים
+מזהירים;
+
+במחול מכרכרים,
+
+בהמון מקרקרים;
+
+הולכים ורבים
+
+נרות
+המכבים 
+
+הנה...
+
+ 
+
+ב.
+
+לנגה התנאים,
+
+פרי החשמונאים;
+
+עין עמם נהרה
+
+וטמאת יון סרה;
+
+ברוך
+מתתיהו,
+
+קנא כאליהו
+
+אש התפתה
+כבה,
+
+ונר ישראל לבה.
+
+הנה...
+
+ 
+
+ג.
+
+הנה נר
+החיים
+
+ונר המאויים;
+
+נר שמחה
+ושירה
+
+ונר חד וחקירה;
+
+נר בינה
+והגיון
+
+ונר דעה
+ונסיון;
+
+נר עז
+ותשואה,
+
+עם-נר
+הנבואה.
+
+הנה...
+
+ 
+
+ד.
+
+שבעת
+הכוכבים
+
+מעופפים
+ושבים
+
+בשמי ישורון,
+
+באהליו
+יתורון;
+
+מול שמשם
+הם-פונים,
+
+אל-שוכן מעונים;
+
+הולכים
+ואורים,
+
+נרות הטהורים.
+
+הנה...
+
+ 
+
+ 
+
+יפו, חנכה
+תרס"ח «מתוך כתב יד» שיר מזמור לתלמידי "התחכמוני" מאת מנהלם.
+
+ 
+
+ 
+
+
+
+
+
+ 
+
+
+
+
+
+
+</body>
+   </text>
+</TEI>

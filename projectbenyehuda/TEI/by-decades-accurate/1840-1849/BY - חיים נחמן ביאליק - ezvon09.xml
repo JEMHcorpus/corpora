@@ -1,0 +1,190 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>באהל התורה</title>
+            <author>חיים נחמן ביאליק</author>
+            <respStmt>
+               <name>Mandel Scholion Hebrew Revival Research Group</name>
+               <resp>Formatting of content from the Ben-Yehuda Project to TEI-XML according to the TEI P5 Guidelines.
+                  Addition of dates, not present in the online version, by Shira Wigderson, Asaf Isser, Adi Cohen, Nitzan Cohen, and Adi Cohen.
+               </resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <authority>Project Ben-Yehuda</authority>
+            <idno>http://benyehuda.org/bialik/ezvon09.html</idno>
+         </publicationStmt>
+         <sourceDesc xml:lang="Hebrew">
+            <bibl>
+               <date when="1840" notBefore="1840-01-01" notAfter="1840-12-31"/>
+            </bibl>
+            <p>The Ben-Yehuda Project (http://benyehuda.org/). Content provided within the Ben-Yehuda Hackathon at the University of Haifa (THATCamp Haifa, February 2014).</p>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <change>
+            <date>2018-11-01</date>
+            <name>Omer Waldman</name>
+            <note>Correction of previously annotated dates and addition of dates to majority of the works</note>
+         </change>
+         <change>
+            <date>2017-08-09</date>
+            <name>Jerusalem corpus of Emergent Modern Hebrew (JEMH) staff</name>
+            <note>Created the initial version of the content in TEI-XML and added dates (some based on estimation)</note>
+         </change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+
+
+
+
+
+
+
+באהל התורה / חיים נחמן ביאליק
+
+
+
+
+
+
+
+
+באהל התורה
+
+(מן השירים החיצוניים)
+
+ 
+
+חצות הליל.
+שקט, דממה.
+
+סהר-כסף האיר
+פנים.
+
+בבית המדרש
+בשלחנות
+
+תמתק שנה לבטלנים.
+
+ובחלומם: מאכל-תאוה
+
+אך ללקק
+לשון אין. – 
+
+שם בפנה
+ישב עלם
+
+ובספר ישים עין.
+
+קולו חדר לב  וקרב,
+
+נפשו תבער כלהבה,
+
+יצלל, יעל, עלה,
+ירד:
+
+"אלא
+קשיא", "אמר רבא".
+
+ומתחטא לפני
+רבא,
+
+על רבינא
+מתגעגע... – 
+
+–      
+לך לנוח, עלם יקיר!
+
+אתה עיף ויגע. –  – 
+
+הוא לא ילך,
+עוד בקרב
+
+בער אש, הנר
+לא כבה...
+
+אלי, אלי! כמה
+קסם
+
+יש במלים
+"אמר רבא!"
+
+כמה קסם, כמה
+כח
+
+יש בספסל ובגמרא
+
+למשך לב בן
+איש ישראל
+
+עת מחוץ
+תופיע נהרה;
+
+עת במרומים
+שוט ישוטו
+
+גזרי עבים
+זכים, ברים;
+
+סהר-כסף יקר
+הלך,
+
+שט ועובר בין הגזרים;
+
+מן העצים
+זמירות ליל
+
+קול תתנה ותשוררנה;
+
+באגמים וביאורים
+
+הצפרדעים תקרקרנה;
+
+עת בין נבכי
+שקט ישוט
+
+מלאך שנה ובדממה
+
+ישפך רוחו
+על כל בשר,
+
+תנום, תחלם
+כל הנשמה. –  – 
+
+הוא, אך הוא –
+הוי אבן דומם – 
+
+ישב, הגה,
+"אמר רבא" –  – 
+
+זה כחך לאלהיך,
+
+יעקב בן
+ישראל סבא.
+
+ 
+
+תר"ן אלול וו-ן.
+
+ 
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+</body>
+   </text>
+</TEI>

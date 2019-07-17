@@ -1,0 +1,238 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>דבר שלח אדני</title>
+            <author>אלתר לוין</author>
+            <respStmt>
+               <name>Mandel Scholion Hebrew Revival Research Group</name>
+               <resp>Formatting of content from the Ben-Yehuda Project to TEI-XML according to the TEI P5 Guidelines.
+                  Addition of dates, not present in the online version, by Shira Wigderson, Asaf Isser, Adi Cohen, Nitzan Cohen, and Adi Cohen.
+               </resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <authority>Project Ben-Yehuda</authority>
+            <idno>http://benyehuda.org/levin/077.html</idno>
+         </publicationStmt>
+         <sourceDesc xml:lang="Hebrew">
+            <bibl>
+               <date when="1920" notBefore="1920-01-01" notAfter="1920-12-31"/>
+            </bibl>
+            <p>The Ben-Yehuda Project (http://benyehuda.org/). Content provided within the Ben-Yehuda Hackathon at the University of Haifa (THATCamp Haifa, February 2014).</p>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <change>
+            <date>2018-11-01</date>
+            <name>Omer Waldman</name>
+            <note>Correction of previously annotated dates and addition of dates to majority of the works</note>
+         </change>
+         <change>
+            <date>2017-08-09</date>
+            <name>Jerusalem corpus of Emergent Modern Hebrew (JEMH) staff</name>
+            <note>Created the initial version of the content in TEI-XML and added dates (some based on estimation)</note>
+         </change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+
+
+
+
+
+
+
+דבר שלח אדני / אלתר לוין
+
+
+
+
+
+
+
+
+דבר שלח
+אדני
+
+אלתר
+לוין
+
+ 
+
+עליכם, עליכם
+המשאת! אתם הדרכים מקדשי,
+
+אתם אטומי
+הקול, העורים לצבע ומראות,
+
+הנוטעים
+דרדרים בהיכל ותולים עליהם לבבכם;
+
+אשר נשיתם
+שמים ואדמה ורוח ומרחב,
+
+ינקתם שדים
+שוקקות, לכחתם אבק זלעפות,
+
+רדפתם נבובי
+הצללים גם שמתם הדרי לזועה
+
+ותלכו אחרי
+הבדים ותאמרו ככה צויתי...
+
+עבדוני! וצאו
+מן השפל, השתחוו לאלהי הארץ
+
+אלהים
+הרעננים וגדולים מתהלכי מרחבי נחלתי,
+
+העוטפים רוח
+האדם ומצמיחים הכנף לנשמה!
+
+עבדוני! וצאו
+נא השדה למען יתקומם הרוח
+
+להחיות המלה
+הרקה, להרטיב צחיח הלשון,
+
+לרפאות
+החבורה הנמקה תחת אפודכם ארגמן!
+
+אני אל שדי!
+התפללו ותנו לי ארשת
+
+כי הדי
+אלמות הולידו דברותי וקולי האדיר
+
+מתפשטים
+מכפת הלבנון והולכים עד סיני ההר!...
+
+כי הנה
+מערומי לבבכם אעביר כקש בדיש,
+
+כחסידות
+המזנבות בארבה ככה אבער אנכי,
+
+ככה אבער
+הרקב השוכן בקרב אשפתות,
+
+אבער אחרי
+הזוחל מעולם לא נגע בשרביט.
+
+אחרי כל עבד
+ודכא צולע ומתרקם בחשך!
+
+הלאה המגור,
+הלטאה! היו לי כנשר ערבות,
+
+היו לי כארי
+ביער, כגבור מתגלה לשמש!
+
+כי קולי מתהלך!
+קול אלהיכם המדבר
+
+מפרעות
+הסלעים בישימון, מאשדות הנחלים בגליל,
+
+מקריות
+ההרים ביהודה, מנפות הברוכות בשמרון!
+
+אנכי, אנכי
+הוא הבורא סנפירי הבדלח,
+
+מטיף אגלים
+לאור וחורז מרגליות לטל,
+
+נותן הזהב
+וכסף לשולי ערפלים מתלבנים
+
+וזרים יומם
+ולילה לפאתי מזרח וים;
+
+אנכי, אנכי
+האל מצמיח הרנה בכרמים,
+
+ששון עליזים
+בגרן והדי החליל באחו,
+
+נותן שירתי
+בשדה, יוצר תהלותי בהרים,
+
+סודי רקמתי
+בלילה ורחשי על שפתי הבקר!
+
+אנכי שמתי
+חרוני בזעף הסער ורעמיו,
+
+בחזיז
+החשמל לשחקים, בקצף עריפי התולע,
+
+בשרב
+חרבונים נגליתי, ברטט הצמחים בשקיעה,
+
+בתרועת
+שבטים מתנקשים, בשאגת דורות נגאלים!
+
+צאו נא ורדפו
+הציד! צאו אחרי מראות השגיא
+
+והם על מים
+רבים, בתוך כל שלולית ופלג
+
+על כל זרוע
+ונטע, בכנפי הרוח וענן,
+
+בקו עקלתון
+להרים, ברשת האורות לשפלה;
+
+והם בחרות
+הככר, בסוד תעלומי זרזיפים,
+
+בפיות
+צפרים בקן, בלולי אפרוחים ממללים!..
+
+כי יש יום
+לאדני, יש יום לכם ולארץ
+
+אשר לא יעתם
+הלב, יסגר הרים לעינים,
+
+יכסה התנוך
+לאזן – ותמהים וחוזים תעמדו,
+
+האיש בזוית
+זו, הנביא בזוית אחרת,
+
+לכל צבע
+ומראה וניב והגה ורשרוש וקול,
+
+לכל גלוי
+ושפך ותמונה, נברשת ותמור החזון
+
+אשר יתגלו
+ברעדה על כל ההרים הרמים – 
+
+והם הליכות
+אלהים, האלהים המתהלכים בארץ!
+
+ 
+
+ 
+
+
+
+
+
+ 
+
+
+
+
+
+
+</body>
+   </text>
+</TEI>

@@ -1,0 +1,119 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>לשאלת ה"פיתוח"</title>
+            <author>משה בילינסון</author>
+            <respStmt>
+               <name>Mandel Scholion Hebrew Revival Research Group</name>
+               <resp>Formatting of content from the Ben-Yehuda Project to TEI-XML according to the TEI P5 Guidelines.
+                  Addition of dates, not present in the online version, by Shira Wigderson, Asaf Isser, Adi Cohen, Nitzan Cohen, and Adi Cohen.
+               </resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <authority>Project Ben-Yehuda</authority>
+            <idno>http://benyehuda.org/beilinson/beilinson123.html</idno>
+         </publicationStmt>
+         <sourceDesc xml:lang="Hebrew">
+            <bibl>
+               <date when="1932" notBefore="1932-01-01" notAfter="1932-12-31"/>
+            </bibl>
+            <p>The Ben-Yehuda Project (http://benyehuda.org/). Content provided within the Ben-Yehuda Hackathon at the University of Haifa (THATCamp Haifa, February 2014).</p>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <change>
+            <date>2018-11-01</date>
+            <name>Omer Waldman</name>
+            <note>Correction of previously annotated dates and addition of dates to majority of the works</note>
+         </change>
+         <change>
+            <date>2017-08-09</date>
+            <name>Jerusalem corpus of Emergent Modern Hebrew (JEMH) staff</name>
+            <note>Created the initial version of the content in TEI-XML and added dates (some based on estimation)</note>
+         </change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+
+
+
+
+
+
+
+לשאלת ה"פיתוח" / משה בילינסון
+
+
+
+ 
+
+
+
+
+  
+  
+
+
+לשאלת ה"פיתוח"
+
+משה בילינסון
+
+
+
+ 
+
+
+
+
+ 
+  
+  "מאנצ'סטר גארדיאן" מטפל בשאלת
+  הפיתוח.  ואמנם, חריפותה של
+  השאלה לא ניטלה אם כי חדלו מלדבר בה. 
+  לעין פשוטה גם לא ניתן לראות מה נעשה, בינתים, במשרדי
+  הממשלה.  שום שאלה לא נתחוורה
+  במשך הזמן הזה, ואף שאלת "המנושלים", שהוכרזה כדחופה ובוערת,
+  לא נפתרה אלא נשארה תלויה מעל לראשנו כחרב המתהפכת, על מנת לרדת בכל רגע,
+  כאשר למישהו יהיה צורך בכך, על צוארנו.  כי הנה גם 31 בדצמבר, זה המועד אשר נקבע באיגרת
+  פספילד לממשלת הארץ, לעבד תכנית לסידור המנושלים, בא ועבר מבלי שגמרו
+  אפילו את רישום התביעות של כל המתעטפים בטלית זו.  ואחר שיגמר הרישום עוד עתיד לבוא
+  בירור התביעות, דין-ודברים בין כל המעונינים, חיפוש קרקע, תביעה לאמצעים
+  כספיים וכו'.  עבודה לחדשים
+  רבים, ואולי לשנים.  וכל הזמן
+  הזה תהיה החרב תלויה מעל ראשנו, והשיסוי יפרח.  ומהו גמול-הפיתוח הנשקף לנו חלף העינוי הזה?
+  השאלה קיימת.  אך ספק אם היא מעסיקה את "המעונינים" מאותה
+  הבחינה הפשוטה, אשר העתון האנגלי מציין אותה.  "ברשותו של מנהל-הפיתוח 50.000 לי"ש לחקירות
+  מוקדמות...  בהתאם למעמדו גם
+  משכורתו.  הסכום 50.000
+  לי"ש יוצא ודאי, אבל האם כדאית ההוצאה הזאת...  זוהי השאלה המטרידה בלי ספק את מר
+  פרנטש עצמו ולא פחות את ממשלות אנגליה וארץ-ישראל".  "בלי ספק" זה של
+  "מאנצ'סטר גארדיאן" עומד בספק גדול.  ולא רק מטעמים אישיים – כלום מרבים בני-אדם לדאוג
+  בגלל דברים שאינם מטרידים את מנוחתם האישית?  - אלא גם מטעמים פוליטיים:  יתכן, שבעיני מישהו יש יתרון למצב זה המחוסר קביעות
+  ובטחון.  יתכן, שמישהו ימצא
+  תועלת בנשק הזה המונח במחסן ומוכן לשימוש, לכל שעה שידרש. 
+   
+  כ"ו טבת תרצ"ב (5.1.1932) 
+  
+ 
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+</body>
+   </text>
+</TEI>

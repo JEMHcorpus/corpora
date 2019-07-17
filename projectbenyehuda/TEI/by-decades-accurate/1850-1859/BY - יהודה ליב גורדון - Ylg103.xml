@@ -1,0 +1,199 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>הסוס המתנקם</title>
+            <author>יהודה ליב גורדון</author>
+            <respStmt>
+               <name>Mandel Scholion Hebrew Revival Research Group</name>
+               <resp>Formatting of content from the Ben-Yehuda Project to TEI-XML according to the TEI P5 Guidelines.
+                  Addition of dates, not present in the online version, by Shira Wigderson, Asaf Isser, Adi Cohen, Nitzan Cohen, and Adi Cohen.
+               </resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <authority>Project Ben-Yehuda</authority>
+            <idno>http://benyehuda.org/yalag/Ylg103.html</idno>
+         </publicationStmt>
+         <sourceDesc xml:lang="Hebrew">
+            <bibl>
+               <date when="1859" notBefore="1859-01-01" notAfter="1859-12-31"/>
+            </bibl>
+            <p>The Ben-Yehuda Project (http://benyehuda.org/). Content provided within the Ben-Yehuda Hackathon at the University of Haifa (THATCamp Haifa, February 2014).</p>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <change>
+            <date>2018-11-01</date>
+            <name>Omer Waldman</name>
+            <note>Correction of previously annotated dates and addition of dates to majority of the works</note>
+         </change>
+         <change>
+            <date>2017-08-09</date>
+            <name>Jerusalem corpus of Emergent Modern Hebrew (JEMH) staff</name>
+            <note>Created the initial version of the content in TEI-XML and added dates (some based on estimation)</note>
+         </change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+
+
+
+
+
+
+הסוס המתנקם / יהודה ליב גורדון
+
+
+
+
+
+
+
+
+הסוס
+המתנקם
+
+ 
+
+באביב התבל
+בעלומי הארץ
+
+עת היא עוד לא
+מלאה מטה ופרק,
+
+האדם לא אכל
+רק עשב ירק
+
+ובהמות שדי
+לא ידעו כל פרץ,
+
+גמל וחמור
+וסוס ביערים רעו,
+
+מתג ורסן לא
+שמעו לא ראו.
+
+כרכרות
+ועגלות לא עוד משכו
+
+ובני האדם
+ברגליהם הלכו;
+
+אז שטם הסוס
+משטמה
+
+את הצבי קל
+הרגלים,
+
+ויחפץ
+לשפוך עליו חמה
+
+ועזוז עברתו
+כמים,
+
+אפס כי לא
+יכל תפשהו
+
+כל עת אשר
+רדף אחריהו
+
+ויועץ
+ויגמר-אמר
+
+ויבא אל
+האדם ויאמר:
+
+„הן אני מתנחם לנקום בצבי,
+
+אך לא אוכל
+לשבותו שבי,
+
+כי מידי
+יברח ברח;
+
+אתה איש
+תחבלות, רב כח
+
+הבה-לי עצה
+הלם וישועת חסן”,
+
+ויעתר-לו
+האיש ויקח רסן
+
+ויבלם את
+פיו וירכב עליהו.
+
+וירדף אחרי
+הצבי וישיגנו
+
+וינקם את
+נקמת הסוס ממנו.
+
+אז אמר הסוס: „הנה אברכך
+
+על ריבך את
+ריבי, על טוב לבך,
+
+עתה למקומי
+אשובה אלכה!”
+
+לא! – ענה
+האיש, ויחזק רסנהו – 
+
+פה תשב
+עמדי כי אויתיך,
+
+עתה ידעתי
+במה לבלום פיך,
+
+וכבר ארוה
+בניתי,
+
+גם אבוס לך
+קניתי. – 
+
+מני אז בא
+הסוס תחת השבט
+
+ויהי לאדם
+לצמיתות לעבד.
+
+ 
+
+לסוסי
+במשלי, הרקנוס, דמיתיך
+
+ביום הלחמך
+באריסטובלוס אחיך
+
+ולעזרה קראת
+את הרומאים – 
+
+מן היום ההוא
+ירדנו פלאים.
+
+בכפל רסנם
+באנו
+
+ומעבדות לא
+יצאנו.
+
+ 
+
+
+
+
+
+ 
+
+
+
+
+
+
+</body>
+   </text>
+</TEI>

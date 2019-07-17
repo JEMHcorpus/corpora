@@ -1,0 +1,220 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>מתוך שעמום</title>
+            <author>יעקב לרנר</author>
+            <respStmt>
+               <name>Mandel Scholion Hebrew Revival Research Group</name>
+               <resp>Formatting of content from the Ben-Yehuda Project to TEI-XML according to the TEI P5 Guidelines.
+                  Addition of dates, not present in the online version, by Shira Wigderson, Asaf Isser, Adi Cohen, Nitzan Cohen, and Adi Cohen.
+               </resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <authority>Project Ben-Yehuda</authority>
+            <idno>http://benyehuda.org/lerner/mitoch_shiamum.html</idno>
+         </publicationStmt>
+         <sourceDesc xml:lang="Hebrew">
+            <bibl>
+               <date when="1910" notBefore="1910-01-01" notAfter="1910-12-31"/>
+            </bibl>
+            <p>The Ben-Yehuda Project (http://benyehuda.org/). Content provided within the Ben-Yehuda Hackathon at the University of Haifa (THATCamp Haifa, February 2014).</p>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <change>
+            <date>2018-11-01</date>
+            <name>Omer Waldman</name>
+            <note>Correction of previously annotated dates and addition of dates to majority of the works</note>
+         </change>
+         <change>
+            <date>2017-08-09</date>
+            <name>Jerusalem corpus of Emergent Modern Hebrew (JEMH) staff</name>
+            <note>Created the initial version of the content in TEI-XML and added dates (some based on estimation)</note>
+         </change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+
+
+
+
+
+
+מתוך שעמום / יעקב לרנר
+
+
+
+
+
+
+
+
+מתוך שעמום
+
+    
+
+ברק שחור טס
+על פני
+
+וישקעני אל
+הנשיה.
+
+עמק-עמק צללה
+נפשי
+
+עד לתהומה
+התחתיה.
+
+ 
+
+ובחלומי: כל
+הארץ 
+
+מלאה שרצים
+רבים,רבים:
+
+צב וסרטן,
+זנב-לטאה,
+
+עכבישים
+ועקרבים.
+
+ 
+
+כל השקצים
+שבעולם,
+
+מרבי-רגל,
+טמאי- זנבות,
+
+זחלו, נגחו
+איש את אחיו,
+
+איש את אחיו
+ערכו קרבות.
+
+ 
+
+אלמה היתה
+המלחמה:
+
+גברו, נפלו
+בה בשתיקה:
+
+ועצומים
+הרוגיה:
+
+מי בדריסה,
+מי בחניקה...
+
+ 
+
+שוב ראיתי
+אגמי בצה
+
+שם מעבר
+שדה-הקטל
+
+ובבצה ירבץ
+תנין 
+
+עתיק-יומין,
+עובר-בטל.
+
+ 
+
+ובאין מחריד
+יישן בטח...
+
+אך לעתות
+בין ערבים
+
+יש שיפער דלתות
+פיהו –
+
+ישלח פהוק
+לשמים...
+
+ 
+
+- - - - - - - - - -
+- - - 
+
+פראים היו
+מראות לילי 
+
+ויתפתלו
+עקלקלים.
+
+ובבקר
+הקיצותי
+
+וכחותי ככה
+דלים!
+
+ 
+
+זחלו עבים
+כמתרשלים 
+
+ומראיהם –
+עשן חור:
+
+קרום ערפל
+עטה יער,
+
+כל העולם היה
+עור.
+
+ 
+
+שרה ענן גם
+על כתלי
+
+מחצתי
+הנזעמה:
+
+וממסד עד
+הטפחות
+
+דומם הרהר
+צל-השממה.
+
+ 
+
+והשממית
+כמנהגה
+
+נמה שנתה
+אין לה שחר...
+
+אך בלבי
+המה מיתר:
+
+קום עבור אל
+מעון אחר...
+
+ 
+
+תר"ע
+
+ 
+
+
+
+
+
+ 
+
+
+
+
+
+
+</body>
+   </text>
+</TEI>

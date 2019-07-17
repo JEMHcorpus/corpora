@@ -1,0 +1,220 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>אמי, זכרונה לברכה</title>
+            <author>חיים נחמן ביאליק</author>
+            <respStmt>
+               <name>Mandel Scholion Hebrew Revival Research Group</name>
+               <resp>Formatting of content from the Ben-Yehuda Project to TEI-XML according to the TEI P5 Guidelines.
+                  Addition of dates, not present in the online version, by Shira Wigderson, Asaf Isser, Adi Cohen, Nitzan Cohen, and Adi Cohen.
+               </resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <authority>Project Ben-Yehuda</authority>
+            <idno>http://benyehuda.org/bialik/bia095.html</idno>
+         </publicationStmt>
+         <sourceDesc xml:lang="Hebrew">
+            <bibl>
+               <date when="1931" notBefore="1931-01-01" notAfter="1931-12-31"/>
+            </bibl>
+            <p>The Ben-Yehuda Project (http://benyehuda.org/). Content provided within the Ben-Yehuda Hackathon at the University of Haifa (THATCamp Haifa, February 2014).</p>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <change>
+            <date>2018-11-01</date>
+            <name>Omer Waldman</name>
+            <note>Correction of previously annotated dates and addition of dates to majority of the works</note>
+         </change>
+         <change>
+            <date>2017-08-09</date>
+            <name>Jerusalem corpus of Emergent Modern Hebrew (JEMH) staff</name>
+            <note>Created the initial version of the content in TEI-XML and added dates (some based on estimation)</note>
+         </change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+
+
+
+
+
+
+
+אמי, זכרונה לברכה / חיים נחמן ביאליק
+
+
+
+
+
+
+
+
+
+
+
+
+אמי, זכרונה
+לברכה
+
+משיחות הצדיק ז"ל מוילדניק
+
+ 
+
+אמי, זכרונה
+לברכה, היתה צדקת גמורה
+
+               ובאלמנותה
+עניה מרודה.
+
+ויהי ערב
+שבת, החמה בראש האילנות –
+
+               ובביתה
+לא נר ולא סעדה.
+
+ 
+
+בדקה ומצאה
+עוד, מעשה נסים, שתי פרוטות –
+
+               "הלחם
+אם נרות?" – פסחה,
+
+רצה ותשב,
+ובידה הצנומה משאת הקדש:
+
+               שני
+נרות הברכה.
+
+ 
+
+שבעה כוכבים
+במרום, וליל שבת אמי
+
+               שבעה
+לו נרות – עינים.
+
+היקבע אלהים
+שבת קדשו? וכי יקבע, מה-תעשה אשה?
+
+               יהי
+שמו מברך על שנים!
+
+ 
+
+ויברך על
+מפה נקיה ללא פרוסת חלה –
+
+               ותחבש
+שביס-שבת לראשה,
+
+ותחלף שמלתה,
+ותכון לקראת אלהים
+
+               והשבת
+הקדושה.
+
+ 
+
+ויהי
+בהעלותה הנרות ולא יכלה התאפק,
+
+               כי
+מר לה, כי רתח לבבה,
+
+ותבך
+הצדקת, ודמעה מקמטי לחייה נפלה –
+
+               ונר
+אחד תסס וכבה.
+
+ 
+
+עמדה השבת
+נכלמה, עורת עינה האחת –
+
+               התפלצה
+האשה:
+
+"התבזה,
+אל, מתת אלמנה? אם חטאה אמתך –
+
+               שבתך
+מה-פשעה?
+
+ 
+
+מדוע נקרת
+את-עינה?" ובעמדה עצומת עינים
+
+               ושכוכת
+כפים, סולדת בחילה,
+
+רקדו כתפיה
+ושביסה במחנק הבכי
+
+               ובלהט
+התפלה.
+
+ 
+
+תהומות
+מלבה שועו, אמהות וכרובים
+
+               התיפחו
+מגרונה.
+
+לא שמעה עוד
+אזן של מעלה, לא ראה עוד כסא הכבוד
+
+               בהתעטף
+כה נפש ביגונה.
+
+ 
+
+אז תשל
+מלחי הצדקנית דמעה אחת בוערת,
+
+               רסיס
+אש להבה,
+
+ובצנחה,
+ויפל בבית אור משנה, כי נצת
+
+               הנר
+אשר כבה.
+
+ 
+
+כמעט פקחה
+אמי עיניה העששות וארא:
+
+               אור
+שבעת הימים שם יהל,
+
+כי נשקה
+השכינה עליהן. – תעמד זכות הצדקת
+
+               לנו
+ולכל-ישראל.
+
+ 
+
+לונדון, שבט,
+תרצ"א.
+
+
+
+
+
+  
+
+
+</body>
+   </text>
+</TEI>

@@ -1,0 +1,254 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>עת אשרי</title>
+            <author>מרדכי צבי מאנה</author>
+            <respStmt>
+               <name>Mandel Scholion Hebrew Revival Research Group</name>
+               <resp>Formatting of content from the Ben-Yehuda Project to TEI-XML according to the TEI P5 Guidelines.
+                  Addition of dates, not present in the online version, by Shira Wigderson, Asaf Isser, Adi Cohen, Nitzan Cohen, and Adi Cohen.
+               </resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <authority>Project Ben-Yehuda</authority>
+            <idno>http://benyehuda.org/maneh/006.html</idno>
+         </publicationStmt>
+         <sourceDesc xml:lang="Hebrew">
+            <bibl>
+               <date when="1880" notBefore="1880-01-01" notAfter="1880-12-31"/>
+            </bibl>
+            <p>The Ben-Yehuda Project (http://benyehuda.org/). Content provided within the Ben-Yehuda Hackathon at the University of Haifa (THATCamp Haifa, February 2014).</p>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <change>
+            <date>2018-11-01</date>
+            <name>Omer Waldman</name>
+            <note>Correction of previously annotated dates and addition of dates to majority of the works</note>
+         </change>
+         <change>
+            <date>2017-08-09</date>
+            <name>Jerusalem corpus of Emergent Modern Hebrew (JEMH) staff</name>
+            <note>Created the initial version of the content in TEI-XML and added dates (some based on estimation)</note>
+         </change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+
+
+
+
+
+
+
+עת אשרי / מרדכי צבי מאנה
+
+
+
+
+
+
+
+
+עת אשרי
+
+מרדכי
+צבי מאנה
+
+ 
+
+1.
+
+עת זיקים תפיץ
+הרסה משמים,
+
+ובזר זהב סביב שדי תבואות מאירים;
+
+על ים זה עת יעבור
+רוח צח שפים,
+
+יכה גלי כתם יפים, מזהירים –
+
+ 
+
+2. 
+
+עת בשפת קדש
+יתלחשו שבלים,
+
+יחבקו באהבים, פה אל פה ישקו;
+
+לאבני נזר זבובי-רקמה
+נמשלים
+
+על שרון, על כרמל לרב ינהקו –
+
+ 
+
+3.
+
+עת מהיכל קדוש,
+מסבכי היער,
+
+תפילה זכה,  דקה עולה
+שמים;
+
+בין סכות סערפיו
+יהם הסער,
+
+יכף ראש עציו, ינקפו עפאים –
+
+ 
+
+4. 
+
+עת חבצלות כספיר
+מזהירות, 
+
+תסתתרנה בצל מחמת זיקי רשף,
+
+ערקיהן יינקו
+שפע טל אורות, 
+
+וישים לבקרים או לעת הנשף –
+
+ 
+
+5.
+
+עת בין ענפי
+הוד עיני זיו ישקיפו,
+
+עיני תכלת משושני עמקים;
+
+דמעי גיל נוצצים
+רסיסים ירעיפו,
+
+מגביעים עמוקים מלאי טל שחקים
+–
+
+ 
+
+6.
+
+עת פלג נובע
+בשקט ודממה
+
+יפיץ גלי זהר, מימיו יהמיו;
+
+ישקיע שעפי
+נפשי הנדהמה,
+
+בארצות שלום ששם תמיד ישליו!..
+
+ 
+
+7.
+
+ישקיע שעפי
+במצולות דומיה
+
+בנבכי הדמיון אור חדש אביטה
+–.
+
+אז תכנע נפשי,
+מר מר בוכיה,
+
+אז שאון שרעפי אשכיח, אשקיטה
+
+ 
+
+8.
+
+אז עוד עננה לא
+תשכון על מצח
+
+ופנים נזעמים לא יהגו נכאים,
+
+אז נפשי תתענג
+בנעימות נצח,
+
+לא עוד אתאונן: הוי, ימי אך רעים!
+
+ 
+
+9.
+
+אז קשת אראה
+בענן מתוח
+
+ברביבי דמע על עיני יתנוצץ;
+
+הדר פני העתיד
+אחזה ברוח,
+
+מערפלי חשך ברק תקוה יתרוצץ.
+
+ 
+
+10.
+
+אז תפלה עדינה
+ממקורי רוחי
+
+תפרוש כנפיה, אל כס יה מרחפת,
+
+גם תשפוך נפשי
+רחשה עלי לוחי,
+
+אז ענג נעים גם נחם שאפת.
+
+ 
+
+11.
+
+אז עם צפרי רן
+שחר אעירה,
+
+עם רוח בקר יתנהלו שרעפי;
+
+עם אלי הטבע
+תודה אשירה,
+
+עם כפות תמרים לאל אשא כפי.
+
+ 
+
+12.
+
+אז מאשר חלקי
+בארץ מתחת,
+
+גן עדן התבל מכל שד נקיה;
+
+לא אבזה תבל!
+הן אמצא בה נחת,
+
+אל תעצבי, נפשי, שירי הללי-יה!
+–
+
+ 
+
+שבט, תר"פ,
+ווילנא.
+
+ 
+
+
+
+
+
+ 
+
+
+
+
+
+
+</body>
+   </text>
+</TEI>

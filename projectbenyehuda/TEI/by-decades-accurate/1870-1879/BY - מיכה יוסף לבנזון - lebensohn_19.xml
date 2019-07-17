@@ -1,0 +1,289 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>האניה</title>
+            <author>מיכה יוסף לבנזון</author>
+            <respStmt>
+               <name>Mandel Scholion Hebrew Revival Research Group</name>
+               <resp>Formatting of content from the Ben-Yehuda Project to TEI-XML according to the TEI P5 Guidelines.
+                  Addition of dates, not present in the online version, by Shira Wigderson, Asaf Isser, Adi Cohen, Nitzan Cohen, and Adi Cohen.
+               </resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <authority>Project Ben-Yehuda</authority>
+            <idno>http://benyehuda.org/lebensohn/lebensohn_19.html</idno>
+         </publicationStmt>
+         <sourceDesc xml:lang="Hebrew">
+            <bibl>
+               <date when="1870" notBefore="1870-01-01" notAfter="1870-12-31"/>
+            </bibl>
+            <p>The Ben-Yehuda Project (http://benyehuda.org/). Content provided within the Ben-Yehuda Hackathon at the University of Haifa (THATCamp Haifa, February 2014).</p>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <change>
+            <date>2018-11-01</date>
+            <name>Omer Waldman</name>
+            <note>Correction of previously annotated dates and addition of dates to majority of the works</note>
+         </change>
+         <change>
+            <date>2017-08-09</date>
+            <name>Jerusalem corpus of Emergent Modern Hebrew (JEMH) staff</name>
+            <note>Created the initial version of the content in TEI-XML and added dates (some based on estimation)</note>
+         </change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+
+
+
+
+
+
+האניה / מיכה יוסף לבנזון
+
+
+
+
+
+
+
+
+האניה
+
+(בעקבות
+צדליץ)
+
+ 
+
+הרוח סואן,
+נצו נעו עבים,
+
+בהיר
+בשחקים אור סהר זרוח
+
+שם בין גלים
+הומים רצים אף שבים
+
+תתעופף
+אניה על כנפי רוח;
+
+ידים לא-בשר
+נסה פרשו
+
+לכן היא עפה
+כעוף בשמים,
+
+תבז לסער
+ולגלים יגעשו,
+
+אין בה כל
+אנוש, כל בו רוח חיים!
+
+ 
+
+בין לבבות
+ימים ומקום שוד הסערות
+
+שם עד מפרש
+עבים, ערבות רקיע,
+
+אי-סלע,
+אי-בודד שיאו יגיע
+
+ולראשו
+כוכבי-אל עטר עטרות!
+
+שם לא שדדו
+שדה, חרשו הבקרים,
+
+לא ינץ הדגן,
+לא יגאה כל ענף,
+
+גם קן לה לא
+תמצא צפור כל כנף,
+
+אך על תועפות
+סלע קננו הנשרים!
+
+ 
+
+שמה
+למלך  את קברו חצבו,
+
+קבר ערירי אין
+ציון מצבת –
+
+אך כובע,
+שרביט, אף חרב נשגבת,
+
+עלי ארונו
+שוממים ישכבו!
+
+ובארץ שמה
+זו יישן המות 
+
+ושאון חלד לא
+תקשבנה אזנים,
+
+ונוה קבר
+גלמוד יחזו עינים –
+
+ומרום אירופה
+הוא הגביה שבת! –
+
+ 
+
+ימים ינקופו,
+השנה חלפה
+
+ובקברו
+המלך עוד דום ינוח,
+
+אך ירח זיו
+ליל הרביעי כי ספה
+
+אז מקברו
+יעור, יקום רוח;
+
+לילה זה שבה
+אז רוחו לאדמה
+
+ובליל זה
+תשוב לראות אור החיים;
+
+ובירכתי
+חוף תוחיל
+אניה שמה
+
+אניה גלמודה
+על רחבי מים! –
+
+ 
+
+בה ירד
+המלך רוץ ארחות ימים,
+
+אין בה כל
+מלח לנחותה מישרים,
+
+משוט ומפרש
+לא יחצו משברים
+
+והיא כחץ תעוף
+בין גלים רמים –
+
+אך בדד
+המלך נצב באניה
+
+ובאישון
+חשך ובאשמני ליל;
+
+פחד רחב
+לבו, רוחו הומיה
+
+וירוצצו עיניו
+המזרים רב-חיל!
+
+ 
+
+אלי חוף צרפת
+האניה תגיע,
+
+אז רגשה
+נפשו, מורשיו יהמיו –
+
+ובקול ענות
+גיל "הה ארצי!" יריע
+
+"את ארצי
+את ארצי עיני יחזיו!"
+
+אז רד המלך
+על הארץ שמה
+
+חונן עפרה
+נפל על
+אפים;
+
+תחתיו
+תרעש
+אף תרגז זו אדמה
+
+הזה הוא שמשנו
+בא בצהרים! –
+
+ 
+
+אז יקרא
+המלך לצבא מלחמת –
+
+אך אלה
+במקום עפרות-אש יבערו,
+
+ובארץ צען
+ספו הלכו תמס –
+
+ובקור וכפור
+צפון אלה סמרו...
+
+ולשריו יקרא
+ובכיו בעין,
+
+שריו אז אתו
+התבל לכדו,
+
+אך אלה תמו
+בחרב וקין –
+
+אלה חללו
+הברית ובו בגדו! –
+
+ 
+
+אז לבנו הוא
+יקרא – שריד האחד
+
+תת לו תבל – אמר
+– מורשת נצח;
+
+וכבר גם הבן
+עם המתים יחד – –
+
+אז יוריד
+המלך אף יט המצח – –
+
+כה יעמוד
+כערער עד שמש אתה
+
+ואנחות מקרב
+לבו סערו –
+
+ומים מעיניו
+כים נהרו –
+
+אז ישוב אל
+קבר ארץ עפתה!
+
+ 
+
+ 
+
+
+
+
+
+ 
+
+
+
+
+
+
+</body>
+   </text>
+</TEI>

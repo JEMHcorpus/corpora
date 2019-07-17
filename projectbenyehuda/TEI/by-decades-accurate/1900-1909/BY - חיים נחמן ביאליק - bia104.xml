@@ -1,0 +1,374 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>בין נהר פרת ונהר חדקל</title>
+            <author>חיים נחמן ביאליק</author>
+            <respStmt>
+               <name>Mandel Scholion Hebrew Revival Research Group</name>
+               <resp>Formatting of content from the Ben-Yehuda Project to TEI-XML according to the TEI P5 Guidelines.
+                  Addition of dates, not present in the online version, by Shira Wigderson, Asaf Isser, Adi Cohen, Nitzan Cohen, and Adi Cohen.
+               </resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <authority>Project Ben-Yehuda</authority>
+            <idno>http://benyehuda.org/bialik/bia104.html</idno>
+         </publicationStmt>
+         <sourceDesc xml:lang="Hebrew">
+            <bibl>
+               <date when="1906" notBefore="1906-01-01" notAfter="1906-12-31"/>
+            </bibl>
+            <p>The Ben-Yehuda Project (http://benyehuda.org/). Content provided within the Ben-Yehuda Hackathon at the University of Haifa (THATCamp Haifa, February 2014).</p>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <change>
+            <date>2018-11-01</date>
+            <name>Omer Waldman</name>
+            <note>Correction of previously annotated dates and addition of dates to majority of the works</note>
+         </change>
+         <change>
+            <date>2017-08-09</date>
+            <name>Jerusalem corpus of Emergent Modern Hebrew (JEMH) staff</name>
+            <note>Created the initial version of the content in TEI-XML and added dates (some based on estimation)</note>
+         </change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+
+
+
+
+
+
+
+בין נהר פרת
+ונהר חדקל / חיים נחמן ביאליק
+
+
+
+
+
+
+
+
+
+
+
+
+בין
+נהר פרת
+ונהר
+חדקל
+
+ 
+
+בין
+נהר פרת
+ונהר
+חדקל
+
+על-ההר
+מתמר
+דקל.
+
+ובדקל,
+בין
+עפאיו,
+
+תשכן-לה
+דוכיפת
+זהב.
+
+ 
+
+צפור
+זהב! 
+עופי,
+חוגי,
+
+צאי
+ובקשי
+לי
+בן-זוגי,
+
+ובאשר
+תמצאיהו
+–
+
+כפתי
+אותו
+והביאיהו.
+
+ 
+
+אך
+אם-אין לך
+חוט
+השני
+
+דברי
+שלום אל
+חתני;
+
+מה-תגידי
+לו? 
+הגידי:
+
+נפשי
+יוצאת אל
+ידידי.
+
+ 
+
+אמרי
+לו: 
+הגן
+פורח,
+
+נעול
+הוא ואין
+פותח;
+
+רמון
+פז שם
+יש בין
+עליו –
+
+אך
+אין מי
+שיברך
+עליו.
+
+ 
+
+ועוד
+תגידי
+לו: מטתי
+
+אשחה
+לילה
+בדמעתי,
+
+ומתחת
+לבנת
+בשרי
+
+נשרף
+מדי
+לילה
+כרי.
+
+ 
+
+ואם
+ימאן –
+שמעי
+רזי:
+
+הכל
+מוכן
+בארגזי
+–
+
+שש
+ומשי,
+ובמלתחתי
+
+עשרים
+כתנת
+רקמת
+מחטי.
+
+ 
+
+ונוצה
+רכה
+שמורה
+עמי,
+
+מרוטה
+בעצם יד
+של-אמי,
+
+מעיניה
+שנת
+המעיטה,
+
+לעשות
+כר
+לאפריון
+בתה.
+
+ 
+
+ובמחבואה,
+זהב
+רקומה,
+
+כבר
+מחכה
+ההינומה;
+
+נדני
+משלש,
+נכונה
+אני –
+
+ולמה
+אחרו
+פעמי
+חתני?
+
+               *
+
+ריפת
+דיפת
+ומוריפת –
+
+ככה
+שחה
+הדוכיפת:
+
+לילה
+אטוס אל
+בית
+דודך
+
+ואגלה
+לו
+את-סודך.
+
+ 
+
+אשאל
+לו
+בשמך
+לשלומו,
+
+דמותך
+אראה לו
+בחלומו;
+
+פתאם
+יקפץ
+ממשכבו
+
+ועל
+מטאטא
+רכוב יבא;
+
+ 
+
+יבא
+ויאמר
+לך:
+הנני!
+
+את
+גיל חיי,
+בבת
+עיני;
+
+לא
+במהר
+ולא
+במתן –
+
+כי
+באהבה
+בך
+אתחתן.
+
+ 
+
+מה-לי
+עשרך,
+מה-לי
+רישך?
+
+למה
+משיך
+לי עם-ששך?
+
+משיי
+שערך,
+חיקך
+כרי,
+
+את
+מטמוני
+עם-אוצרי.
+
+ 
+
+יש-לי
+משלי
+רב מהר:
+
+בלורית
+שחרה
+ואש
+הנער,
+
+שתיהן
+לך –
+וברגל
+קלה
+
+לקראת
+דודך
+באי,
+כלה!
+
+ 
+
+אתא
+לילה,
+ולבין
+שפעת
+
+עבים
+פרחה
+הדוכיפת,
+
+עלה
+עלתה
+השמימה
+
+ונבואתה
+לא
+נתקימה.
+
+ 
+
+לילה
+בקר
+וערבים
+
+אשא
+עיני אל
+העבים,
+
+עבים
+זכים,
+העדין
+
+דודי
+בחיר
+לבבי
+אין?
+
+
+
+
+
+  
+
+
+</body>
+   </text>
+</TEI>

@@ -1,0 +1,264 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>עם כלות התמוז</title>
+            <author>יעקב לרנר</author>
+            <respStmt>
+               <name>Mandel Scholion Hebrew Revival Research Group</name>
+               <resp>Formatting of content from the Ben-Yehuda Project to TEI-XML according to the TEI P5 Guidelines.
+                  Addition of dates, not present in the online version, by Shira Wigderson, Asaf Isser, Adi Cohen, Nitzan Cohen, and Adi Cohen.
+               </resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <authority>Project Ben-Yehuda</authority>
+            <idno>http://benyehuda.org/lerner/im_klot_hatamuz.html</idno>
+         </publicationStmt>
+         <sourceDesc xml:lang="Hebrew">
+            <bibl>
+               <date when="1911" notBefore="1911-01-01" notAfter="1911-12-31"/>
+            </bibl>
+            <p>The Ben-Yehuda Project (http://benyehuda.org/). Content provided within the Ben-Yehuda Hackathon at the University of Haifa (THATCamp Haifa, February 2014).</p>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <change>
+            <date>2018-11-01</date>
+            <name>Omer Waldman</name>
+            <note>Correction of previously annotated dates and addition of dates to majority of the works</note>
+         </change>
+         <change>
+            <date>2017-08-09</date>
+            <name>Jerusalem corpus of Emergent Modern Hebrew (JEMH) staff</name>
+            <note>Created the initial version of the content in TEI-XML and added dates (some based on estimation)</note>
+         </change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+
+
+
+
+
+
+עם כלות התמוז / יעקב לרנר
+
+
+
+
+
+
+
+
+עם כלות התמוז
+
+ 
+
+האביב – לא נודע
+אם היה בארץ,
+
+           אם
+ראו שמים את זיוו;
+
+הוא נפתל
+נפתולים עם אויבו החרף – 
+
+          
+ונפל בקרב עם יריבו.
+
+ויריבו זה חנק
+כל פרח, כל נצן,
+
+          שאמרו
+לבצבץ מחולם,
+
+והמית כל רוח
+צחצחה, שיכלה
+
+        
+להזיז קפאונו של עולם;
+
+והעיב השמש,
+ושרש כל תקוה 
+
+          מלבות
+המצפים לתחיה –
+
+וכבר היה
+אביב בלוח-השנים,
+
+        
+אך חרף עוד היה בבריאה...
+
+ 
+
+ 
+
+וכאלו
+לקנתר את אלו, שרננו
+
+       בסתר
+עד תקף שלטונו,
+
+התחכם החרף
+בצדיה, ולעתים
+
+       הניח
+עד-רגע את זינו.
+
+אז תציץ
+השמש
+כהרף-העין
+
+      
+מחרכי היריעה השחורה
+
+ותזהב
+בצחוקה הקליל את עגמת 
+
+       
+ארצנו הפשטה וערה.
+
+והיה בהחל
+הנפשות שעלפו
+
+     לחלץ אבריהן
+מקרה – 
+
+ופתאם מארבו
+אז ינח החרף
+
+     ויגלד ויעם
+הנהרה.
+
+ 
+
+ 
+
+וככה שממנו
+כל תקופת האביב,
+
+     עד נואש אמרנו
+לבואו – 
+
+ונוחל לקיץ,
+הגואל היחידי,
+
+    שיחם העולם
+ומלואו.
+
+ 
+
+ 
+
+ואמנם לא
+הוביש הקיץ שברנו
+
+     ויבוא בתרועת
+מצהלתו
+
+וישמד
+בצחוקו החרף הנרגן
+
+     ויכונן בחדוה
+ממשלתו.
+
+וצירים אז
+ישלח ליושבי הכרכים;
+
+"
+מה-תשבו בתפת, הפתאים? 
+
+ראו-נא מה
+עמקו עריפי שמים, 
+
+      מה רחבו
+מרבדי-הדשאים!
+
+ואתם,
+הצעירים, השחוחים על ספר,
+
+     העת היא לשבת
+ב"חדרים"?
+
+צאו-נא
+ופשטו בשדמות, בחרשה,
+
+     וצודו
+פרפרים, צפרים! "
+
+ 
+
+ 
+
+ונצא השדה...
+אך – אויה – עננים
+
+        
+התחילו מקדירים שמינו,
+
+וחזיזים
+ורעמים יום-יום בעתונו 
+
+       ותכפו
+הגשמים עלינו.
+
+נרדפים
+ממטר נמלטנו הביתה
+
+      ושעות
+וימים ארכים
+
+אלצנו לשבת
+בבית השומם 
+
+     ולמלאת חללו
+פהוקים.
+
+ועד שאנחנו
+מפהקים ומחכים
+
+     לרחמי השמש
+היפה,
+
+התחילה כבר
+לצהב הקמה בשדמות –
+
+     ותקופת העדנה
+חלפה.
+
+ולו גם מעכשו
+יזכו שמים
+
+     וימים יתחילו
+מזהירים –
+
+הה! כמה עוד
+נשאר עד אלול החדש 
+
+     המבשר שלכת,
+סגרירים?!
+
+ 
+
+גרודנה  תרע"א  
+
+ 
+
+
+
+
+
+ 
+
+
+
+
+
+
+</body>
+   </text>
+</TEI>

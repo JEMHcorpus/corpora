@@ -1,0 +1,206 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>צפרת</title>
+            <author>חיים נחמן ביאליק</author>
+            <respStmt>
+               <name>Mandel Scholion Hebrew Revival Research Group</name>
+               <resp>Formatting of content from the Ben-Yehuda Project to TEI-XML according to the TEI P5 Guidelines.
+                  Addition of dates, not present in the online version, by Shira Wigderson, Asaf Isser, Adi Cohen, Nitzan Cohen, and Adi Cohen.
+               </resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <authority>Project Ben-Yehuda</authority>
+            <idno>http://benyehuda.org/bialik/bia066.html</idno>
+         </publicationStmt>
+         <sourceDesc xml:lang="Hebrew">
+            <bibl>
+               <date when="1904" notBefore="1904-01-01" notAfter="1904-12-31"/>
+            </bibl>
+            <p>The Ben-Yehuda Project (http://benyehuda.org/). Content provided within the Ben-Yehuda Hackathon at the University of Haifa (THATCamp Haifa, February 2014).</p>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <change>
+            <date>2018-11-01</date>
+            <name>Omer Waldman</name>
+            <note>Correction of previously annotated dates and addition of dates to majority of the works</note>
+         </change>
+         <change>
+            <date>2017-08-09</date>
+            <name>Jerusalem corpus of Emergent Modern Hebrew (JEMH) staff</name>
+            <note>Created the initial version of the content in TEI-XML and added dates (some based on estimation)</note>
+         </change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+
+
+
+
+
+
+
+צפרת / חיים נחמן ביאליק
+
+
+
+
+
+
+
+
+
+
+
+
+צפרת
+
+ 
+
+כל-העולם
+טובע באור ובשיר,
+
+אוצרות חיים
+לא-שערתים מסביב מתרחשים,
+
+ובמשעל
+הנמתח בין יער וניר
+
+שנינו הולכים
+ומחשים.
+
+אנו הולכים
+והולכים, לשבילנו אין קץ,
+
+אפפונו שבלים,
+כתרונו צפרות,
+
+ובחניתות
+של-זהב יפגענו כל-עץ
+
+ובצאלי
+צמרות.
+
+ 
+
+הדמות כרוב
+אם עב קלה ברום עולם רפרפה?
+
+אך גם-היא
+חיש הפליגה למדינת הים –
+
+ואת-הרהורי
+הטהור כמוה ורם
+
+נשאה עמה
+לנצח על-כתפה.
+
+ושוב זהר
+רקיע, ושוב תכלת בלי-סוף,
+
+את הולכת
+בראש ואני כרוך אחריך,
+
+ובקמותיו
+המלאות השתרע הנוף,
+
+והכל בהיר
+בו כמו בעיניך.
+
+ 
+
+רגע אחד לי
+נדמה: ביער הלז,
+
+המאפיל
+ומשיב צנתו עלינו,
+
+גנוז מטמון
+מסתרים, המשמר מאז
+
+ומעולם
+לשנינו –
+
+פתאם רחפה
+הקמה – ומפה אלי-פה
+
+עבר רטט
+קרנים על-פני האוקינוס.
+
+הו, מי השליג
+עלינו – ובשפע כזה,
+
+חיל צפרות
+לבנות?
+
+ 
+
+והנה נקלעה
+צפרת כפרח בקצה
+
+שער
+מחלפתך המפזזה על-המחגרת,
+
+וכמו רמזה
+לי: בחור, קום שקה-לה, ודמה
+
+אלי הצפרת!
+
+אולם את –
+ההרגשת בצפרת ובי?
+
+ההרגשת,
+כי גם-נפשי נתונה בשבי,
+
+ומפרפרת
+ותלואה, ומצפה לישועה
+
+במחלפתך
+הקלועה?
+
+ 
+
+ובעיניך שוב
+אציץ ואבקש שם תשובה –
+
+וכבתחלה הן
+צנועות, שתי יוני החן;
+
+מה-לי צניעות
+עיניך – ומחלפתך משובה,
+
+היא אומרת לי:
+הן!
+
+מהרי, מהרי,
+אחותי, נבואה היערה,
+
+תחת חפת
+אשריו לך כל-נפשי אפיקה,
+
+ואת-כל-אהבתי
+התלויה בשערה
+
+נמית שנינו
+בנשיקה.
+
+ 
+
+מרוזי, תמוז,
+תרס"ד.
+
+
+
+
+
+  
+
+
+</body>
+   </text>
+</TEI>

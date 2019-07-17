@@ -1,0 +1,302 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>חיילים אלמונים</title>
+            <author>אברהם שטרן ("יאיר")</author>
+            <respStmt>
+               <name>Mandel Scholion Hebrew Revival Research Group</name>
+               <resp>Formatting of content from the Ben-Yehuda Project to TEI-XML according to the TEI P5 Guidelines.
+                  Addition of dates, not present in the online version, by Shira Wigderson, Asaf Isser, Adi Cohen, Nitzan Cohen, and Adi Cohen.
+               </resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <authority>Project Ben-Yehuda</authority>
+            <idno>http://benyehuda.org/stern_avraham/sefer01.html</idno>
+         </publicationStmt>
+         <sourceDesc xml:lang="Hebrew">
+            <bibl>
+               <date when="1931" notBefore="1931-01-01" notAfter="1931-12-31"/>
+            </bibl>
+            <p>The Ben-Yehuda Project (http://benyehuda.org/). Content provided within the Ben-Yehuda Hackathon at the University of Haifa (THATCamp Haifa, February 2014).</p>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <change>
+            <date>2018-11-01</date>
+            <name>Omer Waldman</name>
+            <note>Correction of previously annotated dates and addition of dates to majority of the works</note>
+         </change>
+         <change>
+            <date>2017-08-09</date>
+            <name>Jerusalem corpus of Emergent Modern Hebrew (JEMH) staff</name>
+            <note>Created the initial version of the content in TEI-XML and added dates (some based on estimation)</note>
+         </change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+
+
+
+
+
+
+
+חיילים
+אלמונים /
+אברהם שטרן
+("יאיר")
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+חילים
+אלמונים /
+אברהם שטרן
+("יאיר")
+
+הימנון
+המחתרת
+
+ 
+
+חילים
+אלמונים
+הננו,
+בלי מדים,
+
+וסביבנו
+אימה
+וצלמות.
+
+כלנו
+גיסנו
+לכל
+החיים:
+
+משורה
+משחרר
+רק המות.
+
+ 
+
+בימים
+אדמים
+של
+פרעות
+ודמים,
+
+בלילות
+השחורים
+של יאוש,
+
+בערים,
+בכפרים
+את
+דגלנו נרים,
+
+ועליו:
+הגנה
+וכבוש!
+
+ 
+
+לא
+גיסנו
+בשוט
+כהמון
+עבדים,
+
+כדי
+לשפך
+בנכר
+את דמנו.
+
+רצוננו:
+להיות
+לעולם
+בני-חורין!
+
+חלומנו:  למות
+בעד
+עמנו!
+
+ 
+
+בימים
+אדמים
+של
+פרעות
+ודמים,
+
+בלילות
+השחורים
+של יאוש,
+
+בערים,
+בכפרים
+את
+דגלנו נרים,
+
+ועליו:
+הגנה
+וכבוש!
+
+ 
+
+ומכל
+עברים
+רבבות
+מכשולים
+
+שם
+גורל
+אכזרי
+על דרכנו;
+
+אך
+אויבים,
+מרגלים
+ובתי-אסורים
+
+לא
+יוכלו
+לעצר
+בעדנו.
+
+ 
+
+בימים
+אדמים
+של
+פרעות
+ודמים,
+
+בלילות
+השחורים
+של יאוש,
+
+בערים,
+בכפרים
+את
+דגלנו נרים,
+
+ועליו:
+הגנה
+וכבוש!
+
+ 
+
+ואם
+אנחנו
+נפל
+ברחובות,
+בבתים,
+
+ויקברונו
+בלילה
+בלאט,
+
+במקומנו
+יבואו
+אלפי
+אחרים
+
+להגן
+ולשמר
+עדי עד.
+
+ 
+
+בימים
+אדמים
+של
+פרעות
+ודמים,
+
+בלילות
+השחורים
+של יאוש,
+
+בערים,
+בכפרים
+את
+דגלנו
+נרים,
+
+ועליו:
+הגנה
+וכבוש!
+
+ 
+
+בדמעת-אמהות
+שכלות
+מבנים, 
+
+ובדם
+תינוקות
+טהורים,
+
+כמו
+במלט
+נדביק
+הגופות-לבנים
+
+ובנין
+המולדת
+נקים!
+
+ 
+
+בימים
+אדמים
+של
+פרעות
+ודמים,
+
+בלילות
+השחורים
+של יאוש,
+
+בערים,
+בכפרים
+את
+דגלנו נרים,
+
+ועליו:
+הגנה
+וכבוש!
+
+ 
+
+נבי-מוסה
+תרצ"ב
+
+
+
+
+
+ 
+
+
+
+
+
+
+</body>
+   </text>
+</TEI>

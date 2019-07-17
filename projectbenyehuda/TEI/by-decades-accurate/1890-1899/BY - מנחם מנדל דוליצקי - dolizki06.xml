@@ -1,0 +1,347 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>איויתיך..</title>
+            <author>מנחם מנדל דוליצקי</author>
+            <respStmt>
+               <name>Mandel Scholion Hebrew Revival Research Group</name>
+               <resp>Formatting of content from the Ben-Yehuda Project to TEI-XML according to the TEI P5 Guidelines.
+                  Addition of dates, not present in the online version, by Shira Wigderson, Asaf Isser, Adi Cohen, Nitzan Cohen, and Adi Cohen.
+               </resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <authority>Project Ben-Yehuda</authority>
+            <idno>http://benyehuda.org/dolitsky/dolizki06.html</idno>
+         </publicationStmt>
+         <sourceDesc xml:lang="Hebrew">
+            <bibl>
+               <date when="1895" notBefore="1895-01-01" notAfter="1895-12-31"/>
+            </bibl>
+            <p>The Ben-Yehuda Project (http://benyehuda.org/). Content provided within the Ben-Yehuda Hackathon at the University of Haifa (THATCamp Haifa, February 2014).</p>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <change>
+            <date>2018-11-01</date>
+            <name>Omer Waldman</name>
+            <note>Correction of previously annotated dates and addition of dates to majority of the works</note>
+         </change>
+         <change>
+            <date>2017-08-09</date>
+            <name>Jerusalem corpus of Emergent Modern Hebrew (JEMH) staff</name>
+            <note>Created the initial version of the content in TEI-XML and added dates (some based on estimation)</note>
+         </change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+
+
+
+
+
+
+
+איויתיך.. / מנחם מנדל דוליצקי
+
+
+
+ 
+
+
+
+
+  
+  
+
+
+­­­­­­­­­­­אויתיך...
+/ מנחם מנדל דוליצקי
+
+ 
+
+בת ציון
+אהבך, 
+
+את חלדי,
+נשמתי, 
+
+אהבך
+אתאוך, 
+
+את סמל
+אהבתי. 
+
+ 
+
+לך נפשי,
+רגשותי, 
+
+תערגנה,
+תכלינה, 
+
+לך נטפות
+דמעותי, 
+
+אנחותי תהימנה.
+
+ 
+
+אויתיך,
+אהובה, 
+
+אהבך עזובה, 
+
+את חלקי,
+מנת כוסי, 
+
+חרדתי,
+שלותי,
+
+ 
+
+את אבלי,
+משושי,
+
+יאושי, תקותי...
+
+…………………..
+
+את צלם דמות
+הטהר,
+
+צלם אל
+עשיך,
+
+עד עולם עדנת
+נער,
+
+לא תסור מעל
+פניך,
+
+ 
+
+את ארץ שיר
+נחמדה,
+
+ארץ פרי
+ופרחים,
+
+בנצח
+התולדה
+
+את אביב
+נצחים...
+
+ 
+
+מה נהדרו,
+ירושלים,
+
+מאוריך
+בשמים!
+
+ 
+
+אור מתוק,
+מרהיב עין,
+
+ישתפך בך
+כנחלים, 
+
+בך, אהובה,
+מחשך אין,
+
+יאירו גם
+הצללים...
+
+*
+
+יפתי מה
+נפלאים
+
+שמי ספיר על הריך, 
+
+מה נאוו ראשי סלעים 
+
+כי יענדו אור ככביך!
+
+ 
+
+על ראשם יהל נצחם, 
+
+עטרת שכן רמים, 
+
+בחגויהם – קמטי מצחם, 
+
+כמוס סוד עולמים...
+
+ 
+
+מה תנעם בין צוריך 
+
+המית מעיניך!  
+
+כמשק כנף צפרים 
+
+ירך קול ההמלה, 
+
+הדה בין ההרים 
+
+כנשיקות אשה עולה...
+
+*
+
+סלם את לנשמות 
+
+לגביהן על כנשרים, 
+
+תחלמנה בך אך רמות, 
+
+תשכחנה חיי בשרים.
+
+ 
+
+תמאסנה הבלי אדמה.
+
+מעלה עוף
+תגבהנה,
+
+ובקהל מלאכי
+רמה
+
+שירי הוד
+תבענה...
+
+ 
+
+מעדנו פרחי
+מור, 
+
+משמיו אבקות
+אור, 
+
+ודמעת גיל מעינו
+
+
+לקח צור
+יצרך, 
+
+ואותם בעת
+רצונו 
+
+לש – ויהי
+עפרך!...
+
+*
+
+בעפרך זה כל
+נעם, 
+
+בך עין אל
+למאור, 
+
+בך כל אבן –
+שהם, 
+
+כל אבק-כתם
+טהור
+
+ 
+
+כל עץ בך, עץ
+החיים, 
+
+כל עשב – צרי
+כל מכה. 
+
+צוף כל יובל
+מים 
+
+כל רוח –
+תפלה זכה.
+
+ 
+
+בך כל גיא –
+חזיון,
+
+כל הר לאל – הגיון, 
+
+וכלך ספר
+נעים, 
+
+ציורים
+לאלהיך, 
+
+בך שיריו
+הנפלאים, 
+
+וכתבו נחנו עליך!...
+
+*
+
+בת ציון
+אהבך, 
+
+את חלדי,
+נשמתי, 
+
+אהבך
+אתאוך, 
+
+את סמל
+אהבתי. 
+
+ 
+
+לך נפשי,
+רגשותי, 
+
+תערגנה,
+תכלינה, 
+
+לך נטפות
+דמעותי, 
+
+אנחותי
+תהימנה
+
+ 
+
+אויתיך
+אהובה, 
+
+אהבך עזובה, 
+
+את חלקי מנת
+כוסי, 
+
+חרדתי,
+שלותי, 
+
+את אבלי,
+משושי, 
+
+יאושי,
+תקותי.
+
+ 
+
+
+
+
+
+ 
+
+
+
+
+
+
+</body>
+   </text>
+</TEI>

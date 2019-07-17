@@ -1,0 +1,262 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>נסיעה אל אבותי</title>
+            <author>מרדכי צבי מאנה</author>
+            <respStmt>
+               <name>Mandel Scholion Hebrew Revival Research Group</name>
+               <resp>Formatting of content from the Ben-Yehuda Project to TEI-XML according to the TEI P5 Guidelines.
+                  Addition of dates, not present in the online version, by Shira Wigderson, Asaf Isser, Adi Cohen, Nitzan Cohen, and Adi Cohen.
+               </resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <authority>Project Ben-Yehuda</authority>
+            <idno>http://benyehuda.org/maneh/025.html</idno>
+         </publicationStmt>
+         <sourceDesc xml:lang="Hebrew">
+            <bibl>
+               <date when="1882" notBefore="1882-01-01" notAfter="1882-12-31"/>
+            </bibl>
+            <p>The Ben-Yehuda Project (http://benyehuda.org/). Content provided within the Ben-Yehuda Hackathon at the University of Haifa (THATCamp Haifa, February 2014).</p>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <change>
+            <date>2018-11-01</date>
+            <name>Omer Waldman</name>
+            <note>Correction of previously annotated dates and addition of dates to majority of the works</note>
+         </change>
+         <change>
+            <date>2017-08-09</date>
+            <name>Jerusalem corpus of Emergent Modern Hebrew (JEMH) staff</name>
+            <note>Created the initial version of the content in TEI-XML and added dates (some based on estimation)</note>
+         </change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+
+
+
+
+
+
+
+נסיעה אל אבותי / מרדכי צבי מאנה
+
+
+
+ 
+
+
+
+
+  
+  
+
+
+נסיעה אל
+אבותי / מרדכי צבי מאנה
+
+ 
+
+על כנפי הדמיון. 
+
+(על מסלת הברזל) 
+
+(והשיב לב אבות על בנים ולב בנים על אבותם). 
+
+(מלאכי
+ג'). 
+
+ 
+
+1. 
+
+מה נעים
+החלום הלילה חזיתי! 
+
+מה עלץ לבי
+בחלום חזיון ליל?
+
+אל
+עיר מולדתי כנשר דאיתי, 
+
+אל
+הורי רצתי, קפצתי כאיל! 
+
+  
+
+2. 
+
+אל
+הורי, אל הורי כחץ שלוח
+
+
+אטוש,
+אעופה בין הרים ועמקים
+
+
+אעופה
+על כנפי קיטור ורוח, 
+
+אנשא
+בעגלות רצות כברקים! 
+
+  
+
+3. 
+
+הארץ
+תחתי תתנודד במחוגה, 
+
+היערים
+יצאו במחולת מחנים; 
+
+גלגלים
+ישקו מבלי הפוגה, 
+
+ומקול
+החליל תצלנה אזנים! 
+
+  
+
+4. 
+
+האח!
+קול החליל בכח צורח 
+
+האח
+אופנים רועשים כסער!
+
+
+האח!
+הד הרים הרוח פולח, 
+
+יחריד
+גם ירגיז כל אלי היער
+
+
+  
+
+5. 
+
+האח
+כצל ספו ערים וספרים!
+
+
+איש
+את רעהו חזיונות ירדפו; 
+
+אך
+תעיף עין ­– גם רועים ועדרים, 
+
+גם
+חבל אכרים מהר יחלפו!
+
+
+  
+
+6. 
+
+(אך
+קול המכונה מול רעש בלבבי –
+
+הוא
+המית יונה מול שאגת הלביא; 
+
+ומעוף
+הכבודה מול עורקי נמהרים, 
+
+אך
+רמש זוחל מול כנפי הנשרים!) 
+
+  
+
+7. 
+
+האח!
+לבי רועש, דמי רותח! 
+
+אל
+הורי, אל הורי אקרב לרגעים! 
+
+כל
+רגשי אהבה בי החליפו כח: 
+
+אל
+הורי, אל הורי הנכם נשאים!... 
+
+  
+
+8. 
+
+חיש
+נאלם החליל, חיש שקטה המהומה 
+
+הכבודה
+עמדה ותצלצל המצלה:
+
+
+האח!
+עתה חיש ממקומי אקומה:
+
+
+שם
+הורי רצים נגדי אל המסלה!... 
+
+  
+
+9. 
+
+וזרעות
+אהבה לקראתי נטיו 
+
+ונשיקות
+בוערות שפתותי ידליקו;
+
+
+ובלי
+כל הגה שרעפי יחמיו, 
+
+ובעד
+עיני אש-כליותי יריקו... 
+
+  
+
+10. 
+
+וכמו
+הכרובים את נפשי נשאו, 
+
+ובגיל
+שמימה אתה עוף הגביהו. 
+
+וכמו
+רוח אל כל חושי נמלאו 
+
+עת
+שדי אצל לה מנשיקות פיהו!!.. 
+
+־־ ־־
+־־ ־־ ־־ ־־ ־־ ־־ ־־ 
+
+ 
+
+
+
+
+
+ 
+
+
+
+
+
+
+</body>
+   </text>
+</TEI>

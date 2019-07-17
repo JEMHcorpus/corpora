@@ -1,0 +1,146 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>מנחם</title>
+            <author>מיכה יוסף ברדיצ'בסקי</author>
+            <respStmt>
+               <name>Mandel Scholion Hebrew Revival Research Group</name>
+               <resp>Formatting of content from the Ben-Yehuda Project to TEI-XML according to the TEI P5 Guidelines.
+                  Addition of dates, not present in the online version, by Shira Wigderson, Asaf Isser, Adi Cohen, Nitzan Cohen, and Adi Cohen.
+               </resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <authority>Project Ben-Yehuda</authority>
+            <idno>http://benyehuda.org/berdi/menaxem.html</idno>
+         </publicationStmt>
+         <sourceDesc xml:lang="Hebrew">
+            <bibl>
+               <date when="1900" notBefore="1900-01-01" notAfter="1900-12-31"/>
+            </bibl>
+            <p>The Ben-Yehuda Project (http://benyehuda.org/). Content provided within the Ben-Yehuda Hackathon at the University of Haifa (THATCamp Haifa, February 2014).</p>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <change>
+            <date>2018-11-01</date>
+            <name>Omer Waldman</name>
+            <note>Correction of previously annotated dates and addition of dates to majority of the works</note>
+         </change>
+         <change>
+            <date>2017-08-09</date>
+            <name>Jerusalem corpus of Emergent Modern Hebrew (JEMH) staff</name>
+            <note>Created the initial version of the content in TEI-XML and added dates (some based on estimation)</note>
+         </change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+
+
+
+
+
+
+
+מנחם / מ"י ברדיצ'בסקי
+
+
+
+
+
+
+
+
+מנחם
+
+מ"י
+ברדיצ'בסקי
+
+
+
+ 
+
+
+
+
+ 
+  
+  בארץ
+  נכריה הוא יושב, הרחק מעמו ומולדתו, הרחק מאבותיו וממסורת אבותיו; הוא שוקד על
+  דלתות בית-המדרש-למדעים כתלמיד שרק הדעת הגיגו, והגיוניו כל חיתו.
+  עני
+  הוא וחי בדוחק; אבל עשיר הוא בשאיפות רמות. 
+  כל
+  המחשבות שחשבו גדולי כל דור, כל הרכוש הרוחני של בעלי המחשבה והדעת נפתחים
+  לפניו.
+  רק
+  לבית-אוצר הספרים עליו ללכת, ושם הכל נתון לו, מכל אשר תשאל נפשו לדעת.
+  ובבית-מדרש-החכמה
+  דורשים ושונים בכל הספרות והמדעים, בסתר הטבע והתולדה, האמונות והדעות...
+  שם
+  יוכל אדם להשיג הכל ולדעת מה היא הנפש ומהות הנפש.
+  הוא,
+  שעד עשרים שנה ומעלה היה יושב רק בד' אמות של הלכה ועסק בלימודים שאינם מלמדים
+  את האדם כלל... הנה יושב על פתחן של החכמות ומקשיב לכל הרמות והנשגבות שבהן.
+  מה
+  שהיה לו נלקח מאתו והכל ניתן לו מחדש... הוא אבד ומצא הרבה... את הכל סתר
+  בעצמו, והוא בונה לו עתה דבר רם מעצמו.
+  הרעיון,
+  שבידו להשיג כל המחשבות והדעות, יתן לו ולרוחו איזה מרגוע וחיזוק.
+  אבותיו
+  בחושך התהלכו, בני עירו בחשכה יתהלכו, כל הספרים שלהם והמעשים שלהם פעולתם מאין,
+  המחשבות שהם חושבים מהבל הנן; רק הוא, הוא מנחם לבית מאיר, בן-חורין גמר; לו
+  עינים לראות ואוזן לשמוע, לו ניתנו מכמני המחשבות ועולם המחשבות.
+  ילכו
+  הם באשר ילכו והוא באשר ילך. הדעת יקרה מכל חללי עמו וקדשיו. הדעת היא יקרה לו
+  מכל חללי העולם. לו יש הכל, הכל.
+   
+  ימים
+  באו, הוא למד הרבה וחשב הרבה, והחל עוד הפעם לאבד מאשר מצא...
+  הוא
+  החל לחדור מאחורי קלעי הדעת ותעלולי המושכלות. הוא החל לראות את חללי הדעת
+  והתורות.
+  בסתר
+  נפשו התחיל להרגיש שלחיים בעצמם יתרון על כל אלה. וראה ונוכח שגם
+  בבתי-מדרש-המדעים נחנק כמו בבתי-מדרש-ההלכה.
+  לאט
+  לאט הוא ראה שרק הספרים נשתנו אצלו, אבל גוף הדבר לא נשתנה... ושעדיין הוא תועה
+  בנתיבות ישימון. – – –
+  מה
+  תתנה לו ומה תוספנה לו הדעות והמחשבות, אם אינן אלא כצללים  לגבי עיקרי החיים עצמם?
+  מה
+  יתנו ומה יוסיפו לו כל הקוים והשרטוטים באין יסוד קיים לו בעולם?
+  נפשו
+  היא לא מלאה, חייו ריקים, רק מוחו מלא. אין לו עם וצרכי עם, אין לו הורים וקרבת
+  הורים, חסרה לו אהבה וקרבת-נפש.
+  נכרי
+  הוא שם ופה, נכרי הוא בעולם ובחיים. 
+  לאזרח
+  כל היה חושב עצמו, ולו באמת אין כל.
+  קברים
+  רבים על דרכו בחיים מעבר מזה ומזה.
+  
+   
+  
+ 
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+</body>
+   </text>
+</TEI>

@@ -1,0 +1,120 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>ספר הבהמות</title>
+            <author>מנדלי מוכר ספרים </author>
+            <respStmt>
+               <name>Mandel Scholion Hebrew Revival Research Group</name>
+               <resp>Formatting of content from the Ben-Yehuda Project to TEI-XML according to the TEI P5 Guidelines.
+                  Addition of dates, not present in the online version, by Shira Wigderson, Asaf Isser, Adi Cohen, Nitzan Cohen, and Adi Cohen.
+               </resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <authority>Project Ben-Yehuda</authority>
+            <idno>http://benyehuda.org/mos/sefer_habehemot_hakdama.html</idno>
+         </publicationStmt>
+         <sourceDesc xml:lang="Hebrew">
+            <bibl>
+               <date when="1911" notBefore="1911-01-01" notAfter="1911-12-31"/>
+            </bibl>
+            <p>The Ben-Yehuda Project (http://benyehuda.org/). Content provided within the Ben-Yehuda Hackathon at the University of Haifa (THATCamp Haifa, February 2014).</p>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <change>
+            <date>2018-11-01</date>
+            <name>Omer Waldman</name>
+            <note>Correction of previously annotated dates and addition of dates to majority of the works</note>
+         </change>
+         <change>
+            <date>2017-08-09</date>
+            <name>Jerusalem corpus of Emergent Modern Hebrew (JEMH) staff</name>
+            <note>Created the initial version of the content in TEI-XML and added dates (some based on estimation)</note>
+         </change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+
+
+
+
+
+
+
+ספר הבהמות – הקדמה / מנדלי מוכר-ספרים
+
+
+
+
+
+
+
+
+ספר הבהמות
+
+מנדלי מוכר-ספרים
+
+
+
+ 
+
+
+
+
+ 
+  
+  הקדמה
+  צפויה לפני שיהיו מתמיהים על ספרי זה
+  ובעקימת-שפתים יאמרו: בזמן שסופרי ישראל שוקדים על תקנת בני עמנו, הללו במאמרים
+  ובעצות טובות ומשונות והללו במוסר ובדברי-כבושין, ובכל יום מתחדשות אצלם שאלות
+  הרבה שמבקשות פתרונים – בא זה ומטפל לפנינו בבהמות! מי שיצא מן הכלל, יאמרו, יצא
+  גם מדעתו ומשוגע הוא.
+  על דבר זה יש לחלוק ולומר, אדרבא, פעמים אפשר
+  אדם יצא מכלל החברה בשביל שהיא יצאה מדעתה והוא פקח. אבל מה לו בכך? לגבי הרבים
+  הרי דינו גם באופן זה כדין משוגע גמור. שגעונם של רבים הלא הוא פקחות וסדר
+  העולם, ופקחות היחיד זהו שגעונו. ולא די לו שנקרא שוטה, אלא שהוא מאבד  טובה הרבה וגורם רעה לעצמו.  החברה בריה משונה היא, בעלת פרצופים
+  ופיות מרובים עם ראש אחד. וכל פה מדבר לא מדעת עצמו אלא מדעת אותו הראש, המשותף
+  לכלם, ממנו הדבור יוצא – דבור מבוהל לפעמים – והולך ונכנס לתוך כל אחד
+  מהפיפיות, ומיד הלשון מתעוררת, מקשקשת כזוג, נואמת ומפטפטת. ואלו הפרצופים
+  מרגישים זה כוונותיו של זה וגומלין זה לזה בבקשת ערב ומועיל  וחלק בעולם-הזה. כללו של דבר, אין חבר
+  מפסיד. מכיר אני ויודע את זאת. אבל מה יעשה אדם, ביש-גדא שכמותי, שרוצה לעבור על
+  דעתו ואינו יכול; שיצרו שבלבו שומר פיו ולשונו, וכשמרגיש שמץ דבר בו ונדנוד של
+  מחשבה זרה, מיד מעכבו ואינו מניחו לדבר ולעשות כרצון אחרים?
+  ובכן אמרתי, אם להנאות אחרים בדבורי שלא
+  כרצונם. הרי ישראל לפניהם,  "ידברו
+  עליו מה שידברו" ככל העולה על רוחם, ואני אלך לי לבעלי-החיים ואדבר על
+  הבהמות.
+  ואתה,
+  סוסו של רבי מנדלי מוכר ספרים, אתה הלא היית הראשון, שידעתי מכל הסוסים בילדותי,
+  ומודה אני לפניך, שנהגתי בך מנהג נער פרוע והייתי תולש שערות מזנבך המדולדל, בכל
+  עת שהיית בא לעירנו ועומד שם אצל בית-המדרש, שלא להשגיח בצערך. עכשיו, בזקנותי,
+  אני מתחרט על חטאתי, שצערתי בריה תמימה כמותך, את הטוב שבסוסים וגם האומלל
+  והעלוב שבהם. כל הסוסים הרי מלאכתם חול, אלה ברכב ואלה בקרקסאות, ואתה מלאכתך
+  קודש – מפיץ ספרי דת והשכלה בישראל וחי חיי צער, ברעב וחוסר-כל, כדרכם של
+  העוסקים בתורה. והיתה הקדשת ספרי זה לשמך ולזכרך לי לסליחה ולמחילה ולכפרת-פשע.
+  
+ 
+
+
+
+
+ 
+
+
+
+
+
+ 
+
+
+
+
+
+
+</body>
+   </text>
+</TEI>

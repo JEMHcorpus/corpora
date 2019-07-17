@@ -1,0 +1,133 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>השועל, הזבובים והקפוד</title>
+            <author>יהודה ליב גורדון</author>
+            <respStmt>
+               <name>Mandel Scholion Hebrew Revival Research Group</name>
+               <resp>Formatting of content from the Ben-Yehuda Project to TEI-XML according to the TEI P5 Guidelines.
+                  Addition of dates, not present in the online version, by Shira Wigderson, Asaf Isser, Adi Cohen, Nitzan Cohen, and Adi Cohen.
+               </resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <authority>Project Ben-Yehuda</authority>
+            <idno>http://benyehuda.org/yalag/ylg166.html</idno>
+         </publicationStmt>
+         <sourceDesc xml:lang="Hebrew">
+            <bibl>
+               <date when="1859" notBefore="1859-01-01" notAfter="1859-12-31"/>
+            </bibl>
+            <p>The Ben-Yehuda Project (http://benyehuda.org/). Content provided within the Ben-Yehuda Hackathon at the University of Haifa (THATCamp Haifa, February 2014).</p>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <change>
+            <date>2018-11-01</date>
+            <name>Omer Waldman</name>
+            <note>Correction of previously annotated dates and addition of dates to majority of the works</note>
+         </change>
+         <change>
+            <date>2017-08-09</date>
+            <name>Jerusalem corpus of Emergent Modern Hebrew (JEMH) staff</name>
+            <note>Created the initial version of the content in TEI-XML and added dates (some based on estimation)</note>
+         </change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+
+
+
+
+
+
+
+השועל, הזבובים והקפוד / יהודה ליב גורדון
+
+
+
+
+
+
+
+
+
+
+השועל,
+הזבובים והקפד / יהודה ליב גורדון 
+
+ 
+
+מרשפי קשת
+הציד פצוע,          
+
+רץ שועל אחד
+מדמו צבוע
+
+וזבובים רבים
+על פצעו נקבצו
+
+ודוי לחמו
+אכלו, דמו מצצו.
+
+"הה אלי! –
+קרא הכאב – מדוע
+
+הסגרתני
+אותי חכם היער
+
+בידי עם לא-היה
+נבזה ובער
+
+לשאת קלון
+וכאב, בשנה על צער?!"
+
+כתר נא! –
+קרא קפד ממאורתו –
+
+אני אעל עליך
+ואגרשמו
+
+ובמדקרותי
+לעשרת אבתקמו.
+
+"אל נא –
+ענה השועל בלשון רכה –
+
+הניחה למו
+ויכלו מרעיתם,
+
+כי הם כבר
+אכלו וישבעו מחציתם
+
+וגדוד רעב
+יבא, ובכל אותו
+
+יאכל יתר
+כחי, וישיבני עד דכא".
+
+ 
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+</body>
+   </text>
+</TEI>

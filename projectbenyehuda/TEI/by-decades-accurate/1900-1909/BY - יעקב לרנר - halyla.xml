@@ -1,0 +1,225 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>הַלָּיְלָה</title>
+            <author>יעקב לרנר</author>
+            <respStmt>
+               <name>Mandel Scholion Hebrew Revival Research Group</name>
+               <resp>Formatting of content from the Ben-Yehuda Project to TEI-XML according to the TEI P5 Guidelines.
+                  Addition of dates, not present in the online version, by Shira Wigderson, Asaf Isser, Adi Cohen, Nitzan Cohen, and Adi Cohen.
+               </resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <authority>Project Ben-Yehuda</authority>
+            <idno>http://benyehuda.org/lerner/halyla.html</idno>
+         </publicationStmt>
+         <sourceDesc xml:lang="Hebrew">
+            <bibl>
+               <date when="1909" notBefore="1909-01-01" notAfter="1909-12-31"/>
+            </bibl>
+            <p>The Ben-Yehuda Project (http://benyehuda.org/). Content provided within the Ben-Yehuda Hackathon at the University of Haifa (THATCamp Haifa, February 2014).</p>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <change>
+            <date>2018-11-01</date>
+            <name>Omer Waldman</name>
+            <note>Correction of previously annotated dates and addition of dates to majority of the works</note>
+         </change>
+         <change>
+            <date>2017-08-09</date>
+            <name>Jerusalem corpus of Emergent Modern Hebrew (JEMH) staff</name>
+            <note>Created the initial version of the content in TEI-XML and added dates (some based on estimation)</note>
+         </change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+
+
+
+
+
+
+הלילה / יעקב לרנר
+
+
+
+
+
+
+
+
+הלילה
+
+ 
+
+ליל מחשכים,
+ליל נשיה
+
+בלע הכל אל
+תהומו;
+
+הכל נטמע
+ונתמזג,
+
+הכל קופא על
+מקומו.
+
+ 
+
+הכל שוקט...
+אך לרגעים
+
+אזין רחש
+דבר לא-אדע.
+
+מהר חולף הוא
+וחודר
+
+אל נשמתי
+האובדה.
+
+ 
+
+שם באפל
+עמק-עמק
+
+אראה נצנץ
+איזה דבר;
+
+הרגיז לבי
+במהירותו:
+
+פתאם נצנץ,
+פתאם עבר.
+
+ 
+
+הגד, לילה,
+ליל תעלומות,
+
+מה ירקם תוך
+אישונך,
+
+מה-מתרחש
+במסתרים,
+
+מי יניע דמי
+קפאונך?
+
+ 
+
+אך דומיה...
+גא וכבד
+
+שותק לילה.
+והשתיקה
+
+מה-שאננה
+היא וכבדה,
+
+מה-שלוה
+ומחניקה!
+
+ 
+
+הכל שוקט...
+אך לפרקים
+
+דבר לא אבין
+ירעד שפי.
+
+לבי יתר,
+ודמיוני  
+
+כבר הוא בורא
+יש מאפע.
+
+ 
+
+אלפי נצים
+ירקרקים
+
+צצים פתע
+ממחשכים;
+
+פתאם שוקעים
+הם וכלים
+
+ותחתיהם
+עולים סמלים 
+
+מגשמים
+ומתעבים,
+
+עקלים,
+עקמים ומשרבבים...
+
+ 
+
+רגע זעים הם
+בחשכה
+
+צפופים,
+דחוקים ונערמים,
+
+אז ירימו צחוק
+של חצפה,
+
+צחוק
+בל-נשמע – ונעלמים.
+
+ 
+
+באפלה
+שתיקה גאה;
+
+הכל ישוב
+לקדמותו:
+
+שר-החשך
+פורש כנפיו,
+
+כונס הכל אל
+רשותו.
+
+ 
+
+אך בלבי,
+הה! בלבי
+
+כבר
+התרשמו החזיונות,
+
+ובקדקדי
+כבר מתפתל
+
+מחול-שגעון
+של עשתונות...
+
+ 
+
+זדולבונובה,  תרס"ט
+
+ 
+
+ 
+
+
+
+
+
+ 
+
+
+
+
+
+
+</body>
+   </text>
+</TEI>

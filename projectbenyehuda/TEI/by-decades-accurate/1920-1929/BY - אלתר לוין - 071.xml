@@ -1,0 +1,200 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>כה אמר</title>
+            <author>אלתר לוין</author>
+            <respStmt>
+               <name>Mandel Scholion Hebrew Revival Research Group</name>
+               <resp>Formatting of content from the Ben-Yehuda Project to TEI-XML according to the TEI P5 Guidelines.
+                  Addition of dates, not present in the online version, by Shira Wigderson, Asaf Isser, Adi Cohen, Nitzan Cohen, and Adi Cohen.
+               </resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <authority>Project Ben-Yehuda</authority>
+            <idno>http://benyehuda.org/levin/071.html</idno>
+         </publicationStmt>
+         <sourceDesc xml:lang="Hebrew">
+            <bibl>
+               <date when="1920" notBefore="1920-01-01" notAfter="1920-12-31"/>
+            </bibl>
+            <p>The Ben-Yehuda Project (http://benyehuda.org/). Content provided within the Ben-Yehuda Hackathon at the University of Haifa (THATCamp Haifa, February 2014).</p>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <change>
+            <date>2018-11-01</date>
+            <name>Omer Waldman</name>
+            <note>Correction of previously annotated dates and addition of dates to majority of the works</note>
+         </change>
+         <change>
+            <date>2017-08-09</date>
+            <name>Jerusalem corpus of Emergent Modern Hebrew (JEMH) staff</name>
+            <note>Created the initial version of the content in TEI-XML and added dates (some based on estimation)</note>
+         </change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+
+
+
+
+
+
+
+כה אמר / אלתר לוין
+
+
+
+
+
+
+
+
+כה אמר
+
+אלתר
+לוין
+
+ 
+
+כה אמר נביא הארץ
+
+לגולים הרחוקים
+הנפוצים מים ועד ים:
+
+יען היותכם מתאבלים
+
+על ארצי וזכר
+לחרבני הצבתם
+
+והתפללתם אלי
+
+דרך הר קדשי,
+בנשאכם נשמותיכם קדמה
+
+דורון למזרח השמש;
+
+יען מאסכם באלהים
+אחרים ומענים,
+
+אורבי נפשותיכם
+
+ולא שריתם ככהנים
+בגדים במקדש אל נכר
+
+המטה לבבכם מביתי;
+
+לא מתם במדבר
+המות ללא אל, ללא ארץ
+
+               והנכם
+חיים היום
+
+ובמצפון הלבב
+עוד יבער עמוד האש
+
+            שגלה
+אתכם מארצכם;
+
+לא נואשתם מכאב
+בכאב הרוח ונפש,
+
+            בעבר
+קבעת היגון,
+
+ודבקים בקדשי
+נביאי צפיתם לישועה,
+
+לגאלה וימות המשיח:
+
+לכן, חי אני! נאם
+אדני אלהי ישראל,
+
+כי אצוה לשמש
+
+והלקיתיו בששים
+שבטי אש יוקדים
+
+            למען
+יצא ויזרח לכם!
+
+וצויתי ללבנה,
+בטהרי כתמי פגימתה,
+
+            והגיהה
+לכם לילותיכם!
+
+ופגשו צהרי
+כוכבים בתימור החמה,
+
+אורות באורות נגעו!
+
+וקראתי דרור לכם,
+בנתצי סבלי הברזל,
+
+            והבאתי
+גולים רחוקים
+
+על דכיי ים ועל
+רכבי האש הלבנה
+
+            הכרוכה
+בצפת הגלים
+
+ועל גבי דלפנים
+ענקים, חוצבי הרהב,
+
+והביאותיכם אל ארצי!
+
+ראו: רעשו דלתים
+ובריח, נפתח שער הזהב
+
+            ותפלותיכם
+לא גועו בים!...
+
+הלבין לשון הזהורית,
+נר מזרחי הדליק,
+
+            נפתחו
+גנזי הזיוים
+
+יוצאי היכל הבדלח,
+רבאות מגני הזהב,
+
+            גם
+לחשו כרובי נחמה!
+
+וממעל להרי
+ישראל שפים ומנסרים,
+
+            במרומי
+שמים באדיר,
+
+נשרי משיח הקוראים
+בתרועת בצרון
+
+            וקרבים
+אליכם בסערה!
+
+ 
+
+ 
+
+
+
+
+
+ 
+
+
+
+
+
+
+</body>
+   </text>
+</TEI>

@@ -1,0 +1,158 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>השב ושלשת הנערים</title>
+            <author>יהודה ליב גורדון</author>
+            <respStmt>
+               <name>Mandel Scholion Hebrew Revival Research Group</name>
+               <resp>Formatting of content from the Ben-Yehuda Project to TEI-XML according to the TEI P5 Guidelines.
+                  Addition of dates, not present in the online version, by Shira Wigderson, Asaf Isser, Adi Cohen, Nitzan Cohen, and Adi Cohen.
+               </resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <authority>Project Ben-Yehuda</authority>
+            <idno>http://benyehuda.org/yalag/yalag_147.html</idno>
+         </publicationStmt>
+         <sourceDesc xml:lang="Hebrew">
+            <bibl>
+               <date when="1859" notBefore="1859-01-01" notAfter="1859-12-31"/>
+            </bibl>
+            <p>The Ben-Yehuda Project (http://benyehuda.org/). Content provided within the Ben-Yehuda Hackathon at the University of Haifa (THATCamp Haifa, February 2014).</p>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <change>
+            <date>2018-11-01</date>
+            <name>Omer Waldman</name>
+            <note>Correction of previously annotated dates and addition of dates to majority of the works</note>
+         </change>
+         <change>
+            <date>2017-08-09</date>
+            <name>Jerusalem corpus of Emergent Modern Hebrew (JEMH) staff</name>
+            <note>Created the initial version of the content in TEI-XML and added dates (some based on estimation)</note>
+         </change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+
+
+
+
+
+
+
+השב ושלשת הנערים  / י"ל גורדון
+
+
+
+
+
+
+
+
+השב ושלשת
+הנערים
+
+נפישי גמלי סבי דטעיני משכי דהונגי (סנהדרין נ"ב.)
+
+ 
+
+שלשה נערים
+על פרדס עברו
+
+ויראו איש זקן
+אשל נוטע:
+
+"בן שבעים
+לנטוע?" – אליו אמרו –
+
+"אין זאת כי
+אם הנך משתגע!
+
+העוד תוחיל לאכל
+מפרי האשל?
+
+התאמר האריך
+ימים כמתושלח?
+
+וכבר הן שבת
+ותבא בכלח,
+
+עוד מצער ואלוה
+את נפשך ישל
+
+ומה העבודה הזאת
+לך עתה?
+
+אתם הישישים
+קדמוניות התכוננו
+
+ועתידת לחוש
+לנו הנערים הניחו".
+
+לכם העתידת? –
+ענם רב הדעת –
+
+הידעתם אל נכון
+כי ימים תאריכו?
+
+הן חרב המות
+לכל מרטה,
+
+ומי זה יודע מי
+מכלנו
+
+יהיה ראשונה
+אכל לתולעת?
+
+ואני לא לי כיום
+עץ זה אטעה
+
+כי אם לדור אחרון
+יקום תחתני,
+
+הוא יאכל פריו
+– יאכל ויברכני,
+
+וברכתו הוא פריי
+מעמלי אשבעה;
+
+אך אולי עוד ימים
+רבים אחריכם
+
+אתהלכה לשוח
+על קברותיכם!
+
+וכדברו כן היה.  כי קדמם המות
+
+ושלשתם מתו
+בנעוריהם,
+
+ובן-השבעים
+חרת על קבריהם
+
+דברי זה המשל
+על המצבת.
+
+ 
+
+ 
+
+
+
+
+
+ 
+
+
+
+
+
+
+</body>
+   </text>
+</TEI>

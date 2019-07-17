@@ -1,0 +1,133 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>אותותינו ראינו עוד נביא לבב חכמה, כי אין אתנו יודע עד מה</title>
+            <author>רחל מורפורגו</author>
+            <respStmt>
+               <name>Mandel Scholion Hebrew Revival Research Group</name>
+               <resp>Formatting of content from the Ben-Yehuda Project to TEI-XML according to the TEI P5 Guidelines.
+                  Addition of dates, not present in the online version, by Shira Wigderson, Asaf Isser, Adi Cohen, Nitzan Cohen, and Adi Cohen.
+               </resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <authority>Project Ben-Yehuda</authority>
+            <idno>http://benyehuda.org/morpurgo/morp03.html</idno>
+         </publicationStmt>
+         <sourceDesc xml:lang="Hebrew">
+            <bibl>
+               <date when="1837" notBefore="1837-01-01" notAfter="1837-12-31"/>
+            </bibl>
+            <p>The Ben-Yehuda Project (http://benyehuda.org/). Content provided within the Ben-Yehuda Hackathon at the University of Haifa (THATCamp Haifa, February 2014).</p>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <change>
+            <date>2018-11-01</date>
+            <name>Omer Waldman</name>
+            <note>Correction of previously annotated dates and addition of dates to majority of the works</note>
+         </change>
+         <change>
+            <date>2017-08-09</date>
+            <name>Jerusalem corpus of Emergent Modern Hebrew (JEMH) staff</name>
+            <note>Created the initial version of the content in TEI-XML and added dates (some based on estimation)</note>
+         </change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+
+
+
+
+
+
+
+אותותינו ראינו עוד נביא לבב חכמה, כי / רחל מורפורגו
+
+
+
+ 
+
+
+
+
+  
+  
+
+
+אותותינו ראינו עוד
+נביא לבב חכמה, כי אין אתנו יודע עד מה
+
+ 
+
+דרך כוכב
+מיעקב
+
+ולמישור היה
+העקב
+
+ואמר סלו
+פנו דרך
+
+גם לפניו
+תכרע כל ברך
+
+ 
+
+צץ ופרח ארץ
+מדבר
+
+העמקים
+יעטפו-בר
+
+עמוד השחר הן
+עלה
+
+פקד יפקד את
+אילה
+
+ 
+
+עץ השדה
+נשא פריו
+
+ומה-טובו
+ומה-יפיו
+
+הוא שוב ישיב
+חיש את שביו
+
+ 
+
+יחד נשיר את
+שירתנו
+
+כי אל שדי
+בעזרתנו
+
+ואז נאמר מי
+כמותנו?
+
+               
+ומי כעמך ישראל
+
+                                                          
+
+ה'תקצ"ז,
+1837
+
+ 
+
+
+
+
+
+
+
+
+</body>
+   </text>
+</TEI>

@@ -1,0 +1,203 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>ביקור חולים</title>
+            <author>יהודה ליב גורדון</author>
+            <respStmt>
+               <name>Mandel Scholion Hebrew Revival Research Group</name>
+               <resp>Formatting of content from the Ben-Yehuda Project to TEI-XML according to the TEI P5 Guidelines.
+                  Addition of dates, not present in the online version, by Shira Wigderson, Asaf Isser, Adi Cohen, Nitzan Cohen, and Adi Cohen.
+               </resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <authority>Project Ben-Yehuda</authority>
+            <idno>http://benyehuda.org/yalag/ylg179.html</idno>
+         </publicationStmt>
+         <sourceDesc xml:lang="Hebrew">
+            <bibl>
+               <date when="1859" notBefore="1859-01-01" notAfter="1859-12-31"/>
+            </bibl>
+            <p>The Ben-Yehuda Project (http://benyehuda.org/). Content provided within the Ben-Yehuda Hackathon at the University of Haifa (THATCamp Haifa, February 2014).</p>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <change>
+            <date>2018-11-01</date>
+            <name>Omer Waldman</name>
+            <note>Correction of previously annotated dates and addition of dates to majority of the works</note>
+         </change>
+         <change>
+            <date>2017-08-09</date>
+            <name>Jerusalem corpus of Emergent Modern Hebrew (JEMH) staff</name>
+            <note>Created the initial version of the content in TEI-XML and added dates (some based on estimation)</note>
+         </change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+
+
+
+
+
+
+
+ביקור חולים / יהודה ליב גורדון
+
+
+
+ 
+
+
+
+
+  
+  
+
+
+בקור חלים /
+יהודה ליב גורדון
+
+ 
+
+הצבי חלה וישכב
+בפאת ערש
+
+וצבא צבאים רבים
+לראותו באו,
+
+ויקיפהו ויתחרשו
+חרש,
+
+לא בעבור גהה
+למזרו ימצאו,
+
+כי אם איש אל
+אחיו ספרו, ערכו,
+
+קרת בתימו וחדשות
+צמחו.
+
+"הה – קרא
+החלה – אנא צאוני
+
+ובשלום למות
+כיום הניחוני!"
+
+אך אל קול תחנוניו
+הם לא שמעו,
+
+כי לראות אותו
+עוד רבים נקהלו
+
+ובשבתם שם
+הן רעב לא ישאו!
+
+כי כל אשר מצאו
+בלעו אכלו,
+
+כל טרפי כל
+עץ עם נצניו רעו,
+
+כל צמח כל דשא
+בשדה הזרע:
+
+לא יעזבהו משם
+לא ילכו
+
+עדי כל עשב השדה
+לחכו,
+
+או אז נפצו מעליו,
+וירע
+
+זה לצבי יותר
+ממחלתו,
+
+כי עתה אין לו
+כל לאכל לשבע,
+
+והוא לא יוכל
+קום ממטתו,
+
+ויהי גורלו ברעב
+לגוע
+
+ 
+
+דומה רופא לצבי!  עת יחלה גבר
+
+רפאי אלל רבים
+עליו נזעקו
+
+– בלתם לא ידע
+הדרך לקבר –
+
+הונו עם אונו כעלוקות
+יינקו,
+
+ומאומה לא יועילו,
+
+את נפשו לא יצילו!
+
+גם עוד רעה זאת
+חולה בין אנשים
+
+(מדי דברי גם
+זאת לפניהם אשים!)
+
+עת נתחל עד שערי
+מות נגיע,
+
+בגדל המחלה
+עד כי אין מושיע,
+
+אזי יבאו רבים
+לראותנו,
+
+אויבי נפשנו
+אתנו ישלמו
+
+וקרובינו הגאים
+עינימו רמו
+
+לא דרכו עד כה
+על מפתן ביתנו.
+
+גש-הלאה, דור
+תהפכות ומתי-תבל!
+
+למה עת נחיה
+תרוונו עצבת
+
+עד נקוץ בחיים,
+נשאף המות,
+
+ובהגיע יומנו
+לעזוב תבל
+
+תשובו ותיפו
+לנו פניה,
+
+עד יכבד לנו
+הפרד מעליה.
+
+ 
+
+
+
+
+
+ 
+
+
+
+
+
+
+</body>
+   </text>
+</TEI>

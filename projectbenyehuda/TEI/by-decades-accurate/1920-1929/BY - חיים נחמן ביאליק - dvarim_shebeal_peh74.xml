@@ -1,0 +1,126 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>דברי פתיחה</title>
+            <author>חיים נחמן ביאליק</author>
+            <respStmt>
+               <name>Mandel Scholion Hebrew Revival Research Group</name>
+               <resp>Formatting of content from the Ben-Yehuda Project to TEI-XML according to the TEI P5 Guidelines.
+                  Addition of dates, not present in the online version, by Shira Wigderson, Asaf Isser, Adi Cohen, Nitzan Cohen, and Adi Cohen.
+               </resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <authority>Project Ben-Yehuda</authority>
+            <idno>http://benyehuda.org/bialik/dvarim_shebeal_peh74.html</idno>
+         </publicationStmt>
+         <sourceDesc xml:lang="Hebrew">
+            <bibl>
+               <date when="1925" notBefore="1925-01-01" notAfter="1925-12-31"/>
+            </bibl>
+            <p>The Ben-Yehuda Project (http://benyehuda.org/). Content provided within the Ben-Yehuda Hackathon at the University of Haifa (THATCamp Haifa, February 2014).</p>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <change>
+            <date>2018-11-01</date>
+            <name>Omer Waldman</name>
+            <note>Correction of previously annotated dates and addition of dates to majority of the works</note>
+         </change>
+         <change>
+            <date>2017-08-09</date>
+            <name>Jerusalem corpus of Emergent Modern Hebrew (JEMH) staff</name>
+            <note>Created the initial version of the content in TEI-XML and added dates (some based on estimation)</note>
+         </change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+
+
+
+
+
+
+
+דברי פתיחה – (בנשף לכ' צ'רניחובסקי ושניאור, אייר תרפ"ה) / ח"נ
+ביאליק
+
+
+
+
+
+
+
+
+דברי פתיחה
+
+ח"נ ביאליק
+
+
+
+ 
+
+
+
+
+ 
+  
+  (בנשף לכ'
+  צ'רניחובסקי ושניאור, אייר תרפ"ה)
+  אחד מן המשוררים המשתתפים בנשף הזה קרא לי פעם
+  בפיליטוניו "שר המסכים", ואולם לפני עשרים שנה הייתי אני "שר
+  המסכים" למשורר זה עצמו, ועכשיו כעבור עשרים שנה זכיתי לשם אחר, לשם
+  "ר' פתחיה".  בגורלי עלה
+  הפעם לפתוח את הנשף הזה ולהציג לפני הקהל את שני המשוררים, שהם אורחים יקרים
+  אצלנו.  אמנם המשורר האמתי איננו
+  אורח בשום מקום.  נפגשים אתו בספר,
+  מתבודדים אתו ומושפעים ממנו.  הם ­–
+  הלב והנפש של כל העם.  אבל מנהג זה
+  הוא "להפגש" עם המשוררים בהמון, ואין לזלזל איפוא במנהג זה.  ומודה אני למסדרי הנשף הזה שהזמינו
+  אותי לפתוח אותו.  
+  רוצה
+  אני לעמוד בנשף זה על שתי נקודות עיקריות של השירה העברית.  אלו באתי לסמן את שתי התקופות של
+  שירתנו, זו שלפני שירתנו החדשה, וזו של שירתנו החדשה, הייתי אומר שהשירה של
+  התקופה הראשונה היתה – סולו.  תמיד
+  היה משורר אחד גדול שבלע את המשוררים שבימיו.  מלבדו היתה כל השירה מונוטונית, לכל המשוררים היה פרצוף אחד.  אולם השירה בימינו היא מקהלה רבת צבעים
+  ורבת אוקטבות.  אין להכחיש בשום
+  פנים, כי הפלא היותר גדול נעשה בפנה זו, במקצוע השירה העברית.  אין צורך להיות ענותנים ביותר, שלא
+  להכיר ברכוש הרב שהשיגה ספרותנו במקצוע זה, יכולים אנו להתחרות בזה עם הספרויות
+  היותר עשירות באירופה.  ועם כל זה
+  שיש לנו מקהלה גדולה של משוררים, שכל אחד יש לו פרצוף שלו ונוסח שלו.  לא יצאה שירתנו לרשות הרבים ולא נעשתה
+  לקנין כל העם.  כל תקופה הכניסה
+  המון שירים ופזמונים שחיו בפי העם. 
+  הזמירות של שבת, הפיוטים והתפילות והתחינות, אף-על-פי שהם שירים דתיים,
+  שר אותם העם תמיד ובכל עת, הם היו תמיד בפיו.  אבל לא זכינו לכך, שהשירה החדשה שלנו תבלע בפי העם – זו
+  הטרגדיה של ימינו.  ועוד תעבורנה
+  שנים רבות, עד שהשירה החדשה תתעכל בעם. 
+  רק כאן בא"י, במקום שבו הפכו את החיים לשירה, תהפך השירה לחיים.  ומי יתן ונזכה בקרוב לשירת-העלילה,
+  שירת האפוס שלנו, שהיא נובעת מן החיים. 
+  
+  
+ 
+
+
+
+
+ 
+
+
+
+
+
+ 
+
+ 
+
+
+
+
+
+
+</body>
+   </text>
+</TEI>

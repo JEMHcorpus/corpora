@@ -1,0 +1,397 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>לבנות שפיה</title>
+            <author>חיים נחמן ביאליק</author>
+            <respStmt>
+               <name>Mandel Scholion Hebrew Revival Research Group</name>
+               <resp>Formatting of content from the Ben-Yehuda Project to TEI-XML according to the TEI P5 Guidelines.
+                  Addition of dates, not present in the online version, by Shira Wigderson, Asaf Isser, Adi Cohen, Nitzan Cohen, and Adi Cohen.
+               </resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <authority>Project Ben-Yehuda</authority>
+            <idno>http://benyehuda.org/bialik/bia120.html</idno>
+         </publicationStmt>
+         <sourceDesc xml:lang="Hebrew">
+            <bibl>
+               <date when="1926" notBefore="1926-01-01" notAfter="1926-12-31"/>
+            </bibl>
+            <p>The Ben-Yehuda Project (http://benyehuda.org/). Content provided within the Ben-Yehuda Hackathon at the University of Haifa (THATCamp Haifa, February 2014).</p>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <change>
+            <date>2018-11-01</date>
+            <name>Omer Waldman</name>
+            <note>Correction of previously annotated dates and addition of dates to majority of the works</note>
+         </change>
+         <change>
+            <date>2017-08-09</date>
+            <name>Jerusalem corpus of Emergent Modern Hebrew (JEMH) staff</name>
+            <note>Created the initial version of the content in TEI-XML and added dates (some based on estimation)</note>
+         </change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+
+
+
+
+
+
+
+לבנות שפיה / חיים נחמן ביאליק
+
+
+
+
+
+
+
+
+
+
+
+
+לבנות
+שפיה
+
+ 
+
+אם
+אין
+לבותיכם
+ערלים,
+
+ויש
+בקדקדכם
+מעט דעה
+–
+
+השבעתיכם,
+חלוצים
+עצלים,
+
+הפשילו
+על שכם
+הכלים
+
+וקמתם
+ועליתם
+לשפיה.
+
+ 
+
+בשפיה
+יש
+חרשת
+בני-ארן
+
+וסכה
+לצל
+ולמרגעה.
+
+ומה
+עוד
+בשפיה?
+חצי גרן,
+
+שליש
+אכר
+מטיל
+במקטרן,
+
+ומעין
+אט זוחל
+באשברן,
+
+עץ
+יבש על
+ראש הר
+כתרן,
+
+בחורים
+כמלא
+הצפרן,
+
+אך
+בנות
+בשפיה –
+כמאה.
+
+ 
+
+כפר
+בודד לו
+שפיה –
+מי
+דורשה?
+
+ופלאים
+לא מעט
+בה: עז
+חורשה,
+
+סריס
+תרנגול,
+חתולה
+צולעה,
+
+אך
+פלא
+פלאיה
+–החרשה,
+
+והבנות
+בחרשה –
+כמאה.
+
+ 
+
+לא
+בנות, כי
+פארות
+עלי עין,
+
+עינים?
+לא, ענבי
+היין
+
+יציצו
+בך מכל
+פאה;
+
+הבחור!
+אל תישן,
+שא עין
+
+ואל
+תצא
+בגפך
+משפיה.
+
+ 
+
+כאילות
+השדה
+וצבאות
+
+תגדלנה
+בין
+סלעים
+וגבעות, –
+
+לא
+אב ולא אם
+לבנות
+שפיה;
+
+אחיותן
+– צפרים
+ולטאות,
+
+ואחיהן
+– כוכבים
+בשמי-יה.
+
+ 
+
+רבות
+בנות
+כרך
+המלמדות
+–
+
+ונבונות
+מכלן
+בנות
+שפיה.
+
+בכל-מדע
+להן עשר
+ידות:
+
+הן
+שומעות
+שפת
+גנים
+ושדות
+
+ושיחת
+הקמה
+המלאה.
+
+ 
+
+עם
+צאת
+כוכבי
+לילי
+שבתות
+
+במאת
+זוגות
+עיני
+בנות
+שפיה
+
+מאתים
+שלהבות
+נצתות; –
+
+לו
+ראן
+הנביא
+מענתות
+
+ורפא
+לרוחו
+הנכאה.
+
+ 
+
+היה
+ברוך, ליל
+שבת
+מצנן,
+
+בא,
+מחה מעל
+פנים
+הזעה,
+
+בא,
+טהר
+המצח
+המענן –
+
+ועד
+חצות
+הלילה
+ירנן
+
+וירעע
+ויכרכר
+בשפיה.
+
+ 
+
+וכי
+תפגש
+בת
+שפיה
+לבדה,
+
+עמוסה
+בכדה
+המלאה –
+
+אל
+תגע
+בה ידך
+הטמאה,
+
+פן
+תרץ
+קדקדך
+בכדה;
+
+אסורה
+במגע
+בת-שפיה.
+
+ 
+
+או
+ישרה
+בעיניך
+הנערה?
+
+מי?
+חנה,
+צפורה
+או לאה?
+
+מה-תשתע,
+הגלם?
+התנערה
+
+ועלה
+כדת משה
+השערה,
+
+וארשת
+לעולם
+בת-שפיה.
+
+ 
+
+אך
+אוי
+ואבוי לו
+לעיט
+
+השב
+מן
+החרשה
+בשפיה
+
+ונפשו
+שוקקה
+וצמאה
+
+ובכפיו
+אין טרף
+וציד:
+
+לא
+צביה, לא
+גדיה, לא
+שיה.
+
+ 
+
+ואבוי
+לך,
+בן-הבליעל,
+
+אם
+תכלים
+בנות
+עמך
+בשפיה;
+
+בעמיך
+לא תהיה
+עוד בעל,
+
+"צא!"
+יאמרו
+לך, "צא
+חלוץ-נעל!
+
+הפשילה
+כליך
+וצאה!"
+
+ 
+
+שפיה,
+ט"ו באלול,
+תרפ"ו.
+
+
+
+
+
+  
+
+
+</body>
+   </text>
+</TEI>

@@ -1,0 +1,129 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>אוי, מלב בוקעת...</title>
+            <author>חיים נחמן ביאליק</author>
+            <respStmt>
+               <name>Mandel Scholion Hebrew Revival Research Group</name>
+               <resp>Formatting of content from the Ben-Yehuda Project to TEI-XML according to the TEI P5 Guidelines.
+                  Addition of dates, not present in the online version, by Shira Wigderson, Asaf Isser, Adi Cohen, Nitzan Cohen, and Adi Cohen.
+               </resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <authority>Project Ben-Yehuda</authority>
+            <idno>http://benyehuda.org/bialik/izavon_poems_044.html</idno>
+         </publicationStmt>
+         <sourceDesc xml:lang="Hebrew">
+            <bibl>
+               <date when="1899" notBefore="1899-01-01" notAfter="1899-12-31"/>
+            </bibl>
+            <p>The Ben-Yehuda Project (http://benyehuda.org/). Content provided within the Ben-Yehuda Hackathon at the University of Haifa (THATCamp Haifa, February 2014).</p>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <change>
+            <date>2018-11-01</date>
+            <name>Omer Waldman</name>
+            <note>Correction of previously annotated dates and addition of dates to majority of the works</note>
+         </change>
+         <change>
+            <date>2017-08-09</date>
+            <name>Jerusalem corpus of Emergent Modern Hebrew (JEMH) staff</name>
+            <note>Created the initial version of the content in TEI-XML and added dates (some based on estimation)</note>
+         </change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+
+
+
+
+
+
+
+אוי, מלב בוקעת... / חיים נחמן ביאליק
+
+
+
+ 
+
+
+
+
+  
+  
+
+
+אוי, מלב
+בוקעת... / חיים נחמן ביאליק
+
+ 
+
+אוי מלב בוקעת עוד אנחה אחת
+
+על מחשכי עולם, על משואות נצח.
+
+זכר חיי רקב כמדקרות מחט
+
+יפגע מכות לבי – ובלבבי רצח.
+
+ 
+
+אזכר: על-יד דרך עומד בית-מרזח
+
+גלמוד וערירי ובבית פנימה
+
+מהומת סבואים תמיד, חדרי קיא ולח,
+
+אויר כלו משקה, זלות אנוש רמה...
+
+ 
+
+אזכר: שלחן מגאל, מקף משוכת-קנים,
+
+חביות, בקבוקים, צל יהודי זעף,
+
+צל יהודי מוזג, אב לחמישה בנים,
+
+כלו פשתה כהה, נקשה, דל ויעף.
+
+ 
+
+אזכר: איזה ספר גדול ופתוח
+
+היה מנח תמיד שמה על שלחנו,
+
+בין מצהלות סבואים בקש חיי רוח
+
+שם בתוך הספר, שם בו כל מעינו.
+
+ 
+
+ובהשתקעו שמה, כמו ענותו סרה,
+
+מצחו התרחבה, אורו שתי בבותיו;
+
+לא! לא מוזג אני! – כל מראהו קרא,
+
+לא לכך נוצרתי! – אמרו כל עצמותיו.
+
+ 
+
+
+
+
+
+ 
+
+
+
+
+
+
+</body>
+   </text>
+</TEI>
