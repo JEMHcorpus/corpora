@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_minimal.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_minimal.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-stylesheet type="text/css" href="../Oxygen%20XML%20Editor%2016/frameworks/tei/xml/tei/css/tei.css"?>
+<?xml-stylesheet type="text/css" href="nli-transcription.css"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>מקומות מגורים זמניים לעולים</title>
+            <author>ועד הקהלה העברית בחיפה</author>
+            <respStmt>
+               <name>Mandel Scholion Hebrew Revival Research Group</name>
+               <resp>Transcription of digital file</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <authority>JEMH</authority>
+            <availability><licence target="https://creativecommons.org/licenses/by/4.0/">CC-BY 4.0</licence></availability>
+         </publicationStmt>
+         <sourceDesc xml:lang="Hebrew">
+	<msDesc>
+		<msPart>
+			<msIdentifier>
+				<repository>National Library of Israel</repository>
+				<collection>"Time Travel" Ephemera Collection</collection>
+				<idno>700173360</idno>
+			</msIdentifier>
+		</msPart>
+	</msDesc>
+            <bibl>
+               <date when="1945-08-24"></date>
+               <distributor>ארכיון העיר חיפה</distributor>
+               <pubPlace>חיפה</pubPlace>
+            </bibl>
+         </sourceDesc>
+                  </fileDesc>
+      <revisionDesc>
+         <change>
+            <date>2017-08-09</date>
+            <name>Jerusalem corpus of Emergent Modern Hebrew (JEMH) staff</name>
+            <note>Created the initial version of the content in TEI-XML</note>
+         </change>
+      </revisionDesc>
+
+  </teiHeader>
+  <text>
+      <body>
+         <opener>ליהודי חיפה!</opener>
+         <p>בשבועות ובחדשים הקרובים עומדים להגיע ארצה אלפים עולים (כן ירבו!) מהם רבים משרידי הפליטה שלנו בארצות אירופה, אשר עליתם אלינו הוא הכרח דחוף להצלתם מצפרני המות.</p>
+         <p>הישוב כולו המצפה בכליון עינים לשיבת "בנים לגבולם" יקבל את המוצלים, אחד מעיר ושנים מכרך, בזרועות פתוחות מתוך התרגשות גיל ושמחה, ומתוך דאגת אחים להקלת התאקלמותם והתערותם בתוכנו.</p>
+         <p>חלק לא קטן מאחינו ואחיותינו אלה יקלטו בחיפה: אנו מצווים לדאוג בעוד מועד לפתרון הבעיה הראשונה שצפה עם כל עליה - בעית השכון.</p>
+         <p>הסוכנות היהודית מכינה מאות בתי-מגורים בחיפה ובסביבתה. אולם יש לדאוג לשכונם הזמני עד אשר יוכלו לעבור לדירות הקבע המיועדות בשבילם.</p>
+         <p>למטרה זו אנו קוראים לכל יהודי חיפה רבתי להעמיד לרשות העולים (תמורת שכר-דירה או חנם) מקומות מגורים - מדירה שלמה עד חלק מחדר - לתקופה מחדש אחד עד ששה חדשים ולהודיע על כך מיד ללשכת העליה של הסוכנות.</p>
+         <p>הסוכנות היהודית מקבלת על עצמה את האחריות הגמורה לפנות במועד הקבוע את מקום השכון הזמני שהועמד לרשות העולה.</p>
+         <p>אנו תקוה, כי כל אחד בעירנו יצטופף בדירתו לפי מיטב יכלתו למען יוכלו להיענות לצו השעה: דירה, חדר, פנה למעונים=הגאולים</p>
+         <closer>
+ועד הקהלה העברית בחיפה
+            <dateline>
+               <date>ט"ו אלול תש"ה  24.8.45</date>
+               <name type="place">חיפה</name>
+            </dateline>
+         
+         דפוס "אמנות" חיפה הדר רח' סוקולוב א7
+      </closer>
+</body>
+  </text>
+</TEI>

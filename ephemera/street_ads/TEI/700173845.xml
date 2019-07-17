@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_minimal.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_minimal.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-stylesheet type="text/css" href="../Oxygen%20XML%20Editor%2016/frameworks/tei/xml/tei/css/tei.css"?>
+<?xml-stylesheet type="text/css" href="nli-transcription.css"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>עמוד נצחון</title>
+            <author>מזכיר העיר חיפה</author>
+            <respStmt>
+               <name>Mandel Scholion Hebrew Revival Research Group</name>
+               <resp>Transcription of digital file</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <authority>JEMH</authority>
+            <availability><licence target="https://creativecommons.org/licenses/by/4.0/">CC-BY 4.0</licence></availability>
+         </publicationStmt>
+         <sourceDesc xml:lang="Hebrew">
+	<msDesc>
+		<msPart>
+			<msIdentifier>
+				<repository>National Library of Israel</repository>
+				<collection>"Time Travel" Ephemera Collection</collection>
+				<idno>700173845</idno>
+			</msIdentifier>
+		</msPart>
+	</msDesc>
+            <bibl>
+               <date when="1950-04-09"></date>
+               <distributor>ארכיון העיר חיפה</distributor>
+               <pubPlace>חיפה</pubPlace>
+            </bibl>
+         </sourceDesc>
+                  </fileDesc>
+      <revisionDesc>
+         <change>
+            <date>2017-08-09</date>
+            <name>Jerusalem corpus of Emergent Modern Hebrew (JEMH) staff</name>
+            <note>Created the initial version of the content in TEI-XML</note>
+         </change>
+      </revisionDesc>
+
+  </teiHeader>
+  <text>
+      <body>
+         <note>5/6/1</note>
+         <dateline>
+            <date>כ"ב ניסן תש"י (9.4.50)</date>
+         </dateline>
+         <opener>לכבוד חברת החשמל לא"י בע"מ חיפה.</opener>
+         <opener>א. נ.,</opener>
+         <p>במסגרת חגיגות יום העצמאות השנה החל, לפי התאריך הלועזי, ביום שחרור חיפה (23.4.50) הוחלט להקים על יד בית נג'אדה המפורסם מימי הקרבות עמוד נצחון.</p>
+         <p>עמוד זה יסמל את נצחון שחרור העיר אשר כידוע לכם הקרב על בית נג'אדה היה האות הראשון לזכרון לקרבנות אשר נפלו בקרב זה.</p>
+         <p>בכדי לקיים פעולה זו דרוש לנו עמוד חשמל מרובע בגובה 12 מטר. פועלי העיריה יכינו את הבור המתאים לכך ונודה לכם באם תואילו להקים לנו את העמוד הזה.</p>
+         <p>אנו אחראים לשלמותו של העמוד הנ"ל עד החזרתו אליכם.</p>
+         <p>בדבר פרטים טכניים יפנה אליכם בא כוחו של מהנדס העיר.</p>
+         <p>בתודה מראש על היענותכם האדיבה.</p>
+         <closer>
+בכבוד רב 
+      
+      מזכיר העיר
+      </closer>
+</body>
+  </text>
+</TEI>

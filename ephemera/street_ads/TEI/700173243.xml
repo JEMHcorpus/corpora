@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_minimal.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_minimal.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-stylesheet type="text/css" href="../Oxygen%20XML%20Editor%2016/frameworks/tei/xml/tei/css/tei.css"?>
+<?xml-stylesheet type="text/css" href="nli-transcription.css"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>צו השעה - משמעת</title>
+            <author>ועד הקהלה חיפה, ועדת המצב</author>
+            <respStmt>
+               <name>Mandel Scholion Hebrew Revival Research Group</name>
+               <resp>Transcription of digital file</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <authority>JEMH</authority>
+            <availability><licence target="https://creativecommons.org/licenses/by/4.0/">CC-BY 4.0</licence></availability>
+         </publicationStmt>
+         <sourceDesc xml:lang="Hebrew">
+	<msDesc>
+		<msPart>
+			<msIdentifier>
+				<repository>National Library of Israel</repository>
+				<collection>"Time Travel" Ephemera Collection</collection>
+				<idno>700173243</idno>
+			</msIdentifier>
+		</msPart>
+	</msDesc>
+            <bibl>
+               <date when="1947-12-15"></date>
+               <distributor>ארכיון העיר חיפה</distributor>
+               <pubPlace>חיפה</pubPlace>
+            </bibl>
+         </sourceDesc>
+                  </fileDesc>
+      <revisionDesc>
+         <change>
+            <date>2017-08-09</date>
+            <name>Jerusalem corpus of Emergent Modern Hebrew (JEMH) staff</name>
+            <note>Created the initial version of the content in TEI-XML</note>
+         </change>
+      </revisionDesc>
+
+  </teiHeader>
+  <text>
+      <body>
+         <opener>ליהודי חיפה!</opener>
+         <opener>אחים!</opener>
+         <p>פסק דין בלתי משוחד של הרוב המכריע של אומות העולם הכיר בזכותו של עם ישראל לעצמאות בחלקה הגדול של הארץ. ההכרעה נפלה והישוב העברי בארץ צועד קוממיות לקראת הקמת מדינתו וקליטת עליה המונית. קמו כוחות המנסים להטביע בדם את ראשית צעדנו. באון עומד הישוב נגד התקפות של הכנופיות השונות, מתגונן בכבוד ומשיב מכה על מכה.</p>
+         <p>אולם לא רק במבחן הכוח נבחן, כי אם גם בגרותנו המדינית עומדת במבחן.</p>
+         <p>לכן אנו קוראים לישוב העברי בחיפה:  א. להמנע מהפצת שמועות ויצירת בהלה.  ב. להמנע מכל התקהלויות והסתכנות מיותרת. ג. להשמע להוראות הסדרנים מטעם "משמר העם" ללא כל וכוח.  ד. לא לעזוב מקומות מגורים או עבודה בלי הוראה מפורשת של מוסדות מוסמכים.  ה. לא לפלוש לבתים זרים בין יהודיים ובין ערביים.</p>
+         <p>המוסדות מודיעים:  א. העוזבים את דירותיהם על דעת עצמם לא ייענו ולא ייעזרו ע"י מוסדות שכון.  ב. הפולשים לדירות זרות יוצאו משם.</p>
+         <p>משמעת - היא צו השעה!</p>
+         <closer>
+ועד הקהלה, חיפה
+ועדת המצב
+            <dateline>
+               <date>זאת חנוכה תש"ח</date>
+            </dateline>
+      </closer>
+</body>
+  </text>
+</TEI>

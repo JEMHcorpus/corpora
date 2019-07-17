@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_minimal.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_minimal.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-stylesheet type="text/css" href="../Oxygen%20XML%20Editor%2016/frameworks/tei/xml/tei/css/tei.css"?>
+<?xml-stylesheet type="text/css" href="nli-transcription.css"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>נדבת חדר לפליט</title>
+            <author>ועד הקהלה, חיפה</author>
+            <respStmt>
+               <name>Mandel Scholion Hebrew Revival Research Group</name>
+               <resp>Transcription of digital file</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <authority>JEMH</authority>
+            <availability><licence target="https://creativecommons.org/licenses/by/4.0/">CC-BY 4.0</licence></availability>
+         </publicationStmt>
+         <sourceDesc xml:lang="Hebrew">
+	<msDesc>
+		<msPart>
+			<msIdentifier>
+				<repository>National Library of Israel</repository>
+				<collection>"Time Travel" Ephemera Collection</collection>
+				<idno>700173221</idno>
+			</msIdentifier>
+		</msPart>
+	</msDesc>
+            <bibl>
+               <date when="1947-12-17"></date>
+               <distributor>ארכיון העיר חיפה</distributor>
+               <pubPlace>חיפה</pubPlace>
+            </bibl>
+         </sourceDesc>
+                  </fileDesc>
+      <revisionDesc>
+         <change>
+            <date>2017-08-09</date>
+            <name>Jerusalem corpus of Emergent Modern Hebrew (JEMH) staff</name>
+            <note>Created the initial version of the content in TEI-XML</note>
+         </change>
+      </revisionDesc>
+
+  </teiHeader>
+  <text>
+      <body>
+         <head>נדבת חדר לפליט</head>
+         <p>משפחות רבות נאלצו לעזוב את מקום מגוריהם בבתי הערבים בעיר ובגבולות הישוב העברי ולחפש להם מקלט בין אחים.</p>
+         <p>עם כל הצפיפות בעיר, יש עוד גם כיום משפחות היכולות להצטמצם לזמן מה ולפנות את אחד החדרים בבתיהם לשם שיכון פליטים.</p>
+         <p>אנו יודעים את אי הנוחיות שבדבר, אולם לפליטים קשה פי כמה.</p>
+         <p>לכן אנו פונים אליכם בשם האח הפליט: "גשה לי ואשבה" (ישעיהו מ"ט), פנה נא מקום לשבת אתך עד יעבור זעם ועד יקום משטר מדיני יהודי בארץ!</p>
+         <p>לא מעטות הן המשפחות הקלות של הפליטים שלא יהיו למעמסה על המנדב נדבת חדר לשיכון.</p>
+         <p>המתנדבים מתבקשים להתקשר עם הועדה לשיכון פליטים שע"י ועד הקהלה, רח' ארלוזורוב 16, טל. 4544</p>
+         <closer>
+ועד הקהלה, חיפה
+            <dateline>
+               <date>ד' בטבת תש"ח</date>
+            </dateline>
+         
+      </closer>
+</body>
+  </text>
+</TEI>

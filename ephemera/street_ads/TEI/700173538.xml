@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_minimal.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_minimal.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-stylesheet type="text/css" href="../Oxygen%20XML%20Editor%2016/frameworks/tei/xml/tei/css/tei.css"?>
+<?xml-stylesheet type="text/css" href="nli-transcription.css"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>הזהרה שלא לפרוש מכנסת-ישראל</title>
+            <author>ועד העדה הספרדית</author>
+            <respStmt>
+               <name>Mandel Scholion Hebrew Revival Research Group</name>
+               <resp>Transcription of digital file</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <authority>JEMH</authority>
+            <availability><licence target="https://creativecommons.org/licenses/by/4.0/">CC-BY 4.0</licence></availability>
+         </publicationStmt>
+         <sourceDesc xml:lang="Hebrew">
+	<msDesc>
+		<msPart>
+			<msIdentifier>
+				<repository>National Library of Israel</repository>
+				<collection>"Time Travel" Ephemera Collection</collection>
+				<idno>700173538</idno>
+			</msIdentifier>
+		</msPart>
+	</msDesc>
+            <bibl>
+               <date when="1938-05-16"></date>
+               <distributor>ארכיון העיר חיפה</distributor>
+               <pubPlace>חיפה</pubPlace>
+            </bibl>
+         </sourceDesc>
+                  </fileDesc>
+      <revisionDesc>
+         <change>
+            <date>2017-08-09</date>
+            <name>Jerusalem corpus of Emergent Modern Hebrew (JEMH) staff</name>
+            <note>Created the initial version of the content in TEI-XML</note>
+         </change>
+      </revisionDesc>
+
+  </teiHeader>
+  <text>
+      <body>
+         <opener>לכל היהודים הספרדים ובני עדות המזרח בחיפה</opener>
+         <opener>הזהרה!</opener>
+         <p>בשעה כה חמורה והרת-סכנות לישוב העברי בארץ-ישראל, שעה המחייבת כל יהודי הנאמן לעמו לשמר יותר מאשר בכל זמן אחר על אחדות הישוב, ובשעה שועדת תיווך מטפלת בחיסול ההתבדלות מכנסת-ישראל לטובת אחדות הקהלה העברית בכלל, ואחדות הספרדים ובני עדות המזרח בינם לבין עצמם בפרט, מצטערים אנו מאד לשמע שישנם עוד אנשים המחתימים על יציאה מכנסת-ישראל בהבטיחם עבודה למחוסריה.</p>
+         <p>אנו מוצאים על כן לחובתנו הלאומית להזהיר את בני עדתנו לבל ילכו שולל אחרי הבטחות מסופקות, היות ויציאה מכנסת-ישראל פרושה פרישה מהצבור ומכלל ישראל וגורמת נזק רב, הן במובן המוסרי והן במובן החמרי, לעדה הספרדית בכלל ולמתבדלים בפרט.</p>
+         <p>הנאמנות לאחדות הישוב אינה נקנית ונמכרת אלא עומדת היא מעל לכל חשבונות חמריים ואישיים.</p>
+         <p>הננו מזהירים את בני עדתנו לבלי לחתם על הצהרות יציאה מכנסת ישראל. כל אלה שחתמו בודאי בשגגה, מחובתם לתקן את המעוות ולפנות תכף ומיד לועד הקהלה לשם בטול חתימתם ובזה ישמרו על כבודם ושמם הטוב.</p>
+         <closer>
+         ועד העדה הספרדית
+            <dateline>
+               <date>יום שני, טו באייר תרצ"ח</date>
+               <name type="place">חיפה</name>
+            </dateline>
+         
+         דפוס זינגר וששון, חיפה טל. 1025
+      </closer>
+</body>
+  </text>
+</TEI>

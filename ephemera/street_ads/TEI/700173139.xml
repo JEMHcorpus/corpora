@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_minimal.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_minimal.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-stylesheet type="text/css" href="../Oxygen%20XML%20Editor%2016/frameworks/tei/xml/tei/css/tei.css"?>
+<?xml-stylesheet type="text/css" href="nli-transcription.css"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>צו חרום מס' 2</title>
+            <author>ועדת המצב שע"י ועד הקהלה העברית בחיפה</author>
+            <respStmt>
+               <name>Mandel Scholion Hebrew Revival Research Group</name>
+               <resp>Transcription of digital file</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <authority>JEMH</authority>
+            <availability><licence target="https://creativecommons.org/licenses/by/4.0/">CC-BY 4.0</licence></availability>
+         </publicationStmt>
+         <sourceDesc xml:lang="Hebrew">
+	<msDesc>
+		<msPart>
+			<msIdentifier>
+				<repository>National Library of Israel</repository>
+				<collection>"Time Travel" Ephemera Collection</collection>
+				<idno>700173139</idno>
+			</msIdentifier>
+		</msPart>
+	</msDesc>
+            <bibl>
+               <date when="1948-05-27"></date>
+               <distributor>ארכיון העיר חיפה</distributor>
+               <pubPlace>חיפה</pubPlace>
+            </bibl>
+         </sourceDesc>
+                  </fileDesc>
+      <revisionDesc>
+         <change>
+            <date>2017-08-09</date>
+            <name>Jerusalem corpus of Emergent Modern Hebrew (JEMH) staff</name>
+            <note>Created the initial version of the content in TEI-XML</note>
+         </change>
+      </revisionDesc>
+
+  </teiHeader>
+  <text>
+      <body>
+         <head>ועדת המצב שע"י ועד הקהלה העברית בחיפה</head>
+         <head>צו חרום מס' 2</head>
+         <p>לשם השלמת עבודת הבצורים ובתוקף הכרזת מצב חרום ע"י מועצת המדינה ובהתאם להוראות הפקוד העליון, מצווים כל הגברים בגיל 16 עד 46 בחיפה רבתי להתגייס לעבודה למשך 2 ימים.</p>
+         <p>העבודה תתחיל ביום א' כ"א אייר תש"ח 30.5 ותסתיים ביום ו' ד' סיון תש"ח 11.6 כל גבר בגיל 16 עד 46 יקבל צו התיצבות אישי, בו יצוינו 2 הימים שנקבעו לעבודתו.</p>
+         <p>הפטורים מחובת הגיוס לפי צו זה, יפנו לאחר שיקבלו את צו ההתיצבות האישי, ללשכות השחרור מטעם ועדת המצב.</p>
+         <p>מחובת גיוס זה פטורים העובדים בשרותים הבאים (רק באותם הימים שהם עסוקים בתפקידם)  1. בתי חולים ומרפאות  2. שרותים סניטריים של העיריה וועד הדר הכרמל  3. אספקת מים (רק מכונאים ומשגיחים על הרשת)  4. ייצור חשמל, השגחה והחזקת הקוים  5. נמל  6. רכבת  7. דאר וטלפון  8. מפעלי הנפט  9. אפית לחם וחלוקתו  10. חלוקת חלב ודלק  11. תחבורה עירונית ובין עירונית (במספר מצומצם)  12. ייצור קרח וחלוקתו  13. בעלי כרטיסי התיצבות מדרגת בריאות ג' וד' (לבנים וצהובים)  14. ממלאי תפקיד בשרותי הבטחון</p>
+         <p>על מקום לשכות השחרור תבוא הודעה מיוחדת.</p>
+         <p>חיילים בעלי "תעודות מעבר" ופנקסי חיילים וכן בעלי כרטיסי התיצבות מדרגת בריאות ג' וד' (לבנים וצהובים) אינם זקוקים לתעודת שחרור.</p>
+         <p>מקומות הרכוז למתיצבים: בשעה 7 בבקר  הדר הכרמל א. חצר הטכניון ב. ע"י בית הספר "גאולה"  הר הכרמל בנין "מוריה"  עיר התחתית מרכז מסחרי החדש (ע"י בית כרמל מזרחי)  נוה שאנן ע"י בית הועד  תל-עמל ע"י בית הועד  בת-גלים ע"י רחוב העליה  קרית חיים א. שכון חדש - ע"י בית התרבות ב. קרית חיים המזרחית (הישנה) ע"י בית הקפה  קרית מוצקין שדרות השופטים, ע"י בית הכנסת קרית שמואל וגב-ים - ע"י בית העולים  קרית ביאליק ע"י בית הועד  קרית בנימין, קרית שטנד ועיר גנים בכביש הכניסה לעיר-גנים  כפר אתא ע"י תחנת האוטובוסים</p>
+         <p>כוחות הבטחון יפקחו על מלוי צו זה.</p>
+         <closer>
+ועדת המצב
+            <dateline>
+               <date>י"ח אייר תש"ח - 27.5.48</date>
+            </dateline>
+         
+         דפוס "אמנות" חיפה, רח' סוקולוב א7
+      </closer>
+</body>
+  </text>
+</TEI>

@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_minimal.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_minimal.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-stylesheet type="text/css" href="../Oxygen%20XML%20Editor%2016/frameworks/tei/xml/tei/css/tei.css"?>
+<?xml-stylesheet type="text/css" href="nli-transcription.css"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>צום כללי</title>
+            <author>רבני אה"ק</author>
+            <respStmt>
+               <name>Mandel Scholion Hebrew Revival Research Group</name>
+               <resp>Transcription of digital file</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <authority>JEMH</authority>
+            <availability><licence target="https://creativecommons.org/licenses/by/4.0/">CC-BY 4.0</licence></availability>
+         </publicationStmt>
+         <sourceDesc xml:lang="Hebrew">
+	<msDesc>
+		<msPart>
+			<msIdentifier>
+				<repository>National Library of Israel</repository>
+				<collection>"Time Travel" Ephemera Collection</collection>
+				<idno>700173329</idno>
+			</msIdentifier>
+		</msPart>
+	</msDesc>
+            <bibl>
+               <date when="1945-03"></date>
+               <distributor>ארכיון העיר חיפה</distributor>
+               <pubPlace>חיפה</pubPlace>
+            </bibl>
+         </sourceDesc>
+                  </fileDesc>
+      <revisionDesc>
+         <change>
+            <date>2017-08-09</date>
+            <name>Jerusalem corpus of Emergent Modern Hebrew (JEMH) staff</name>
+            <note>Created the initial version of the content in TEI-XML</note>
+         </change>
+      </revisionDesc>
+
+  </teiHeader>
+  <text>
+      <body>
+         <head>צום כללי</head>
+         <p>בכינוס ארצי של כל רבני אה"ק שהתקיים ביום כ' אדר ש.ז. בירושלים עיה"ק - הוכרז יום ד' ער"ח ניסן תש"ה ליום צום כללי לכל ישראל בישוב ובתפוצות.</p>
+         <p>חובת הצום: א. הצום מתחיל מעלות השחר עד הלילה; ב. חובת הצום היא על כל איש ואשה מבן י"ג לזכר ומי"ב לנקבה; ג. חומר הצום הוא כחומר תשעה באב (חוץ מנעילת הסנדל).</p>
+         <p>בטול מלאכה: א. משעה 1 אחה"צ עד שעה 6.30 בערב - בטול מלאכה בכל הארץ, בעיר ובכפר, במסחר ובתעשיה; העבודה בכל בתי חרושת נפסקת, חנויות ומשרדים סגורים. הערה: מסעדות ובתי קפה סגורים כל היום עד כלות הצום.  ב. בשעה 2 אחה"צ נפסקת בהחלט תנועת התחבורה, עירונית ובין עירונית.</p>
+         <p>סדר הצום: א. בתפלת המנחה ביום שלפני הצום לפני "יהי' לרצון" - מקבל כל אחד את התענית ואומר: הרי אני לפניך בתענית נדבה למחר וכו'; ב. בתפלת שחרית של יום הצום: עננו, סליחות לשני בתרא, תקיעת שופר בי"ג מדות, אבינו מלכנו, קריאת ויחל, יה"ר שאחרי קריאת התורה, ואחר התפלה: תהילים, משניות, קדיש; ג. אחר התפלה בירושלים הולכים לכותל מערבי, יוצאים לקבר רחל ולקברות הצדיקים; בכל הארץ משתטחים על קברות צדיקים, וקברות הקדושים שנפלו חללים בארץ הי"ד; ד. אחה"צ בזמן בטול המלאכה מתאספים בבתי כנסיות ובתי מדרשות לתפלת יוכ"פ קטן, תקיעת שופר בי"ג מדות; תשב"ר באים עם הוריהם או מוריהם. תפלת מנחה, קריאת ויחל, אחינו כב"י, אבינו מלכנו, אזכרה (בנוסח שסודר בכינוס הרבנים, אב הרחמים; ה. בשעה 5 אחה"צ ישבו כל איש ואשה, בבית הכנסת או בבית, עשרה רגעים על הארץ להתאבל על רבבות אלפי ישראל שהושמדו, הי"ד, וקוראים פרק ה' במגילת איכה: זכור ה' מה הי' לנו; ו. הרבנים דורשים בכל בתי כנסיות ומעוררים למספד ולתשובה, להצלה ולעזרה.</p>
+         <p>והשי"ת ישמע שועתנו ויקשיב לקול תחנונינו ויחיש ישועתנו ופדות נפשנו ויקבץ שרידי ישראל לארצנו.</p>
+         <closer>
+         דפוס "האומן" ירושלים
+         </closer>
+      </body>
+  </text>
+</TEI>

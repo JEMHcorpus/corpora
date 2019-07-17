@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_minimal.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_minimal.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-stylesheet type="text/css" href="../Oxygen%20XML%20Editor%2016/frameworks/tei/xml/tei/css/tei.css"?>
+<?xml-stylesheet type="text/css" href="nli-transcription.css"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>שמירת שבת</title>
+            <author>הרבנות הראשית חיפה</author>
+            <respStmt>
+               <name>Mandel Scholion Hebrew Revival Research Group</name>
+               <resp>Transcription of digital file</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <authority>JEMH</authority>
+            <availability><licence target="https://creativecommons.org/licenses/by/4.0/">CC-BY 4.0</licence></availability>
+         </publicationStmt>
+         <sourceDesc xml:lang="Hebrew">
+	<msDesc>
+		<msPart>
+			<msIdentifier>
+				<repository>National Library of Israel</repository>
+				<collection>"Time Travel" Ephemera Collection</collection>
+				<idno>700173030</idno>
+			</msIdentifier>
+		</msPart>
+	</msDesc>
+            <bibl>
+               <date when="1948-04-07"></date>
+               <distributor>ארכיון העיר חיפה</distributor>
+               <pubPlace>חיפה</pubPlace>
+            </bibl>
+         </sourceDesc>
+     </fileDesc>
+      <revisionDesc>
+         <change>
+            <date>2017-08-09</date>
+            <name>Jerusalem corpus of Emergent Modern Hebrew (JEMH) staff</name>
+            <note>Created the initial version of the content in TEI-XML</note>
+         </change>
+      </revisionDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <note>ב"ה</note>
+         <opener>שמור את יום השבת!</opener>
+         <p>המצב החמור העובר על הישוב, ולאחר בגידת המעצמות האדירות בעם ישראל, ופגיעתן הקשה בצפור נפשה של האומה - הקמת מדינה יהודית עצמאית על חלק מארץ ישראל - משמש לנו לקח שאין לנו להשען אלא על אבינו שבשמים.</p>
+         <p>ואם גדולי האומות הפירו את הבטחותיהם - יעודי הנביאים הם שרירים וקיימים, גאולת ישראל בא תבוא בעזרת צור ישראל וגואלו. מחובתנו לעשות חשבון הנפש, ולחזור בתשובה שלמה לאבינו שבשמים, יש להתאזר עוז ולשמור את שבת קדשנו שלא תחולל.</p>
+         <p>ודוקא כעת, שמיטב בנינו ובנותינו עומדים בחרוף נפש ובסכנה מתמדת בהגנתם על העם והארץ, ושמפאת מצב הסכנה התורה התירה הרבה מלאכות בשבת שיש בהן משום פקוח נפש, יש לדיק ולהזהר שלא לעבור על הגבול המותר.</p>
+         <p>על העומדים במערכה לשאול שאלת חכם על המלאכות שהותרו בשבת לרגל מצב הסכנה והמלאכות האסורות.</p>
+         <p>אנו דורשים בכל תוקף להפסיק לחלוטין את התחבורה בשבת במקום שאין הנסיעה הכרחית מטעמי בטחון. הננו מגנים בכל החריפות את הנסיעות בשבת לא לצרכי בטחון, שלכל הדעות מחללים את השבת אך ורק לשם רדיפה אחרי בצע.</p>
+         <p>אנו דורשים את התערבותם של המוסדות הישוביים למנוע את ההתנקשות בנכס היקר והקדוש ביותר - השבת.</p>
+         <p>הננו תקוה ותפלה לשוכן בציון שיחוס הוא את עמו, ובזכות שמירת השבת קודש נושע תשועת עולמים, כמו שהובטחנו: "אלמלי היו ישראל שומרין שתי שבתות מיד היו נגאלין"</p>
+         <closer>
+הרבנות הראשית, חיפה
+            <dateline>
+               <date>כ"ז אדר ב' תש"ח</date>
+            </dateline>
+         
+      </closer>
+</body>
+  </text>
+</TEI>

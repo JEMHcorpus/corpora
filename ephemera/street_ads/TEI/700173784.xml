@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_minimal.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_minimal.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-stylesheet type="text/css" href="../Oxygen%20XML%20Editor%2016/frameworks/tei/xml/tei/css/tei.css"?>
+<?xml-stylesheet type="text/css" href="nli-transcription.css"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>מחלת הדבר - אמצעי זהירות</title>
+            <author>ועד הדר הכרמל</author>
+            <respStmt>
+               <name>Mandel Scholion Hebrew Revival Research Group</name>
+               <resp>Transcription of digital file</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <authority>JEMH</authority>
+            <availability><licence target="https://creativecommons.org/licenses/by/4.0/">CC-BY 4.0</licence></availability>
+         </publicationStmt>
+         <sourceDesc xml:lang="Hebrew">
+	<msDesc>
+		<msPart>
+			<msIdentifier>
+				<repository>National Library of Israel</repository>
+				<collection>"Time Travel" Ephemera Collection</collection>
+				<idno>700173784</idno>
+			</msIdentifier>
+		</msPart>
+	</msDesc>
+            <bibl>
+               <date when="1944-10"></date>
+               <distributor>ארכיון העיר חיפה</distributor>
+               <pubPlace>חיפה</pubPlace>
+            </bibl>
+         </sourceDesc>
+                  </fileDesc>
+      <revisionDesc>
+         <change>
+            <date>2017-08-09</date>
+            <name>Jerusalem corpus of Emergent Modern Hebrew (JEMH) staff</name>
+            <note>Created the initial version of the content in TEI-XML</note>
+         </change>
+      </revisionDesc>
+
+  </teiHeader>
+  <text>
+      <body>
+         <opener>אל תושבי הדר הכרמל!</opener>
+         <p>רבוי מקרי מחלת הדבר בחיפה צריכה להדאיג את כל אחד ואחד מהתושבים.</p>
+         <p>קימת סכנה של התפשטות המחלה בממדים גדולים ומחובתו של כל אחד ואחד להשתתף באופן פעיל במלחמה נגד המחלה ולראות בכל פעולה שהוא עושה - פעולה המכוונת לשמור עליו עצמו ועל בני משפחתו.</p>
+         <p>המחלה היא מסוכנת, אבל אפשר להזהר ממנה על ידי אמצעי זהירות שונים והם:</p>
+         <p>א) נקיון החצרות. 1. על כל תושב לדאוג שהחצר שלו תהיה נקיה, שלא יהיו בה אשפה, ערמות אבנים, חפצים בלי ערך וכו', המשמשים קנים לעכברושים המהוים הגורם העיקרי להעברת מחלת הדבר על ידי הפרעושים שבהם. 2. על כל תושב לשמור שפחי האשפה, מכסות צנורות הביוב וכו' יהיו סגורים כהלכה. 3. על כל תושב לסתום כל מיני חורים בחצר ביתו, היכולים לשמש קנים לעכברושים. מי שזקוק לכמות לא גדולה של מלט לסתימת חורים יכול לקבלה מועד הדר הכרמל נגד תשלום.</p>
+         <p>ב) בעור חולדות. האמצעי היעיל ביותר במלחמה בדבר הוא בעור החולדות (מתות או חיות). מחובת כל תושב שבחצרו נמצאים עכברים (מתים או חיים) להודיע תיכף ומיד למחלקת הבריאות הממשלתית, לפי טלפון מס' 3522 או לועד הדר הכרמל, טלפון 4214 או בכתב לפי ת. ד, 928 או בעל פה בשעות העבודה של המשרד. המוצא עכבר מת בל יגע בו, אלא יודיע תיכף לפי הכתבות המסומנות לעיל ויבואו לקחתו. ההודעות צריכות להיות מלאות ומדויקות.</p>
+         <p>תושבי הדר הכרמל! ישמור כל אחד ואחד על עצמו בהתאם להוראות דלעיל וישמור על ידי זה גם על האחרים. שמרו על נקיון החצרות, הודיעו מיד על כל מקרה כשתראו עכברים (חיים או מתים) בחצרכם.</p>
+         <closer>
+ועד הדר הכרמל.
+            <dateline>
+               <date>תשרי תש"ה - אוקטובר 1944</date>
+            </dateline>
+         
+      </closer>
+</body>
+  </text>
+</TEI>

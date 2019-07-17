@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_minimal.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_minimal.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-stylesheet type="text/css" href="../Oxygen%20XML%20Editor%2016/frameworks/tei/xml/tei/css/tei.css"?>
+<?xml-stylesheet type="text/css" href="nli-transcription.css"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>עצרת זכרון לזכר חללי השואה והגבורה</title>
+            <author>"יד ושם" רשות הזכרון לשואה ולגבורה, עירית חיפה</author>
+            <respStmt>
+               <name>Mandel Scholion Hebrew Revival Research Group</name>
+               <resp>Transcription of digital file</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <authority>JEMH</authority>
+            <availability><licence target="https://creativecommons.org/licenses/by/4.0/">CC-BY 4.0</licence></availability>
+         </publicationStmt>
+         <sourceDesc xml:lang="Hebrew">
+	<msDesc>
+		<msPart>
+			<msIdentifier>
+				<repository>National Library of Israel</repository>
+				<collection>"Time Travel" Ephemera Collection</collection>
+				<idno>700173857</idno>
+			</msIdentifier>
+		</msPart>
+	</msDesc>
+            <bibl>
+               <date when="1959-05"></date>
+               <distributor>ארכיון העיר חיפה</distributor>
+               <pubPlace>חיפה</pubPlace>
+            </bibl>
+         </sourceDesc>
+                  </fileDesc>
+      <revisionDesc>
+         <change>
+            <date>2017-08-09</date>
+            <name>Jerusalem corpus of Emergent Modern Hebrew (JEMH) staff</name>
+            <note>Created the initial version of the content in TEI-XML</note>
+         </change>
+      </revisionDesc>
+
+  </teiHeader>
+  <text>
+      <body>
+         <head>"יד ושם" רשות הזכרון לשואה ולגבורה</head>
+         <head>עירית חיפה</head>
+         <p>מזמינות את תושבי חיפה רבתי לעצרת זכרון לזכר חללי השואה והגבורה שתערך ביום שני, כ"ו בניסן תשי"ט (4 למאי 1959) בשעה 19.30 - באולם "עצמון"</p>
+         <p>בתכנית: הפותח: המשורר ש. שלום  השופט ש. קסאן נשיא תורן של בית המשפט המחוזי בחיפה וחבר הנהלת "יד-ושם"  דברים: הרב הראשי י. קניאל  א. לידובסקי נציג הלוחמים (הפרטיזנים)  טוביה פרידמן, יו"ר הדוקומנטציה ההיסטורית (מניצולי השואה והגבורה)</p>
+         <p>קדיש - אל מלא רחמים - פרקי תהלים - החזן הראשי, מר זלמן לינדן  מקהלה - בניצוחו של מר יצחק הילמן (מבית הכנסת המרכזי בחיפה)  קריאה - המשורר ש. שלום</p>
+         <p>הציבור מוזמן להשתתף בעצרת בהמוניו ולכבד את זכרם של קדושי השואה והגבורה.</p>
+         <p>בתכנית העצרת כלולה אזכרה מסורתית, שכיסוי ראש נהוג בה.</p>
+      </body>
+  </text>
+</TEI>

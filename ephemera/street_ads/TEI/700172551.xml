@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_minimal.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_minimal.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-stylesheet type="text/css" href="../Oxygen%20XML%20Editor%2016/frameworks/tei/xml/tei/css/tei.css"?>
+<?xml-stylesheet type="text/css" href="nli-transcription.css"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>הפעולה התרבותית</title>
+            <author>מועצת פועלי חיפה, ועדת התרבות</author>
+            <respStmt>
+               <name>Mandel Scholion Hebrew Revival Research Group</name>
+               <resp>Transcription of digital file</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <authority>JEMH</authority>
+            <availability><licence target="https://creativecommons.org/licenses/by/4.0/">CC-BY 4.0</licence></availability>
+         </publicationStmt>
+         <sourceDesc xml:lang="Hebrew">
+	<msDesc>
+		<msPart>
+			<msIdentifier>
+				<repository>National Library of Israel</repository>
+				<collection>"Time Travel" Ephemera Collection</collection>
+				<idno>700172551</idno>
+			</msIdentifier>
+		</msPart>
+	</msDesc>
+            <bibl>
+               <date when="1945-03-05"></date>
+               <distributor>ארכיון העיר חיפה</distributor>
+               <pubPlace>חיפה</pubPlace>
+            </bibl>
+         </sourceDesc>
+                  </fileDesc>
+      <revisionDesc>
+         <change>
+            <date>2017-08-09</date>
+            <name>Jerusalem corpus of Emergent Modern Hebrew (JEMH) staff</name>
+            <note>Created the initial version of the content in TEI-XML</note>
+         </change>
+      </revisionDesc>
+
+  </teiHeader>
+  <text>
+      <body>
+         <head>ההסתדרות הכללית של העובדים העברים בארץ ישראל</head>
+         <head>מועצת פועלי חיפה  ועדת התרבות</head>
+         <head>מכתב חוזר אל כל ועדי הפועלים והפקידים</head>
+         <opener>ח. נ.,</opener>
+         <p>הרינו רואים צורך להפנות את תשונת לבכם לכמה ענינים בקשר עם הפעולה התרבותית:</p>
+         <p>א. בבית הספר לפועלים יש עוד מקומות לתלמידים נוספים. השעורים מתקיימים בבי"ס "נצח ישראל" בהדרכת מורים מנוסים. הרינו מבקשים מכם לקבוע חבר שיטפל בהרשמת חברים לבי"ס-ערב זה.</p>
+         <p>ב. חברים שאינם יודעים עברית מצויים עוד בהרבה מקומות עבודה. ועדי העובדים לא עשו עד עתה כל פעולה למען לחייב חברים אלה ללמוד עברית. המחלקה לעברית שע"י ועדת התרבות מקיימת קורסים בכל חלקי העיר ובכל השכונות והקריות, ותמורת 100 מא"י לחודש יכול כל חבר ללמוד עברית. בקשתנו מכם, כי תעבירו לנו את רשימת החברים-ות במקום עבודתכם שאינם יודעים ואינם לומדים עברית.</p>
+         <p>ג. הרצאות במדע פופולרי נערכות בשבתות (אחת לשבועיים) ב"ביתנו" ע"י מרצים מהאוניברסיטה העברית. למרות חשיבותן הרבה של ההרצאות האלו - קטן הוא מספר המבקרים בהן. הרינו שולחים בקביעות לועדי העובדים הודעות מוקדמות על נושאי ותאריכי ההרצאות ורצוי מאוד שתמצאו דרך לפרסום על ההרצאות במקום העבודה.</p>
+         <p>ד. ספריה מקצועית תוקם בקרוב ע"י ועדת התרבות. נעשות כבר כל ההכנות והתכנית תתפרסם בימים אלה. ועדי עובדים המעוניינים שבספריה יימצאו ספרים שנזקקים להם פועלים במקום עבודתם - מתבקשים להתקשר אתנו. הרינו מציעים לכם גם לארגן אוסף ספרים למעם ספריה זו. כל חבר שיתרום ספר יוכל לקרא בספריה בלי תשלום.</p>
+         <p>ה. תזמורת לכלי מיתר בהדרכת המנצח זוסמן הוקמה על ידינו. השעורים יתקיימו בבית החינוך לילדי עובדים. מתקבלים חברים נוספים, מתחילים ומתקדמים. נא להתעניין אם יש אצלכם חברים המוכנים להצטרף.</p>
+         <p>ו. מקהלת הפועלים מוכנה לקבל עוד 40 חברים חדשים. שעורי המקהלה מתקיימים ביום ב' (ב"ביתנו") ושבת (בצריף הפלוגות) בהדרכת הח' מ. ביק. חברי המקהלה מקבלים גם שעורים בתוים. נבקשכם לקבוע חבר שיטפל ברכישת חברים נוספים למקהלה.</p>
+         <p>ז. הצגות לפועלים באמפיתיאטרון תתקיימנה מפעם לפעם. הננו משתדלים לקבוע סידורים שיאפשרו לפועלים לבקר בהצגות של התיאטראות בתנאים יותר נוחים. בליל שבת, 16.3, תערך באמפיתיאטרון הצגת המחזה הידוע של מולייר "הקמצן" ע"י "אהל". מטעמים מסויימים איננו יכולים לפרסם על כך במודעות והרינו מוסרים לכם על כך בדרך זו. ההצגה תבוצע בשלמות בתפאורת ואיפור. נא לפרסם זאת בין חבריכם ולקבוע חבר שיטפל בסידור הכרטיסים לכל המעוניינים לבקר בהצגה זו.</p>
+         <p>חברים, הננו מבקשים מכם לקבוע בכל מקום עבודה ועדת תרבות שתעמוד אתנו בקשר בכל הענינים. במקומות עבודה קטנים יש לבחור חבר אחד שיהיה המקשר עם ועדת התרבות. נא להודיענו במשך שבוע ימים את שמות החברים שנקבעו אצלכם לטיפול בעניני התרבות.</p>
+         <closer>
+בברכת חברים, ועדת התרבות
+            <dateline>
+               <date>5.III.45</date>
+            </dateline>
+         
+      </closer>
+</body>
+  </text>
+</TEI>

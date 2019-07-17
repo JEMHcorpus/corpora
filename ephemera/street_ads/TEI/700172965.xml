@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_minimal.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_minimal.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-stylesheet type="text/css" href="../Oxygen%20XML%20Editor%2016/frameworks/tei/xml/tei/css/tei.css"?>
+<?xml-stylesheet type="text/css" href="nli-transcription.css"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>שמירת שבת</title>
+            <author>הרבנות הראשית בחיפה</author>
+            <respStmt>
+               <name>Mandel Scholion Hebrew Revival Research Group</name>
+               <resp>Transcription of digital file</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <authority>JEMH</authority>
+            <availability><licence target="https://creativecommons.org/licenses/by/4.0/">CC-BY 4.0</licence></availability>
+         </publicationStmt>
+         <sourceDesc xml:lang="Hebrew">
+	<msDesc>
+		<msPart>
+			<msIdentifier>
+				<repository>National Library of Israel</repository>
+				<collection>"Time Travel" Ephemera Collection</collection>
+				<idno>700172965</idno>
+			</msIdentifier>
+		</msPart>
+	</msDesc>
+            <bibl>
+               <date when="1948-05-23"></date>
+               <distributor>ארכיון העיר חיפה</distributor>
+               <pubPlace>חיפה</pubPlace>
+            </bibl>
+         </sourceDesc>
+                  </fileDesc>
+      <revisionDesc>
+         <change>
+            <date>2017-08-09</date>
+            <name>Jerusalem corpus of Emergent Modern Hebrew (JEMH) staff</name>
+            <note>Created the initial version of the content in TEI-XML</note>
+         </change>
+      </revisionDesc>
+
+  </teiHeader>
+  <text>
+      <body>
+         <note>ב"ה</note>
+         <head>הודעה</head>
+         <p>לפי דרישת מפקד הבטחון הוצאנו היתר לשבת קודש י"ג אייר לעבודת הבצורים מטעם פקוח נפש.</p>
+         <p>אולם לדאבוננו נוכחנו לדעת, שאנשים בלתי אחראיים השתמשו בשמנו לסדר ביום השבת הזה גם עבודות שאינן קשורות בפקוח נפש, כמו: הרקת אשפה, חלוקת הקרח בבתים, עבודות במשרדים ובמחסנים, ואפילו בבתי מלאכה עבדו לשם בצע כסף והכל באמתלא: הרבנים התירו</p>
+         <p>אנו מוחים נמרצות נגד הסלוף בהוראותנו ושמוש לרעה בשמנו, ומודיעים שכל העבודות הללו אסורות בשבת בהחלט.</p>
+         <p>ההיתר ניתן כאמור לפי דרישת מפקד הבטחון רק לעבודות הבצורים ורק לשבת פ' בהר - י"ג אייר.</p>
+         <p>באשר להכרח עבודת הבצורים בשבת הבאה אנו מבררים את המצב ובאם יבורר שלפי דין תורה יש להמשיכן חלילה גם בשבת, נודיע על כך במודעות מיוחדות.</p>
+         <p>אנו דורשים מהמוסדות הישוביים לאחוז באמצעים נגד ההופעות הללו ההורסים את הצביון היהודי, למען מנוע השנות השערוריה הזאת, ובזכות שמירת שבת קדשנו נזכה במהרה תשועת עולמים.</p>
+         <closer>
+הרבנות הראשית בחיפה
+            <dateline>
+               <date>י"ד אייר תש"ח</date>
+               <name type="place">חיפה</name>
+            </dateline> 
+      </closer>
+</body>
+  </text>
+</TEI>

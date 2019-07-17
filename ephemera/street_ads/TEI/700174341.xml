@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_minimal.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_minimal.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-stylesheet type="text/css" href="../Oxygen%20XML%20Editor%2016/frameworks/tei/xml/tei/css/tei.css"?>
+<?xml-stylesheet type="text/css" href="nli-transcription.css"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>הסדרת ענייני בית הכנסת לקראת השנה החדשה</title>
+            <author>הגבאים</author>
+            <respStmt>
+               <name>Mandel Scholion Hebrew Revival Research Group</name>
+               <resp>Transcription of digital file</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <authority>JEMH</authority>
+            <availability><licence target="https://creativecommons.org/licenses/by/4.0/">CC-BY 4.0</licence></availability>
+         </publicationStmt>
+         <sourceDesc xml:lang="Hebrew">
+	<msDesc>
+		<msPart>
+			<msIdentifier>
+				<repository>National Library of Israel</repository>
+				<collection>"Time Travel" Ephemera Collection</collection>
+				<idno>700174341</idno>
+			</msIdentifier>
+		</msPart>
+	</msDesc>
+            <bibl>
+               <date when="1930-09"></date>
+               <distributor>ארכיון העיר חיפה</distributor>
+               <pubPlace>חיפה</pubPlace>
+            </bibl>
+         </sourceDesc>
+                  </fileDesc>
+      <revisionDesc>
+         <change>
+            <date>2017-08-09</date>
+            <name>Jerusalem corpus of Emergent Modern Hebrew (JEMH) staff</name>
+            <note>Created the initial version of the content in TEI-XML</note>
+         </change>
+      </revisionDesc>
+
+  </teiHeader>
+  <text>
+     <body>
+        <head>בית הכנסת הכללי בת-גלים "ואני תפלתי לך ה' עת רצון" אימתי עת רצון בשעה שהצבור מתפללין (ברכות)</head>
+        <opener>לבני בת-גלים!</opener>
+        <p>לקראת ראש השנה והימים הנוראים הבע"ל רוצים אנו לעורר בזה את רגשות לבכם לקיומו ושכלולו של בית הכנסת שבשכונה הדורש כספים מרובים בכדי להעמידו על תלו ולהביאו לידי מדרגה שיהיה ראוי לבית אלהים ולכבוד השכונה.</p>
+        <p>אנו מטפלים כעת בהדורים פנימיים ובתקונים חצוניים של הבית. צבענו את הספסלים והרהיטים. לפנינו עוד טיוח וצבוע הכתלים מבחוץ, הקמת גדר מסביב למגרש, הוספת גזוסטרא ועוד.</p>
+        <p>אמצעינו בעין הם מעטים אבל "אין הצבור עני". אנו בטוחים שאתם תבואו לעזרתנו בעבודת הקדש ותאפשרו לנו את הוצאת הדברים אל הפועל.</p>
+        <p>מחוץ להחזן הקבוע שלנו שהוא שליח-צבור מסור ורצוי אנו מתקשרים גם עם בעל תפלה לשחריתים בשביל הימים הנוראים לשביעת רצונו של הקהל.</p>
+        <p>בקשותינו מכם היא: רכשו לכם בעוד מועד מקומות לתפלה לגברים ולנשים, אחד הקונה ואחד החוכר איש איש כפי יכלתו. גם בעלי המקומות מהשנה הקודמת מתבקשים לחדש את חכירתם. סדרו את חשבונותיכם וסלקו בהקדם את חובותיכם עד כה. חברי הועד ישבו מיום רביעי כ"ד אלול (17.9) עד יום ראשון כ"ח אלול (23.9) כל ערב משעה 8 עד 10 לרשם המקומות.</p>
+        <p>אנו מלאי תקוה שתפלותינו תתקבלנה ברצון ושוכן מרומים ימלא את כל משאלות לבנו לטובה ויזכנו בשנת גאולה וישועה, גאולה לארץ וישועה לעם. </p>
+        <p>"והיה כאשר ירום משה ידו וגבר ישראל" אומרת המשנה במסכת ראש השנה: "כל זמן שהיו ישראל מסתכלים כלפי מעלה ומשעבדין את לבם לאביהם שבשמים היו מתגברים"!</p>
+        <closer>
+           בכבוד והדרת קודש הגבאים.
+           <dateline>
+              שלהי <date when="1930">התר"ץ</date>
+              <name type="place">בת-גלים</name>
+            </dateline>
+         
+      </closer>
+</body>
+  </text>
+</TEI>

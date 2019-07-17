@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_minimal.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_minimal.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-stylesheet type="text/css" href="../Oxygen%20XML%20Editor%2016/frameworks/tei/xml/tei/css/tei.css"?>
+<?xml-stylesheet type="text/css" href="nli-transcription.css"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>מנגנון להתגוננות אזרחית פסיבית בפני התקפות מן האויר</title>
+            <author>משמר העם</author>
+            <respStmt>
+               <name>Mandel Scholion Hebrew Revival Research Group</name>
+               <resp>Transcription of digital file</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <authority>JEMH</authority>
+            <availability><licence target="https://creativecommons.org/licenses/by/4.0/">CC-BY 4.0</licence></availability>
+         </publicationStmt>
+         <sourceDesc xml:lang="Hebrew">
+	<msDesc>
+		<msPart>
+			<msIdentifier>
+				<repository>National Library of Israel</repository>
+				<collection>"Time Travel" Ephemera Collection</collection>
+				<idno>700173138</idno>
+			</msIdentifier>
+		</msPart>
+	</msDesc>
+            <bibl>
+               <date when="1948-05-13"></date>
+               <distributor>ארכיון העיר חיפה</distributor>
+               <pubPlace>חיפה</pubPlace>
+            </bibl>
+         </sourceDesc>
+                  </fileDesc>
+      <revisionDesc>
+         <change>
+            <date>2017-08-09</date>
+            <name>Jerusalem corpus of Emergent Modern Hebrew (JEMH) staff</name>
+            <note>Created the initial version of the content in TEI-XML</note>
+         </change>
+      </revisionDesc>
+
+  </teiHeader>
+  <text>
+      <body>
+         <head>משמר העם חיפה  הודעה מס. 1</head>
+         <opener>לתושבי חיפה!</opener>
+         <p>בתוקף הסמכות שניתנה למפקד "משמר העם" בחיפה ע"י ועדת המצב הוקם במסגרת "משמר העם" מנגנון להתגוננות אזרחית פסיבית בפני התקפות מן האויר (הג"א)</p>
+         <p>1) הושלמו ההכנות לארגון שרות הפקחים וחברי השרות התחילו בפעולתם. תפקיד הפקחים יהיה, להדריך את הקהל לעודדו לנקיטת אמצעי זהירות ולשמש מקשרים בין הצבור לבין שרותי ההתגוננות. התושבים חייבים להשמע להוראות הפקחים, שמטרתן למנוע ככל האפשר אבידות בנפש והפסדים ברכוש במקרה של התקפות אויב.</p>
+         <p>2) שרות המהנדסים כבר התחיל לטפל בבעית התקנת מקלטים צבוריים ופרטיים. בימים הקרובים יבקרו מהנדסים בלווי פקחים בבתי התושבים, על מנת לברר בכל בית את האפשרות של התקנת מקלט או לבחור את החדר המוגן ביותר, שיוכל לשמש מקום מחסה לדיירי הבית בעת התקפה.</p>
+         <p>3) הוקדשה תשומת לב לשאלת הגנת הילדים במוסדות החנוך ובקרוב תפורסמנה הוראות למורים ולהורים.</p>
+         <p>4) מנגנון מיוחד יטפל בתפקיד של הגברת בטחון העובדים במפעלי התעשיה.</p>
+         <p>5) נפתחה לשכת מודיעין שתענה לקהל על כל השאלות הקשורות עם בעית הג"א. הלשכה נמצאת במשרדי "משמר העם", רח' פבזנר 44, ותעמוד לרשות הצבור בכל יום בין השעות 10-12 לפה"צ, 4-6 אחה"צ.</p>
+         <p>מפקדת משמר העם תפרסם בהתאם לצורך הוראות מפורטות בדבר נקיטת אמצעי זהירות בפני התקפות האויב ותובעת מן הצבור, להקפיד על מלוי הוראותיה תוך משמעת ואחריות.</p>
+         <closer>
+"משמר העם"
+            <dateline>
+               <date>13.5.48</date>
+               <name type="place">חיפה</name>
+            </dateline>
+         
+      </closer>
+</body>
+  </text>
+</TEI>

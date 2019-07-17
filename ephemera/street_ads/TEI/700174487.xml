@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_minimal.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_minimal.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-stylesheet type="text/css" href="../Oxygen%20XML%20Editor%2016/frameworks/tei/xml/tei/css/tei.css"?>
+<?xml-stylesheet type="text/css" href="nli-transcription.css"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>נשף בלט יחידי - מוסיה דיכס</title>
+            <respStmt>
+               <name>Mandel Scholion Hebrew Revival Research Group</name>
+               <resp>Transcription of digital file</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <authority>JEMH</authority>
+            <availability><licence target="https://creativecommons.org/licenses/by/4.0/">CC-BY 4.0</licence></availability>
+         </publicationStmt>
+         <sourceDesc xml:lang="Hebrew">
+	<msDesc>
+		<msPart>
+			<msIdentifier>
+				<repository>National Library of Israel</repository>
+				<collection>"Time Travel" Ephemera Collection</collection>
+				<idno>700174487</idno>
+			</msIdentifier>
+		</msPart>
+	</msDesc>
+            <bibl>
+               <date when="1932-05-19"></date>
+               <distributor>ארכיון העיר חיפה</distributor>
+               <pubPlace>חיפה</pubPlace>
+            </bibl>
+         </sourceDesc>
+                  </fileDesc>
+      <revisionDesc>
+         <change>
+            <date>2017-08-09</date>
+            <name>Jerusalem corpus of Emergent Modern Hebrew (JEMH) staff</name>
+            <note>Created the initial version of the content in TEI-XML</note>
+         </change>
+      </revisionDesc>
+
+  </teiHeader>
+  <text>
+      <body>
+         <opener>הערב</opener>
+         <p>יום חמשי 19.5.32 בשעה 9 בערב באמפיתיאטרון נשף בלט יחידי של הרקדנית ומשחקת הראינע המפורסמת "ילדת הפלאים" (בת 10 שנים) מוסיה (מרים'ל) דיכס</p>
+         <p>דעת העתונות שלנו על ילדת הפלאים מוסיה דיכס:</p>
+         <p>"דבר" 25.4.32  אכן "ילדת פלאים". הפעם הכריזו כרוזי הפרסום לא לשוא. לפנינו ילדה בת 10 שנים ו-4 חדשים - "שחקנית בחסד עליון". כולה תנועה, קצב ופרפור אמנותי. כל תנועה אומרת כשרון ותרגול - אסכולה גבוהה. כי על כן היא תלמידה של אולגה פריאוברז'נסקה. המחול "יתומה" נמסר בכליל שלמות אמנותית ועורר דמעות בעיני הצופים. רקודי "הבויארית" ספרו לנו על הוויות עולם אחר זר ורחוק לנו. אך הרקוד כשלעצמו מספר יותר מעשרות דפי היסטוריה. את שיא יכולתה הפגינה ב"ריקוד הספרדי", ריקוד נער יהודי לומד בחדר מתוך דבקות תמה. הקהל שמילא את אולם "אהל שם" במוצ"ש הגיב על ההצגה בהתפעלות יוצאת מן הכלל. "מחול המלחים" שרקדה לאחר תביעות "הדרן" סוערות, הביע את רחשי נפשו של איש הים הזועם ושוחק כאחד... הומטרו עליה פרחים מהאולם, לא "זרים מסורתיים", אלא פרחים מכל הנמצא ביד.  פ.פ.</p>
+         <p>"הארץ" 26.4.32  הקהל הרב והמגוון, שמילא את "אהל שם" במוצאי שבת, נהנה הנאה אמנותית-תרבותית ממדרגה גבוהה מריקודיה מלאי ההבעה של מוסיה דיכס, ילדה בת 10 שנים, שבטכניקה הבליטית שלה, פרי חנוכה של אולגה פריאוברז'נסקה, היא יכולה להתחרות עם הרבה רקדניות גדולות ממנה בשנים. חן והומור ילדותי הוסיפו נופך לנשף. הרקודים "שימי", "הבויארים", "בן הישיבה", "המלח" זכו לתשואות ממושכות. הקהל הנלהב הכריח אותה לחזור על "בן הישיבה" ולהוסיף על התכנית.  גימל.</p>
+        <closer>
+           <name type="press">דפוס נח ורהפטיג</name> -
+           <name type="place">חיפה</name>       
+        </closer>
+
+      </body>
+  </text>
+</TEI>

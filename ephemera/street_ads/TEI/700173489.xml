@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_minimal.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_minimal.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-stylesheet type="text/css" href="../Oxygen%20XML%20Editor%2016/frameworks/tei/xml/tei/css/tei.css"?>
+<?xml-stylesheet type="text/css" href="nli-transcription.css"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>התעוררות למען השבת</title>
+            <author>הרבנות הראשית לחיפה והמחוז, ברית השבת, חברת "משמרת שבת" חיפה</author>
+            <respStmt>
+               <name>Mandel Scholion Hebrew Revival Research Group</name>
+               <resp>Transcription of digital file</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <authority>JEMH</authority>
+            <availability><licence target="https://creativecommons.org/licenses/by/4.0/">CC-BY 4.0</licence></availability>
+         </publicationStmt>
+         <sourceDesc xml:lang="Hebrew">
+	<msDesc>
+		<msPart>
+			<msIdentifier>
+				<repository>National Library of Israel</repository>
+				<collection>"Time Travel" Ephemera Collection</collection>
+				<idno>700173489</idno>
+			</msIdentifier>
+		</msPart>
+	</msDesc>
+            <bibl>
+               <date when="1946-03-01"></date>
+               <distributor>ארכיון העיר חיפה</distributor>
+               <pubPlace>חיפה</pubPlace>
+            </bibl>
+         </sourceDesc>
+                  </fileDesc>
+      <revisionDesc>
+         <change>
+            <date>2017-08-09</date>
+            <name>Jerusalem corpus of Emergent Modern Hebrew (JEMH) staff</name>
+            <note>Created the initial version of the content in TEI-XML</note>
+         </change>
+      </revisionDesc>
+
+  </teiHeader>
+  <text>
+      <body>
+         <head>"התעוררות למען השבת"</head>
+         <opener>זכור את יום השבת לקדשו!</opener>
+         <p>בשעת צרה ומצוקה שעלינו ללכד את כל כוחותינו לשמור מכל משמר על שלמות בית חיינו בארץ קדשנו - השתרגה עלינו צרת בית שיש בה משום סכנה לקיומו והתפתחותו של העם היושב בציון; - פרצת חלול השבת הולכת ומרחיבה את גבולותיה בכל השטחים: בעבודה, במסחר, בתנועת המכוניות וכד'.</p>
+         <p>פגיעה קשה זו בנפש האומה - סמל ויסוד היהדות - מסעירה את לבב כל איש אשר לא כבה בקרבו הזיק האחרון למסורת אבות וקדשי בני ישראל ומזעזעת את כל לב יהודי נאמן החרד לגורל עמו ונחלתו!</p>
+         <p>ובשעת הרת עולם זו, המעוררת את כלנו לתשובה שלמה אל ה' אלקי ישראל ולתורתו - אנו קוראים באזניכם, אחים ואחיות תושבי עירנו והסביבה, את הקריאה הגדולה החרותה באש קודש ובדם דורות: את שבתותי תשמרו ומקדשי תיראו!</p>
+         <p>אב ואם, נותן עבודה ופועל, סוחר וקונה, הזהרו והזהירו את מכיריכם וידידיכם מלחלל את יום השבת.</p>
+         <p>עקרת הבית, אשר בכל עת ומצב, את יודעת לכלכל בתבונה ובדעת את הליכות ביתך, האירי את מעונך באורה של קדושת השבת.</p>
+         <p>שרותי התחבורה בעירנו ובשכונות, חדלו להרע, והפסיקו את חילול השבת הנורא. חוסו על כבוד קונכם וכבוד העם הנתון לבשתנו ולדאבון לבנו לשמצה, הנכם נקראים כולכם אחים ואחיות, הצילו את הנכס הגדול, חומת ההגנה של העם והארץ!</p>
+         <p>השבת, פ' ויקהל, מוקדשת להתעוררות למען חזוק שמירת השבת - קדושתה צביונה ורוחה ובזכותה נזכה ל"נחלה בלי מצרים"</p>
+         <closer>
+הרבנות הראשית לחיפה והמחוז
+ברית השבת
+חברת "משמרת שבת" חיפה
+            <dateline>
+               <date>כ"ח אדר א' תש"ו.</date>
+            </dateline>
+         
+         דפוס "אמנות" חיפה, הדר-הכרמל רח' סוקולוב 7א
+      </closer>
+</body>
+  </text>
+</TEI>

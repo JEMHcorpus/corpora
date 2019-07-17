@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_minimal.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_minimal.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-stylesheet type="text/css" href="../Oxygen%20XML%20Editor%2016/frameworks/tei/xml/tei/css/tei.css"?>
+<?xml-stylesheet type="text/css" href="nli-transcription.css"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>יום האם</title>
+            <author>ועד "נוה-שאנן" חיפה</author>
+            <respStmt>
+               <name>Mandel Scholion Hebrew Revival Research Group</name>
+               <resp>Transcription of digital file</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <authority>JEMH</authority>
+            <availability><licence target="https://creativecommons.org/licenses/by/4.0/">CC-BY 4.0</licence></availability>
+         </publicationStmt>
+         <sourceDesc xml:lang="Hebrew">
+	<msDesc>
+		<msPart>
+			<msIdentifier>
+				<repository>National Library of Israel</repository>
+				<collection>"Time Travel" Ephemera Collection</collection>
+				<idno>700172816</idno>
+			</msIdentifier>
+		</msPart>
+	</msDesc>
+            <bibl>
+               <date when="1951-12"></date>
+               <distributor>ארכיון העיר חיפה</distributor>
+               <pubPlace>חיפה</pubPlace>
+            </bibl>
+         </sourceDesc>
+                  </fileDesc>
+      <revisionDesc>
+         <change>
+            <date>2017-08-09</date>
+            <name>Jerusalem corpus of Emergent Modern Hebrew (JEMH) staff</name>
+            <note>Created the initial version of the content in TEI-XML</note>
+         </change>
+      </revisionDesc>
+
+  </teiHeader>
+  <text>
+      <body>
+         <head>"נוה-שאנן" חיפה  אגודה הדדית בע"מ</head>
+         <head>יום האם</head>
+         <p>בעקבות "יום האם" שהוכרז עליו מטעם עירית חיפה, הננו להביא לידיעת האמהות:</p>
+         <p>א) ביום רביעי ג' דחנוכה, 26.12.51 בשעה 9 בבוקר יציאה להר הכרמל לנטיעת "גן האם"</p>
+         <p>ב) בו ביום בשעה 5 אחרי הצהרים הצגת קולנוע בנוה-שאנן והאמהות מוזמנות בזה.</p>
+         <p>ג) המעונינות להשתתף בנטיעת הגן הנ"ל, מתבקשות להרשם במשרד הועד עד יום שני, 24.12.51 שעה 12 בצהרים, כדי להבטיח להן מקום באוטובוס.</p>
+         <closer>
+בכבוד רב הועד
+         
+      </closer>
+</body>
+  </text>
+</TEI>

@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_minimal.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_minimal.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-stylesheet type="text/css" href="../Oxygen%20XML%20Editor%2016/frameworks/tei/xml/tei/css/tei.css"?>
+<?xml-stylesheet type="text/css" href="nli-transcription.css"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>מסיבת חנוכה חגיגית</title>
+            <author>ועד אגודת חובבי החזנות ושירה עממית, חיפה</author>
+            <respStmt>
+               <name>Mandel Scholion Hebrew Revival Research Group</name>
+               <resp>Transcription of digital file</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <authority>JEMH</authority>
+            <availability><licence target="https://creativecommons.org/licenses/by/4.0/">CC-BY 4.0</licence></availability>
+         </publicationStmt>
+         <sourceDesc xml:lang="Hebrew">
+	<msDesc>
+		<msPart>
+			<msIdentifier>
+				<repository>National Library of Israel</repository>
+				<collection>"Time Travel" Ephemera Collection</collection>
+				<idno>700174545</idno>
+			</msIdentifier>
+		</msPart>
+	</msDesc>
+            <bibl>
+               <date when="1952-12"></date>
+               <distributor>ארכיון העיר חיפה</distributor>
+               <pubPlace>חיפה</pubPlace>
+            </bibl>
+         </sourceDesc>
+                  </fileDesc>
+      <revisionDesc>
+         <change>
+            <date>2017-08-09</date>
+            <name>Jerusalem corpus of Emergent Modern Hebrew (JEMH) staff</name>
+            <note>Created the initial version of the content in TEI-XML</note>
+         </change>
+      </revisionDesc>
+
+  </teiHeader>
+  <text>
+      <body>
+         <head>ב"ה</head>
+         <head>אגודת חובבי החזנות ושירה עממית, חיפה.</head>
+         <opener>לכבוד מר ____ חיפה.
+            <salute>א.נ.,</salute>
+         </opener>
+         <p>כב' מוזמן בזה יחד עם רעיתו להשתתף במסיבת חנוכה חגיגית (על כוס תה) הנערכת ע"י אגודתנו במוצאי שבת, נר שני דחנוכה כ"ה כסלו תשי"ג (13.12.52) בשעה 8.30 בערב באולם "קופה" ברחוב ביאליק (מול קפה "שניר").</p>
+         <p>חתן המסיבה האורח הדגול החזן פ. פינצ'יק (ארצות-הברית)</p>
+         <p>בתכנית: 1. הדלקת נרות  2. דברי פתיחה  3. פרקי חזנות ושירים שונים. 4. הקראה, הגרלה ועוד.</p>
+         <p>בהשתתפות מקהלת הגברים של ביהכנ"ס המרכזי.</p>
+         <p>תשלום כניסה לכסוי ההוצאות: -.500 פרוטה ליחיד, -.1 ל"י לזוג.</p>
+         <closer>
+בכבוד רב, ועד האגודה.
+            <dateline>
+               <date when="1952-12">כסלו תשי"ג</date>
+               <name type="place">חיפה</name>
+            </dateline>
+      </closer>
+</body>
+  </text>
+</TEI>

@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_minimal.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_minimal.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-stylesheet type="text/css" href="../Oxygen%20XML%20Editor%2016/frameworks/tei/xml/tei/css/tei.css"?>
+<?xml-stylesheet type="text/css" href="nli-transcription.css"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>10 שנים לקיום סניף "בני-עקיבא" בחיפה</title>
+            <author>ארגון "בני-עקיבא", הנהלת סניף חיפה</author>
+            <respStmt>
+               <name>Mandel Scholion Hebrew Revival Research Group</name>
+               <resp>Transcription of digital file</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <authority>JEMH</authority>
+            <availability><licence target="https://creativecommons.org/licenses/by/4.0/">CC-BY 4.0</licence></availability>
+         </publicationStmt>
+         <sourceDesc xml:lang="Hebrew">
+	<msDesc>
+		<msPart>
+			<msIdentifier>
+				<repository>National Library of Israel</repository>
+				<collection>"Time Travel" Ephemera Collection</collection>
+				<idno>700173683</idno>
+			</msIdentifier>
+		</msPart>
+	</msDesc>
+            <bibl>
+               <date when="1943-06-06"></date>
+               <distributor>ארכיון העיר חיפה</distributor>
+               <pubPlace>חיפה</pubPlace>
+            </bibl>
+         </sourceDesc>
+                  </fileDesc>
+      <revisionDesc>
+         <change>
+            <date>2017-08-09</date>
+            <name>Jerusalem corpus of Emergent Modern Hebrew (JEMH) staff</name>
+            <note>Created the initial version of the content in TEI-XML</note>
+         </change>
+      </revisionDesc>
+
+  </teiHeader>
+  <text>
+      <body>
+         <note>ב"ה.</note>
+         <head>ארגון "בני-עקיבא" בא"י סניף חיפה.</head>
+         <p>למלאות 10 שנים לקיום סניף "בני-עקיבא" בחיפה יתקיים אי"ה באסרו-חג השבועות, יום החמישי (10.6.43) בשעה 6 אחה"צ על מגרש ביה"ס "אליאנס" מסדר חגיגי של סניפי "בני-עקיבא" במחוז הצפון, בהשתתפות הרבנות הראשית וב"כ מוסדות הישוב והתנועה.</p>
+         <p>באוותו יום, אסרו-חג השבועות 10.6.43 בשעה 8 בערב תתקיים אי"ה באולם קובלסקי, רח' הרצל 54 חגיגה פומבית בתכנית עשירה - (מקהלת שירה, מקהלת דבור, דקלומים, הצגות וכו') ובהשתתפות הח' מ .צ. נרי'ה (ראש ישיבת "בני-עקיבא" בכפר הרא"ה)</p>
+         <p>כרטיסי כניסה לחגיגה במחיר של 49 מיל למבוגרים, 25 מיל לנוער, לכסוי ההוצאות להשיג אצל חברי הסניף, בכל ערב במזכירות הסניף ובערב החגיגה ע"י הקפה.</p>
+         <p>הצבור הדתי בחיפה מוזמן</p>
+         <closer>
+הנהלת הסניף.
+            <dateline>
+               <date>ג' סיון תש"ג</date>
+            </dateline>
+         
+         דפוס מייזלר, חיפה
+      </closer>
+</body>
+  </text>
+</TEI>

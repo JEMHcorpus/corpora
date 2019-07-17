@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_minimal.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_minimal.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-stylesheet type="text/css" href="../Oxygen%20XML%20Editor%2016/frameworks/tei/xml/tei/css/tei.css"?>
+<?xml-stylesheet type="text/css" href="nli-transcription.css"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>קונצרטים של תזמורת אלקטרונית</title>
+            <author>ועד נוה-שאנן חיפה</author>
+            <respStmt>
+               <name>Mandel Scholion Hebrew Revival Research Group</name>
+               <resp>Transcription of digital file</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <authority>JEMH</authority>
+            <availability><licence target="https://creativecommons.org/licenses/by/4.0/">CC-BY 4.0</licence></availability>
+         </publicationStmt>
+         <sourceDesc xml:lang="Hebrew">
+	<msDesc>
+		<msPart>
+			<msIdentifier>
+				<repository>National Library of Israel</repository>
+				<collection>"Time Travel" Ephemera Collection</collection>
+				<idno>700173795</idno>
+			</msIdentifier>
+		</msPart>
+	</msDesc>
+            <bibl>
+               <date when="1952-11-05"></date>
+               <distributor>ארכיון העיר חיפה</distributor>
+               <pubPlace>חיפה</pubPlace>
+            </bibl>
+         </sourceDesc>
+                  </fileDesc>
+      <revisionDesc>
+         <change>
+            <date>2017-08-09</date>
+            <name>Jerusalem corpus of Emergent Modern Hebrew (JEMH) staff</name>
+            <note>Created the initial version of the content in TEI-XML</note>
+         </change>
+      </revisionDesc>
+
+  </teiHeader>
+  <text>
+      <body>
+         <head>נוה -שאנן - חיפה  אגודה הדדית בע"מ</head>
+         <head>קונצרטים של תזמורת אלקטרונית</head>
+         <p>הננו שמחים להודיע לצבור חובבי המוסיקה, כי אנו פותחים, בשיתוף עם המוזיאון במוה-שאנן, בסדרת קונצרטים של תזמורת אלקטרונית מטובי המנצחים בעולם ובסדורים טכניים מיוחדים (בידי מר א. שאודונישקי) שאין אולי כדוגמתם עד כה בכל הארץ.</p>
+         <p>הקונצרטים יתקיימו באולם המוזיאון (בית העם) בנוה-שאנן בכל יום שלישי בשעה 8.30 בערב. הכניסה רק למנויים חדשיים תמורת תשלום של 1.200 ל"י לחודש.</p>
+         <p>ההרשמה תתחיל ביום ראשון, 9.11.1952 (בבית הועד, בחדר למטה) בשעות אחה"צ 8-4 ותסתיים ביום חמישי, 20.11.1952</p>
+         <p>בהתחשב עם מספר המקומות המוגבל, מתבקשים המעונינים להזדרז בהרשמה. המנויים שהקדימו וכבר שלמו את המגיע מתבקשים לפנות בימים הנ"ל, על מנת לקבל את כרטיס=המנוי.</p>
+         <p>הקונצרט הראשון יתקיים ביום שלישי, ז' בכסלו תשי"ג - 25.11.1952.</p>
+         <closer>
+הועד
+            <dateline>
+               <date>י"ז בחשון תשי"ג - 5.11.1952</date>
+            </dateline>
+         
+      </closer>
+</body>
+  </text>
+</TEI>

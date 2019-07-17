@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_minimal.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_minimal.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-stylesheet type="text/css" href="../Oxygen%20XML%20Editor%2016/frameworks/tei/xml/tei/css/tei.css"?>
+<?xml-stylesheet type="text/css" href="nli-transcription.css"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>חג ההסתדרות - הזמנה</title>
+            <author>מועצת פועלי חיפה - ועדת התרבות</author>
+            <respStmt>
+               <name>Mandel Scholion Hebrew Revival Research Group</name>
+               <resp>Transcription of digital file</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <authority>JEMH</authority>
+            <availability><licence target="https://creativecommons.org/licenses/by/4.0/">CC-BY 4.0</licence></availability>
+         </publicationStmt>
+         <sourceDesc xml:lang="Hebrew">
+	<msDesc>
+		<msPart>
+			<msIdentifier>
+				<repository>National Library of Israel</repository>
+				<collection>"Time Travel" Ephemera Collection</collection>
+				<idno>700172525</idno>
+			</msIdentifier>
+		</msPart>
+	</msDesc>
+            <bibl>
+               <date when="1952-12-15"></date>
+               <distributor>ארכיון העיר חיפה</distributor>
+               <pubPlace>חיפה</pubPlace>
+            </bibl>
+         </sourceDesc>
+                  </fileDesc>
+      <revisionDesc>
+         <change>
+            <date>2017-08-09</date>
+            <name>Jerusalem corpus of Emergent Modern Hebrew (JEMH) staff</name>
+            <note>Created the initial version of the content in TEI-XML</note>
+         </change>
+      </revisionDesc>
+
+  </teiHeader>
+  <text>
+      <body>
+         <head>ההסתדרות הכללית של העובדים העברים בא"י</head>
+         <head>מועצת פועלי חיפה  ועדת התרבות</head>
+         <note>תח/10/2/5</note>
+         <opener>לכבוד ____ שלום רב!</opener>
+         <p>הנך מוזמן לחג ההסתדרות שיתקיים בשבת 20.12.52 בשעה 1100 לפנה"צ בקולנוע "הדר" (רח' קבוץ גלויות).</p>
+         <p>דבר ההסתדרות</p>
+         <p>בתכנית אמנותית:- מקהלה מאוחדת של חיפה רבתי בנצוח מ. ביק. רקודי עם. תזמורת "מכבי אש" בנצוח יצחק מוזה.</p>
+         <closer>
+בברכת חברים, ועדת התרבות.
+            <dateline>
+               <date>כ'ז כסלו תשי"ג  15.12.52.</date>
+            </dateline>
+         
+      </closer>
+</body>
+  </text>
+</TEI>

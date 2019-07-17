@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_minimal.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_minimal.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-stylesheet type="text/css" href="../Oxygen%20XML%20Editor%2016/frameworks/tei/xml/tei/css/tei.css"?>
+<?xml-stylesheet type="text/css" href="nli-transcription.css"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>תכנית הטיולים בחג הפסח</title>
+            <author>מועצת פועלי חיפה - ועדת התרבות</author>
+            <respStmt>
+               <name>Mandel Scholion Hebrew Revival Research Group</name>
+               <resp>Transcription of digital file</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <authority>JEMH</authority>
+            <availability><licence target="https://creativecommons.org/licenses/by/4.0/">CC-BY 4.0</licence></availability>
+         </publicationStmt>
+         <sourceDesc xml:lang="Hebrew">
+	<msDesc>
+		<msPart>
+			<msIdentifier>
+				<repository>National Library of Israel</repository>
+				<collection>"Time Travel" Ephemera Collection</collection>
+				<idno>700172500</idno>
+			</msIdentifier>
+		</msPart>
+	</msDesc>
+            <bibl>
+               <date when="1954-03-14"></date>
+               <distributor>ארכיון העיר חיפה</distributor>
+               <pubPlace>חיפה</pubPlace>
+            </bibl>
+         </sourceDesc>
+                  </fileDesc>
+      <revisionDesc>
+         <change>
+            <date>2017-08-09</date>
+            <name>Jerusalem corpus of Emergent Modern Hebrew (JEMH) staff</name>
+            <note>Created the initial version of the content in TEI-XML</note>
+         </change>
+      </revisionDesc>
+
+  </teiHeader>
+  <text>
+      <body>
+         <head>ההסתדרות הכללית של העובדים העברים בא"י</head>
+         <head>מועצת פועלי חיפה - ועדת התרבות</head>
+         תח/3/11/1
+         <opener>לועדי הפועלים והעובדים שלום!</opener>
+         <p>אנו מביאים לידיעתכם את תכנית הטיולים שעורכת ועדת התרבות של מ.פ.ח. בחג הפס תשי"ד. נא להביא את הדברים לידיעת כל החברים במקום עבודתכם.</p>
+         <p>א. טיול לאילת  הטיול יתקיים בימים: 19, 20, 21 באפריל 1954. יוצאים מרחבת בית הפועלים בשעה 6.30 בבקר. ביום הראשון מבקרים: באר שבע, המכתש הגדול ומפעל הפוספטים, המכתש הקטן, עין חוצב. לנים בעין חוצב. ביום השני מבקרים: באר-אורה ואילת. לינה באילת. ביום השלישי ממשיכים בבקורים באילת עד שעה 10 בבקר וחוזרים לחיפה דרך כביש סעד. דמי השתתפות בטיול לחברינו במקומות העבודה שיזמינו ע"י ועד הפועלים והפקידים 5 מקומות לכל הפחות במרוכז -.29 ל"י. המחיר כולל רק דמי נסיעה והדרכה. מספר המקומות מוגבל מאוד וכל הקודם זכה.</p>
+         <p>ב. טיול לשדה בוקר ולעבדה  הטיול יתקיים ב-23 באפריל 1954. יוצאים בשעה 5.30 בבקר מרחבת בית הפועלים וחוזרים בו ביום בשעות הערב המאוחרות. מבקרים: באר שבע, כפר ירוחם, המכתש הגדול (מפעל הפוספטים), שדה בוקר, עבדה. חוזרים לחיפה דרך כביש סעד. דמי השתתפות בטיול לחברינו במקומות העבודה שיזמינו ע"י ועד הפועלים והפקידים 5 מקומות לכל הפחות במרוכז -.9 ל"י. המחיר כולל רק דמי נסיעה והדרכה. מספר המקומות מוגבל וכל הקודם זכה.</p>
+         <p>ג. טיול לסדות  הטיול יתקיים ב-24 באפריל 1954. יוצאים בשעה 5.30 בבקר מרחבת בית הפועלים וחוזרים בו ביום בשעות הערב המאוחרות. מבקרים:- באר שבע, תל-ירוחם, המכתש הגדול (מפעל הפוספטים) סדום - המערה וחוזרים דרך כביש סעד. דמי השתתפות בטיול לחברינו במקומות העבודה שיזמינו ע"י ועד הפועלים והפקידים 5 מקומות לכל הפחות במרוכז 8.500 ל"י. המחיר כולל רק דמי נסיעה והדרכה. מספר המקומות מוגבל וכל הקודם זכה.</p>
+         <p>ד. טיול לירושלים  הטיול יתקיים ב-22 באפריל 1954. יוצאים בשעה 6 בבקר מרחבת בית הפועלים וחוזרים בו ביום בשעות הערב המאוחרות. מבקרים: קרית ענבים, הר-ציון, הר-הרצל, מעבר מנדלבאום. דמי השתתפות בטיול לחברינו במקומות העבודה שיזמינו ע"י ועדי הפועלים והפקידים 5 מקומות לכל הפחות במרוכז 4.500 ל"י. המחיר כולל רק דמי נסיעה והדרכה. מספר המקומות מוגבל וכל הקודם זכה.</p>
+         <p>ה. טיול לגליל העליון  הטיול יתקיים ב-24 באפריל 1954. יוצאים בשעה 5.30 בבקר מרחבת בית הפועלים וחוזרים בו ביום בשעות הערב המאוחרות. מבקרים: בקעת בית נטופה, צפת, נבי יושע, דפנה, דן, כפר-גלעדי, מטולה, משמר הירדן. דמי השתתפות בטיול לחברינו במקומות העבודה שיזמינו ע"י ועדי הפועלים והפקידים 5 מקומות לכל הפחות במרוכז -.5 ל"י. המחיר כולל רק דמי נסיעה והדרכה. מספר המקומות מוגבל וכל הקודם זכה.</p>
+         <p>פרטים נוספים והרשמה אצל הח' יוסף ינקנר, בית הפועלים חדר 97 בשעות 12 - 10 לפני הצהרים, 4-6 אחר-הצהרים.</p>
+         <closer>
+בברכת חברים, ועדת התרבות.
+            <dateline>
+               <date>ט' אדר ב' תשי"ד  14.3.54</date>
+            </dateline>
+         
+         ינ/רא.
+      </closer>
+</body>
+  </text>
+</TEI>

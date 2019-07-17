@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_minimal.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_minimal.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-stylesheet type="text/css" href="../Oxygen%20XML%20Editor%2016/frameworks/tei/xml/tei/css/tei.css"?>
+<?xml-stylesheet type="text/css" href="nli-transcription.css"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>קרן ההעפלה</title>
+            <author>הישוב המאורגן</author>
+            <respStmt>
+               <name>Mandel Scholion Hebrew Revival Research Group</name>
+               <resp>Transcription of digital file</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <authority>JEMH</authority>
+            <availability><licence target="https://creativecommons.org/licenses/by/4.0/">CC-BY 4.0</licence></availability>
+         </publicationStmt>
+         <sourceDesc xml:lang="Hebrew">
+	<msDesc>
+		<msPart>
+			<msIdentifier>
+				<repository>National Library of Israel</repository>
+				<collection>"Time Travel" Ephemera Collection</collection>
+				<idno>700173529</idno>
+			</msIdentifier>
+		</msPart>
+	</msDesc>
+            <bibl>
+               <date when="1947-03-30"></date>
+               <distributor>ארכיון העיר חיפה</distributor>
+               <pubPlace>חיפה</pubPlace>
+            </bibl>
+         </sourceDesc>
+                  </fileDesc>
+      <revisionDesc>
+         <change>
+            <date>2017-08-09</date>
+            <name>Jerusalem corpus of Emergent Modern Hebrew (JEMH) staff</name>
+            <note>Created the initial version of the content in TEI-XML</note>
+         </change>
+      </revisionDesc>
+
+  </teiHeader>
+  <text>
+      <body>
+         <opener>ליהודי חיפה!</opener>
+         <p>למרות הצייד מצד ממשלת "הספר הלבן" ביבשה ובים ממשיכות אניות מעפילים לחתור לחופי המולדת.</p>
+         <p>הבוקר הובאה לנמל חיפה אנית מעפילים ובה 1560 נפש, גברים, נשים וטף.</p>
+         <p>שוב פעם הופך נמל חיפה למקום ענויים ושמוש בכוח נגד מעפילים החותרים בכוחות על-אנושיים למולדתם.</p>
+         <p>עם ישראל לא ירתע וההעפלה לא תפסק!</p>
+         <p>הישוב ימשיך במאמציו לעודד את ההעפלה ונדרש - לאות הזדהותו המלאה עם אחיו המעפילים שהגיעו ועומדים להגיע ברבבותיהם להוסיף שעתיים עבודה שתמורתן תהיה קודש לקרן ההעפלה.</p>
+         <closer>
+הישוב המאורגן
+            <dateline>
+               <date>ט' בניסן תש"ז  30.3.47</date>
+               <name type="place">חיפה</name>
+            </dateline>
+         
+      </closer>
+</body>
+  </text>
+</TEI>

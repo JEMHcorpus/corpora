@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_minimal.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_minimal.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-stylesheet type="text/css" href="../Oxygen%20XML%20Editor%2016/frameworks/tei/xml/tei/css/tei.css"?>
+<?xml-stylesheet type="text/css" href="nli-transcription.css"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>שביתה כללית</title>
+            <author>ועד הקהלה העברית בחיפה</author>
+            <respStmt>
+               <name>Mandel Scholion Hebrew Revival Research Group</name>
+               <resp>Transcription of digital file</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <authority>JEMH</authority>
+            <availability><licence target="https://creativecommons.org/licenses/by/4.0/">CC-BY 4.0</licence></availability>
+         </publicationStmt>
+         <sourceDesc xml:lang="Hebrew">
+	<msDesc>
+		<msPart>
+			<msIdentifier>
+				<repository>National Library of Israel</repository>
+				<collection>"Time Travel" Ephemera Collection</collection>
+				<idno>700173430</idno>
+			</msIdentifier>
+		</msPart>
+	</msDesc>
+            <bibl>
+               <date when="1943-11-02"></date>
+               <distributor>ארכיון העיר חיפה</distributor>
+               <pubPlace>חיפה</pubPlace>
+            </bibl>
+         </sourceDesc>
+                  </fileDesc>
+      <revisionDesc>
+         <change>
+            <date>2017-08-09</date>
+            <name>Jerusalem corpus of Emergent Modern Hebrew (JEMH) staff</name>
+            <note>Created the initial version of the content in TEI-XML</note>
+         </change>
+      </revisionDesc>
+
+  </teiHeader>
+  <text>
+      <body>
+         <opener>לישוב העברי בחיפה</opener>
+         <p>לפי החלטת הועד הלאומי הוכרז על שביתה כללית בכל הארץ מחר ביום רביעי, ה' מרחשון ש.ז. (3.11.43) משעה 12-10 בצהרים,-</p>
+         <p>לשם מתן בטוי למחאתו של הישוב נגד העלילות והדיבות שהוצאו והופצו בארץ ובחוץ-לארץ על הישוב, מוסדות התנועה הציונית ואישים שונים בשעת המשפטים נגד סירקין, רייכלין וסחרוב, ולשם מתן בטוי למחאתו של הישוב בקשר עם אישור פסקי-הדין הנ"ל.</p>
+         <p>בשעות השביתה תופסק העבודה במלאכה, מסחר, תעשיה והתחבורה העירונית והבינעירונית, וכל בתי הקפה והאוכל יהיו סגורים.</p>
+         <p>בבתי הספר ישארו התלמידים בכתותיהם והמורים ירצו על נושא השביתה.</p>
+         <closer>
+         ועד הקהלה העברית בחיפה.
+            <dateline>
+               <date>ד' מרחששון תש"ד (2 בנובמבר 1943)</date>
+            </dateline>
+         
+         "אות" דפוס קואופרטיבי בע"מ, חיפה, טלפון 2973
+      </closer>
+</body>
+  </text>
+</TEI>

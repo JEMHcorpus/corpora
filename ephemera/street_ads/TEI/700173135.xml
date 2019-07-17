@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_minimal.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_minimal.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-stylesheet type="text/css" href="../Oxygen%20XML%20Editor%2016/frameworks/tei/xml/tei/css/tei.css"?>
+<?xml-stylesheet type="text/css" href="nli-transcription.css"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>האפלה</title>
+            <author>משמר העם, הג"א</author>
+            <respStmt>
+               <name>Mandel Scholion Hebrew Revival Research Group</name>
+               <resp>Transcription of digital file</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <authority>JEMH</authority>
+            <availability><licence target="https://creativecommons.org/licenses/by/4.0/">CC-BY 4.0</licence></availability>
+         </publicationStmt>
+         <sourceDesc xml:lang="Hebrew">
+	<msDesc>
+		<msPart>
+			<msIdentifier>
+				<repository>National Library of Israel</repository>
+				<collection>"Time Travel" Ephemera Collection</collection>
+				<idno>700173135</idno>
+			</msIdentifier>
+		</msPart>
+	</msDesc>
+            <bibl>
+               <date when="1948-05-31"></date>
+               <distributor>ארכיון העיר חיפה</distributor>
+               <pubPlace>חיפה</pubPlace>
+            </bibl>
+         </sourceDesc>
+                  </fileDesc>
+      <revisionDesc>
+         <change>
+            <date>2017-08-09</date>
+            <name>Jerusalem corpus of Emergent Modern Hebrew (JEMH) staff</name>
+            <note>Created the initial version of the content in TEI-XML</note>
+         </change>
+      </revisionDesc>
+
+  </teiHeader>
+  <text>
+      <body>
+         <head>משמר העם, הג"א, חיפה  הודעה מס. 5</head>
+         <head>האפלה</head>
+         <p>בצוע האפלה בשלמות ובמועד תובע מהצבור הכנה מידית של החומרים הדרושים והקפדה על הוראות האפלה. אור בוקע מדירות, חלונות-ראוה מרפסות וכו' מגלה לאויב את המטרה ומגדיל את מספר הנפגעים.</p>
+         <p>מאור חיצוני  יש להפסיק לגמרי את כל מאור הפרסום והקשוט וכן את המאור בשערי הכניסות לבתים, לחנויות, לבתי אוכל ולמקומות שעשועים, המאור הקבוע במרפסות, בגגות של דירות פרטיות, בחדרי מדרגות וכל יתר המאור שאינו בגדר הכרח.</p>
+         <p>מאור בבנינים  המאור הפנימי יכול להשאר רק בתנאי שתבוצענה הוראות האפלה. לצורכי האפלה יש להשתמש בבד סמיך בצבע כהה. החומר הוא מתאים רק כשאינו מעביר את מאור השמש או של מנורה חזקה יותר מנקודות אור בודדות בגודל של סכה. את הוילונות והתריסים יש לסדר באופן שהכסוי יהיה גמור ושלם בכל התנאים האקלימיים ושלא תהיה אפשרות מקרית של פלישת קרני האור החוצה. את הכסוי יכולים לחבר ולחזק באופן קבוע למשקופים של החלונות או למסגרות מיוחדות מטולטלות שאפשר להורידן במשך היום. הדלתות שאין הכרח להשתמש בהן בזמן האפלה צריכות להיות בלתי שקופות ונוסף לזאת יש לסדר עליהן וילונות בצורה כזו שיוכלו לפתוח את הדלת מבלי להסיר את הוילון. במקומות צבוריים יכולים להתקין במקום הוילון כניסות לבירינט מיוחדות המונעות את פלישת האור.</p>
+         <p>הוראות לתנועת כלי רכב מכל הסוגים בשעת האפול  1. בשעות האפול (עם שקיעת החמה ועד חצי שעה לפני זריחתה), מצווים כל כלי הרכב לנסוע באורות מאפלים.  2. האפלת הפנסים הגדולים תעשה בצורה כדלקמן: א) הפנס השמאלי יכוסה לחלוטין בצבע שחור מבחוץ, או בניר בלתי חדיר לקרן אור מבפנים. ב) הפנס הימני יאופל מבפנים בניר בלתי חדיר לקרן אור, או מבחוץ בשכבה עבה של צבע שחור, פרט לחתך ברוחב הפנס, אשר ארכו 80 מ"מ ורחבו 10 מ"מ. הקו התחתון של החתך הנ"ל יהיה בגבה של 50 מ"מ מהנקודה התחתית של זכוכית הפנס. חתך זה יכוסה אף הוא בצבע כחול או בניר קרפ כחול.  3. במכוניות משא ואוטובוסים חובה להשתמש בפנסים קטנים עליונים המסמנים את צדי המכוניות, ובמכוניות קטנות מכל הסוגים בפנים על הכנפיים, ויש להאפילם כחול שיסמן את הפנס מבלי להפיץ אור.  4. מבטלים לחלוטין את האור בפנסים האחוריים הנמצאים באמצע המכונית, ובפנסים על הכנף הימני האחורי. יש להשאיר רק את האור בפנס על הכנף השמאלי האחורי, או פנס בצד שמאל במכוניות משא ואוטובוסים. את הפנסים הנ"ל יש להאפיל בניר בלתי חדיר לקרן אור פרט לפתח בקוטר של 5 מ"מ סמוך למסגרת הפנס.  5. מבטלים לחלוטין את המאור הפנימי באוטובוסים, ואת האור המסמן את מספרי קו הנסיעה מבחוץ, פרט לפנס קטן מאופל בקוטר של 10 מ"מ ליד הנהג, לשמוש בשעת מכירת הכרטיסים בלבד, ופנס מאופל כנ"ל ליד דלת היציאה.  6. על רוכבי אופנועים להאפיל את הפנסים, הקדמי והאחורי, בהתאם להוראות להאפלת הפנסים במכוניות.  7. בעגלות הרתומות לסוסים יש להשתמש בפנס עטוף בניר בלתי חדיר, פרט לשני פתחים בגודל של 15 מ"מ, מכוסים צבע כחול, בצד הקדמי והאחורי של הפנס.  8. בשעות האפול, בשטחים עירוניים, אסור בהחלט להעמיד מכוניות בצדי הרחובות בם עוברים קוי אוטובוסים.  9. בשעות האפול מותרת מהירות למכוניות מכל הסוגים, בשטחים עירוניים, של לא יותר מ-20 ק"מ לשעה.</p>
+         <closer>
+משמר העם, הג"א
+            <dateline>
+               <date>31.5.48</date>
+               <name type="place">חיפה</name>
+            </dateline>
+         
+      </closer>
+</body>
+  </text>
+</TEI>

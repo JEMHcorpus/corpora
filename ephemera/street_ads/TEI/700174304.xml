@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_minimal.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_minimal.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-stylesheet type="text/css" href="../Oxygen%20XML%20Editor%2016/frameworks/tei/xml/tei/css/tei.css"?>
+<?xml-stylesheet type="text/css" href="nli-transcription.css"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>פעילויות שונות של הועד</title>
+            <author>ועד העדה העברית</author>
+            <respStmt>
+               <name>Mandel Scholion Hebrew Revival Research Group</name>
+               <resp>Transcription of digital file</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <authority>JEMH</authority>
+            <availability><licence target="https://creativecommons.org/licenses/by/4.0/">CC-BY 4.0</licence></availability>
+         </publicationStmt>
+         <sourceDesc xml:lang="Hebrew">
+	<msDesc>
+		<msPart>
+			<msIdentifier>
+				<repository>National Library of Israel</repository>
+				<collection>"Time Travel" Ephemera Collection</collection>
+				<idno>700174304</idno>
+			</msIdentifier>
+		</msPart>
+	</msDesc>
+            <bibl>
+               <date when="1924-02"></date>
+               <distributor>ארכיון העיר חיפה</distributor>
+               <pubPlace>חיפה</pubPlace>
+            </bibl>
+         </sourceDesc>
+                  </fileDesc>
+      <revisionDesc>
+         <change>
+            <date>2017-08-09</date>
+            <name>Jerusalem corpus of Emergent Modern Hebrew (JEMH) staff</name>
+            <note>Created the initial version of the content in TEI-XML</note>
+         </change>
+      </revisionDesc>
+
+  </teiHeader>
+  <text>
+     <body>
+        <opener><salute>אל הקהל העברי!</salute></opener>
+        <p>בתור נבחרי הקהל אנו מוצאים לחובה לנו לתת לפניו באורים על המצב בעדה, למען ששום דבר סתום לא יהיה בעיניו ולהתמיד ע"י זה בהבנה הדדית בין שליחי הצבור ובין שולחיהם.</p>
+        <p>בזמן הריסה בעדה, ע"י החכוכים הפנימיים הקודמים, נכנסנו לעבודה ועלינו לבנות הכל מחדש. הגרעון הכספי וההתחיבויות בקשר עם ההסכמים המוקדמים שקבלנו, מעמיסים עלינו עול גדול. מתוך כונה טהורה להוציא כל זה לפועל, להשביע רצון כל החוגים ולהיות באמת בא-כח מעשי של כל השדרות נגשנו בעוז לעבודה.</p>
+        <p>אנו התחבטנו הרבה בשאלת הבשר הכשר שמצד אחד חפצנו לעמוד על עניני הצבור וטובתו ולהוזיל עד כמה שאפשר את מחיר הבשר ומצד שני היתה חובתנו לדאוג גם בעד אמצעי הקיום של ועד העדה.</p>
+        <p>אחרי עמל ויגיעה רבה עלה בידינו לסדר הדבר לטובת שני הצדדים. בהתאם לדעת הקהל המובעת באספות כלליות שונות בטלנו את מס הגבלה וכעת אנו מקבלים מס-בשר אי-גדול מאת הקצבים באופן שלא ישפיע באף מה שהוא על מחיר הבשר. הקצבים העברים התחיבו בחזה למכור במשך כל השנה בשר למחיר ½2 גר"מ. כל אוקיה בלי עצמות. אלא בהיות שבענת החרף מחיר הבהמות ביוקר מאד, הרשינו להם להעלות את המחיר רק במשך שני חדשים (אדר א' וטבת) עד 3 גר"מ. האוקיה. מכל רוטל בשר כשר משלמים הקצבים ½2 גר"מ. לקופת הועד.</p>
+        <p>אנו מתעסקים עכשיו בסדור משרד הרבנות שיהיה מתאים לכבוד העדה. הועד מקבל עליו את כל תקציב המשרד בתנאי שהכנסות משרד הרבנות תעברנה על ידו ותהיינה שיכות לו. הועד אומר לרכז את משרד הרבנות בתוך דירת הועד החדשה שירכוש בקרוב.</p>
+        <p>הועד לקח עמדת פעילות בכל השאלות הכלליות בעולמנו, העומדות על הפרק כגון בענין העזבון של הנדיב כדורי המנוח, בדבר אופן הבחירות החדשות לרבנות הראשית בא"י, בתנועה של "למען תוצרת הארץ" וכדומה ועומד על המשמר בכל הענינים הנוגעים לקהלה.</p>
+        <p>לרגלי המצב של חסר עבודה בעיר מצאנו לנחוץ ליסוד ע"י הועד "מועצת עבודה" שבה יקחו חלק באי-כח ההסתדרויות, השכונות והמוסדות שבחיפה. אנו מקוים שמועצה זו תצליח לאפשר במדה ידועה את השגת עבודה למחוסריה ולאמץ ידים עבריות עובדות.</p>
+        <p>תקונים שונים עומדים לפנינו לפתרון. אנו מסדרים עכשיו את התקציב שיכיל את כל הצרכים האפשריים של העדה כמו צרכי דת, תרבות, תמיכה לעניים, עזרה מדיצינית, סיוע למוסדות ועוד, אבל למען גשם בחיים את כל הדברים האלה נחוצה לנו עזרת הקהל. ועדת הערכה המורכבת מבאי-כח סוגים שונים, הטילה מסים חדשיים על כל בני העדה. המסים האלה אינם גדולים בהתחשבות עם הצרכים המרובים של העדה ועם זה שאנו הפסקנו את מס הגבלה שהוא היה היסוד העיקרי של הכנסות הועדים הקודמים ופטרנו את הקהל מחמת הבלתי ישר. יחד עם הצבור אנו שואפים לבסוס העדה, ע"י אמצעים שהוא, עפ"י הבעותיו באספות כלליות, מצא אותם להכי נכונים וישרים והם הטלת מס הערכה על כל איש ואיש.</p>
+        <p>בטוחים אנו בהרגש הלאומי הבריא של הצבור שיתן לנו את ידו להקים בחיפה עדה עברית מופתית, עומדת ברשות עצמה וקימת בעזרת כל בניה-בוניה, לכבוד להעם ולארץ.</p>
+        <closer>
+           ועד העדה העברית.
+           <dateline>
+              <name type="place">חיפה</name>,              
+              <date when="1924-02">אדר א' תרפ"ד</date>
+            </dateline>
+         
+      </closer>
+</body>
+  </text>
+</TEI>

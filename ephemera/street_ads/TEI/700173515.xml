@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_minimal.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_minimal.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-stylesheet type="text/css" href="../Oxygen%20XML%20Editor%2016/frameworks/tei/xml/tei/css/tei.css"?>
+<?xml-stylesheet type="text/css" href="nli-transcription.css"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>אסיפת ההמונים - הזדהות עם מעפילי "פלמ"ח"</title>
+            <author>המוסדות הישוביים</author>
+            <respStmt>
+               <name>Mandel Scholion Hebrew Revival Research Group</name>
+               <resp>Transcription of digital file</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <authority>JEMH</authority>
+            <availability><licence target="https://creativecommons.org/licenses/by/4.0/">CC-BY 4.0</licence></availability>
+         </publicationStmt>
+         <sourceDesc xml:lang="Hebrew">
+	<msDesc>
+		<msPart>
+			<msIdentifier>
+				<repository>National Library of Israel</repository>
+				<collection>"Time Travel" Ephemera Collection</collection>
+				<idno>700173515</idno>
+			</msIdentifier>
+		</msPart>
+	</msDesc>
+            <bibl>
+               <date when="1946-09-23"></date>
+               <distributor>ארכיון העיר חיפה</distributor>
+               <pubPlace>חיפה</pubPlace>
+            </bibl>
+         </sourceDesc>
+                  </fileDesc>
+      <revisionDesc>
+         <change>
+            <date>2017-08-09</date>
+            <name>Jerusalem corpus of Emergent Modern Hebrew (JEMH) staff</name>
+            <note>Created the initial version of the content in TEI-XML</note>
+         </change>
+      </revisionDesc>
+
+  </teiHeader>
+  <text>
+      <body>
+         <p>יהודי חיפה עומדים דום לזכרו של המעפיל האלמוני אשר נפל חלל בידי מלחי הצי הבריטי על סף המולדת</p>
+         <p>הישוב העברי בחיפה נקרא להרים את קולו במחאה נגד גרוש מעפילים מן הארץ ובתביעה להעלאתם המידית לחופי המולדת.</p>
+         <p>כל יהודי ויהודיה ישתתפו באסיפת ההמונים ברחבת בית הקרנות, היום בשעה 8 בבקר, כדי להפגין את הזדהותם המלאה עם מעפילי "פלמ"ח". משעה 8 תשבות כל מלאכה, מסחר, תעשיה ותחבורה עד תום המחאה.</p>
+         <p>כולנו להפגנת מחאת הישוב על ההתעללות הנוספת של השלטון בבנים השבים למולדתם.</p>
+         <closer>
+המוסדות הישוביים.
+            <dateline>
+               <date>כ"ז אלול תש"ו  23.9.46</date>
+            </dateline>
+         
+      </closer>
+</body>
+  </text>
+</TEI>

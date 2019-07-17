@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_minimal.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_minimal.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-stylesheet type="text/css" href="../Oxygen%20XML%20Editor%2016/frameworks/tei/xml/tei/css/tei.css"?>
+<?xml-stylesheet type="text/css" href="nli-transcription.css"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>שיחות טלפוניות</title>
+            <author>ועד "נוה-שאנן", חיפה</author>
+            <respStmt>
+               <name>Mandel Scholion Hebrew Revival Research Group</name>
+               <resp>Transcription of digital file</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <authority>JEMH</authority>
+            <availability><licence target="https://creativecommons.org/licenses/by/4.0/">CC-BY 4.0</licence></availability>
+         </publicationStmt>
+         <sourceDesc xml:lang="Hebrew">
+	<msDesc>
+		<msPart>
+			<msIdentifier>
+				<repository>National Library of Israel</repository>
+				<collection>"Time Travel" Ephemera Collection</collection>
+				<idno>700173794</idno>
+			</msIdentifier>
+		</msPart>
+	</msDesc>
+            <bibl>
+               <date when="1949-01-10"></date>
+               <distributor>ארכיון העיר חיפה</distributor>
+               <pubPlace>חיפה</pubPlace>
+            </bibl>
+         </sourceDesc>
+                  </fileDesc>
+      <revisionDesc>
+         <change>
+            <date>2017-08-09</date>
+            <name>Jerusalem corpus of Emergent Modern Hebrew (JEMH) staff</name>
+            <note>Created the initial version of the content in TEI-XML</note>
+         </change>
+      </revisionDesc>
+
+  </teiHeader>
+  <text>
+      <body>
+         <head>"נוה-שאנן", חיפה  אגודה הדדית בע"מ</head>
+         <head>שיחות טלפוניות</head>
+         <p>לאחר מאמצים מרובים עלה בידי ועד אגודתנו להשיג חזרה את הטלפונים הצבוריים בשכונתנו ואנו שמחים להודיע בזה, כי הטלפונים כבר הותקנו ועומדים לשרות הצבור; אחד בבית מר מ. מצליח, רח' הגליל 84 מס' הטלפון: 6076 ואחד בשכונת "זיו" בחנות מר מ. גולדמן מס' הטלפון: 6078</p>
+         <p>הקהל נדרש איפוא בזה במקרה הצורך, להשתמש בטלפון הצבורי ולא בטלפון שבמשרד הועד, המיועד אך ורק לצרכי עבודת הועד ולא לשיחות פרטיות.</p>
+         <closer>
+הועד.
+            <dateline>
+               <date>ט, בטבת - 10.1.49</date>
+            </dateline>
+         
+      </closer>
+</body>
+  </text>
+</TEI>

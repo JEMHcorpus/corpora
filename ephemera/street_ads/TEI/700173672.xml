@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_minimal.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_minimal.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-stylesheet type="text/css" href="../Oxygen%20XML%20Editor%2016/frameworks/tei/xml/tei/css/tei.css"?>
+<?xml-stylesheet type="text/css" href="nli-transcription.css"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>פרצה נוספת בחומת השבת</title>
+            <author>הסתדרות המזרחי והפועל המזרחי בחיפה</author>
+            <respStmt>
+               <name>Mandel Scholion Hebrew Revival Research Group</name>
+               <resp>Transcription of digital file</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <authority>JEMH</authority>
+            <availability><licence target="https://creativecommons.org/licenses/by/4.0/">CC-BY 4.0</licence></availability>
+         </publicationStmt>
+         <sourceDesc xml:lang="Hebrew">
+	<msDesc>
+		<msPart>
+			<msIdentifier>
+				<repository>National Library of Israel</repository>
+				<collection>"Time Travel" Ephemera Collection</collection>
+				<idno>700173672</idno>
+			</msIdentifier>
+		</msPart>
+	</msDesc>
+            <bibl>
+               <date when="1943-04-08"></date>
+               <distributor>ארכיון העיר חיפה</distributor>
+               <pubPlace>חיפה</pubPlace>
+            </bibl>
+         </sourceDesc>
+                  </fileDesc>
+      <revisionDesc>
+         <change>
+            <date>2017-08-09</date>
+            <name>Jerusalem corpus of Emergent Modern Hebrew (JEMH) staff</name>
+            <note>Created the initial version of the content in TEI-XML</note>
+         </change>
+      </revisionDesc>
+
+  </teiHeader>
+  <text>
+      <body>
+         <note>ב"ה</note>
+         <head>הסתדרות המזרחי והפועל המזרחי בחיפה</head>
+         <opener>אל הישוב העברי בחיפה</opener>
+         <p>בשבת העברה היינו עדים לפרצה נוספת בחומת השבת שנעשתה הפעם ע"י מוסדות עירוניים ישוביים כללים.</p>
+         <p>בראש חוצות ברח' הרצל, בדיוק מול בית הכנסת המרכזי ובחצר "אליאנס" לעיני אלפים היהודים שהיו מכונסים בבתי הכנסת בשעת התפלה ערכו ה.ג.א. ומגן דוד אדום תמרונים שהיו מלווים חלול שבת גס ומחפיר.</p>
+         <p>למראה המעשה המגונה הזה עזבו מאות יהודים את בתי הכנסת ובתוקף דרשו מאת המפקחים לעזוב מיד את המקום. תחת לחץ ההמונים נאלצה היתה המכונית של מגד"א לעזוב את המקום ואנשי ה.ג.א במקום להפסיק את חלול השבת, השתמשו במעשי אלמות נגד המוחים והתנפלו עליהם בגסות</p>
+         <p>לבנו דואב למראה הפרצות המרובות בקדושת השבת בעירנו. אין עיר אחת בארץ בה תהיה השבת כה מחוללת וכה נרמסת כמו בחיפה.</p>
+         <p>אנו מוחים בתוקף נגד הארגונים הנ"ל אשר בהיותם ארגונים כלליים ישוביים ואשר ביניהם נמצאים מאות יהודים שומרי שבת, מעיזים לחלל את קדושת השבת.</p>
+         <p>אנו קוראים לכל המוסדות הישוביים ובראש וראשונה למוסד העליון בעירנו, את ועד הקהלה לאחוז בכל האמצעים להפסיק את מעשי חלול השבת בחוצות חיפה.</p>
+         <p>אנו מכריזים, כי היהדות הנאמנה הגן תגן על קיומה ותדע לשמור על הקנינים הקדושים והנצחיים של היהדות!</p>
+         <closer>
+            ב"ה
+            <dateline>
+               <date>ג' בניסן תש"ג</date>
+               <name type="place">חיפה</name>
+            </dateline>
+         
+      </closer>
+</body>
+  </text>
+</TEI>

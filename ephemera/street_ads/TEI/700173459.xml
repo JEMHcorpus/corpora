@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_minimal.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_minimal.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-stylesheet type="text/css" href="../Oxygen%20XML%20Editor%2016/frameworks/tei/xml/tei/css/tei.css"?>
+<?xml-stylesheet type="text/css" href="nli-transcription.css"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>שבתון כללי בישוב - עצורי רפיח</title>
+            <author>ועד הקהלה העברית בחיפה</author>
+            <respStmt>
+               <name>Mandel Scholion Hebrew Revival Research Group</name>
+               <resp>Transcription of digital file</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <authority>JEMH</authority>
+            <availability><licence target="https://creativecommons.org/licenses/by/4.0/">CC-BY 4.0</licence></availability>
+         </publicationStmt>
+         <sourceDesc xml:lang="Hebrew">
+	<msDesc>
+		<msPart>
+			<msIdentifier>
+				<repository>National Library of Israel</repository>
+				<collection>"Time Travel" Ephemera Collection</collection>
+				<idno>700173459</idno>
+			</msIdentifier>
+		</msPart>
+	</msDesc>
+            <bibl>
+               <date when="1946-07-16"></date>
+               <distributor>ארכיון העיר חיפה</distributor>
+               <pubPlace>חיפה</pubPlace>
+            </bibl>
+         </sourceDesc>
+                  </fileDesc>
+      <revisionDesc>
+         <change>
+            <date>2017-08-09</date>
+            <name>Jerusalem corpus of Emergent Modern Hebrew (JEMH) staff</name>
+            <note>Created the initial version of the content in TEI-XML</note>
+         </change>
+      </revisionDesc>
+
+  </teiHeader>
+  <text>
+      <body>
+         <p>בהתאם להוראות המוסדות הלאומיים מחר יום ד' = י"ח בתמוז תש"ו = 17 ביולי 1946 החל משעה 9 בבקר עד שעה 12 בלילה שבתון כללי בישוב לשם הזדהות עם עצורי רפיח בהכרזתם על שביתת רעב</p>
+         <p>סדר השבתון: א. שביתת כל עבודה ומלאכה בעיר בכפר ובמשק. ב. סגירת כל העסקים והחנויות, מסעדות ובתי שעשועים. הערה: המסעדות תהיינה פתוחות משעות 12 עד 2 בצהרים ומ-7 עד 8 בערב. ג. התחבורה העירונית והבין עירונית תפסק משעה 10 בבקר עד 12 בלילה.</p>
+         <p>משוחררים מהשבתון עובדי שרותים צבוריים חיוניים למים, חשמל ובתי חולים, וכן עובדי הממשלה, הצבא והצי.</p>
+         <closer>
+ועד הקהלה העברית בחיפה.
+            <dateline>
+               <date>י"ז בתמוז תש"ו - 16.7.46</date>
+               <name type="place">חיפה</name>
+            </dateline>
+         
+         דפוס מ. סוכובולסקי, חיפה
+      </closer>
+</body>
+  </text>
+</TEI>

@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_minimal.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_minimal.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-stylesheet type="text/css" href="../Oxygen%20XML%20Editor%2016/frameworks/tei/xml/tei/css/tei.css"?>
+<?xml-stylesheet type="text/css" href="nli-transcription.css"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>מפעל כל העיר מזמרת</title>
+            <author>עירית חיפה - המחלקה לספורט ולנוער / המחלקה לתרבות, מועצת פועלי חיפה - ועדת התרבות</author>
+            <respStmt>
+               <name>Mandel Scholion Hebrew Revival Research Group</name>
+               <resp>Transcription of digital file</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <authority>JEMH</authority>
+            <availability><licence target="https://creativecommons.org/licenses/by/4.0/">CC-BY 4.0</licence></availability>
+         </publicationStmt>
+         <sourceDesc xml:lang="Hebrew">
+	<msDesc>
+		<msPart>
+			<msIdentifier>
+				<repository>National Library of Israel</repository>
+				<collection>"Time Travel" Ephemera Collection</collection>
+				<idno>700174245</idno>
+			</msIdentifier>
+		</msPart>
+	</msDesc>
+            <bibl>
+               <date when="1958-01"></date>
+               <distributor>ארכיון העיר חיפה</distributor>
+               <pubPlace>חיפה</pubPlace>
+            </bibl>
+         </sourceDesc>
+                  </fileDesc>
+      <revisionDesc>
+         <change>
+            <date>2017-08-09</date>
+            <name>Jerusalem corpus of Emergent Modern Hebrew (JEMH) staff</name>
+            <note>Created the initial version of the content in TEI-XML</note>
+         </change>
+      </revisionDesc>
+
+  </teiHeader>
+  <text>
+      <body>
+         <head>עירית חיפה  המחלקה לספורט ולנוער / המחלקה לתרבות</head>
+         <head>מועצת פועלי חיפה  ועדת התרבות</head>
+         <opener>הורים נכבדים,</opener>
+         <p>בשנים האחרונות נתמעטה הזמרה בפי הישוב בארץ. עובדה מצערת היא. הן לא רחוקים הימים שהארץ כולה, על עריה, מושבותיה וקבוציה, מלאה זמרה ורינה. הזמר העברי ליווה בנאמנות את מפעל בנין הארץ מראשיתו. כל עליה - שיריה ומנגינותיה. הבית היהודי המסורתי אף הוא היה מלא זמירות, בימי חול כבימי שבת וחג.</p>
+         <p>הורים נכבדים, הבה נחדש את מסורת הזמרה של עמנו. ישמע הזמר העברי בימי חול, בשבת ובחג, במשפחה, במועדון, בחברת הנוער ובחברת המבוגרים. בכוחו של זמר למזג גלויות, לקרב לבבות, לשפר את העברית שבפינו, להרבות אחוה, רעות ושמחת חיים.</p>
+         <p>ביום שלישי, ט"ו בטבת תשי"ח - 7.1.1958, נפתח במפעל כל העיר מזמרת</p>
+         <p>בשמונה מקומות בחיפה רבתי ייערכו ערבי זמרה בציבור. כל אזרח ימצא לו את המקום הקרוב לביתו ויבוא לשיר בצותא, בהדרכת מנצח מומחה. הכניסה חפשית. כל אחד יקבל גליון עם שירים מודפסים. אותם השירים, חדשים וישנים, ילמדו וישירו בכל המקומות בעירנו.</p>
+         <p>הורים נכבדים, ילדיכם ילמדו וישירו שירים אלה בבתי-הספר, וכשאתם תדעום ותשירו אתם יחד - תהיה השמחה והשירה שרויה בבתיכם.</p>
+         <p>ערבי הזמרה בציבור ייערכו במקומות אלה:</p>
+         <p>בהדרכת:</p>
+         <gap quantity="1" unit="list" reason="sampling"/>
+         <p>ערבי הזמרה ייערכו פעמיים בחודש (בכל יום שלישי, בשבוע הראשון ובשבוע השלישי לחודש), משעה 8 עד 9 בערב.</p>
+         <p>הכניסה חפשית. הנכם מוזמנים.</p>
+         <p>ערב הזמרה הראשון: יום שלישי, 7.1.1958.</p>
+      </body>
+  </text>
+</TEI>

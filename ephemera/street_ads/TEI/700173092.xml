@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_minimal.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_minimal.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-stylesheet type="text/css" href="../Oxygen%20XML%20Editor%2016/frameworks/tei/xml/tei/css/tei.css"?>
+<?xml-stylesheet type="text/css" href="nli-transcription.css"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>הבחירות לאספת הנבחרים</title>
+            <author>ועדת הבחירות המקומית בחיפה</author>
+            <respStmt>
+               <name>Mandel Scholion Hebrew Revival Research Group</name>
+               <resp>Transcription of digital file</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <authority>JEMH</authority>
+            <availability><licence target="https://creativecommons.org/licenses/by/4.0/">CC-BY 4.0</licence></availability>
+         </publicationStmt>
+         <sourceDesc xml:lang="Hebrew">
+	<msDesc>
+		<msPart>
+			<msIdentifier>
+				<repository>National Library of Israel</repository>
+				<collection>"Time Travel" Ephemera Collection</collection>
+				<idno>700173092</idno>
+			</msIdentifier>
+		</msPart>
+	</msDesc>
+            <bibl>
+               <date when="1930-12"></date>
+               <distributor>ארכיון העיר חיפה</distributor>
+               <pubPlace>חיפה</pubPlace>
+            </bibl>
+         </sourceDesc>
+                  </fileDesc>
+      <revisionDesc>
+         <change>
+            <date>2017-08-09</date>
+            <name>Jerusalem corpus of Emergent Modern Hebrew (JEMH) staff</name>
+            <note>Created the initial version of the content in TEI-XML</note>
+         </change>
+      </revisionDesc>
+
+  </teiHeader>
+  <text>
+      <body>
+         <head>"כנסת ישראל"</head>
+         <head>הבחירות לאספת הנבחרים</head>
+         <p>נקבעו ליום ב', ט"ז טבת תרצ"א (5.1.31)</p>
+         <p>כל בוחר שטרם קבל את כרטיסו, כל בוחר שעבר ממקום אחר לחיפה, ימהר לפנות לועדת הבחירות המקומית (בועד הקהלה העברית, מרכז המסחרי) בכל יום חוץ מיום ששי בשעות 7-3 אחה"צ ובמוצאי שבת משעה 6 עד 9</p>
+         <p>דרישות להעברת הכרטיסים ממקומות אחרים לחיפה, תתקבלנה רק עד יום א' 28 לח.ז.</p>
+         <p>בוחרים! שמרו על כרטיסי-בוחר שלכם.</p>
+         <closer>
+ועדת הבחירות המקומית בחיפה.
+         
+         בית דפוס מ. סוכובולסקי, חיפה
+      </closer>
+</body>
+  </text>
+</TEI>

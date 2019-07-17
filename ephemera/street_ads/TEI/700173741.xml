@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_minimal.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_minimal.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-stylesheet type="text/css" href="../Oxygen%20XML%20Editor%2016/frameworks/tei/xml/tei/css/tei.css"?>
+<?xml-stylesheet type="text/css" href="nli-transcription.css"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>התאזרחות</title>
+            <author>ועד הקהלה העברית</author>
+            <respStmt>
+               <name>Mandel Scholion Hebrew Revival Research Group</name>
+               <resp>Transcription of digital file</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <authority>JEMH</authority>
+            <availability><licence target="https://creativecommons.org/licenses/by/4.0/">CC-BY 4.0</licence></availability>
+         </publicationStmt>
+         <sourceDesc xml:lang="Hebrew">
+	<msDesc>
+		<msPart>
+			<msIdentifier>
+				<repository>National Library of Israel</repository>
+				<collection>"Time Travel" Ephemera Collection</collection>
+				<idno>700173741</idno>
+			</msIdentifier>
+		</msPart>
+	</msDesc>
+            <bibl>
+               <date when="1937-03-03"></date>
+               <distributor>ארכיון העיר חיפה</distributor>
+               <pubPlace>חיפה</pubPlace>
+            </bibl>
+         </sourceDesc>
+                  </fileDesc>
+      <revisionDesc>
+         <change>
+            <date>2017-08-09</date>
+            <name>Jerusalem corpus of Emergent Modern Hebrew (JEMH) staff</name>
+            <note>Created the initial version of the content in TEI-XML</note>
+         </change>
+      </revisionDesc>
+
+  </teiHeader>
+  <text>
+      <body>
+         <head>התאזרחות</head>
+         <p>ועדת ההתאזרחות שע"י ועד הקהלה החליטה, בהתחשב את דרישת הצבור להמשיך את הפעולה המיוחדת להתאזרחות עד אחרי חג הפסח.</p>
+         <p>בכדי לתת את האפשרות למתאזרחים להינות מההקלות המיוחדות שהממשלה סדרה לאלה שיתאזרחו עתה.</p>
+         <p>הקהל מתבקש, לא להחמיץ את ההזדמנות, ולפנות למקומות ההתאזרחות בהקדם.</p>
+         <p>תושב הארץ אל תעזוב את ההזדמנות, פן היא תעזבך!</p>
+         <closer>
+         ועד הקהלה העברית.
+            <dateline>
+               <date>כ' אדר תרצ"ז</date>
+               <name type="place">חיפה</name>
+            </dateline>
+         
+         דפוס נח ורהפטיג, חיפה.
+      </closer>
+</body>
+  </text>
+</TEI>

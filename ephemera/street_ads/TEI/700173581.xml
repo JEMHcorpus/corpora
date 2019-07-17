@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_minimal.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_minimal.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-stylesheet type="text/css" href="../Oxygen%20XML%20Editor%2016/frameworks/tei/xml/tei/css/tei.css"?>
+<?xml-stylesheet type="text/css" href="nli-transcription.css"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>קביעת מחירים מקסימליים לצרכי אוכל שונים</title>
+            <author>ועדת המצב שע"י ועד הקהלה העברית</author>
+            <respStmt>
+               <name>Mandel Scholion Hebrew Revival Research Group</name>
+               <resp>Transcription of digital file</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <authority>JEMH</authority>
+            <availability><licence target="https://creativecommons.org/licenses/by/4.0/">CC-BY 4.0</licence></availability>
+         </publicationStmt>
+         <sourceDesc xml:lang="Hebrew">
+	<msDesc>
+		<msPart>
+			<msIdentifier>
+				<repository>National Library of Israel</repository>
+				<collection>"Time Travel" Ephemera Collection</collection>
+				<idno>700173581</idno>
+			</msIdentifier>
+		</msPart>
+	</msDesc>
+            <bibl>
+               <date when="1939-09-01"></date>
+               <distributor>ארכיון העיר חיפה</distributor>
+               <pubPlace>חיפה</pubPlace>
+            </bibl>
+         </sourceDesc>
+                  </fileDesc>
+      <revisionDesc>
+         <change>
+            <date>2017-08-09</date>
+            <name>Jerusalem corpus of Emergent Modern Hebrew (JEMH) staff</name>
+            <note>Created the initial version of the content in TEI-XML</note>
+         </change>
+      </revisionDesc>
+
+  </teiHeader>
+  <text>
+      <body>
+         <opener>הודעה לקהל</opener>
+         <p>מודיעים בזה לקהל כי בקשר עם פרסום הודעת הממשלה בדבר קביעת מחירים מקסימליים לצרכי אוכל שונים נמנתה על ידינו ועדה המורכבת מאת האדונים: י. ארדשטין, פ. מרגולין ויהודה שניאור.</p>
+         <p>ועדה זו תעמוד בקשר ישר עם השלטונות וכל תלונה בקשר עם מחירים של צרכי אוכל יש להגיש לאחד מחברי הועדה או למרכז מטעם הועדה מר יוסף לפשיץ בלשכת המסחר העברית רח' המלכים 63.  טלפון 471.</p>
+         <closer>
+         ועדת המצב שע"י ועד הקהלה העברית
+            <dateline>
+               <date>י"ז אלול תרצ"ט  1.9.1939</date>
+               <name type="place">חיפה</name>.
+            </dateline>
+         
+         דפוס מ. סוכובולסקי, חיפה
+      </closer>
+</body>
+  </text>
+</TEI>

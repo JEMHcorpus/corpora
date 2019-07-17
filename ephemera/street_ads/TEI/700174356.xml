@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_minimal.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_minimal.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-stylesheet type="text/css" href="../Oxygen%20XML%20Editor%2016/frameworks/tei/xml/tei/css/tei.css"?>
+<?xml-stylesheet type="text/css" href="nli-transcription.css"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>הוראות לקראת בחירות</title>
+            <author>ועדת הבחירות</author>
+            <respStmt>
+               <name>Mandel Scholion Hebrew Revival Research Group</name>
+               <resp>Transcription of digital file</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <authority>JEMH</authority>
+            <availability><licence target="https://creativecommons.org/licenses/by/4.0/">CC-BY 4.0</licence></availability>
+         </publicationStmt>
+         <sourceDesc xml:lang="Hebrew">
+	<msDesc>
+		<msPart>
+			<msIdentifier>
+				<repository>National Library of Israel</repository>
+				<collection>"Time Travel" Ephemera Collection</collection>
+				<idno>700174356</idno>
+			</msIdentifier>
+		</msPart>
+	</msDesc>
+            <bibl>
+               <date when="1925-07"></date>
+               <distributor>ארכיון העיר חיפה</distributor>
+               <pubPlace>חיפה</pubPlace>
+            </bibl>
+         </sourceDesc>
+                  </fileDesc>
+      <revisionDesc>
+         <change>
+            <date>2017-08-09</date>
+            <name>Jerusalem corpus of Emergent Modern Hebrew (JEMH) staff</name>
+            <note>Created the initial version of the content in TEI-XML</note>
+         </change>
+      </revisionDesc>
+
+  </teiHeader>
+  <text>
+     <body>
+        <head>חובה קדושה.</head>
+        <opener>בוחרים!</opener>
+        <p>אחרי הפסקה של שנה וחצי, נגש הצבור היהודי בחיפה לחדש ע'י בחירות את ביאות-הכח הרשמית שלו. אין ברגע הזה שום סכסוכים בעדה שלנו בין הכתות, מה שהגדיל את האנטרס ואת ההשתתפות בבחירות האחרונות. אבל יש לפנינו עדה גדולה של כמעט 12000 נפש ההולכת וגדלה מיום ליום ושיחד אתה הולך וגדל גם האנטרס שיש בחברי העדה בועד שלהם.</p>
+        <p>למרות שחוקת הקהלות עוד לא נתאשרה, למרות שחוג הפעולה של ועד העדה הוא צר מאד בהשואה עם חוג הפעולה של קהלות הגולה, בכל זאת מתרכזים בה כבר היום ענינים חשובים וחיוניים, וחובה קדושה של כל חבר העדה, להשפיע לפי יכלתו על מהלך הענינים. ההשפעה היחידה והכי גדולה היא ההשתתפות בבחירות, הבעת דעתו של חבר העדה אודות הכשרון והאופי של האנשים המנהלים את העדה וגם אודות השטה והדרך. הטענה או התלונה שהועד לא מלא את חובתו כראוי, לא יכולה לשמש הנחה למסקנה שלא כדאי או לא צריך להשתתף בבחירות. ההגיון מחייב את ההפך. מי שמצא שהדרך לא נכונה ישתתף וישפיע שיבחרו אנשים בעלי שיטות אחרות, או שיוכרחו חברי הועד הקודמים לעבור לשיטה אחרת.</p>
+        <p>ועדת הבחירות המורכבת מבאי-כח כל המפלגות שחפצות להשתתף, מפלגות שמאל, ימין ומרכז, פונה בזה בקריאה לבבית לכל תושבי חיפה הבוגרים שיתארגנו וישתתפו כאיש אחד בבחירות לועד העדה שנקבעו ליום י'ד אב תרפ,ה (4 לאבגוסט 1925)</p>
+        <p>כדאי לאפשר לכל בוחר ובוחרת את השתתפותם בבחירות, מחלקת ועדת הבחירות ע'י שליחיה את כרטיס הבוחר בכל העיר, והיא תאפשר לאלה שלא קבלו את כרטיס הבוחר בביתם לקבל אותו במשרד ועד העיר. היא קבעה את שעות הפתיחה באופן שכזה שאפילו הכי טרודים בעבודתם או בעסקם יוכלו להשתתף, והיא הגדילה על פי דרישת מעונינים את מספר מקומות הקלפי.</p>
+        <p>הוראות:  זכות הבחירה: לכל בוחר ובוחרת מ-20 שנה ומעלה היושבים בקביעות בחיפה לא פחות מ-6 חדשים.  זכות להיבחר: לכל בוחר שיישב בקביעות בחיפה לכל הפחות שנה </p>
+        <p>להגיש רשימות מועמדים אפשר עד יום הראשון בערב שעה 7 במשרד ועד העיר. זכות להגיש רשימת מועמדים יש לכל מפלגה מוכרת, ולכל קבוצה של 25 איש החתומים על הרשימה. על פתקת הבחירה כל בוחר צריך לרשום את שם הקבוצה או המפלגה אשר לחשבונה תספח הפתקה הזו. יש הרשות להוסיף על הרשימה של איזה מפלגה גם שמות מועמדים של רשימות אחרות. הקולות הבודדים שקבל מועמד נוספים על הקולות שקבל ברשימה מפלגתית. אסור לכתוב על הפתקא יותר שמות ממספר החברים הקבועים להועד. כל בוחר צריך להתחשב עם המקומות הקבועים בשביל מועמדים ספרדים. מי שלא נרשם ברשימת הבוחרים או לא קבל כרטיס בוחר עד יום הראשון בערב, צריך לפנות ביום השני (3 לאבגוסט 1925) משעה 7 בבקר עד 9 בערב למשרד ועד העדה.</p>
+        <p>מקומות הקלפי:  א) התכניון  ב) מטבח הפועלים  ג) משרד ועד העדה  ד) בית הכנסת "סטמבוליה"  ה) בית הועד "בת גלים"  ו) בית הועד "נוה שאנן"  ז) בית הכנסת 'הדרת קודש'  ח) בית הכנסת 'נחלת ישראל'  ט) הכנסת אורחים.</p>
+        <p>יהודי חיפה התענינו והשתתפו כאיש אחד בבחירות!</p>
+        <closer>
+           בברכת התחיה ועדת הבחירות.  
+         
+      </closer>
+</body>
+  </text>
+</TEI>

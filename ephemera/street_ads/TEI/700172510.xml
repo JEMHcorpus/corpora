@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_minimal.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_minimal.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-stylesheet type="text/css" href="../Oxygen%20XML%20Editor%2016/frameworks/tei/xml/tei/css/tei.css"?>
+<?xml-stylesheet type="text/css" href="nli-transcription.css"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>מחירי הכרטיסים המוזלים להצגות ולמסיבות</title>
+            <author>מועצת פועלי חיפה - ועדת התרבות</author>
+            <respStmt>
+               <name>Mandel Scholion Hebrew Revival Research Group</name>
+               <resp>Transcription of digital file</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <authority>JEMH</authority>
+            <availability><licence target="https://creativecommons.org/licenses/by/4.0/">CC-BY 4.0</licence></availability>
+         </publicationStmt>
+         <sourceDesc xml:lang="Hebrew">
+	<msDesc>
+		<msPart>
+			<msIdentifier>
+				<repository>National Library of Israel</repository>
+				<collection>"Time Travel" Ephemera Collection</collection>
+				<idno>700172510</idno>
+			</msIdentifier>
+		</msPart>
+	</msDesc>
+            <bibl>
+               <date when="1953-09-25"></date>
+               <distributor>ארכיון העיר חיפה</distributor>
+               <pubPlace>חיפה</pubPlace>
+            </bibl>
+         </sourceDesc>
+                  </fileDesc>
+      <revisionDesc>
+         <change>
+            <date>2017-08-09</date>
+            <name>Jerusalem corpus of Emergent Modern Hebrew (JEMH) staff</name>
+            <note>Created the initial version of the content in TEI-XML</note>
+         </change>
+      </revisionDesc>
+
+  </teiHeader>
+  <text>
+      <body>
+         <head>ההסתדרות הכללית של העובדים העברים בארץ-ישראל</head>
+         <head>מועצת פועלי חיפה - ועדת התרבות</head>
+         תח/101/4/1
+         <opener>לכבוד ועדי הפועלים והעובדים.</opener>
+         <opener>ח.נ.,</opener>
+         <p>בהמשך לחוזרנו מיום 13.9.53, אנו מביאים לידיעתכם את מחירי הכרטיסים המוזלים במכירה מרוכזת ע"י ועדי הפועלים והעובדים (5 כרטיסים, לכל הפחות, לכל מקום עבודה) להצגות ולמסיבות הקרובות.</p>
+         <p>30.9.53 - ב"אורה", התיאטרון הקאמרי - "אחותי איילין". מחיר הכרטיס 700 פר' בשורות 14 - 16 באולם, 3 - 4 ביציע.</p>
+         <p>1.10.53 - ב"אורנים", הר-הכרמל - נשף שמחת בית השואבה. בתכנית: רקודים, רקודי-עם, סרטי קולנוע, תזמורת, הופעות אמנים, הגרלות, מערכונים ועוד. מחיר הכרטיס -.1 ל"י.</p>
+         <p>6.10.53 - ב- 7.30 בבקר טיול ברכבת מיוחדת לתערוכת "כיבוש השממה" בירושלים. מחיר הכרטיס 2.300 ל"י (כולל נסיעה ברכבת הלוך וחזור, כרטיס כניסה לתערוכה ונסיעה במכונית מהרכבת לתערוכה).</p>
+         <p>1.10.53  30.9.53 - טיול סוכות למפעלי המים בצפון. ביקורים: בקעת בית נטופה, בקעת יבנאל, כנרת, אפיקים, אשדות יעקב, "אהלו" - לינה. ביום ה': חפירות בית ירח, טבריה, מעין מלחה, מקורות הירדן. דמי נסיעה כולל לינה ושתי ארוחות - 5 לירות.</p>
+         <p>2.10.53 - ב"אורה", להקת "ענבל" - שאו זמרה. מחיר הכרטיס 650 פר' בשורות 14 - 16 באולם, 1 - 4 ביציע.</p>
+         <p>9.10.53 - ב"אורה", ברכה צפירה בקונצרט מיוחד ויחיד, אחרי סבובה הגדול בבירות העולם, בהשתתפות חברי התזמורת הפילהרמונית: קלרה טרבש (נבל), אורי שהם (חליל), פטר סמנאור (קלרינט). ע"י הפסנתר: אריה זקס. מחיר הכרטיס - 700 פר' בשורות 14 - 16 באולם, 1 - 4 ביציע.</p>
+         <p>9.10.53 - ב"אורנים" הר-הכרמל - מסיבה חדשית לועדי הפועלים והעובדים לפעילי התרבות והאיגוד המקצועי, בהשתתפות ראש העיר, הח' אבא חושי - על דרכי עבודתנו בעיריה. בתכנית האמנותית: ש. פינקל ("הבימה") - קטעי משחק וקריאה. תחבורה תעמוד לרשות החברים החל מ- 7.45 בערב בחיפה ליד "ביתנו", רח' החלוץ ובקרית-חיים ליד הקפה. הזמנות, תמורת דמי תקרובת של 250 פר' לחבר. נא להראות את ההזמנה בכניסה.</p>
+         <p>כרטיסים והזמנות להשיג בכל יום אצל הח' צילה ב"ביתנו", בשעות: 5 - 7 אחה"צ. לטיולים בבית הפועלים, חדר 93. הזמנות למסיבה החדשית בשעות שלפני הצהרים בחדר 93. אחה"צ ב"ביתנו" בשעות 5 - 7.</p>
+         <p>נא להביא את הדברים לידיעת החברים במקום העבודה.</p>
+         <closer>
+בברכת מועדים לשמחה, ועדת התרבות.
+            <dateline>
+               <date>ט"ז תשרי תשי"ד  25.9.53</date>
+            </dateline>
+         
+      </closer>
+</body>
+     ינ/של
+  </text>
+</TEI>

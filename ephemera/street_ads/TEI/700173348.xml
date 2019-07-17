@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_minimal.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_minimal.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-stylesheet type="text/css" href="../Oxygen%20XML%20Editor%2016/frameworks/tei/xml/tei/css/tei.css"?>
+<?xml-stylesheet type="text/css" href="nli-transcription.css"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>טכס גלוי המצבות</title>
+            <author>מועצת בית העלמין שע"י ועד הקהלה העברית חיפה</author>
+            <respStmt>
+               <name>Mandel Scholion Hebrew Revival Research Group</name>
+               <resp>Transcription of digital file</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <authority>JEMH</authority>
+            <availability><licence target="https://creativecommons.org/licenses/by/4.0/">CC-BY 4.0</licence></availability>
+         </publicationStmt>
+         <sourceDesc xml:lang="Hebrew">
+	<msDesc>
+		<msPart>
+			<msIdentifier>
+				<repository>National Library of Israel</repository>
+				<collection>"Time Travel" Ephemera Collection</collection>
+				<idno>700173348</idno>
+			</msIdentifier>
+		</msPart>
+	</msDesc>
+            <bibl>
+               <date when="1945-06"></date>
+               <distributor>ארכיון העיר חיפה</distributor>
+               <pubPlace>חיפה</pubPlace>
+            </bibl>
+         </sourceDesc>
+                  </fileDesc>
+      <revisionDesc>
+         <change>
+            <date>2017-08-09</date>
+            <name>Jerusalem corpus of Emergent Modern Hebrew (JEMH) staff</name>
+            <note>Created the initial version of the content in TEI-XML</note>
+         </change>
+      </revisionDesc>
+
+  </teiHeader>
+  <text>
+      <body>
+         <p>מועצת בית העלמין שע"י ועד הקהלה העברית חיפה מזמינה בזה את הצבור להשתתף בהמוניו בטכס גלוי המצבות שהקימה על קברות קדושינו-גבורינו שנפלו בהגנתם על עמנו וארצנו בשנות תרצ"ו-תרצ"ט ושמצאו מנוחתם עולם בבית העלמין החדש של קהלת חיפה.</p>
+         <p>הטכס יתקיים אי"ה ביום הראשון ערב ראש חדש תמוז תש"ה (10.6.45) בשעה 5.30 בדיוק בהשתתפות נציגי הישוב ומוסדותיו.</p>
+         <p>המכוניות הצבוריות שיסיעו את הקהל מהדר הכרמל לבית העלמין וחזרה יחנו ע"י משרד החברה קדישא ברחוב הגלעד החל משעה 4.30 אחה"צ והמכונית האחרונה תעזוב את התחנה בשעה 5 בדיוק.</p>
+         <p>כרטיסי נסיעה הלוך וחזור אפשר לקנות החל משעה 4 אחה"צ ע"י המשרד של החברה קדישא.</p>
+      </body>
+  </text>
+</TEI>

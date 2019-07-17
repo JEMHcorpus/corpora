@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_minimal.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_minimal.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-stylesheet type="text/css" href="../Oxygen%20XML%20Editor%2016/frameworks/tei/xml/tei/css/tei.css"?>
+<?xml-stylesheet type="text/css" href="nli-transcription.css"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>תרומות לטובת נגועי הפרעות</title>
+            <author>ועד הקהלה העברית בחיפה</author>
+            <respStmt>
+               <name>Mandel Scholion Hebrew Revival Research Group</name>
+               <resp>Transcription of digital file</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <authority>JEMH</authority>
+            <availability><licence target="https://creativecommons.org/licenses/by/4.0/">CC-BY 4.0</licence></availability>
+         </publicationStmt>
+         <sourceDesc xml:lang="Hebrew">
+	<msDesc>
+		<msPart>
+			<msIdentifier>
+				<repository>National Library of Israel</repository>
+				<collection>"Time Travel" Ephemera Collection</collection>
+				<idno>700174383</idno>
+			</msIdentifier>
+		</msPart>
+	</msDesc>
+            <bibl>
+               <date when="1929-09-06"></date>
+               <distributor>ארכיון העיר חיפה</distributor>
+               <pubPlace>חיפה</pubPlace>
+            </bibl>
+         </sourceDesc>
+                  </fileDesc>
+      <revisionDesc>
+         <change>
+            <date>2017-08-09</date>
+            <name>Jerusalem corpus of Emergent Modern Hebrew (JEMH) staff</name>
+            <note>Created the initial version of the content in TEI-XML</note>
+         </change>
+      </revisionDesc>
+
+  </teiHeader>
+  <text>
+      <body>
+         <opener>לצבור העברי בחיפה!</opener>
+         <p>מאורעות הדמים, שוד וחמס שקרו בארצנו, החריבו את מצבם הכלכלי של מאות משפחות שנשארו בערום וחסר כל וחובתנו הקדושה חובת אחים לבוא לעזרתם בעת צרה זו ולתת להם האפשרות להחיות את נפשותיהם הרעבים ללחם.</p>
+         <p>למטרה הנ"ל נוסדה ועדה מיוחדת ע"י ועד הקהלה, שבאי כחה יבקרו את התושבים לשם קבלת תרומות ולזאת פונים אנו אל אחינו תושבי חיפה בכל לשון של בקשה ובקריאה מתוך לב קרוע ומורתח הצילו! הצילו מחרפת רעב את משפחות אחינו שעונו ונהרגו. הצילו אותנו-ואותכם מזעקת אלמנות ויתומים הזקוקים לעזרה. הצילו את המצב עד יעבור זעם ותרמו בעין יפה איש בל יעדר, אחד המרבה וממעיט לפי יכלתו והכרתו, לטובת נגועי הפרעות.</p>
+         <p>הערה מלבד בקורי בתי התורמים, שיעשו ע"י זוגות מתנדבים, תתקבלנה תרומות במשרד ועד הקהלה בכל יום בשעות 9-12 לפנה"צ ו- 4-6 אחה"צ.</p>
+         <closer>
+            בכבוד רב ועד הקהלה העברית בחיפה.
+            <dateline>
+               <date when="1929-09-06">א' אלול תרפ"ט</date>.
+            </dateline>
+            <name type="press">בית דפוס מ. סוכובולסקי</name>. <name type="place">חיפה</name>
+      </closer>
+</body>
+  </text>
+</TEI>

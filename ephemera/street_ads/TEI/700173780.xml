@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_minimal.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_minimal.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-stylesheet type="text/css" href="../Oxygen%20XML%20Editor%2016/frameworks/tei/xml/tei/css/tei.css"?>
+<?xml-stylesheet type="text/css" href="nli-transcription.css"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>מחלות מדבקות</title>
+            <author>ועד הדר הכרמל, הועדה הסניטרית</author>
+            <respStmt>
+               <name>Mandel Scholion Hebrew Revival Research Group</name>
+               <resp>Transcription of digital file</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <authority>JEMH</authority>
+            <availability><licence target="https://creativecommons.org/licenses/by/4.0/">CC-BY 4.0</licence></availability>
+         </publicationStmt>
+         <sourceDesc xml:lang="Hebrew">
+	<msDesc>
+		<msPart>
+			<msIdentifier>
+				<repository>National Library of Israel</repository>
+				<collection>"Time Travel" Ephemera Collection</collection>
+				<idno>700173780</idno>
+			</msIdentifier>
+		</msPart>
+	</msDesc>
+            <bibl>
+               <date when="1944-05"></date>
+               <distributor>ארכיון העיר חיפה</distributor>
+               <pubPlace>חיפה</pubPlace>
+            </bibl>
+         </sourceDesc>
+                  </fileDesc>
+      <revisionDesc>
+         <change>
+            <date>2017-08-09</date>
+            <name>Jerusalem corpus of Emergent Modern Hebrew (JEMH) staff</name>
+            <note>Created the initial version of the content in TEI-XML</note>
+         </change>
+      </revisionDesc>
+
+  </teiHeader>
+  <text>
+      <body>
+         <opener>אל תושבי הדר הכרמל!</opener>
+         <p>ימי הקיץ החמים הולכים ומתקרבים. בתקופת שנה זו אנו עדים להתפשטות של מחלות מדבקות, הגורמות לעתים לתוצאות רציניות.</p>
+         <p>על מנת למנוע התפשטות מחלות והתוצאות הכרוכות בהן מתבקשים כל תושבי השכונה לשמור על תנאים סניטריים והגיניים, שהם הנשק הבדוק ביותר נגד מחלות מדבקות, ולמלא אחרי ההוראות דלקמן: א. שמור על הנקיון בכל חדרי דירתך, ב. כסה את כל צרכי האכל, ג. השמד את הזבובים, ד. הריק יום-יום את האשפה מהדירה לתוך פחי האשפה שבחצר. ה. כסה תמיד את פחי האשפה במכסה. ו. רחוץ את ידיך בסבון ובמים לפני האכילה, ז. החלף את בגדיך בשובך הביתה מהעבודה, ח. אל תפזר לכלוך סביב פחי האשפה, ט, אל תשאיר צרכי אכל (ביחוד בשר, דגים, חלב), מיום אחד למחרתו, אם אין בביתך מקרר, י. חדר המדרגות, החצר והרחוב מהוים חלק מדירתך - שמור על נקיונם ואל תפזר בהם קופסאות, קליפות, נירות וכיו"ב.</p>
+         <p>נקיון הגוף, ההלבשה, הדירה וצרכי האכל - תריס חשוב הוא בפני מחלות מדבקות.</p>
+         <closer>
+ועד הדר הכרמל
+הועדה הסניטרית
+            <dateline>
+               <date>איר תש"ד - מאי 1944</date>
+            </dateline>
+         
+      </closer>
+</body>
+  </text>
+</TEI>

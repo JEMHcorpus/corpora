@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_minimal.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_minimal.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-stylesheet type="text/css" href="../Oxygen%20XML%20Editor%2016/frameworks/tei/xml/tei/css/tei.css"?>
+<?xml-stylesheet type="text/css" href="nli-transcription.css"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>הקמת חבר פעילי תרבות</title>
+            <author>מועצת פועלי חיפה - ועדת התרבות</author>
+            <respStmt>
+               <name>Mandel Scholion Hebrew Revival Research Group</name>
+               <resp>Transcription of digital file</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <authority>JEMH</authority>
+            <availability><licence target="https://creativecommons.org/licenses/by/4.0/">CC-BY 4.0</licence></availability>
+         </publicationStmt>
+         <sourceDesc xml:lang="Hebrew">
+	<msDesc>
+		<msPart>
+			<msIdentifier>
+				<repository>National Library of Israel</repository>
+				<collection>"Time Travel" Ephemera Collection</collection>
+				<idno>700172528</idno>
+			</msIdentifier>
+		</msPart>
+	</msDesc>
+            <bibl>
+               <date when="1952-08-20"></date>
+               <distributor>ארכיון העיר חיפה</distributor>
+               <pubPlace>חיפה</pubPlace>
+            </bibl>
+         </sourceDesc>
+                  </fileDesc>
+      <revisionDesc>
+         <change>
+            <date>2017-08-09</date>
+            <name>Jerusalem corpus of Emergent Modern Hebrew (JEMH) staff</name>
+            <note>Created the initial version of the content in TEI-XML</note>
+         </change>
+      </revisionDesc>
+
+  </teiHeader>
+  <text>
+      <body>
+         <head>ההסתדרות הכללית של העובדים העברית בא'י</head>
+         <head>מועצת פועלי חיפה  ועדת התרבות</head>
+         <note>תח/23/0/1</note>
+         <opener>לכבוד ____ שלום רב!</opener>
+         <p>ליצירת מגע הדוק בין ציבור הפועלים ומקומות העבודה, ובין ועדת התרבות, מוקם עתה חבר פעילי תרבות. מטרתו טיפוח גוף צבורי מורכב מנציגי מקומות העבודה בעלי זיקה לפעולה תרבותית, פתוח פעולת תרבות, והסברה במפעל ומחוצה לו ע'י הקמת פנות תרבות וקיום הרצאות, בבתי חרושת, מסיבות ופגישות לאחר שעות העבודה מחוץ לכתלי המפעל, הקמת חוגים סמינריונים וקורסים בכל שטחי התרבות וההסברה.</p>
+         <p>הפגישות של חבר הפעילים תתקיימנה אחת לשלשה-ארבעה שבועות, ובהן נברר ונלבן יחד את הבעיות המעסיקות את צבור הפועלים. ועדת התרבות תשקוד על פתוחו של חבר הפעילים על ידי הקמת סמינריונים בנושאים שונים, חוגים, ומוסדות להסברה, ואין לנו כל ספק שגוף זה יסייע בידי ועדי הפועלים בעבודתם הצבורית למען הפועלים.</p>
+         <p>כל מקום עבודה חייב למנות נציג אחד לחמשים חבר. מפעלים שבהם מספר העובדים יורד מ-50 ימונה נציג אחד.</p>
+         <p>נבקשכם להמציא את שמות החברים המומלצים לחבר הפעילים וכתובתם האישית, לא יאוחר מיום 4.9.52. על החברים לסור לועדת התרבות בשעות 6-4 אחה'צ בבית הפועלים (חדר 93,92) לשיחה מוקדמת.</p>
+         <p>אין פעילי התרבות הנבחרים על ידכם חייבים להיות חברי ועד הפועלים. אנו מעונינים בחברים אשר דעתם תהיה פנויה לעניני תרבות.</p>
+         <p>אנא, תזדרזו, בארגון הפעולה.</p>
+         <closer>
+בברכת חברים, ועדת - התרבות.
+            <dateline>
+               <date>כ'ט אב תשי'ב  20.8.52.</date>
+            </dateline>
+         
+      </closer>
+</body>
+  </text>
+</TEI>

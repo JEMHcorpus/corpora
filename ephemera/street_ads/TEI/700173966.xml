@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_minimal.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_minimal.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-stylesheet type="text/css" href="../Oxygen%20XML%20Editor%2016/frameworks/tei/xml/tei/css/tei.css"?>
+<?xml-stylesheet type="text/css" href="nli-transcription.css"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>ועדה ליחסי צבור</title>
+            <author>אבא חושי, ראש העיריה</author>
+            <respStmt>
+               <name>Mandel Scholion Hebrew Revival Research Group</name>
+               <resp>Transcription of digital file</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <authority>JEMH</authority>
+            <availability><licence target="https://creativecommons.org/licenses/by/4.0/">CC-BY 4.0</licence></availability>
+         </publicationStmt>
+         <sourceDesc xml:lang="Hebrew">
+	<msDesc>
+		<msPart>
+			<msIdentifier>
+				<repository>National Library of Israel</repository>
+				<collection>"Time Travel" Ephemera Collection</collection>
+				<idno>700173966</idno>
+			</msIdentifier>
+		</msPart>
+	</msDesc>
+            <bibl>
+               <date when="1951-04-03"></date>
+               <distributor>ארכיון העיר חיפה</distributor>
+               <pubPlace>חיפה</pubPlace>
+            </bibl>
+         </sourceDesc>
+                  </fileDesc>
+      <revisionDesc>
+         <change>
+            <date>2017-08-09</date>
+            <name>Jerusalem corpus of Emergent Modern Hebrew (JEMH) staff</name>
+            <note>Created the initial version of the content in TEI-XML</note>
+         </change>
+      </revisionDesc>
+
+  </teiHeader>
+  <text>
+      <body>
+         <head>מודעה עירונית מס' 33/51</head>
+         <head>עירית חיפה</head>
+         <opener>אל תושבי חיפה הנכבדים!</opener>
+         <p>הנני מוצא לנכון להביא לידיעת הצבור הרחב כי מועצת העיריה בחרה בועדה מיוחדת ליחסי צבור.</p>
+         <p>עיקר תפקידה של ועדה זו יהיה ליצור אוירה של אמון מלא ושיתוף פעולה הדדי בין התושבים לבין מנגנון העיריה תוך דאגה מתמדת לסיפוק כל תלונה צודקת שתוגש אליה נגד מישהו מעובדי העיריה על השהיית ענינים או אי-היענות בצורה נאה לכל בקשה מוצדקת או פניה מצד משהו מהקהל.</p>
+         <p>הועדה ליחסי צבור תשקוד על כך שהתלונות שתוגשנה אליה תקבלנה טפול מידי, ותמציא לראש העיריה בכל מקרה ומקרה את מסקנותיה והמלצותיה לשיפור המצב לבל יישנו מקרים של הזנחה או מעשים בלתי רצויים.</p>
+         <p>כדי לאפשר לקהל לבוא אתה במגע ישיר קבעה הועדה ליחסי צבור תבות דאר מיוחדות מסומנות בכתובת "עירית חיפה - הועדה ליחסי צבור", במקומות הבאים: 1. בנין בית העיריה. 2. משרד ועד בת גלים. 3. משרד הועד בנוה שאני. 4. משרד ועד קרית חיים. 5. משרד ועד קרית שמואל. 6. משרד ועד תושבי הכרמל. 7. משרד הועד בתל עמל.</p>
+         <p>את התלונות המופנות לועדה ליחסי צבור יש לשים בתיבות הדאר הנ"ל, או דרך הדאר הרגיל לפי הכתובת: "הועדה ליחסי צבור, עירית חיפה". יושב ראש הועדה מוכן גם לקבל לראיון כל אדם שיפנה אליו. לשם קביעת ראיון יש לפנות למזכיר הועדה מר ש. בן-צבי בבית העיריה, חדר מס' 206 (טלפון 66131).</p>
+         <p>הועדה לא תטפל בכל תלונה שתוגש אליה בעילום שם ללא כתובת מדויקת של המתלונן.</p>
+         <p>כל תלונה שתומצא לועדה תישמר בסודיות גמורה.</p>
+         <p>אני אמונה כי הצבור הרחב יקדם בברכה את בחירת הועדה ליחסי צבור וישתף פעולה אתה לטובתו.</p>
+         <closer>
+            <dateline>
+               <date>כ"ו אדר ב' תשי"א  3 לאפריל 1951</date>
+            </dateline>
+            <signed>
+               <name type="person">אבא חושי</name>
+            </signed>
+            ראש העיריה
+      </closer>
+</body>
+  </text>
+</TEI>

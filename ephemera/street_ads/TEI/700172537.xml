@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_minimal.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_minimal.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-stylesheet type="text/css" href="../Oxygen%20XML%20Editor%2016/frameworks/tei/xml/tei/css/tei.css"?>
+<?xml-stylesheet type="text/css" href="nli-transcription.css"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>ערב ספרותי חגיגי - יובל ה-50 של המשורר פפירניקוב</title>
+            <author>מועצת פועלי חיפה - מחלקת התרבות</author>
+            <respStmt>
+               <name>Mandel Scholion Hebrew Revival Research Group</name>
+               <resp>Transcription of digital file</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <authority>JEMH</authority>
+            <availability><licence target="https://creativecommons.org/licenses/by/4.0/">CC-BY 4.0</licence></availability>
+         </publicationStmt>
+         <sourceDesc xml:lang="Hebrew">
+	<msDesc>
+		<msPart>
+			<msIdentifier>
+				<repository>National Library of Israel</repository>
+				<collection>"Time Travel" Ephemera Collection</collection>
+				<idno>700172537</idno>
+			</msIdentifier>
+		</msPart>
+	</msDesc>
+            <bibl>
+               <date when="1951-11-06"></date>
+               <distributor>ארכיון העיר חיפה</distributor>
+               <pubPlace>חיפה</pubPlace>
+            </bibl>
+         </sourceDesc>
+                  </fileDesc>
+      <revisionDesc>
+         <change>
+            <date>2017-08-09</date>
+            <name>Jerusalem corpus of Emergent Modern Hebrew (JEMH) staff</name>
+            <note>Created the initial version of the content in TEI-XML</note>
+         </change>
+      </revisionDesc>
+
+  </teiHeader>
+  <text>
+      <body>
+         <head>ההסתדרות הכללית של העובדים העברים בארץ-ישראל</head>
+         <head>מועצת פועלי חיפה - מחלקת התרבות</head>
+         <note>תח/9/3/6</note>
+         <opener>לכבוד ____ שלום רב!</opener>
+         <p>עם יובלו ה-50 של המשורר פפירניקוב תתקיים במוצ"ש 10.11.51 ב"ביתנו" ערב ספרותי חגיגי בהשתתפות בעל היובל.</p>
+         <p>דברי הערכה ייאמרו ע"י המשורר דוד שמעוני, א. סוצקבר, ז. יוסיפון וד"ר מ. מיקם.</p>
+         <p>לועדה היוזמת יש ענין רב שמסיבה זו תעבור באוירת ידידות למשורר להמשכת יצירתו הפוריה.</p>
+         <p>לאחר הערב הספרותי ב"ביתנו" תתקיים מסיבת רעים מצומצמת, הועדה תשמח בנוכחותך במסיבה.</p>
+         <closer>
+בכבוד רב, בשם.
+            <dateline>
+               <date when="1951-11-06">ז' חשון תשי"ב  6.11.51</date>
+            </dateline>
+         
+      </closer>
+</body>
+  </text>
+</TEI>

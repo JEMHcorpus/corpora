@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_minimal.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_minimal.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-stylesheet type="text/css" href="../Oxygen%20XML%20Editor%2016/frameworks/tei/xml/tei/css/tei.css"?>
+<?xml-stylesheet type="text/css" href="nli-transcription.css"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>מותו הטרגי של בנימין תאני ז"ל</title>
+            <author>ועד הדר הכרמל, ההנהלה וחבר העובדים</author>
+            <respStmt>
+               <name>Mandel Scholion Hebrew Revival Research Group</name>
+               <resp>Transcription of digital file</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <authority>JEMH</authority>
+            <availability><licence target="https://creativecommons.org/licenses/by/4.0/">CC-BY 4.0</licence></availability>
+         </publicationStmt>
+         <sourceDesc xml:lang="Hebrew">
+	<msDesc>
+		<msPart>
+			<msIdentifier>
+				<repository>National Library of Israel</repository>
+				<collection>"Time Travel" Ephemera Collection</collection>
+				<idno>700173765</idno>
+			</msIdentifier>
+		</msPart>
+	</msDesc>
+            <bibl>
+               <date when="1948-02-02"></date>
+               <distributor>ארכיון העיר חיפה</distributor>
+               <pubPlace>חיפה</pubPlace>
+            </bibl>
+         </sourceDesc>
+                  </fileDesc>
+      <revisionDesc>
+         <change>
+            <date>2017-08-09</date>
+            <name>Jerusalem corpus of Emergent Modern Hebrew (JEMH) staff</name>
+            <note>Created the initial version of the content in TEI-XML</note>
+         </change>
+      </revisionDesc>
+
+  </teiHeader>
+  <text>
+      <body>
+         <p>מזועזעים עד היסוד אנו מודיעים על מותו הטרגי של בנימין תאני ז"ל מנהל מפעל המים של הדר הכרמל מראשוני העובדים במוסד ומותיקי העסקנים של חיפה העברית שנפל חלל בדרכו לתל-אביב בשליחות ישובית.</p>
+         <p>ההלויה תצא ביום השלישי, כ"ג שבט תש"ח - 3.2.48 בשעה 12 בצהרים מבית-החולים רוטשילד ותעבור ע"י בית ועד הדר הכרמל (רח' פבזנר) וע"י בית הכנסת המרכזי.</p>
+         <p>תושבי חיפה ומוקירי זכרו מתבקשים לחלוק למנוח את הכבוד האחרון.</p>
+         <closer>
+ועד הדר הכרמל
+ההנהלה וחבר העובדים
+            <dateline>
+               <date>כ"ב שבט תש"ח  2 בפברואר.1948</date>
+               <name type="place">חיפה</name>
+            </dateline>
+         
+      </closer>
+</body>
+  </text>
+</TEI>

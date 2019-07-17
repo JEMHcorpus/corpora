@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_minimal.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_minimal.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-stylesheet type="text/css" href="../Oxygen%20XML%20Editor%2016/frameworks/tei/xml/tei/css/tei.css"?>
+<?xml-stylesheet type="text/css" href="nli-transcription.css"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>אזכרת העשור לגיטו קרקוב ולוחמיה</title>
+            <author>מפעל להנצחת זכר לוחמי גיטו קרקוב - הועדה המארגנת</author>
+            <respStmt>
+               <name>Mandel Scholion Hebrew Revival Research Group</name>
+               <resp>Transcription of digital file</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <authority>JEMH</authority>
+            <availability><licence target="https://creativecommons.org/licenses/by/4.0/">CC-BY 4.0</licence></availability>
+         </publicationStmt>
+         <sourceDesc xml:lang="Hebrew">
+	<msDesc>
+		<msPart>
+			<msIdentifier>
+				<repository>National Library of Israel</repository>
+				<collection>"Time Travel" Ephemera Collection</collection>
+				<idno>700174548</idno>
+			</msIdentifier>
+		</msPart>
+	</msDesc>
+            <bibl>
+               <date when="1952-12"></date>
+               <distributor>ארכיון העיר חיפה</distributor>
+               <pubPlace>חיפה</pubPlace>
+            </bibl>
+         </sourceDesc>
+                  </fileDesc>
+      <revisionDesc>
+         <change>
+            <date>2017-08-09</date>
+            <name>Jerusalem corpus of Emergent Modern Hebrew (JEMH) staff</name>
+            <note>Created the initial version of the content in TEI-XML</note>
+         </change>
+      </revisionDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <head>מפעל להנצחת זכר לוחמי גיטו קרקוב</head>
+         <p>בזה הננו מתכבדים להזמין את כב' 
+            לאזכרת העשור לגיטו קרקוב ולוחמיה 
+            שתתקיים ביום ג', ה' טבת תשי"ג 
+            (23.12.52) בשעה 30 8 בערב באולם קולנוע 
+            גל - אור חיפה, רחוב הנביאים</p>
+         <p>בהשתתפות:
+            אבא חושי ראש העיר  
+            מאיר בוסאק משורר  
+            צביה לובטקין מראשי מרד ורשה  
+            שמעון פינקל "הבימה"
+         </p>
+         <closer>
+            הועדה המארגנת
+         </closer>
+      </body>
+  </text>
+</TEI>

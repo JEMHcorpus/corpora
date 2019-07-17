@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_minimal.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_minimal.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-stylesheet type="text/css" href="../Oxygen%20XML%20Editor%2016/frameworks/tei/xml/tei/css/tei.css"?>
+<?xml-stylesheet type="text/css" href="nli-transcription.css"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>מס הקהלה עבור חדש נוסף</title>
+            <author>ועד הקהלה העברית</author>
+            <respStmt>
+               <name>Mandel Scholion Hebrew Revival Research Group</name>
+               <resp>Transcription of digital file</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <authority>JEMH</authority>
+            <availability><licence target="https://creativecommons.org/licenses/by/4.0/">CC-BY 4.0</licence></availability>
+         </publicationStmt>
+         <sourceDesc xml:lang="Hebrew">
+	<msDesc>
+		<msPart>
+			<msIdentifier>
+				<repository>National Library of Israel</repository>
+				<collection>"Time Travel" Ephemera Collection</collection>
+				<idno>700173288</idno>
+			</msIdentifier>
+		</msPart>
+	</msDesc>
+            <bibl>
+               <date when="1946-10-30"></date>
+               <distributor>ארכיון העיר חיפה</distributor>
+               <pubPlace>חיפה</pubPlace>
+            </bibl>
+         </sourceDesc>
+                  </fileDesc>
+      <revisionDesc>
+         <change>
+            <date>2017-08-09</date>
+            <name>Jerusalem corpus of Emergent Modern Hebrew (JEMH) staff</name>
+            <note>Created the initial version of the content in TEI-XML</note>
+         </change>
+      </revisionDesc>
+
+  </teiHeader>
+  <text>
+      <body>
+         <opener>לישוב היהודי בחיפה!</opener>
+         <p>השלב הראשון של תגובת הישוב - ההחלטה על הקצבת 100.000 לא"י לעליה ולהעפלה והכללת הסכום הזה בתקציבי העיריות, הקהלות והמועצות המקומיות עשה רושם רב בארץ ובחו"ל.</p>
+         <p>בזה הובלט ביתר שאת כי זו החלטה נחושה עם הישוב העברי לעודד ולעזור להעפלה כל עוד קיים המשטר הבלתי חוקי של "הספר הלבן" משנת 1939.</p>
+         <p>עתה הגיעה השעה לממוש ההחלטה הנ"ל.</p>
+         <p>הועד הפועל של הקהלה בחיפה מצא כי הדרך היעילה ביותר, הן מבחינה מדינית והן מבחינת גבוש הבטוי של הרגשותינו לאחינו המעפילים היא - תשלום מכסת הקהלה עבור חדש נוסף לשנת חשבון זו.</p>
+         <p>בתשלום החדש השלשה עשר של מס הקהלה ישתתף כל יהודי בחיפה השתתפות של ממש במלחמתנו נגד ההתנקשות בזכויותינו על הארץ והיחס האכזרי של שלטון המנדט לשרידינו המשועים להצלה והחותרים בשארית כחם לחופי הארץ.</p>
+         <p>חיפה העברית תשא בכבוד עומס זה נוכח הנכר וההתכחשות אשר מסביב.</p>
+         <p>כל אחד מתבקש לשלם את מס החדש הנוסף יחד עם התשלום החדשי השוטף.</p>
+         <closer>
+ועד הקהלה העברית.
+            <dateline>
+               <date>ה' חשון תש"ז  30.10.46</date>
+               <name type="place">חיפה</name>
+            </dateline>
+         
+         דפוס "אמנות" חיפה, רח' סוקולוב א7
+      </closer>
+</body>
+  </text>
+</TEI>

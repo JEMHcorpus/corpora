@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_minimal.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_minimal.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-stylesheet type="text/css" href="../Oxygen%20XML%20Editor%2016/frameworks/tei/xml/tei/css/tei.css"?>
+<?xml-stylesheet type="text/css" href="nli-transcription.css"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>יום השלושים לטביעת "סטרומה"</title>
+            <author>הועד הלאומי ליהודי ארץ ישראל</author>
+            <respStmt>
+               <name>Mandel Scholion Hebrew Revival Research Group</name>
+               <resp>Transcription of digital file</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <authority>JEMH</authority>
+            <availability><licence target="https://creativecommons.org/licenses/by/4.0/">CC-BY 4.0</licence></availability>
+         </publicationStmt>
+         <sourceDesc xml:lang="Hebrew">
+	<msDesc>
+		<msPart>
+			<msIdentifier>
+				<repository>National Library of Israel</repository>
+				<collection>"Time Travel" Ephemera Collection</collection>
+				<idno>700173710</idno>
+			</msIdentifier>
+		</msPart>
+	</msDesc>
+            <bibl>
+               <date when="1942-03-23"></date>
+               <distributor>ארכיון העיר חיפה</distributor>
+               <pubPlace>חיפה</pubPlace>
+            </bibl>
+         </sourceDesc>
+                  </fileDesc>
+      <revisionDesc>
+         <change>
+            <date>2017-08-09</date>
+            <name>Jerusalem corpus of Emergent Modern Hebrew (JEMH) staff</name>
+            <note>Created the initial version of the content in TEI-XML</note>
+         </change>
+      </revisionDesc>
+
+  </teiHeader>
+  <text>
+      <body>
+         <head>הועד הלאומי לכנסת ישראל בארץ-ישראל</head>
+         <opener>אל כל בני הישוב</opener>
+         <p>יום ד', ז' ניסן, הוא יום השלושים לטביעת 'סטרומה'. ביום זה יעלה הישוב את זכר מאות החללים, אשר שולחו לתהומות על חפשם מפלט מידי השלטונות הזדים, המתעללים בהם בארצות הדכוי הנאצי.</p>
+         <p>לאחינו אלה, אשר נדחפו לזוועות המות במצולות-ים, לא נוכל עוד להושיט יד-עזר, אולם רבבות על רבבות נאלצים עדיין לחפש להם מפלט והצלה ומי יודע לכמה מהם צפוי הגורל של קרבנות 'סטרומה'.</p>
+         <p>יהיה נא יום הזכרון הזה יום של מזכרת חובה כלפי אחינו הנרמסים ונענים תחת עול הנאצים.</p>
+         <p>נזכור ביום זה ביתר שאת את חובתנו |להגביר את המאמצים במלחמה נגד הנאציזם הגוזר עלינו כליה והדוחף את המונינו לדרכים הזרועים מוקשים וסכנות מות.</p>
+         <p>נגביר ביום זה את תביעתנו לעולם ואל ניתן דמי לנושאי דגל המלחמה לחופש, למען יפסיקו את ההתעלמות האכזרית מגורלם של פליטים יהודים, אשר שערי ההצלה היחידה בארצם נחסמים בפניהם, לאחר הצליחם להמלט מידי הנאצים.</p>
+         <p>נאמץ ביום זה את כוחותינו להושיט עזרה ישרה לאחינו הנמלטים.</p>
+         <p>יחתום כל יהודי על עצומת הישוב, התובעת מן העולם עזרה ויחס אנושי לפליטים, אחריות לקרבנות "סטרומה" ושחרור הפליטים, שהגיעו לחוף המולדת ועודם כלואים במחנה הסגר.</p>
+         <p>ירכוש כל יהודי לעצמו ולבני ביתו את "סלע המפלט", המיועד להושטת עזרה לפליטים.</p>
+         <p>תשמע בכל כוח תביעתנו לעולם ותנתן בכל עוז עזרתנו העצמית.</p>
+         <closer>
+הועד הלאומי ליהודי ארץ=ישראל
+            <dateline>
+               <date>ה' ניסן, תש"ב</date>
+            </dateline>
+         
+         דפוס קואופרטיבי "אחדות" בע"מ, תל-אביב
+      </closer>
+</body>
+  </text>
+</TEI>

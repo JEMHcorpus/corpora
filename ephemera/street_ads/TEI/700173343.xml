@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_minimal.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_minimal.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-stylesheet type="text/css" href="../Oxygen%20XML%20Editor%2016/frameworks/tei/xml/tei/css/tei.css"?>
+<?xml-stylesheet type="text/css" href="nli-transcription.css"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>סדר תהלוכת העם ביום הנצחון</title>
+            <author>כנסת ישראל, ועד הקהלה העברית בחיפה</author>
+            <respStmt>
+               <name>Mandel Scholion Hebrew Revival Research Group</name>
+               <resp>Transcription of digital file</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <authority>JEMH</authority>
+            <availability><licence target="https://creativecommons.org/licenses/by/4.0/">CC-BY 4.0</licence></availability>
+         </publicationStmt>
+         <sourceDesc xml:lang="Hebrew">
+	<msDesc>
+		<msPart>
+			<msIdentifier>
+				<repository>National Library of Israel</repository>
+				<collection>"Time Travel" Ephemera Collection</collection>
+				<idno>700173343</idno>
+			</msIdentifier>
+		</msPart>
+	</msDesc>
+            <bibl>
+               <date when="1945-05"></date>
+               <distributor>ארכיון העיר חיפה</distributor>
+               <pubPlace>חיפה</pubPlace>
+            </bibl>
+         </sourceDesc>
+                  </fileDesc>
+      <revisionDesc>
+         <change>
+            <date>2017-08-09</date>
+            <name>Jerusalem corpus of Emergent Modern Hebrew (JEMH) staff</name>
+            <note>Created the initial version of the content in TEI-XML</note>
+         </change>
+      </revisionDesc>
+
+  </teiHeader>
+  <text>
+      <body>
+         <head>כנסת ישראל</head>
+         <head>ועד הקהלה העברית בחיפה</head>
+         <head>סדר תהלוכת העם ביום הנצחון</head>
+         <p>1. התהלוכה תצא ביום ד' כ"ו אייר (9.5) בשעה 4.30 מרחוב ביאליק ותעבור ברחובות הרצל (לכוון ארלוזורוב), ארלוזורוב, בלפור ותתכנס ברחבת בית הקרנות.</p>
+         <p>2. דבר הישוב ישמע מעל גג בית הקרנות.</p>
+         <p>3. משתתפים בתהלוכה: נציגי הישוב, חיילים משוחררים, בתי-הספר, ארגוני ההתגוננות, תנועות הנוער, ארגוני הספורט, האגוד המקצועי של הסתדרות העובדים והמוני הקהל.</p>
+         <p>4. הארגונים, האגודים ובתי הספר מופיעים על תלבשתם ודגליהם.</p>
+         <p>5. ההתכנסות לתהלוכה היא כדלקמן: 1. נציגי הישוב בשעה 4 בועד הקהלה.  2. ארגון החיילים המשוחררים בשעה 4 ברחוב החלוץ פנת ביאליק.  3. בתי הספר בשעה 4 ברחוב נורדוי.  4. ארגוני ההתגוננות בשעה 3 ברחוב החלוץ ליד מגרשי המשחקים וברח' לונץ.  5. תנועות הנוער וארגוני הספורט בשעה 3.30 ברחוב יל"ג, הקישון וביל"ו.  6. האגוד המקצועי של הסתדרות העובדים בשעה 3.30 ברחוב החלוץ ליד אמפיתיאטרון.  7. המוני הקהל מתאספים בשעה 4 ברחוב החרמון פנת מיכאל (ליד צריף בני-עקיבא).</p>
+         <p>6. התכנסות מוקדמת של האחראים לבתי הספר, לתנועות ולאגודים תהיה כדלקמן: 1. חיילים משוחררים בשעה 3.30 בתחנת "של" בהדר הכרמל.  2. בתי הספר בשעה 3.30 ברחוב נורדוי ע"י גן-בנימין.  3. ארגוני התגוננות בשעה 2.30 ברחוב סוקולוב פנת לונץ.  4. האגוד המקצועי של ההסתדרות בשעה 3 ברחוב החלוץ ליד בנין "אורה".</p>
+         <closer>
+         דפוס "אמנות" חיפה, הדר הכרמל רח' סוקולוב 7א
+         </closer>
+      </body>
+  </text>
+</TEI>

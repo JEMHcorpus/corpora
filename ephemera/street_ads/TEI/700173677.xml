@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_minimal.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_minimal.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-stylesheet type="text/css" href="../Oxygen%20XML%20Editor%2016/frameworks/tei/xml/tei/css/tei.css"?>
+<?xml-stylesheet type="text/css" href="nli-transcription.css"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>אספת עם - חלול שבת</title>
+            <author>הועדה הצבורית להשלטת השבת בתחבורה</author>
+            <respStmt>
+               <name>Mandel Scholion Hebrew Revival Research Group</name>
+               <resp>Transcription of digital file</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <authority>JEMH</authority>
+            <availability><licence target="https://creativecommons.org/licenses/by/4.0/">CC-BY 4.0</licence></availability>
+         </publicationStmt>
+         <sourceDesc xml:lang="Hebrew">
+	<msDesc>
+		<msPart>
+			<msIdentifier>
+				<repository>National Library of Israel</repository>
+				<collection>"Time Travel" Ephemera Collection</collection>
+				<idno>700173677</idno>
+			</msIdentifier>
+		</msPart>
+	</msDesc>
+            <bibl>
+               <date when="1943-04-16"></date>
+               <distributor>ארכיון העיר חיפה</distributor>
+               <pubPlace>חיפה</pubPlace>
+            </bibl>
+         </sourceDesc>
+                  </fileDesc>
+      <revisionDesc>
+         <change>
+            <date>2017-08-09</date>
+            <name>Jerusalem corpus of Emergent Modern Hebrew (JEMH) staff</name>
+            <note>Created the initial version of the content in TEI-XML</note>
+         </change>
+      </revisionDesc>
+
+  </teiHeader>
+  <text>
+      <body>
+         <note>ב"ה</note>
+         <header>מחאה גלויה!</header>
+         <p>הגיעה השעה לכל הישוב העברי בחיפה שיפסיק את שתיקתו וימחה נמרצות לעין כל, נגד החלול הנורא והאיום של שבת קדשנו בחוצות עירנו ע"י התחבורה הצבורית.</p>
+         <p>כלו כל הקצים! לשוא עמלו כל ראשי הצבור, הרבנות הראשית, ויד ביד אתם ראשי הקהלה וראשי הדר הכרמל!</p>
+         <p>חברות התחבורה ו"חבר" בראש לא נכנעו, לא לבקשות ולא לדרישות נמרצות של כל הצבור המאורגן על כל זרמיו ומפלגותיו. הם מוסיפים חטא על פשע! באמתלאות שאין להן שחר, מרחיבים את התנועה ואת התחבורה מדי שבת בשבתו ומוסיפים קו על קו! הם עושים את שבתם - שבתנו - חול ומנתקים בזה ח"ו את הישוב בעירנו מכל הישוב העברי בארץ-ישראל.</p>
+         <p>לכן אנו מכריזים: קץ לשאננות, קץ לסבלנותנו כלפי מחללי קדשי ישראל!</p>
+         <p>כל הישוב העברי בחיפה נדרש להצטרף אלינו כאיש אחד עכשיו, כאשר נאחוז באמצעים חריפים כלפי מחללי השבת!</p>
+         <p>ואליכם, פורצי הגדר, אנו פונים: הטיבו את דרככם בעוד מועד, פן תאחרו את השעה!</p>
+         <p>באו כלכם לאספת העם שתתקיים בשבת הגדול ש. ז., בשעה 4.30 אחה"צ בבית הכנסת המרכזי</p>
+         <p>נפגין כלנו את רצוננו העז להגן על קדשי ישראל לפני בוא יום ה' הגדול והנורא! ובזכות יום הקדושה נגאל בב"א!</p>
+         <closer>
+הועדה הצבורית להשלטת השבת בתחבורה.
+            <dateline>
+               <date>ערב שבת הגדול תש"ג</date>
+               <name type="place">חיפה</name>
+            </dateline>
+         
+      </closer>
+</body>
+  </text>
+</TEI>

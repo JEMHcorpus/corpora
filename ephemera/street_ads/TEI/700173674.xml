@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_minimal.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_minimal.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-stylesheet type="text/css" href="../Oxygen%20XML%20Editor%2016/frameworks/tei/xml/tei/css/tei.css"?>
+<?xml-stylesheet type="text/css" href="nli-transcription.css"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>הרשמת ילדים לכתות א'</title>
+            <author>כנסת ישראל, מחלקת החנוך של הועד הלאומי, ועד הקהלה העברית בחיפה</author>
+            <respStmt>
+               <name>Mandel Scholion Hebrew Revival Research Group</name>
+               <resp>Transcription of digital file</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <authority>JEMH</authority>
+            <availability><licence target="https://creativecommons.org/licenses/by/4.0/">CC-BY 4.0</licence></availability>
+         </publicationStmt>
+         <sourceDesc xml:lang="Hebrew">
+	<msDesc>
+		<msPart>
+			<msIdentifier>
+				<repository>National Library of Israel</repository>
+				<collection>"Time Travel" Ephemera Collection</collection>
+				<idno>700173674</idno>
+			</msIdentifier>
+		</msPart>
+	</msDesc>
+            <bibl>
+               <date when="1943-05"></date>
+               <distributor>ארכיון העיר חיפה</distributor>
+               <pubPlace>חיפה</pubPlace>
+            </bibl>
+         </sourceDesc>
+                  </fileDesc>
+      <revisionDesc>
+         <change>
+            <date>2017-08-09</date>
+            <name>Jerusalem corpus of Emergent Modern Hebrew (JEMH) staff</name>
+            <note>Created the initial version of the content in TEI-XML</note>
+         </change>
+      </revisionDesc>
+
+  </teiHeader>
+  <text>
+      <body>
+         <p>כנסת ישראל מחלקת החנוך של הועד הלאומי ועד הקהלה העברית בחיפה מודיעים, כי החל מיום ה', א' אייר ש.ז. (6.5.43) תפתח הרשמת ילדים לכתות א' בבתי הספר העממיים שבמערכת החנוך.</p>
+         <p>ההרשמה תתקיים בכל יום (פרט ליום ששי) בשעות 12 - 1 בצהרים במשרדי בתי הספר האלה: בי"ס עממי א', בי"ס עממי גאולה, בי"ס עממי ג', בי"ס נצח ישראל, בי"ס לבנות מזרחי, ת"ת יסוד הדת ("בית יצחק"), בית החנוך לילדי עובדים, בי"ס "במרכז" בעיר, בי"ס עממי אחוזה, בי"ס עממי נוה שאנן, בי"ס עממי בת גלים ובי"ס עממי קרית חיים.</p>
+         <p>ההורים מתבקשים לטובתם להקדים בהרשמת ילדיהם.</p>
+         <closer>"אות" דפוס קואופרטיבי בע"מ, חיפה, טלפון 2973</closer>
+      </body>
+  </text>
+</TEI>

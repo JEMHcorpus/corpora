@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_minimal.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_minimal.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-stylesheet type="text/css" href="../Oxygen%20XML%20Editor%2016/frameworks/tei/xml/tei/css/tei.css"?>
+<?xml-stylesheet type="text/css" href="nli-transcription.css"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>רישום לפנקס הועד הלאומי</title>
+            <author>ועד הקהילה העברית בחיפה</author>
+            <respStmt>
+               <name>Mandel Scholion Hebrew Revival Research Group</name>
+               <resp>Transcription of digital file</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <authority>JEMH</authority>
+            <availability><licence target="https://creativecommons.org/licenses/by/4.0/">CC-BY 4.0</licence></availability>
+         </publicationStmt>
+         <sourceDesc xml:lang="Hebrew">
+	<msDesc>
+		<msPart>
+			<msIdentifier>
+				<repository>National Library of Israel</repository>
+				<collection>"Time Travel" Ephemera Collection</collection>
+				<idno>700173586</idno>
+			</msIdentifier>
+		</msPart>
+	</msDesc>
+            <bibl>
+               <date when="1938-05-02"></date>
+               <distributor>ארכיון העיר חיפה</distributor>
+               <pubPlace>חיפה</pubPlace>
+            </bibl>
+         </sourceDesc>
+                  </fileDesc>
+      <revisionDesc>
+         <change>
+            <date>2017-08-09</date>
+            <name>Jerusalem corpus of Emergent Modern Hebrew (JEMH) staff</name>
+            <note>Created the initial version of the content in TEI-XML</note>
+         </change>
+      </revisionDesc>
+
+  </teiHeader>
+  <text>
+      <body>
+         <head>כנסת ישראל בארץ ישראל</head>
+         <head>הודעה</head>
+         <p>א. נתבקשנו ע"י הועד הלאומי להודיע לקהל העברי בחיפה שבהתאם לסעיף 17 (2) מ-תקנות כנסת ישראל- יכול כל יהודי בוגר הרוצה ששמו יוסף בפנקס הבוגרים למסור הודעה לועד הלאומי (באמצעות ועד הקהלה), אם בעצמו או ע"י מורשה שיפה את כחו בכתב לכך, בתוך חדש אייר ש.ז. ומשיתברר לועד הלאומי שמוסר ההודעה הוא יהודי בוגר, וכי ישב בארץ לא פחות משלשה חדשים, יוסיף את שמו בפנקס בהתאם לכך.</p>
+         <p>ב. חלק הפנקס של היהודים הבוגרים בחיפה נמצא במקומות אלה: 1. ועד הקהלה העברית, מרכז מסחרי חדש, בית קניגשטין  2.  "  הדר הכרמל, רח' פרישמן, בית פנקס  3.  "  נוה שאנן, בשכונה  4.  "  אחוזת הרברט סמואל, בשכונה  5. בית הכנסת של שכונת בת-גלים  6. ועד שכונת תל-עמל, בשכונה  7.  "   "  קרית חיים, בקריה  8.  "   "   "  מוצקין, בקריה  9.  "  "  "  ביאליק,  "  10.  "  "  "  שמואל,  "  11.  "  "  "  בנימין  "  12.  "  "  "  אליהו, ביה"ס בבית אלטשולר  13. מועצת פועלי חיפה, רח' החלוץ  14. לשכת הפועל המזרחי, רח' סירקין  15. התאחדות הציונים הכלליים, פנת ביאליק-הרצל, בית רבינו  16. ברית הציונים הכלליים, רח' ביאליק, בית ברקאי  17. לשכת המזרחי, בבית ספר "נצח ישראל"  18. מועדון הצה"ר, רחוב בן-שמן  19. בית הכנסת המרכזי בהדר הכרמל, רחוב הרצל  20.  "  "  "הדרת קודש", מעלות הנביאים  21.  "  "  "כרמיה", רחוב יוסף  22.  "  "  "הרצליה", רחוב הרצליה, בית פלוטקין  23.  "  "  "אליהו הנביא", רחוב היהודים  24.  "  "  בהר הכרמל  25. התאחדות עולי גרמניה, בית "פלאפריק", מרכז מסחרי חדש  26. לשכת המסחר העברית, רחוב המלכים  27. ארגון המעמד הבינוני, רחוב ביאליק, בית רבינו  28. בית הכנסת "אהבת תורה", רחוב התבור 1  29. מועדון "ביתנו", רחוב החלוץ  וישאר מודבק במשך חדש ימים החל מיום שני, ר"ח אייר תרצ"ח (2.5.38) עד יום שלישי, ר"ח סיון תרצ"ח (31.5.38), וכל יהודי בוגר איש ואשה יכול(ה) לבדק אם שמו(ה) נמצא בפנקס או לא ולפי זה להמציא את הודעתו(ה) לועד הלאומי כאמור לעיל.  </p>
+         <p>ג. כל מי שנדחתה בקשתו בדבר הוספת שמו בפנקס יוכל לערער בפני מועצה שתהא מורכבת מיו"ר ושני חברים שיתמנו ע"י "הסוכנות היהודית".</p>
+         <p>ד. כל בוגר אשר הגיש בתאריך קודם להודעה זו, הודעה לועד הלאומי למחוק את שמו מהפנקס, רשאי להגיש הודעה לועד הלאומי להוסיף את שמו בפנקס.</p>
+         <p>ה. מוסר ההודעה על דבר הוספת שמו בפנקס הבוגרים צריך להמציא לועד הלאומי את הפרטים הבאים: א. מקום מגורו (העיר או הכפר) ב. כתבתו ג. שם משפחתו ד. שמו הפרטי ה. שם אביו ו. המין ז. הגיל ח. כמה זמן הוא יושב בארץ</p>
+         <p>ן. ובהתאם לסעיף 17(3) מ"תקנות כנסת ישראל", "כל הרוצה ששמו ימחק מהפנקס ימסור הודעה לועד הלאומי, אם בעצמו או ע"י מורשה שיפה את כחו בכתב לכך, בתוך חדש אייר והועד הלאומי יאשר את קבלת ההודעה וימחוק לפי זה את שמו מן הפנקס".</p>
+         <p>ז. כל אדם הרוצה ששמו ימחק מהפנקס ימסור לועד הלאומי את הפרטים הבאים: א. מקום מגורו (העיר או הכפר) ב. כתבתו ג. המספר הסדורי שעל ידו רשום שמו בחלק המתאים של הפנקס ד. שם משפחתו ה. שמו הפרטי ו. שם אביו</p>
+         <closer>
+            ועד הקהלה בחיפה
+            <dateline>
+               <name type="place">חיפה, ת.ד. 148</name>
+               <name type="press">דפוס ורהפטיג</name>, חיפה רחוב הנמל
+            </dateline>
+         
+      </closer>
+</body>
+  </text>
+</TEI>

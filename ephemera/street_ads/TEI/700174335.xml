@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_minimal.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_minimal.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-stylesheet type="text/css" href="../Oxygen%20XML%20Editor%2016/frameworks/tei/xml/tei/css/tei.css"?>
+<?xml-stylesheet type="text/css" href="nli-transcription.css"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>חוברת הדין וחשבון לשנת תרפ"א</title>
+            <author>ועד העדה העברית חיפה</author>
+            <respStmt>
+               <name>Mandel Scholion Hebrew Revival Research Group</name>
+               <resp>Transcription of digital file</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <authority>JEMH</authority>
+            <availability><licence target="https://creativecommons.org/licenses/by/4.0/">CC-BY 4.0</licence></availability>
+         </publicationStmt>
+         <sourceDesc xml:lang="Hebrew">
+	<msDesc>
+		<msPart>
+			<msIdentifier>
+				<repository>National Library of Israel</repository>
+				<collection>"Time Travel" Ephemera Collection</collection>
+				<idno>700174335</idno>
+			</msIdentifier>
+		</msPart>
+	</msDesc>
+            <bibl>
+               <date when="1921-10"></date>
+               <distributor>ארכיון העיר חיפה</distributor>
+               <pubPlace>חיפה</pubPlace>
+            </bibl>
+         </sourceDesc>
+                  </fileDesc>
+      <revisionDesc>
+         <change>
+            <date>2017-08-09</date>
+            <name>Jerusalem corpus of Emergent Modern Hebrew (JEMH) staff</name>
+            <note>Created the initial version of the content in TEI-XML</note>
+         </change>
+      </revisionDesc>
+
+  </teiHeader>
+  <text>
+     <body>
+        <opener>אל כ' מר ____
+           <salute>ח.נ.</salute>
+        </opener>
+        <p>אנו מתכבדים להמציא לכ' את חוברת הדין וחשבון שלנו לשנת תרפ"א.</p>
+        <p>יחד עם זה אנו מודיעים לו שהאספה הכללית של חברי העדה תהיה במוצאי שבת אור לה' חשון בשעה 7 באולם בית הספר "נצח ישראל".</p>
+        <p>אנו בטוחים בהתענינות כ' בעניני העדה ובהשתתפותו באספה זו.</p>
+        <p>סדר היום של האספה: א. דין וחשבון  ב. משפט השלום  ג. בקרת והערות  ד. בחירת ועדת בקרת  ה. קביעת ועדת בחירות  ו. שונות.</p>
+        <closer>
+           בכבוד רב ועד העדה העברית חיפה.
+           <dateline>
+              <date when="1921-10">שלהי דתשרי תרפ"ב</date>
+              <name type="place">חיפה</name>
+            </dateline>
+      </closer>
+</body>
+  </text>
+</TEI>

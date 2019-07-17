@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_minimal.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_minimal.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-stylesheet type="text/css" href="../Oxygen%20XML%20Editor%2016/frameworks/tei/xml/tei/css/tei.css"?>
+<?xml-stylesheet type="text/css" href="nli-transcription.css"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>יום יהדות פולין</title>
+            <author>ועד הקהלה העברית בחיפה</author>
+            <respStmt>
+               <name>Mandel Scholion Hebrew Revival Research Group</name>
+               <resp>Transcription of digital file</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <authority>JEMH</authority>
+            <availability><licence target="https://creativecommons.org/licenses/by/4.0/">CC-BY 4.0</licence></availability>
+         </publicationStmt>
+         <sourceDesc xml:lang="Hebrew">
+	<msDesc>
+		<msPart>
+			<msIdentifier>
+				<repository>National Library of Israel</repository>
+				<collection>"Time Travel" Ephemera Collection</collection>
+				<idno>700173142</idno>
+			</msIdentifier>
+		</msPart>
+	</msDesc>
+            <bibl>
+               <date when="1943"></date>
+               <distributor>ארכיון העיר חיפה</distributor>
+               <pubPlace>חיפה</pubPlace>
+            </bibl>
+         </sourceDesc>
+                  </fileDesc>
+      <revisionDesc>
+         <change>
+            <date>2017-08-09</date>
+            <name>Jerusalem corpus of Emergent Modern Hebrew (JEMH) staff</name>
+            <note>Created the initial version of the content in TEI-XML</note>
+         </change>
+      </revisionDesc>
+
+  </teiHeader>
+  <text>
+      <body>
+         <opener>אל הצבור היהודי בחיפה</opener>
+         <p>ביום 1 בספטמבר 1939 פלשו קלגסי הנאצים לאדמת פולין.</p>
+         <p>הונף הגרזן על אם-הגלויות, שהזינה את תקומת ישראל בכל גילוייה, על מאמצי-דורות, על מקורות-תרבות-ויצירה, על זקן וצעיר, אשה וטף.</p>
+         <p>עולם שלם עלה באש, בחרב, ברעב, באדי-רעל, בהתעללות-שטנים.</p>
+         <p>ואין ניב בשפת-אדם למצוי הצער, לבטוי השבר לתיאור האימה.</p>
+         <p>אומה שלמה שיכלנו.</p>
+         <p>אך שרידים נאבקים ונאנקים בגיטאות-הגרדום; אך אודים מוצלים מני הדליקה הגדולה נחלצו לארץ; פליטי גיהנום ועינויים ויסורים עוד ייחלצו.</p>
+         <p>ביום זה נתייחד עם זכרם הקדוש. יד-אחים לוהטת נושיט לניצולים. מעבר לחומות נשלח להם את שבועת-עידודנו: לא נשכח אותכם!</p>
+         <p>ב"יום יהדות פולין", הראשון בספטמבר, נרים ברצון את תרומתנו ל"ועד המאוחד למען יהודי פולין", הפועל והעתיד לפעול לעזרתם ולקליטתם של פליטי פאר-הגלויות.</p>
+         <closer>
+ועד הקהלה העברית בחיפה
+         
+         "אות" דפוס קואופרטיבי בע"מ, טלפון 2973
+      </closer>
+</body>
+  </text>
+</TEI>

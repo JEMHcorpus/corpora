@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_minimal.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_minimal.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-stylesheet type="text/css" href="../Oxygen%20XML%20Editor%2016/frameworks/tei/xml/tei/css/tei.css"?>
+<?xml-stylesheet type="text/css" href="nli-transcription.css"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>פורקי המרות הלאומית</title>
+            <author>ועדת המצב ע"י ועד הקהלה, חיפה</author>
+            <respStmt>
+               <name>Mandel Scholion Hebrew Revival Research Group</name>
+               <resp>Transcription of digital file</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <authority>JEMH</authority>
+            <availability><licence target="https://creativecommons.org/licenses/by/4.0/">CC-BY 4.0</licence></availability>
+         </publicationStmt>
+         <sourceDesc xml:lang="Hebrew">
+	<msDesc>
+		<msPart>
+			<msIdentifier>
+				<repository>National Library of Israel</repository>
+				<collection>"Time Travel" Ephemera Collection</collection>
+				<idno>700173122</idno>
+			</msIdentifier>
+		</msPart>
+	</msDesc>
+            <bibl>
+               <date when="1948-06-23"></date>
+               <distributor>ארכיון העיר חיפה</distributor>
+               <pubPlace>חיפה</pubPlace>
+            </bibl>
+         </sourceDesc>
+                  </fileDesc>
+      <revisionDesc>
+         <change>
+            <date>2017-08-09</date>
+            <name>Jerusalem corpus of Emergent Modern Hebrew (JEMH) staff</name>
+            <note>Created the initial version of the content in TEI-XML</note>
+         </change>
+      </revisionDesc>
+
+  </teiHeader>
+  <text>
+      <body>
+         <opener>ליהודי חיפה!</opener>
+         <p>בשעה גורלית זו, כשמדינתנו עומדת במערכה מכרעת נגד הכוחות הרבים אשר קמו להחריבה בעודה באבה, יצאו פורקי המרות הלאומית בהתנקשות גלויה ברבונותה של ממשלתנו המייצגת את האומה כולה.</p>
+         <p>מעשה זה הנו בגידה חמורה ותקיעת סכין בגבה של האומה, הנאבקת על קיומה ועתידה, וחבלה זדונית בצבא ישראל במלחמתו.</p>
+         <p>הישוב העברי בחיפה יעמוד, יחד עם כל האומה, כחומה בצורה מסביב לממשלת העם וצבא ישראל ולא יסבול כל הפרה של מרות לאומית וחתירה תחת אחדות האומה, ולא ימצא בתוכו איש אשר יגרר אחרי הסתה לפרוד והפקרות.</p>
+         <closer>
+ועדת המצב ע"י ועד הקהלה, חיפה
+            <dateline>
+               <date>ט"ז סיון תש"ח (23.6.48)</date>
+            </dateline>
+         
+      </closer>
+</body>
+  </text>
+</TEI>

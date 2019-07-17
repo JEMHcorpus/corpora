@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_minimal.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_minimal.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-stylesheet type="text/css" href="../Oxygen%20XML%20Editor%2016/frameworks/tei/xml/tei/css/tei.css"?>
+<?xml-stylesheet type="text/css" href="nli-transcription.css"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>הודעה מס' 8</title>
+            <author>ועדת הבחירות בחיפה לאספת הנבחרים הרביעית</author>
+            <respStmt>
+               <name>Mandel Scholion Hebrew Revival Research Group</name>
+               <resp>Transcription of digital file</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <authority>JEMH</authority>
+            <availability><licence target="https://creativecommons.org/licenses/by/4.0/">CC-BY 4.0</licence></availability>
+         </publicationStmt>
+         <sourceDesc xml:lang="Hebrew">
+	<msDesc>
+		<msPart>
+			<msIdentifier>
+				<repository>National Library of Israel</repository>
+				<collection>"Time Travel" Ephemera Collection</collection>
+				<idno>700173509</idno>
+			</msIdentifier>
+		</msPart>
+	</msDesc>
+            <bibl>
+               <date when="1944-07"></date>
+               <distributor>ארכיון העיר חיפה</distributor>
+               <pubPlace>חיפה</pubPlace>
+            </bibl>
+         </sourceDesc>
+                  </fileDesc>
+      <revisionDesc>
+         <change>
+            <date>2017-08-09</date>
+            <name>Jerusalem corpus of Emergent Modern Hebrew (JEMH) staff</name>
+            <note>Created the initial version of the content in TEI-XML</note>
+         </change>
+      </revisionDesc>
+
+  </teiHeader>
+  <text>
+      <body>
+         <head>הודעה מס' 8</head>
+         <head>ועדת הבחירות בחיפה לאספת הנבחרים הרביעית</head>
+         <p>1. חלוקת כרטיסי-בוחר מסתימת ביום ששי, 28 ביולי. כל מי שלא קבל כרטיס-בוחר עליו לפנות החל מיום ראשון 30 ביולי בשעות 8 בבקר ועד 8 בערב: א) למשרד ועדת הבחירות, שוק תלפיות, קומה ||. ב) למשרד ועד קרית חיים. ג) למשרד ועד תושבי הר הכרמל.</p>
+         <p>2. על כל המפלגות, הארגונים והרשימות, המופיעות בבחירות לאספת הנבחרים להמציא את פתקאות ההצבעה של רשימתם או רשימות המועמדים עד יום שני, 31 ביולי, שעה 6 בערב. אי-המצאת חומר ההצבעה תגרום נזק להם והאחריות תפול עליהם בלבד.</p>
+         <closer>
+ועדת הבחירות בחיפה לאספת הנבחרים
+            <dateline>
+               <date>יולי 1944</date>
+               <name type="place">חיפה</name>
+            </dateline>
+            <signed>
+               יו"ר
+               (-) <name type="person">ר. בוניאק</name>
+            </signed>
+         
+         "אות" דפוס קואופרטיבי בע"מ, חיפה, טל. 2973
+      </closer>
+</body>
+  </text>
+</TEI>

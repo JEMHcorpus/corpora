@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_minimal.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_minimal.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-stylesheet type="text/css" href="../Oxygen%20XML%20Editor%2016/frameworks/tei/xml/tei/css/tei.css"?>
+<?xml-stylesheet type="text/css" href="nli-transcription.css"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>יום תפלה, הספד ואזכרה</title>
+            <author>הרבנות הראשית.  ועד הקהלה.</author>
+            <respStmt>
+               <name>Mandel Scholion Hebrew Revival Research Group</name>
+               <resp>Transcription of digital file</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <authority>JEMH</authority>
+            <availability><licence target="https://creativecommons.org/licenses/by/4.0/">CC-BY 4.0</licence></availability>
+         </publicationStmt>
+         <sourceDesc xml:lang="Hebrew">
+	<msDesc>
+		<msPart>
+			<msIdentifier>
+				<repository>National Library of Israel</repository>
+				<collection>"Time Travel" Ephemera Collection</collection>
+				<idno>700173696</idno>
+			</msIdentifier>
+		</msPart>
+	</msDesc>
+            <bibl>
+               <date when="1941-07-29"></date>
+               <distributor>ארכיון העיר חיפה</distributor>
+               <pubPlace>חיפה</pubPlace>
+            </bibl>
+         </sourceDesc>
+                  </fileDesc>
+      <revisionDesc>
+         <change>
+            <date>2017-08-09</date>
+            <name>Jerusalem corpus of Emergent Modern Hebrew (JEMH) staff</name>
+            <note>Created the initial version of the content in TEI-XML</note>
+         </change>
+      </revisionDesc>
+
+  </teiHeader>
+  <text>
+      <body>
+         <note>ב"ה</note>
+         <opener>לישוב בחיפה</opener>
+         <p>בקשר לידיעות המחרידות שהגיעו מבגדד שבבבל בדבר הפרעות האכזריות בבית ישראל בשני הימים של חג השבועות ש. ז. ובהן נהרגו ונפצעו מאות יהודים גברים, נשים, זקן וטף ורכושם נשדד, ובהתאם להוראות הרבנות הראשית לארץ ישראל והועד הלאומי הוכרז יום החמישי ז' מנחם-אב ליום תפלה, הספד ואזכרה על נשמות חללינו הקדושים ועל שוד עניים ואנקת אביונים שדמם צועק לשמים.</p>
+         <p>ביום חמישי הנ"ל בשעה 6 בערב יתאסף קהל בית ישראל בחיפה בבית הכנסת המרכזי (רח' גלעד) לתנות את אשר עוללו הפורעים האלה, להספיד ולהזכיר בקדושה את חללינו אלה ולהרבות בתפילה לפני אלקי הרחמים למען ישוב ירחמנו וישיב את השלום לעם ישראל ולכל האנושות כולה.</p>
+         <closer>
+הרבנות הראשית.  ועד הקהלה.
+            <dateline>
+               <date>ה' מנחם-אב תש"א</date>
+            </dateline>
+         
+         דפוס אמנות חיפה
+      </closer>
+</body>
+  </text>
+</TEI>

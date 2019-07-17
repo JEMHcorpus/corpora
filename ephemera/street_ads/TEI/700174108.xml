@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_minimal.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_minimal.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-stylesheet type="text/css" href="../Oxygen%20XML%20Editor%2016/frameworks/tei/xml/tei/css/tei.css"?>
+<?xml-stylesheet type="text/css" href="nli-transcription.css"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>"יום האם" התשיעי למסורת חיפה</title>
+            <author>אבא חושי, ראש עירית חיפה</author>
+            <respStmt>
+               <name>Mandel Scholion Hebrew Revival Research Group</name>
+               <resp>Transcription of digital file</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <authority>JEMH</authority>
+            <availability><licence target="https://creativecommons.org/licenses/by/4.0/">CC-BY 4.0</licence></availability>
+         </publicationStmt>
+         <sourceDesc xml:lang="Hebrew">
+	<msDesc>
+		<msPart>
+			<msIdentifier>
+				<repository>National Library of Israel</repository>
+				<collection>"Time Travel" Ephemera Collection</collection>
+				<idno>700174108</idno>
+			</msIdentifier>
+		</msPart>
+	</msDesc>
+            <bibl>
+               <date when="1959-12"></date>
+               <distributor>ארכיון העיר חיפה</distributor>
+               <pubPlace>חיפה</pubPlace>
+            </bibl>
+         </sourceDesc>
+                  </fileDesc>
+      <revisionDesc>
+         <change>
+            <date>2017-08-09</date>
+            <name>Jerusalem corpus of Emergent Modern Hebrew (JEMH) staff</name>
+            <note>Created the initial version of the content in TEI-XML</note>
+         </change>
+      </revisionDesc>
+
+  </teiHeader>
+  <text>
+      <body>
+         <head>עירית חיפה</head>
+         <opener>אזרחים וילדים יקרים!</opener>
+         <p>ביום שלישי, ד' דחנוכה, כ"ח בכסלו תש"ך (29.12.59) תחוג עירנו את "יום האם" התשיעי למסורת חיפה</p>
+         <p>לא כדי לערבב שמחה בשמחה. אלא כדי שאורה יוסיף על אור הנרות הללו. אנו חוזרים וחורתים, בימי אורים אלה, את דמותה רבת-הנועם של אם-המשפחה על לוח-לבנו.</p>
+         <p>ביום זה אנו מצווים לכפול לה את אהבתנו ולשמשה בתשומת-לב, שתזכיר לה כי לא שכחנו לא את האהבה ולא את תשומת-הלב שהיא משפעת עלינו כל שעה משעות היום, בכל יום מימות השנה.</p>
+         <p>יום שלישי, ד' דחנוכה, כ"ח בכסלו תש"ך יומה של אמא, בכל משפחות בתי-עירנו!</p>
+         <closer>
+            <dateline>
+               <name type="place">חיפה</name>,
+               <date>כסלו תש"ך</date>
+            </dateline>
+            <signed>
+               <name type="person">אבא חושי</name>
+               ראש העיריה
+            </signed>
+         
+      </closer>
+</body>
+  </text>
+</TEI>

@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_minimal.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_minimal.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-stylesheet type="text/css" href="../Oxygen%20XML%20Editor%2016/frameworks/tei/xml/tei/css/tei.css"?>
+<?xml-stylesheet type="text/css" href="nli-transcription.css"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>"יום הנצחון" בחיפה</title>
+            <author>ועד הקהלה העברית  ועד הדר הכרמל</author>
+            <respStmt>
+               <name>Mandel Scholion Hebrew Revival Research Group</name>
+               <resp>Transcription of digital file</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <authority>JEMH</authority>
+            <availability><licence target="https://creativecommons.org/licenses/by/4.0/">CC-BY 4.0</licence></availability>
+         </publicationStmt>
+         <sourceDesc xml:lang="Hebrew">
+	<msDesc>
+		<msPart>
+			<msIdentifier>
+				<repository>National Library of Israel</repository>
+				<collection>"Time Travel" Ephemera Collection</collection>
+				<idno>700173335</idno>
+			</msIdentifier>
+		</msPart>
+	</msDesc>
+            <bibl>
+               <date when="1945-05-08"></date>
+               <distributor>ארכיון העיר חיפה</distributor>
+               <pubPlace>חיפה</pubPlace>
+            </bibl>
+         </sourceDesc>
+                  </fileDesc>
+      <revisionDesc>
+         <change>
+            <date>2017-08-09</date>
+            <name>Jerusalem corpus of Emergent Modern Hebrew (JEMH) staff</name>
+            <note>Created the initial version of the content in TEI-XML</note>
+         </change>
+      </revisionDesc>
+
+  </teiHeader>
+  <text>
+      <body>
+         <head>"יום הנצחון" בחיפה</head>
+         <p>בהתאם להוראות המוסדות העליונים קבע ועד הקהלה העברית את הסדר הבא של "יום הנצחון" בחיפה, ביום ד' כ"ו אייר ש.ז. (9.5.45)</p>
+         <p>א) שבתון מעבודה וממלאכה משעות הבקר (פרט לשרותים החיוניים)</p>
+         <p>ב) תהלוכת-עם משעות 4.30 עד שעה 7 בערב (סדרי התהלוכה במודעה מיוחדת)</p>
+         <p>ג) הפסקת התחבורה העירונית וסגירת החנויות משעה 4 עד 7 בערב</p>
+         <p>ד) תפילה בצבור בביהכנ"ס המרכזי הדר הכרמל, (רח' הגלעד) בשעה 7 בערב</p>
+         <p>ה) הפסקת הלמודים בבתי הספר ובגני הילדים (השתתפותם של תלמידי בתי הספר בתהלוכה לפי ההוראות של מחלקת החנוך)</p>
+         <p>ו) הבתים יקושטו בדגלים לאומיים ובדגל הבריטי  הדגל העברי יתנוסס על כל בית עברי</p>
+         <p>ז) הצבור מתבקש להאיר עם חשכה את החלונות המופנים אל הרחובות הראשיים ולהגביר את התאורה.</p>
+         <p>המוני הישוב, ובתוכם המוסדות והארגונים, נקראים להשתתף בתהלוכה.</p>
+         <closer>
+ועד הקהלה העברית
+ועד הדר הכרמל
+            <dateline>
+               <date>כ"ה אייר תש"ה  8.5.45</date>
+               <name type="place">חיפה</name>
+            </dateline>
+         
+         דפוס "אמנות" חיפה רח' סוקולוב א7
+      </closer>
+</body>
+  </text>
+</TEI>

@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_minimal.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_minimal.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-stylesheet type="text/css" href="../Oxygen%20XML%20Editor%2016/frameworks/tei/xml/tei/css/tei.css"?>
+<?xml-stylesheet type="text/css" href="nli-transcription.css"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>השאלת תלבשות העדלידע</title>
+            <author>מזכיר העיר תל-אביב</author>
+            <respStmt>
+               <name>Mandel Scholion Hebrew Revival Research Group</name>
+               <resp>Transcription of digital file</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <authority>JEMH</authority>
+            <availability><licence target="https://creativecommons.org/licenses/by/4.0/">CC-BY 4.0</licence></availability>
+         </publicationStmt>
+         <sourceDesc xml:lang="Hebrew">
+	<msDesc>
+		<msPart>
+			<msIdentifier>
+				<repository>National Library of Israel</repository>
+				<collection>"Time Travel" Ephemera Collection</collection>
+				<idno>700174447</idno>
+			</msIdentifier>
+		</msPart>
+	</msDesc>
+            <bibl>
+               <date when="1933-05-17"></date>
+               <distributor>ארכיון העיר חיפה</distributor>
+               <pubPlace>חיפה</pubPlace>
+            </bibl>
+         </sourceDesc>
+                  </fileDesc>
+      <revisionDesc>
+         <change>
+            <date>2017-08-09</date>
+            <name>Jerusalem corpus of Emergent Modern Hebrew (JEMH) staff</name>
+            <note>Created the initial version of the content in TEI-XML</note>
+         </change>
+      </revisionDesc>
+
+  </teiHeader>
+  <text>
+      <body>
+         <head>עירית תל-אביב</head>
+         <head>לכבוד ועדת חגיגות הבכורים, חיפה, ת.ד. הדר הכרמל 28, הנדון: תלבשות העדלידע לחגיגות הבכורים בחיפה. בתשובה למכתבכם מיום 30 לחה"ע.</head>
+         <opener>א.נ.</opener>
+         <p>כפי שהודענו למר קמיני שלנו אשר בטח מסר את הדבר לבא-כחכם, הרי מסכימים אנו להשאיל לכם חלק מן התלבשות שהוכנו על ידינו לחגיגת העדלידע, לשמוש עבור חגיגות הבכורים אשר תערכנה בעירכם.</p>
+         <p>קבלנו לתשומת לב את הודעתכם על דבר אחריותכם הגמורה להחזרת הבגדים האלה מיד לאחר החגיגה בשלמותם ובסדר.</p>
+         <closer>
+            <dateline>
+               <date when="1933-05-17">כ"א אייר תרצ"ג  17.5.33</date>
+            </dateline>
+            <signed>
+			בכבוד רב, 
+			(<name type="person">יהודה נדיבי</name>)
+			   מזכיר העיר.
+            </signed>
+      </closer>
+</body>
+  </text>
+</TEI>

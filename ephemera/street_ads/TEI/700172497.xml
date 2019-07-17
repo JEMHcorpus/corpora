@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_minimal.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_minimal.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-stylesheet type="text/css" href="../Oxygen%20XML%20Editor%2016/frameworks/tei/xml/tei/css/tei.css"?>
+<?xml-stylesheet type="text/css" href="nli-transcription.css"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>בטאון לנוער</title>
+            <author>משה רפפורט, בשם ועדת התרבות המחלקה לנוער של מועצת פועלי חיפה</author>
+            <respStmt>
+               <name>Mandel Scholion Hebrew Revival Research Group</name>
+               <resp>Transcription of digital file</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <authority>JEMH</authority>
+            <availability><licence target="https://creativecommons.org/licenses/by/4.0/">CC-BY 4.0</licence></availability>
+         </publicationStmt>
+         <sourceDesc xml:lang="Hebrew">
+	<msDesc>
+		<msPart>
+			<msIdentifier>
+				<repository>National Library of Israel</repository>
+				<collection>"Time Travel" Ephemera Collection</collection>
+				<idno>700172497</idno>
+			</msIdentifier>
+		</msPart>
+	</msDesc>
+            <bibl>
+               <date when="1954-03-18"></date>
+               <distributor>ארכיון העיר חיפה</distributor>
+               <pubPlace>חיפה</pubPlace>
+            </bibl>
+         </sourceDesc>
+                  </fileDesc>
+      <revisionDesc>
+         <change>
+            <date>2017-08-09</date>
+            <name>Jerusalem corpus of Emergent Modern Hebrew (JEMH) staff</name>
+            <note>Created the initial version of the content in TEI-XML</note>
+         </change>
+      </revisionDesc>
+
+  </teiHeader>
+  <text>
+      <body>
+         <head>ההסתדרות הכללית של העובדים העברים בא"י</head>
+         <head>מועצת פועלי חיפה</head>
+         <head>ועדת התרבות  המחלקה לנוער</head>
+         <opener>לכבוד ____</opener>
+         <opener>א.מ.נ.,</opener>
+         <p>אנו עומדים להוציא בטאון לנוער בהשתתפות תלמידי בתי הספר והנוער.</p>
+         <p>נחזיק לך תודה אם תקבע נציג מטעם חברת הילדים בבית ספרך שישתתף במערכת הבטאון.</p>
+         <p>הפגישה הראשונה של המערכת תתקיים ביום חמישי י'ח אדר ב' תשי"ד 23.3.54 בשעה 4 אחר-הצהרים בבית הפועלים רח' החלוץ 45 חדר 99.</p>
+         <p>על סדר היום:- א. הרכבת המערכת  ב. דיון בבעיות הוצאת הבטאון</p>
+         <p>נא לראות את המכתב הזה כהזמנה לפגישה.</p>
+         <closer>
+            <dateline>
+               <date>י'ג אדר ב' תשי"ד  18.3.54</date>
+               <name type="place"></name>
+            </dateline>
+            <signed>
+               בכבוד רב, בשם ועדת התרבות
+               <name>משה רפפורט.</name>
+            </signed>
+         
+      </closer>
+</body>
+  </text>
+</TEI>

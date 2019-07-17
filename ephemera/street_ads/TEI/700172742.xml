@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_minimal.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_minimal.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-stylesheet type="text/css" href="../Oxygen%20XML%20Editor%2016/frameworks/tei/xml/tei/css/tei.css"?>
+<?xml-stylesheet type="text/css" href="nli-transcription.css"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>מוסיקה לעם</title>
+            <author>מועצת פועלי חיפה - ועדת התרבות</author>
+            <respStmt>
+               <name>Mandel Scholion Hebrew Revival Research Group</name>
+               <resp>Transcription of digital file</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <authority>JEMH</authority>
+            <availability><licence target="https://creativecommons.org/licenses/by/4.0/">CC-BY 4.0</licence></availability>
+         </publicationStmt>
+         <sourceDesc xml:lang="Hebrew">
+	<msDesc>
+		<msPart>
+			<msIdentifier>
+				<repository>National Library of Israel</repository>
+				<collection>"Time Travel" Ephemera Collection</collection>
+				<idno>700172742</idno>
+			</msIdentifier>
+		</msPart>
+	</msDesc>
+            <bibl>
+               <date when="1955-01"></date>
+               <distributor>ארכיון העיר חיפה</distributor>
+               <pubPlace>חיפה</pubPlace>
+            </bibl>
+         </sourceDesc>
+                  </fileDesc>
+      <revisionDesc>
+         <change>
+            <date>2017-08-09</date>
+            <name>Jerusalem corpus of Emergent Modern Hebrew (JEMH) staff</name>
+            <note>Created the initial version of the content in TEI-XML</note>
+         </change>
+      </revisionDesc>
+
+  </teiHeader>
+  <text>
+      <body>
+         <head>ההסתדרות הכללית של העובדים העברים בארץ ישראל</head>
+         <head>מועצת פועלי חיפה  ועדת התרבות</head>
+         <opener>מוסיקה לעם</opener>
+         <p>סידרה א' בשעה 6 בערב . סידרה ב' בשעה 8.30 בערב ביום רביעי, 26.1.55, באולם "ביתנו"</p>
+         <p>הפסנתרנית בלה פינקלשטיין-גילאון מוסיקה ואמצעי הבטוי שלה (כיצד לשמוע מוסיקה?) (כור-באך, פרליוד-שופין, אטיוד-שופין, גנים תחת הגשם - דביוסי ועוד)</p>
+         <p>כרטיסים במחיר 200 פר' לנוער, 300 פר' למבוגרים להשיג ב"פינת הספר" ובערב בכניסה ל"ביתנו"</p>
+         <closer>"אות" דפוס קואופרטיבי בע"מ, חיפה, רח' הרצל 61, טלפון 2973</closer>
+      </body>
+  </text>
+</TEI>

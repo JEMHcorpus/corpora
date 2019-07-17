@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_minimal.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_minimal.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-stylesheet type="text/css" href="../Oxygen%20XML%20Editor%2016/frameworks/tei/xml/tei/css/tei.css"?>
+<?xml-stylesheet type="text/css" href="nli-transcription.css"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>הבחירות הכלליות</title>
+            <author>ועדת הבחירות</author>
+            <respStmt>
+               <name>Mandel Scholion Hebrew Revival Research Group</name>
+               <resp>Transcription of digital file</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <authority>JEMH</authority>
+            <availability><licence target="https://creativecommons.org/licenses/by/4.0/">CC-BY 4.0</licence></availability>
+         </publicationStmt>
+         <sourceDesc xml:lang="Hebrew">
+	<msDesc>
+		<msPart>
+			<msIdentifier>
+				<repository>National Library of Israel</repository>
+				<collection>"Time Travel" Ephemera Collection</collection>
+				<idno>700174360</idno>
+			</msIdentifier>
+		</msPart>
+	</msDesc>
+            <bibl>
+               <date when="1923-11"></date>
+               <distributor>ארכיון העיר חיפה</distributor>
+               <pubPlace>חיפה</pubPlace>
+            </bibl>
+         </sourceDesc>
+                  </fileDesc>
+      <revisionDesc>
+         <change>
+            <date>2017-08-09</date>
+            <name>Jerusalem corpus of Emergent Modern Hebrew (JEMH) staff</name>
+            <note>Created the initial version of the content in TEI-XML</note>
+         </change>
+      </revisionDesc>
+
+  </teiHeader>
+  <text>
+      <body>
+         <head>היום הגדול של הבחירות הכלליות יהיה יום הראשון, יז' כסלו (25 נובמבר 1923).</head>
+         <p>זכות הבחירה: לכל איש או אשה מישראל שהם  א) למעלה מעשרים שנה  ב) יושבים ישיבת קבע בחיפה לכה"פ ששה חדשים בלי הפסקה  ג) נרשמו ברשימת הבוחרים וקבלו כרטיס של בוחר.</p>
+         <p>כדי להבחר צריך המועמד להיות בגיל של 25 שנה לכה"פ.</p>
+         <p>רשימת הבוחרים: הקהל מוזמן לבדוק את רשימת הבוחרים ולתקן אותה ע"י מחיקת המיותרים והוספת החסרים בכל יום מהיום עד יום החמשי ז' כסלו תרפ"ד 15 לנובמבר 1923 משעה 12 בצהרים עד שעה 2 ומשעה 5 אחה"צ עד שעה 8 בערב במשרד ועד העיר. התקונים נעשים לא על הרשימה, כי אם על שני נירות מיוחדים אחד "למחיקות" ואחד "להוספות". צריך גם להעיר את הנמוק: למשל, 'מת', 'עזב', 'בא מחדש', 'נשכח'. הנירות צריכים להיות חתומים ע"י האיש המתקן או ההסתדרות המתקנת.</p>
+         <p>רשימות המועמדים: לכל מפלגה וכתה בת 30 איש לכה'פ (שכלם צריכים להיות בוחרים) יש הרשות להגיש רשימות המועמדים שלה: הרשימה הזו צריכה להיות חתומה ע'י ההסתדרות המגישה או ע'י 30 בוחר ולהכיל את שמות הפרטיים ושמות המשפחה של המועמדים.</p>
+         <p>מספר המועמדים: 18 חברים נבחרים לועד העיר וביניהם, לפי ההסכם, 8 ספרדים.</p>
+         <p>הבחירות הן כלליות, שוות, ישרות, חשאיות ויחסיות.</p>
+         <closer>
+בברכת הבנין ועדת הבחירות.
+         
+      </closer>
+</body>
+  </text>
+</TEI>

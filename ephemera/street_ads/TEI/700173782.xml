@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_minimal.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_minimal.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-stylesheet type="text/css" href="../Oxygen%20XML%20Editor%2016/frameworks/tei/xml/tei/css/tei.css"?>
+<?xml-stylesheet type="text/css" href="nli-transcription.css"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>מס שכון עולים</title>
+            <author>ועד הדר הכרמל</author>
+            <respStmt>
+               <name>Mandel Scholion Hebrew Revival Research Group</name>
+               <resp>Transcription of digital file</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <authority>JEMH</authority>
+            <availability><licence target="https://creativecommons.org/licenses/by/4.0/">CC-BY 4.0</licence></availability>
+         </publicationStmt>
+         <sourceDesc xml:lang="Hebrew">
+	<msDesc>
+		<msPart>
+			<msIdentifier>
+				<repository>National Library of Israel</repository>
+				<collection>"Time Travel" Ephemera Collection</collection>
+				<idno>700173782</idno>
+			</msIdentifier>
+		</msPart>
+	</msDesc>
+            <bibl>
+               <date when="1944-09"></date>
+               <distributor>ארכיון העיר חיפה</distributor>
+               <pubPlace>חיפה</pubPlace>
+            </bibl>
+         </sourceDesc>
+                  </fileDesc>
+      <revisionDesc>
+         <change>
+            <date>2017-08-09</date>
+            <name>Jerusalem corpus of Emergent Modern Hebrew (JEMH) staff</name>
+            <note>Created the initial version of the content in TEI-XML</note>
+         </change>
+      </revisionDesc>
+
+  </teiHeader>
+  <text>
+      <body>
+         <head>ועד הדר הכרמל</head>
+         <opener>אל תושבי הדר הכרמל!</opener>
+         <p>גורל העולה החדש וחבלי קליטתו בארץ העסיקו בחדשים האחרונים את הישוב העברי בחיפה על ארגוניו ומוסדותיו השונים. מתוך דאגה עמוקה למצב הקשה שבו נתונים העולים החדשים נגש ועד הדר הכרמל לברור האפשרויות להקלת סבלם של העולים, אשר מחמת חוסר דירות אינם מוצאים קורת גג לראשם ונתונים לתעלולי הספסרות בדירות בצורות שונות, ובא לידי הכרה שיש צרך הכרחי בפעולה דחופה לשכון העולים.</p>
+         <p>אם כי החובה הזאת צריכה להיות מוטלת בראש וראשונה על הממשלה, העיריה והמוסדות המרכזיים של הישוב, חיה בקרבנו ההרגשה שאם ועד הדר הכרמל לא יחלץ למעשה חלוצי בשטח זה לא יעשה דבר גם על ידי גורמים אחרים ושדוקא עברו ופעולתו של ועד הדר הכרמל לפתוח חיפה העברית והמנגנון הטכני הקים על ידו מחיבים אותו לקחת על עצמו את היזמה לבצוע פעולות שכון.</p>
+         <p>בדיון על בעיה חמורה זו שהתקים באספת המורשים של הדר הכרמל - המוסד העליון של השכונה, שבו מיוצגים באי-כח כל חוגי הישוב על זרמיו השונים - נשמעה הדעה המאוחדת של הצבור ברוח זו.</p>
+         <p>לאחר דיון יסודי ומקיף בשאלה זו הטילה אספת המורשים על הועד לגשת מיד לבצוע מפעל השכון, תוך שתוף עם גורמים ישוביים אחרים.</p>
+         <p>כדי ליצור את ההון הדרוש לארגון מפעל השכון החליטה אספת המורשים פה אחד, בישיבתה מ-31.8.44, להטיל על כל תושבי הדר הכרמל תשלום של "מס שכון עולים", בגובה מודרג לפי מדת הצפיפות בדירות, כדלקמן: א) דירה אשר הצפיפות בה היא בממוצע 3 נפשות או יותר לכל חדר - 30 מא"י לחדר לחדש. ב)  "  "  "  "  "  "  יותר מ-2 נפשות ופחות מ-3 נפשות לחדר - 50 מא"י לחדר לחדש. ג)  "  "  "  "  "  "  יותר מנפש אחת ולא יותר מ-2 נפשות לחדר - 70 מא"י לחדר לחדש. ד)  "  "  "  "  "  "  נפש אחת או פחות לחדר - 100 מא"י לחדר לחדש. ה) חנויות, בתי קפה, משרדים, בתי עסק וכו' ישלמו מ-100 מא"י עד 200 מא"י לחדש.</p>
+         <p>חשבון המס יצורף במשך שלשים חדשים, החל מספטמבר ש"ז, בכל חדש לחשבון המים והמס יגבה על ידי הגובים של מחלקת המים. את מס השכון חיב לשלם כל אחד שחשבון המים לדירתו נושא את שמו ועליו לשלם בעד כל החדרים המקבלים את המים לפי החשבון הזה, גם אם יש לו שותף לדירה או משכיר חלק ממנה לדירי-משנה.</p>
+         <p>בדעתנו להקים בשותפות עם גורמים ישוביים אחרים חברת מניות צבוריות לשם הקמת כמה מאות חדרי מגורים. מס השכון צריך לספק חלק מההון הדרוש וסכומים נוספים ירוכזו על ידי שכונות אחרות וע"י הפצת מניות בין בעלי יכלת. אם חיפה תגיס על ידי מסים, השתתפות השכונות העבריות והפצת מניות סכום של -.30.000 לא"י, אפשר יהיה לבצע מפעל בהיקף של -.100.000 לא"י על ידי הלואות אפותיקאיות והשתתפות הסוכנות היהודית.</p>
+         <p>אזרחי הדר הכרמל! חובת כבוד היא לכל אחד מאתנו לשתף את עצמו במאמץ הישוב לקליטת האחים הנצולים, המגיעים לארץ לאחר יסורים רבים ותלאות קשות ולסיע להתאחזותם במולדת.</p>
+         <p>חומר השעה מחיב פעולה מידית ואנו בטוחים שהחלטת אספת המורשים תתקבל באהדה בקרב כל חוגי הצבור וכל אחד יתן את חלקו ברצון ובעין יפה.</p>
+         <closer>
+ועד הדר הכרמל
+            <dateline>
+               <date>תשרי תש"ה (ספטמבר 1944)</date>
+               <name type="place">חיפה</name>
+            </dateline>
+         
+      </closer>
+</body>
+  </text>
+</TEI>

@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_minimal.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_minimal.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-stylesheet type="text/css" href="../Oxygen%20XML%20Editor%2016/frameworks/tei/xml/tei/css/tei.css"?>
+<?xml-stylesheet type="text/css" href="nli-transcription.css"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>העברת החנוך לרשות כנסת-ישראל</title>
+            <author>מרכז הסתדרות המורים בארץ-ישראל</author>
+            <respStmt>
+               <name>Mandel Scholion Hebrew Revival Research Group</name>
+               <resp>Transcription of digital file</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <authority>JEMH</authority>
+            <availability><licence target="https://creativecommons.org/licenses/by/4.0/">CC-BY 4.0</licence></availability>
+         </publicationStmt>
+         <sourceDesc xml:lang="Hebrew">
+	<msDesc>
+		<msPart>
+			<msIdentifier>
+				<repository>National Library of Israel</repository>
+				<collection>"Time Travel" Ephemera Collection</collection>
+				<idno>700172465</idno>
+			</msIdentifier>
+		</msPart>
+	</msDesc>
+            <bibl>
+               <date when="1931-02-09"></date>
+               <distributor>ארכיון העיר חיפה</distributor>
+               <pubPlace>חיפה</pubPlace>
+            </bibl>
+         </sourceDesc>
+                  </fileDesc>
+      <revisionDesc>
+         <change>
+            <date>2017-08-09</date>
+            <name>Jerusalem corpus of Emergent Modern Hebrew (JEMH) staff</name>
+            <note>Created the initial version of the content in TEI-XML</note>
+         </change>
+      </revisionDesc>
+
+  </teiHeader>
+  <text>
+      <body>
+         <head>הסתדרות המורים בארץ ישראל</head>
+         <opener>אל צירי אספת הנבחרים!</opener>
+         <p>באספת המועצה של הסתדרות המורים שהתקימה ביום החמישי, אור לי"ט שבט, ושבה השתתפו צירים מכל הארץ הוחלט לפנות אליכם, צירי אספת הנבחרים, בשעה אחראית זו שגורל החנוך העברי עומד להחתך בדברים הבאים:</p>
+         <p>העברת החנוך לרשות כנסת-ישראל עלולה להמיט אסון גם על החנוך וגם על כנסת-ישראל. מסירת החנוך לדיונן של מפלגות ולרשותן של קהלות ועדות תהרוס את אחדותו - וגם תיצור גורם נוסף לסכסוכי מפלגות ועדות בתוך הכנסת עצמה. החנוך צריך שישאר אחד ומאוחד בידי האינסטנציה העליונה של האומה העברית - בידי ההסתדרות הציונית. הוצאת החנוך מידי ההסתדרות הציונית פירושה: נטילת נשמתה, המעטת דמותה והחלשת כח השפעתה על הגולה כולה. העברת החנוך לכנסת-ישראל עשויה לחתור חתירה תחת היסודות של ביה"ס הלאומי, שהמורים, בעזרת ההסתדרות הציונית, הניחום בימי מלחמת הלשון - ומאז ועד היום הרבו שניהם עמל וקרבנות כדי לבצרם.</p>
+         <p>צבור המורים בחששו לרגלי החנוך ולעתידו, וברצותו לחזק את כנסת ישראל ולבססה - יעמד איתן בדרישתו להשאיר את החנוך ברשות ההסתדרות הציונית, והלחם ילחם בכל האמצעים אשר בידו נגד מסירת החנוך לכנסת-ישראל באיזו צורה ובאיזו מדה שהן.</p>
+         <p>הצעת מסירת החנוך מעוררת התנגדות מיוחדת מצד צבור המורים, הואיל והיא לא באה לשם שפור החנוך ושכלולו, כי אם כאמצעי להשגת מטרות אחרות.</p>
+         <p>מחובתכם ומחובת כל הדואגים לגורלם של בתי-ספרנו ולחנוך להתקומם נגד ההצעה לשנוי בעלים ולהלחם בה עד רדתה לגמרי מעל הפרק.</p>
+         <p>הנקלה היא להוציא את החנוך מידי ההסתדרות הציונית, אולם מן הנמנע יהיה להחזירו גם אם הנסיון יכריח לכך.</p>
+         <p>צירי אספת הנבחרים! הסירו את שאלת העברת החנוך מעל סדר-יומכם! אחרת - אתם קובעים את גורל החנוך ואת גורל הכנסת!</p>
+         <closer>
+         מרכז הסתדרות המורים בארץ-ישראל.
+            <dateline>
+               <date>כ"ב שבט תרצ"א</date>
+               <name type="place">ירושלים</name>
+            </dateline>
+         
+         דפוס "הספר", ירושלים
+      </closer>
+</body>
+  </text>
+</TEI>

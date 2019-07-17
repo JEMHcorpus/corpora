@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_minimal.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_minimal.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-stylesheet type="text/css" href="../Oxygen%20XML%20Editor%2016/frameworks/tei/xml/tei/css/tei.css"?>
+<?xml-stylesheet type="text/css" href="nli-transcription.css"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>משרדי העיריה פתוחים לקהל</title>
+            <author>אבא חושי ראש העיריה</author>
+            <respStmt>
+               <name>Mandel Scholion Hebrew Revival Research Group</name>
+               <resp>Transcription of digital file</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <authority>JEMH</authority>
+            <availability><licence target="https://creativecommons.org/licenses/by/4.0/">CC-BY 4.0</licence></availability>
+         </publicationStmt>
+         <sourceDesc xml:lang="Hebrew">
+	<msDesc>
+		<msPart>
+			<msIdentifier>
+				<repository>National Library of Israel</repository>
+				<collection>"Time Travel" Ephemera Collection</collection>
+				<idno>700173968</idno>
+			</msIdentifier>
+		</msPart>
+	</msDesc>
+            <bibl>
+               <date when="1951-04-10"></date>
+               <distributor>ארכיון העיר חיפה</distributor>
+               <pubPlace>חיפה</pubPlace>
+            </bibl>
+         </sourceDesc>
+                  </fileDesc>
+      <revisionDesc>
+         <change>
+            <date>2017-08-09</date>
+            <name>Jerusalem corpus of Emergent Modern Hebrew (JEMH) staff</name>
+            <note>Created the initial version of the content in TEI-XML</note>
+         </change>
+      </revisionDesc>
+
+  </teiHeader>
+  <text>
+      <body>
+         <head>הודעה מס' 51|39</head>
+         <head>עירית חיפה</head>
+         <head>הודעה לקהל!</head>
+         <opener>אזרחים נכבדים,</opener>
+         <p>כדי להקל על אזרחי העיר לסדר את עניניהם במשרדי העיריה בלי לבטל שעות עבודה, החליטה הנהלת העיריה בהסכם עם ועד הפקידים להחזיק את משרדי העיריה פתוחים לקהל שלש פעמים בשבוע אחרי-הצהרים בימים א', ג', ה' בשעות 16.30 - 18.30 פרט לימי חגים רשמיים, החל מיום שלישי, ד' ניסן תשי"א (10.4.51).</p>
+         <p>בשעות אחרי-הצהרים לא יתקבלו אנשים הזקוקים למשרדי העיריה לרגל עבודתם המקצועית כגון: אדריכלים, מהנדסים, עורכי-דין, שרברבים וכו'. אלה מהקהל אשר יש ביכולתם לסדר את עניניהם בשעות הקבלה לפני-הצהרים מתבקשים לעשות זאת כדי לתת אפשרות להקדיש את שעות הקבלה אחרי הצהרים רק לאלה אשר לרגל עבודתם אינם יכולים לבקר בשעות הבוקר.</p>
+         <closer>
+            <dateline>
+               <date>ד' ניסן תשי"א  10.4.51</date>
+            </dateline>
+            <signed>
+               <name type="person">אבא חושי</name>
+            </signed>
+            ראש העיריה
+      </closer>
+</body>
+  </text>
+</TEI>

@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_minimal.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_minimal.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-stylesheet type="text/css" href="../Oxygen%20XML%20Editor%2016/frameworks/tei/xml/tei/css/tei.css"?>
+<?xml-stylesheet type="text/css" href="nli-transcription.css"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>מס הערכה</title>
+            <author>ועד העדה העברית חיפה</author>
+            <respStmt>
+               <name>Mandel Scholion Hebrew Revival Research Group</name>
+               <resp>Transcription of digital file</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <authority>JEMH</authority>
+            <availability><licence target="https://creativecommons.org/licenses/by/4.0/">CC-BY 4.0</licence></availability>
+         </publicationStmt>
+         <sourceDesc xml:lang="Hebrew">
+	<msDesc>
+		<msPart>
+			<msIdentifier>
+				<repository>National Library of Israel</repository>
+				<collection>"Time Travel" Ephemera Collection</collection>
+				<idno>700174306</idno>
+			</msIdentifier>
+		</msPart>
+	</msDesc>
+            <bibl>
+               <date when="1925-12"></date>
+               <distributor>ארכיון העיר חיפה</distributor>
+               <pubPlace>חיפה</pubPlace>
+            </bibl>
+         </sourceDesc>
+                  </fileDesc>
+      <revisionDesc>
+         <change>
+            <date>2017-08-09</date>
+            <name>Jerusalem corpus of Emergent Modern Hebrew (JEMH) staff</name>
+            <note>Created the initial version of the content in TEI-XML</note>
+         </change>
+      </revisionDesc>
+
+  </teiHeader>
+  <text>
+      <body>
+         <opener>מכתב חוזר אל בני הקהלה!</opener>
+         <p>קהלת חיפה יצאה מחתוליה ומעיר מצער נהיתה ל"עיר ואם בישראל", הודות להעליה הרצויה של שנת תרפ"ה הגיע מספר בני ישראל אשר בחיפה, לשנים עשר אלף והמספר הולך וגדול.</p>
+         <p>כאדם הראשון ביצירתו שמכל העולם כלו הצבר עפרו, כך נוצר והתהוה הישוב בחיפה. שבי גלה מארבע כנפות התבל עם יסוד מוצק של ילידי ובני הארץ אלה הם התרכבת של העדה העברית בחיפה. משוני הגונים ומופרזי הדרישות שצרכיהם מרובים לפי מעמדיהם והשקפותיהם, לפי חנוכם והרגלם.</p>
+         <p>האפק הרחב של העבודה בשדה הקהלה החיפאית נשקף לפני חברי ועד-העדה מיד בהכנסם בראשית תרפ"ו לעבודתם לשרות הצבור. חדורי אחריות ורעיון הפעולה לפי ערך הזמן וחשיבות המקום הציבו חברי הועד את גבול התקציב ממאות לאלפים.</p>
+         <p>לאחרי סדור הענינים ההנהלתיים של הועד ושל "משרד הרבנות" בהשתדלו להיטיב את צורתם החצונית ע"י חלוף הדירה ליותר מתאימה וכדומה, נגש הועד לעבודות יותר רחבות ונכנס בעול הענינים החיוניים של העדה.</p>
+         <p>לרגלי רבוי הישוב גדלו ממילא הוצאות הועד לתמיכה, עזרה רפואית וכדומה. הועד אחז בעבודות פרודוקטיביות כאלה שידי הועדים הקודמים לא הגיעו עדיהן.</p>
+         <p>בקשר עם שאלת החנוך שעמדה בתקפה בכל הארץ אשר הועד תקציב של למעלה מאלף לימ. לטובת בתי ספר, גני ילדים, מטבחים ומוסדות תרבותיים. הועד קבל עליו יחד עם ההסתדרות נשי "הדסה" להקים בית חולים עברי בחיפה שבנינו יעלה כעשרת אלפים ל"מ. הועד קבע בתקציבו מעכשו סכום חדשי מסוים לטובת הבנין.</p>
+         <p>הועד משתתף בעזרה למחוסרי עבודה שמספרם התחיל להיות מורגש בהזמן האחרון. הועד עוזר כמעט לכל מוסדות הצדקה, החנוך והתרבות שבעיר. הועד דואג לכל הענינים הצבוריים הכלליים של העדה ומשמש בכל מקרה ומקרה לכח רפרזנטיבי של היהדות החיפאית.</p>
+         <p>כל זה הגדיל את התקציב השנתי של הועד עד ששת-שבעת אלפים ל"מ.</p>
+         <p>הועד נכנס בעול זה, למרות שההכנסות העכשויות שלו לא מרשות את זה, עם הבטחון הגמור שהצבור החיפאי יבוא לעזרתו. הצבור צריך להיות נותן ומקבל. כי אם "אין קמח אין תורה".</p>
+         <p>ההכנסות של מס הבשר, מס אשורים וכדומה לא מספיקות להועד את צרכיו המרובים ותקותו מבוססה כעת בעיקר על התרומות הישרות של בני הקהלה על מס ההערכה.</p>
+         <p>כל יהודי ויהודי מתושבי חיפה, כחדש כישן, צריך לעזר בפעל לקיום ושכלול העדה. אחד המרבה ואחד הממעיט, איש לפי אמצעיו ואפשריותיו, בל יעדר אף תושב מרשימת משלמי ההערכה.</p>
+         <p>הועד עשה את הנסיון והעמיס על עצמו הוצאות מרובות, הוצאות הכרחיות לטובת הקהלה לכל ענפי צרכיה המרובים. הועד רוצה למלאות את חובתו, תנו לו את האפשרות לכך. מלאו גם אתם, יהודי חיפה, את חובתכם להקהלה וסלקו בהרחבת הלב את סכום מס ההערכה שהוטל על כל אחד ואחד מכם. בידכם הוא הדבר להרים את ערך הקהלה, לבססה ולחזקה. הקהלה היא אבר מהגוף הכללי של ביתנו הלאומי. באי השתתפותכם לטובת הקהלה, את נפש "הבית" אתם קובעים.</p>
+         <p>הבו גדל לתקופה ולמקום!</p>
+         <closer>
+בברכת הבנין ועד העדה העברית חיפה.
+            <dateline>
+               <date when="1925-12">כסלו תרפ"ו</date>
+               <name type="place">חיפה</name>
+            </dateline>
+         
+      </closer>
+</body>
+  </text>
+</TEI>

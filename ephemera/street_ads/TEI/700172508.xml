@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_minimal.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_minimal.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-stylesheet type="text/css" href="../Oxygen%20XML%20Editor%2016/frameworks/tei/xml/tei/css/tei.css"?>
+<?xml-stylesheet type="text/css" href="nli-transcription.css"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>הכרטיסים המוזלים להצגות הקרובות</title>
+            <author>מועצת פועלי חיפה - ועדת התרבות</author>
+            <respStmt>
+               <name>Mandel Scholion Hebrew Revival Research Group</name>
+               <resp>Transcription of digital file</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <authority>JEMH</authority>
+            <availability><licence target="https://creativecommons.org/licenses/by/4.0/">CC-BY 4.0</licence></availability>
+         </publicationStmt>
+         <sourceDesc xml:lang="Hebrew">
+	<msDesc>
+		<msPart>
+			<msIdentifier>
+				<repository>National Library of Israel</repository>
+				<collection>"Time Travel" Ephemera Collection</collection>
+				<idno>700172508</idno>
+			</msIdentifier>
+		</msPart>
+	</msDesc>
+            <bibl>
+               <date when="1953-10-22"></date>
+               <distributor>ארכיון העיר חיפה</distributor>
+               <pubPlace>חיפה</pubPlace>
+            </bibl>
+         </sourceDesc>
+                  </fileDesc>
+      <revisionDesc>
+         <change>
+            <date>2017-08-09</date>
+            <name>Jerusalem corpus of Emergent Modern Hebrew (JEMH) staff</name>
+            <note>Created the initial version of the content in TEI-XML</note>
+         </change>
+      </revisionDesc>
+
+  </teiHeader>
+  <text>
+      <body>
+         <head>ההסתדרות הכללית של העובדים העברים בא"י</head>
+         <head>מועצת פועלי חיפה - ועדת התרבות</head>
+         תח/111/4/1
+         <opener>לועדי הפועלים והעובדים שלום!</opener>
+         <opener>ח.נ.,</opener>
+         <p>אנו מביאים לידיעתכם את מחירי הכרטיסים המוזלים במכירה מרוכזת ע"י ועדי הפועלים והעובדים (5 כרטיסים, לכל הפחות, לכל מקום עבודה) להצגות  הקרובות.</p>
+         <p>30.10.53 ב"אורה" הבלט התנ'כי הירושלמי בהדרכת רנה ניקובה (35 משתתפים)  ב-3 אחר הצהרים הצגה לנוער. מחיר הכרטיסים מ-300 עד 600 פר'  ב-8.30 בערב הצגה למבוגרים. מחיר הכרטיס 700 פר' בשורות 16-14 באולם, 4-3 ביציע.  הבלט התנ'כי הירושלמי הופיע בהצלחה מרובה בתערוכת "כבוש-השממה", הוזמן לסבוב בארה"ב וההופעה בחיפה היא האחרונה בארץ לפני צאת הלהקה לסבוב.</p>
+         <p>5.11.53 ב"אורה", התיאטרון הקאמרי "תעלולי נאסר א-דין" הכרטיסים המוזלים כבר אזלו. נשאר מספר מצומצם של כרטיסים במחירים הרגילים של ועדת התרבות. להשיג ב"פנת הספר" וב"ביתנו".</p>
+         <p>12.11.53 ב"אמפיתיאטרון" במסגרת "תלם" מציג "האהל" יעקב ורחל בשעה 7.30 בערב.</p>
+         <p>13.11.53 ב"אורה", "אהל" - "החולה המדומה" של מולייר. מחיר הכרטיס 700 פר' בשורות 16-14 באולם, 4-3 ביציע.</p>
+         <p>27.11.53 ב"אורה", תיאטרון "זירה" - "בית האמיצים" מחיר הכרטיס 650 פר' בשורות 16-14 אולם, 1-4 יציע.</p>
+         <p>א. לרגל הבקוש הרב לכרטיסים מוזלים אנו מודיעים שכל הקודם זכה.</p>
+         <p>ב. ועדי הפועלים והעובדים המוכנים לחתום על מנויים במחירים המוזלים להצגות ליל שבת של ועדת התרבות ולהבטיח כרטיסים לחברים במקום עבודתם, מתבקשים להתקשר אתנו בכל יום פרט ליום שלישי בשבוע בשעות:- 5.30 - 4 אחר הצהרים חדר 97.</p>
+         <closer>
+בברכת חברים, ועדת התרבות.
+            <dateline>
+               <date>י'ג חשון תשי"ד  22.10.53</date>
+            </dateline>
+         
+         ינ/רא.
+      </closer>
+</body>
+  </text>
+</TEI>

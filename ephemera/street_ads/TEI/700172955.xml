@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_minimal.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_minimal.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-stylesheet type="text/css" href="../Oxygen%20XML%20Editor%2016/frameworks/tei/xml/tei/css/tei.css"?>
+<?xml-stylesheet type="text/css" href="nli-transcription.css"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>צו לשמירה על מצרכים חיוניים בתחומי חיפה רבתי</title>
+            <author>ועדת המצב שע"י ועד הקהלה העברית בחיפה, המחלקה הכלכלית</author>
+            <respStmt>
+               <name>Mandel Scholion Hebrew Revival Research Group</name>
+               <resp>Transcription of digital file</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <authority>JEMH</authority>
+            <availability><licence target="https://creativecommons.org/licenses/by/4.0/">CC-BY 4.0</licence></availability>
+         </publicationStmt>
+         <sourceDesc xml:lang="Hebrew">
+	<msDesc>
+		<msPart>
+			<msIdentifier>
+				<repository>National Library of Israel</repository>
+				<collection>"Time Travel" Ephemera Collection</collection>
+				<idno>700172955</idno>
+			</msIdentifier>
+		</msPart>
+	</msDesc>
+            <bibl>
+               <date when="1948-04"></date>
+               <distributor>ארכיון העיר חיפה</distributor>
+               <pubPlace>חיפה</pubPlace>
+            </bibl>
+         </sourceDesc>
+                  </fileDesc>
+      <revisionDesc>
+         <change>
+            <date>2017-08-09</date>
+            <name>Jerusalem corpus of Emergent Modern Hebrew (JEMH) staff</name>
+            <note>Created the initial version of the content in TEI-XML</note>
+         </change>
+      </revisionDesc>
+
+  </teiHeader>
+  <text>
+      <body>
+         <head>תקנות להבטחת פקוח על מצרכים חיוניים</head>
+         <head>צו לשמירה על מצרכים חיוניים בתחומי חיפה רבתי</head>
+         <p>בתוקף הסמכויות המסורות בסעיף 4 של התקנה להבטחת פקוח על מצרכים חיוניים ניתן בזה ע"י המחלקה הכלכלית של ועדת המצב שעל יד ועד הקהלה העברית בחיפה הצו דלקמן:</p>
+         <p>1. הצו הזה יקרא "צו לשמירה על מצרכים חיוניים בתחומי חיפה רבתי".</p>
+         <p>2. אסור למכור או להעביר מצרכים חיוניים מתחומי חיפה רבתי לכל מקום אחר בארץ ישראל או מחוץ לארץ ישראל בלי רשיון בכתב מאת המחלקה הכלכלית של ועדת המצב שע"י ועד הקהלה העברית בחיפה. חיפה רבתי פרושה השטח של בנין ערים של חיפה והשטח של בנין ערים של המועצה המקומית כפר אתא.</p>
+         <p>3. כל אדם שלרשותו חזקתו או פקוחו נמצא כל מצרך חיוני ושהגיע אליו מכל מקום אחר מחוץ לתחומי חיפה רבתי הן אם מקום זה בארץ או מחוץ לארץ ישראל חייב להודיע מיד אחרי שמצרך כזה הגיע לחזקתו, פקוחו או רשותו בכתב למחלקה הכלכלית של ועדת המצב שע"י ועד הקהלה העברית בחיפה את הפרטים הבאים.  א) כמות המצרך החיוני והמקור ממנו הגיע אליו המצרך.  ב) מחיר הקניה וכל ההוצאות שהוצאו על ידו בקשר עם המצרך החיוני.  ג) מחיר הממכר המוצע על ידו.</p>
+         <p>4. מחיר הממכר של המצרכים החיוניים האלה יקבע ע"י המחלקה הכלכלית של ועדת המצב שע"י ועד הקהלה העברית בחיפה. אסור לכל אדם למכור כל מצרך חיוני כזה לפני שמחירו נקבע כנ"ל ובמחיר העולה על המחיר שנקבע אלא אם המחלקה הכלכלית של ועדת המצב שע"י ועד הקהלה העברית בחיפה נמנעה לקבוע מחיר כנ"ל במשך 3 ימים מהיום בו קבלה את כל האינפורמציה הקבועה בסעיף 3 דלעיל, או כל אינפורמציה נוספת שתדרש מאת האדם שבחזקתו, רשותו או פקוחו נמצא המצרך הנ"ל. אסור לכל אדם למכור את המצרכים החיוניים האלה במכירה אחת או במשך זמן קצוב, הן במסחר הסיטוני והן במסחר הקמעוני, אלא בתנאים שיקבעו מדי פעם לפעם ע"י המחלקה הכלכלית של ועדת המצב שע"י ועד הקהלה העברית בחיפה, אם יקבעו.</p>
+         <p>5. כל אדם העובר על הוראות צו זה יהיה צפוי לענשים הקבועים בתקנות למניעת ספסרות מס' 3 או כל תקנות אחרות אשר תבואנה במקומן.</p>
+         <p>6. צו זה יכנס לתקפו ביום 11.4.1948.</p>
+         <closer>
+ועדת המצב שע"י ועד הקהלה העברית בחיפה
+המחלקה הכלכלית
+      </closer>
+</body>
+  </text>
+</TEI>

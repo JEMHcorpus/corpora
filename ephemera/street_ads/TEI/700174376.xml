@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_minimal.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_minimal.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-stylesheet type="text/css" href="../Oxygen%20XML%20Editor%2016/frameworks/tei/xml/tei/css/tei.css"?>
+<?xml-stylesheet type="text/css" href="nli-transcription.css"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>גילוי דעת - קצבים</title>
+            <author>ועד הקהלה בחיפה</author>
+            <respStmt>
+               <name>Mandel Scholion Hebrew Revival Research Group</name>
+               <resp>Transcription of digital file</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <authority>JEMH</authority>
+            <availability><licence target="https://creativecommons.org/licenses/by/4.0/">CC-BY 4.0</licence></availability>
+         </publicationStmt>
+         <sourceDesc xml:lang="Hebrew">
+	<msDesc>
+		<msPart>
+			<msIdentifier>
+				<repository>National Library of Israel</repository>
+				<collection>"Time Travel" Ephemera Collection</collection>
+				<idno>700174376</idno>
+			</msIdentifier>
+		</msPart>
+	</msDesc>
+            <bibl>
+               <date when="1932-09-09"></date>
+               <distributor>ארכיון העיר חיפה</distributor>
+               <pubPlace>חיפה</pubPlace>
+            </bibl>
+         </sourceDesc>
+                  </fileDesc>
+      <revisionDesc>
+         <change>
+            <date>2017-08-09</date>
+            <name>Jerusalem corpus of Emergent Modern Hebrew (JEMH) staff</name>
+            <note>Created the initial version of the content in TEI-XML</note>
+         </change>
+      </revisionDesc>
+
+  </teiHeader>
+  <text>
+      <body>
+         <head>גלוי דעת!</head>
+         <p>רוב הקצבים המקומיים התאחדו להרוס את יסודות הכשרות בעיר וארגון הקהלה והביאו שוחט עופות, פורץ גדר מנוה-שאנן, וסדרו את השחיטה על ידו בלי כל השגחה שהיא מצד הרבנות ומבלי לשלם כל מס לועד הקהלה. זה מכמה שנים שחבר קצבים השתלט על שוק הבשר המקומי, עושה בו כרצונו ואינו נותן לקצבים אחרים להופיע בשוק החיפואי.</p>
+         <p>אין ברצוננו לגולל בגלוי-דעת את כל הפרשה הארוכה של מאמצי הועד לשבור את כח השתלטות זו. מספיק אם נציין את העובדה האחרונה שבגלל זה שהועד נתן רשיון לקצבים אחדים שהיו באגודתם ומפני איזה סכסוכים פנימיים עזבו את האגודה. הרשו להם הקצבים להתחיל במלחמה כלפי הועד, הורסים את יסודות ארגון הדת, הלאום, מכניסים הפקרות בכל סדור השחיטה ומעמידים בסכנה את קיום כל מוסדות הכנסת. כשמועצת השחיטה פנתה להקצבים הנ"ל להוריד 5 מא"י מהאוקיה בשר, ז.א. במקום 30 מא"י למכור ב-25 מא"י האוקיה, הם סרבו בהחלט בנמקם שאין להם כל יכולת לזה, ועכשיו בשביל לשבור את הקצבים שקבלו מאתנו רשיון, ולהשתלט שוב על השוק, יש להם האפשרות למכור בשר ב-10 מא"י האוקיה, ולא מתבישים להשתמש באחיזת עינים ולנמק ההורדה בזה, שהם לא משלמים מס להועד, כאלו לא הוכח להצבור העברי שכל הוצאות כשרות עולות מיל אחד ובכל אופן לא יותר משני מיל על כל אוקיה.</p>
+         <p>הפעם החליט הועד לשים קץ להשתלטות זו ע"י כל האמצעים שבידו ולקבוע פעם את הפרינציפ של שחיטה חפשית. אולם גודל המלחמה הזאת נמצא בידי הצבור עצמו! אם ידע הצבור לעמוד לצד הועד ולא יגרר אחרי ההוזלה הזמנית שהחבר הנ"ל משתמש בה, למטרת הבטחת שלטונו להבא, ובשביל לקבל אח"כ כפלי כפלים, אז - הנצחון הנו בטוח! ולכן כל מי שרוצה בקיום הועד ומוסדות הצבוריים שלנו, בעיר. כל מי שרוצה שבשוק חיפה יקבע פעם מחיר נורמלי על בשר. כל מי שאינו רוצה להגאל בבשר שהוא כנבלה וטרפה בלי כל השגחה מהרבנות יקנה בשר רק באיטליזים המפורטים מטה שנמצאים ברשות הרבנות והקהלה ושבכניסתם במקום גלוי נמצאת תעודת הכשר של לשכת הרבנות. על יד כל האיטליזים שנמצאים ברשותנו נמצא שלט שעליו כתוב 'בשר כשר מטעם לשכת הרבנות וועד הקהלה'.</p>
+         <p>אנו פונים אל כל הצבור העברי בחיפה, אל תלכו שולל! חזקו ואמצו את הועד במלחמתו - מלחמתכם נגד הנצול וע"י זה תחזקו את הקהלה שבבסוסה וקיומה כלכם מעונינים. </p>
+         <p>האטליזים שנמצאים כיום תחת השגחתנו: (רשימה נוספת תופיע בזמנה) 1. יגולינסקי יהודה, הרצליה, בית גולדשטין. 2. יעקב פרח, רחוב הרצל, בית חבובא. 3. שמעון פרידלנדר, נחלה בית נימן. 4. ברחוב השוק ע"י השוחט שלמה רביצוב ובימ"ס בנימין חסן. </p>
+         <closer>
+            ועד הקהלה בחיפה.
+            <dateline>
+               <date when="1932-09-09">ח' אלול, תרצ"ב</date>.
+            </dateline>
+            דפוס "אמנות" חיפה, טלפון 512 
+      </closer>
+</body>
+  </text>
+</TEI>

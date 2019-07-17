@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_minimal.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_minimal.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-stylesheet type="text/css" href="../Oxygen%20XML%20Editor%2016/frameworks/tei/xml/tei/css/tei.css"?>
+<?xml-stylesheet type="text/css" href="nli-transcription.css"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>"הלל שלם"</title>
+            <author>הרבנות הראשית חיפה</author>
+            <respStmt>
+               <name>Mandel Scholion Hebrew Revival Research Group</name>
+               <resp>Transcription of digital file</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <authority>JEMH</authority>
+            <availability><licence target="https://creativecommons.org/licenses/by/4.0/">CC-BY 4.0</licence></availability>
+         </publicationStmt>
+         <sourceDesc xml:lang="Hebrew">
+	<msDesc>
+		<msPart>
+			<msIdentifier>
+				<repository>National Library of Israel</repository>
+				<collection>"Time Travel" Ephemera Collection</collection>
+				<idno>700172946</idno>
+			</msIdentifier>
+		</msPart>
+	</msDesc>
+            <bibl>
+               <date when="1947-12-04"></date>
+               <distributor>ארכיון העיר חיפה</distributor>
+               <pubPlace>חיפה</pubPlace>
+            </bibl>
+         </sourceDesc>
+                  </fileDesc>
+      <revisionDesc>
+         <change>
+            <date>2017-08-09</date>
+            <name>Jerusalem corpus of Emergent Modern Hebrew (JEMH) staff</name>
+            <note>Created the initial version of the content in TEI-XML</note>
+         </change>
+      </revisionDesc>
+
+  </teiHeader>
+  <text>
+      <body>
+         <note>ב"ה</note>
+         <head>מודעה</head>
+         <p>לפי הוראת הרבנות הראשית לארץ ישראל הננו מודיעים, כי בשבת זו הבעל"ט, פרשת וישב, יש לאמור בכל בתי הכנסת "הלל שלם" בלי ברכה, ולתת שבח והודיה לשוכן בציון, שהעיר את רוב גדולי אומות העולם להכיר בצדקת דרישתנו להקמת מדינה יהודית בארצנו הקדושה.</p>
+         <p>בכל בתי הכנסת ינאמו על ערך השעה.</p>
+         <p>וה' יקשיב לתפלתנו ועינינו תחזינה בשוב ה' את שבות עמו בבוא לציון גואל.</p>
+         <closer>
+הרבנות הראשית חיפה
+            <dateline>
+               <date>כ"א כסלו תש"ח</date>
+            </dateline>
+         
+      </closer>
+</body>
+  </text>
+</TEI>

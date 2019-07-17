@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_minimal.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_minimal.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-stylesheet type="text/css" href="../Oxygen%20XML%20Editor%2016/frameworks/tei/xml/tei/css/tei.css"?>
+<?xml-stylesheet type="text/css" href="nli-transcription.css"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>תערוכת הפרחים הבינלאומית</title>
+            <respStmt>
+               <name>Mandel Scholion Hebrew Revival Research Group</name>
+               <resp>Transcription of digital file</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <authority>JEMH</authority>
+            <availability><licence target="https://creativecommons.org/licenses/by/4.0/">CC-BY 4.0</licence></availability>
+         </publicationStmt>
+         <sourceDesc xml:lang="Hebrew">
+	<msDesc>
+		<msPart>
+			<msIdentifier>
+				<repository>National Library of Israel</repository>
+				<collection>"Time Travel" Ephemera Collection</collection>
+				<idno>700172628</idno>
+			</msIdentifier>
+		</msPart>
+	</msDesc>
+            <bibl>
+               <date when="1958-04"></date>
+               <distributor>ארכיון העיר חיפה</distributor>
+               <pubPlace>חיפה</pubPlace>
+            </bibl>
+         </sourceDesc>
+                  </fileDesc>
+      <revisionDesc>
+         <change>
+            <date>2017-08-09</date>
+            <name>Jerusalem corpus of Emergent Modern Hebrew (JEMH) staff</name>
+            <note>Created the initial version of the content in TEI-XML</note>
+         </change>
+      </revisionDesc>
+
+  </teiHeader>
+  <text>
+      <body>
+         <head>תערוכת הפרחים הבינלאומית</head>
+         <p>חיפה 1.5.1958-22.1.1958 בגן יפה נוף (הכניסה משד' הנשיא 81)</p>
+         <p>למעלה מ-1000 זנים ב-12 מדורים  צמחי נוי, פרחי קטיף, סייפנים צפורן, וורדים, צמחי בר, צמחי מים, צמחי בית.</p>
+         <p>ביתן פרחי חו"ל - משלוחי פרחים מצרפת, הולנד, ארה"ב, איטליה, אנגליה, ארגנטינה.</p>
+         <p>מצפה נוף וכוכבים (אובסרבטוריום)</p>
+         <p>האגרטל היפה ביותר  תחרות בתי החרושת לקרמיקה</p>
+         <p>אלבום פרחי הכרמל, אלבום חיפה  בהנחה נכרת</p>
+         <p>3 הצגות בלט לילדים  בשעה 15.00, בימים 24, 25 ו-27 לאפריל</p>
+         <p>ערב-ערב: - תכניות בדור והופעות אמנים</p>
+         <p>נשף העשור ביום ד' 30.4 בשעה 20.30</p>
+         <p>התערוכה פתוחה יום-יום משעה 10 בבקר עד חצות. ביום ו' עד 18, בשבת מ-18.</p>
+      </body>
+  </text>
+</TEI>

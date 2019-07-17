@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_minimal.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_minimal.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-stylesheet type="text/css" href="../Oxygen%20XML%20Editor%2016/frameworks/tei/xml/tei/css/tei.css"?>
+<?xml-stylesheet type="text/css" href="nli-transcription.css"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>שבוע הסופר והספר העברי</title>
+            <author>מועצת פועלי חיפה - ועדת התרבות</author>
+            <respStmt>
+               <name>Mandel Scholion Hebrew Revival Research Group</name>
+               <resp>Transcription of digital file</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <authority>JEMH</authority>
+            <availability><licence target="https://creativecommons.org/licenses/by/4.0/">CC-BY 4.0</licence></availability>
+         </publicationStmt>
+         <sourceDesc xml:lang="Hebrew">
+	<msDesc>
+		<msPart>
+			<msIdentifier>
+				<repository>National Library of Israel</repository>
+				<collection>"Time Travel" Ephemera Collection</collection>
+				<idno>700172501</idno>
+			</msIdentifier>
+		</msPart>
+	</msDesc>
+            <bibl>
+               <date when="1954-01-24"></date>
+               <distributor>ארכיון העיר חיפה</distributor>
+               <pubPlace>חיפה</pubPlace>
+            </bibl>
+         </sourceDesc>
+                  </fileDesc>
+      <revisionDesc>
+         <change>
+            <date>2017-08-09</date>
+            <name>Jerusalem corpus of Emergent Modern Hebrew (JEMH) staff</name>
+            <note>Created the initial version of the content in TEI-XML</note>
+         </change>
+      </revisionDesc>
+
+  </teiHeader>
+  <text>
+      <body>
+         <head>ההסתדרות הכללית של העובדים העברים בא"י</head>
+         <head>מועצת פועלי חיפה</head>
+         <head>ועדת התרבות</head>
+         תח/2/3/6
+         <opener>לכבוד הח' ____</opener>
+         <opener>ח.נ.,</opener>
+         <p>ועדת התרבות של מועצת פועלי חיפה מארגנת בימים: ט'ז באדר א' - כ'ה באדר א', תשי"ד - 28.2.54 - 19.2.54 שבוע הסופר והספר העברי בחסות שר החנוך והתרבות, פרופ' ב. דינור</p>
+         <p>בימים אלו יפגשו סופרי ומשוררי ישראל עם פועלים ועובדים באסיפות, במסיבות, ובמקומות עבודה, ירצו וישוחחו על יצירותיהם. בשבת, י'ז באדר א', תשי"ד - 20.2.54 תפתח ב"ביתנו" תערוכת הספר העברי שתהיה פתוחה לקהל בכל יום בשעות: 9 בבקר עד 8 בערב. ביום א', י'ח באדר א' תשי"ד - 21.2.54 תצא תערוכה ניידת של הספר העברי לשכונות ולמקומות העבודה.</p>
+         <p>במסגרת שבוע הסופר והספר העברי נערוך שלושה כנוסים ב"אורה"</p>
+         <p>הכנוס הראשון ביום ששי, ט'ז באדר א', תשי"ד - 19.2.54, בשעה 8.30 בערב: פתיחה חגיגית של שבוע הסופר והספר העברי במעמד אנשי ממשלה, אנשי צבור, ובאי כח מוסדות תרבות. י. למדן ירצה על הנושא: לעצוב דמותנו התרבותית. הפתיחה החגיגית תסתיים בתכנית אמנותית.</p>
+         <p>הכנוס השני ביום ששי, כ'ג באדר א', תשי"ד - 26.2.54 בשעה 8.30 בערב  הרצאות: י. בורלא: טיבה של ספרות מולדת  א. שלונסקי: שלושים שנות ספרות עברית חדשה</p>
+         <p>הכנוס השלישי בשבת, כ'ד באדר א', תשי"ד - 27.2.54, בשעה 11 בבקר הרצאת שר החנוך והתרבות, פרופ' ב. דינור: יעודה של ספרותנו וספרות של יעוד בישראל בדורנו.</p>
+         <p>דמי כניסה לכסוי ההוצאות לכל הכנוסים -.1 ל"י. לבקשת ותיקי ההסתדרות אנו נותנים זכות בכורה לרכישת המנוי לותיקים עד יום ששי 5 בפברואר 1954.</p>
+         <p>כרטיסים להשיג אצל הח' רחל, בבית הפועלים, חדר 93, בשעות: 12 - 8 לפני הצהרים, 6 - 4 אחר הצהרים. וכל הקודם זכה</p>
+         <closer>
+בברכת חברים, ועדת התרבות.
+            <dateline>
+               <date>כ' שבט תשי"ד  24.1.54</date>
+            </dateline>
+         
+         ינ/רא.
+      </closer>
+</body>
+  </text>
+</TEI>

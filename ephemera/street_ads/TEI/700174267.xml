@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_minimal.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_minimal.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-stylesheet type="text/css" href="../Oxygen%20XML%20Editor%2016/frameworks/tei/xml/tei/css/tei.css"?>
+<?xml-stylesheet type="text/css" href="nli-transcription.css"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>מגבית כללית</title>
+            <author>ועד קהלת חיפה</author>
+            <respStmt>
+               <name>Mandel Scholion Hebrew Revival Research Group</name>
+               <resp>Transcription of digital file</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <authority>JEMH</authority>
+            <availability><licence target="https://creativecommons.org/licenses/by/4.0/">CC-BY 4.0</licence></availability>
+         </publicationStmt>
+         <sourceDesc xml:lang="Hebrew">
+	<msDesc>
+		<msPart>
+			<msIdentifier>
+				<repository>National Library of Israel</repository>
+				<collection>"Time Travel" Ephemera Collection</collection>
+				<idno>700174267</idno>
+			</msIdentifier>
+		</msPart>
+	</msDesc>
+            <bibl>
+               <date when="1928-11"></date>
+               <distributor>ארכיון העיר חיפה</distributor>
+               <pubPlace>חיפה</pubPlace>
+            </bibl>
+         </sourceDesc>
+                  </fileDesc>
+      <revisionDesc>
+         <change>
+            <date>2017-08-09</date>
+            <name>Jerusalem corpus of Emergent Modern Hebrew (JEMH) staff</name>
+            <note>Created the initial version of the content in TEI-XML</note>
+         </change>
+      </revisionDesc>
+
+  </teiHeader>
+  <text>
+      <body>
+         <head>מגבית כללית לטובת ועד הקהלה העברית בשביל החנוך וכל צרכי הצבור בחיפה לשנת תרפ"ט.</head>
+         <opener>יהודי חיפה!</opener>
+         <p>ידוע לכל תושבינו שההנהלה הציונית משתפת את הישוב העברי בהחזקת בתי הספר וגני הילדים. בשביל להבטיח את פתיחת בתי הספר וגני הילדים בחיפה וקיומם הוכרח ועד הקהלה להתחיב כלפי ההנהלה הציונית בסך של ארבע מאות לא"י (400 לא"י) לשנת תרפ"ט במקום מאתים וחמשים לא"י (250 לא"י) של השנה העברה, היות שועד הדר הכרמל אינו משתתף בהתחיבות כלפי ההנהלה הציונית בשנה זו לטובת החנוך. (בשנה העברה השתתף גם ועד הדר-הכרמל ב-200 לא"י.)</p>
+         <p>מלבד ארבעת מאות לא"י ישנו צורך לתמוך בגני הילדים העממיים ונצח ישראל, שההנהלה הציונית רק תומכת בהם ולא מחזיקה אותם על חשבונה.</p>
+         <p>על קהלתנו מוטלת החובה מלבד צרכי החנוך לספק את כל צרכי צבור שבעיר חיפה כמו תמיכה למוסדות ועניים, עזרה רפואית רפרזנטציה, עניני דת וכו'.</p>
+         <p>בקשר עם כל השאלות הנ"ל הוחלט בישיבת הועד ועסקני-צבור שבחיפה להכריז על מגבית כללית לטובת ועד הקהלה בשביל כל צרכי הצבור ביחד עם מס החנוך לשנת תרפ"ט ומכל סכומי הערכה שיכנסו לקפת הועד יוצאו: למחלקת החנוך של ההנהלה הציונית 55%  לגני הילדים העממיים ונצח ישראל 15%  ליתר צרכי הצבור 30%</p>
+         <p>נחוץ להעיר שמארבעה עשר אלף תושבי חיפה משלמי מס הערכה אי אילו מאות איש וביניהם סכומי תשלומים יותר ממגוכחים, לוא לא היה כל כך מכאיב, היתכן דבר כזה?</p>
+         <p>חובתנו ג"כ להעיר ששום עזרה מהחוץ לא באה והמוצא היחידי הוא עזרת הצבור בעצמו. יחד עם זה עלינו להעיר שהתשלומים לההנהלה הציונית הם חדשיים ואם בחדש אחד לא נעמוד בהתחיבותנו יסגרו בתי ספר וגני הילדים חלילה.</p>
+         <p>אנו פונים אל קהלנו בקריאה!</p>
+         <p>אם רוצים אתם להציל את ילדינו מהפקרות ותרבות רעה ע"י סגירת בתי ספר וגני הילדים. אם רוצים אתם להציל את זקני ודלי עמנו מחרפת רעב ואתנו מצעקות אלמנות ויתומים הזקוקים לעזרה. אם רוצים אתם שתנתן עזרה מדצינית לחולי קהלתנו שאין ידם משגת להרפא על חשבונם. אם רוצים אתם בקיום מוסדות צדקה וחסד של קהלתנו ולאפשר לנו את תמיכתם. תמכו במגבית הכללית!</p>
+         <p>ע"י התחיבויותיכם לטובתה - איש בל יעדר!</p>
+         <p>קבלו את העסקנים הנכבדים שהבטיחו להקדיש בשביל המטרות הנעלות הנ"ל את זמנם ומרצם - בסבר פנים יפות.</p>
+         <p>תרמו בעין יפה! - אחד המרבה ואחד הממעיט לפי יכולתו והכרתו! - בידכם הצלחתנו, אם תרצו!</p>
+         <p>המגבית מתחילה מיום כ"א חשון 4.11.28 עד ה' כסליו 18.11.28 -</p>
+         <closer>
+בברכת התחיה - ועד קהלת חיפה.
+            <dateline>
+               <date when="1928-11">חשון תרפ"ט</date>
+            </dateline>
+      </closer>
+</body>
+  </text>
+</TEI>

@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_minimal.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_minimal.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-stylesheet type="text/css" href="../Oxygen%20XML%20Editor%2016/frameworks/tei/xml/tei/css/tei.css"?>
+<?xml-stylesheet type="text/css" href="nli-transcription.css"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>3 ימי תגובת הישוב</title>
+            <author>ועד הקהלה העברית בחיפה</author>
+            <respStmt>
+               <name>Mandel Scholion Hebrew Revival Research Group</name>
+               <resp>Transcription of digital file</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <authority>JEMH</authority>
+            <availability><licence target="https://creativecommons.org/licenses/by/4.0/">CC-BY 4.0</licence></availability>
+         </publicationStmt>
+         <sourceDesc xml:lang="Hebrew">
+	<msDesc>
+		<msPart>
+			<msIdentifier>
+				<repository>National Library of Israel</repository>
+				<collection>"Time Travel" Ephemera Collection</collection>
+				<idno>700173658</idno>
+			</msIdentifier>
+		</msPart>
+	</msDesc>
+            <bibl>
+               <date when="1942-11"></date>
+               <distributor>ארכיון העיר חיפה</distributor>
+               <pubPlace>חיפה</pubPlace>
+            </bibl>
+         </sourceDesc>
+                  </fileDesc>
+      <revisionDesc>
+         <change>
+            <date>2017-08-09</date>
+            <name>Jerusalem corpus of Emergent Modern Hebrew (JEMH) staff</name>
+            <note>Created the initial version of the content in TEI-XML</note>
+         </change>
+      </revisionDesc>
+
+  </teiHeader>
+  <text>
+      <body>
+         <opener>עד מתי, עד אנה, עד מתי? ואם יש צדק בעולם - יופע מיד!</opener>
+         <p>בהתאם להחלטת הועד הלאומי ליהודי ארץ ישראל נקבעו 3 ימי תגובת הישוב נגד מסע השמד של חילות השטן מן התופת הנאצי על היהדות בארצות שלטונו</p>
+         <p>ואלה הם ימי התגובה וסדרם:</p>
+         <p>א. ביום ב' כ"א כסלו תש"ג (30.11) יתכנס מושב מיוחד של אספת הנבחרים בירושלים בהשתתפות שליחי כל נקודות הישוב בארץ אשר ישמיע את זעקת הישוב.</p>
+         <p>ב. ביום ג' כ"ב כסלו ש. ז. (1.12.42) תתכנס מליאת ועד הקהלה בחיפה בהשתתפות כל ועדי השכונות.</p>
+         <p>ג. יום ד' כ"ב כסלו (2.12) - יום צום ותפלה, יום בטול מלאכה בתעשיה ובמסחר, במלאכה ובהובלה  1) החנויות, בתי מלאכה ובתי חרושת יסגרו ב-12 בצהרים.  2) התחבורה העירונית תופסק ב-1 אחה"צ.  3) המסעדות ובתי אוכל יפתחו רק אחר שקיעת החמה ויסגרו ב-8 בערב.  4. בשעה 3 אחה"צ באולם "ארמון" תתקים אספת מחאה פומבית</p>
+         <p>ד. בכל שלשת ימי התגובה יהיו סגורים כל בתי השעשועים, לא יפתחו בתי הקולנוע, לא יערכו שום נשפים וקונצרטים, ויפסקו הנגינה, השירה והרקודים בבתי הקפה. בשלשת ימי התגובה יתלכד הישוב מקטן עד גדול ויתיחד עם זכרם של הקרבנות הקדושים, הטהורים והיקרים, שלא ימושו מלבנו עד בוא יום נקם ושילם לעמלק הדור וימחה שמו מעל פני האדמה.</p>
+         <closer>
+ועד הקהלה העברית בחיפה
+         
+      </closer>
+</body>
+  </text>
+</TEI>

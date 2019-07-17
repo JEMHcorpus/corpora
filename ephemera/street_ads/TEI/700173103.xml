@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_minimal.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_minimal.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-stylesheet type="text/css" href="../Oxygen%20XML%20Editor%2016/frameworks/tei/xml/tei/css/tei.css"?>
+<?xml-stylesheet type="text/css" href="nli-transcription.css"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>הוראות לקראת הבחירות</title>
+            <author>ועדת הבחירות המקומית</author>
+            <respStmt>
+               <name>Mandel Scholion Hebrew Revival Research Group</name>
+               <resp>Transcription of digital file</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <authority>JEMH</authority>
+            <availability><licence target="https://creativecommons.org/licenses/by/4.0/">CC-BY 4.0</licence></availability>
+         </publicationStmt>
+         <sourceDesc xml:lang="Hebrew">
+	<msDesc>
+		<msPart>
+			<msIdentifier>
+				<repository>National Library of Israel</repository>
+				<collection>"Time Travel" Ephemera Collection</collection>
+				<idno>700173103</idno>
+			</msIdentifier>
+		</msPart>
+	</msDesc>
+            <bibl>
+               <date when="1930-12"></date>
+               <distributor>ארכיון העיר חיפה</distributor>
+               <pubPlace>חיפה</pubPlace>
+            </bibl>
+         </sourceDesc>
+                  </fileDesc>
+      <revisionDesc>
+         <change>
+            <date>2017-08-09</date>
+            <name>Jerusalem corpus of Emergent Modern Hebrew (JEMH) staff</name>
+            <note>Created the initial version of the content in TEI-XML</note>
+         </change>
+      </revisionDesc>
+
+  </teiHeader>
+  <text>
+      <body>
+         <head>כנסת ישראל בארץ ישראל</head>
+         <opener>הוראות לבוחרים:</opener>
+         <p>א) יום הבחירות לאספת הנבחרים הוא היום השני, כ'ה כסלו תרצ'א. (15.12.30)</p>
+         <p>ב) הבחירות תמשכנה רק יום אחד ותהיינה ביום אחד בכל הארץ.</p>
+         <p>ג) כל יהודי, איש ואשה, בגיל של 20 שנה ומעלה, הרשום ברשימת הבוחרים רשאי לבחור לאספת הנבחרים:</p>
+         <gap unit="lines" n="2"><!-- חסרה פיסקה מקוטעת --></gap>
+         <p>ה) כל בוחר ששמו נכלל ברשימות הבוחרים ולא קבל כרטיס בוחר, יפנה לועדת הבחירות המקומית, לפני גמר הבחירות וידרוש את כרטיסו, והועדה תמסור לו את הכרטיס;</p>
+         <p>ו) כרטיס הבוחר נותן את הזכות להשתתף בבחירות לאספת הנבחרים, הוא נתן רק פעם אחת ואינו בן-העברה:</p>
+         <p>ז) כל בוחר יביא עמו או יקבל בתחנת הקלפי העתקה מרשימת-מועמדים מודפסת שהוא רוצה לבחור בה או גליון ניר חלק. רשימות המועמדים תודפסנה על ניר לבן באורך של 31 ס"מ ורחב של 15 ס"מ:</p>
+         <p>ח) בוחר שהשתמש ברשימת מועמדים מודפסת רשאי למחוק את שמו של מועמד אחד או את שמותיהם של מועמדים אחרים אך אסור לו להוסיף כל שם לרשימה:</p>
+         <p>ט) בוחר שלא השתמש ברשימת מועמדים מודפסת יוכל לרשום על גליון ניר חלק את שמו של המועמד או את שמותיהם של המועמדים ויציין בראש הגליון את השם או את המספר של רשימת המועמדים שבה הוא רוצה לבחור:</p>
+         <p>י) כל בוחר בהכנסו לתחנת הקלפי ימסר את כרטיס הבוחר שלו <gap reason="illegible" n="1" unit="word"/> את שמו שם משפחתו, שם אביו וכתבתו. חבר ועדת הבחירות הממונה על הקלפי ימסור לבוחר מעטפה הנושאת עליה חותמת <gap reason="illegible" n="1" unit="word"/> הבוחר ישים בתוך המעטפה את רשימת המועמדים המודפסת או הכתובה, שבה הוא רוצה לבחור וישים את המעטפה הסגורה <gap reason="illegible" n="1" unit="word"/> הקלפי במעמד חבר ועדת הבחירות המקומית הממונה על הקלפי:</p>
+         <p>יא) רשימת מועמדים שלא הושמה במעטפה הנושאת עליה את חותמת ועדת הבחירות המקומית, תהיה מבוטלת ולא תבוא במנין:</p>
+         <p>אם תמצאנה במעטפה אחת יותר מרשימת מועמדים אחת תהיינה כלן בטלות והקולות לא יבואו במנין. אם הוסיפו שמות ברשימת מועמדים תהיה כל הרשימה מבוטלת והקולות לא יבואו במנין.</p>
+         <p>אם הוסיפו שמות ברשימת מועמדים תהיה כל הרשימה מבוטלת והקולות לא יבוא במנין.</p>
+      
+         <closer>
+            <gap reason="illegible" unit="word" quantity="8"></gap>
+      </closer>
+</body>
+  </text>
+</TEI>

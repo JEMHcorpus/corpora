@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_minimal.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_minimal.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-stylesheet type="text/css" href="../Oxygen%20XML%20Editor%2016/frameworks/tei/xml/tei/css/tei.css"?>
+<?xml-stylesheet type="text/css" href="nli-transcription.css"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>תשלום מסים</title>
+            <author>יו"ר ועדת עירית חיפה ש. לוי, יו"ר ועד הקהלה חיפה מ. ג. לוין</author>
+            <respStmt>
+               <name>Mandel Scholion Hebrew Revival Research Group</name>
+               <resp>Transcription of digital file</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <authority>JEMH</authority>
+            <availability><licence target="https://creativecommons.org/licenses/by/4.0/">CC-BY 4.0</licence></availability>
+         </publicationStmt>
+         <sourceDesc xml:lang="Hebrew">
+	<msDesc>
+		<msPart>
+			<msIdentifier>
+				<repository>National Library of Israel</repository>
+				<collection>"Time Travel" Ephemera Collection</collection>
+				<idno>700173004</idno>
+			</msIdentifier>
+		</msPart>
+	</msDesc>
+            <bibl>
+               <date when="1949-02-22"></date>
+               <distributor>ארכיון העיר חיפה</distributor>
+               <pubPlace>חיפה</pubPlace>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <change>
+            <date>2017-08-09</date>
+            <name>Jerusalem corpus of Emergent Modern Hebrew (JEMH) staff</name>
+            <note>Created the initial version of the content in TEI-XML</note>
+         </change>
+      </revisionDesc>
+
+  </teiHeader>
+  <text>
+      <body>
+         <opener>הודעה</opener>
+         <p>בזה אנו מודיעים לצבור שסודר הסכם בין הקהלה ובין העיריה בחיפה שלפיו תטפל העיריה בכל השירותים החילוניים, והקהלה תטפל בשירותים הדתיים.</p>
+         <p>והואיל ולפי ההוראות של שרי הממשלה יש להמשיך את גבית מסי כנסת ישראל לצרכי מלוי כל התפקידים שהוטלו על הקהלות, העיריות העבריות והמועצות המקומיות, לפי תקנות כנסת ישראל, והן: בריאות, חנוך, עזרה סוציאלית וצרכי דת - עד שינוי החוק.</p>
+         <p>והואיל ולפי ההסכם הנ"ל, ימסרו כל המסים לעיריה, בשביל השירותים החילוניים, בנכוי חלק מהם לצרכי השרותים הדתיים - נדרש הצבור לשלם לקהלה את המסים המגיעים מהם עד ל-31.12.1948 וכמו כן את המס השוטף בעד שלושת החודשים: ינואר-פברואר-מרץ שנה זו בלי כל דחוי.</p>
+         <closer>
+            <dateline>
+               <date>כ"ג שבט תש"ט. 22.2.49</date>
+            </dateline>
+            <signed>
+			יו"ר ועדת עירית חיפה
+               <name>ש. לוי</name>,  
+			   יו"ר ועד הקהלה חיפה
+			   <name>מ. ג. לוין</name>
+            </signed>
+      </closer>
+</body>
+  </text>
+</TEI>

@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_minimal.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_minimal.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-stylesheet type="text/css" href="../Oxygen%20XML%20Editor%2016/frameworks/tei/xml/tei/css/tei.css"?>
+<?xml-stylesheet type="text/css" href="nli-transcription.css"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>טרור הדמים</title>
+            <author>ההנהלות הזמניות של הסוכנות היהודית והועד הלאומי</author>
+            <respStmt>
+               <name>Mandel Scholion Hebrew Revival Research Group</name>
+               <resp>Transcription of digital file</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <authority>JEMH</authority>
+            <availability><licence target="https://creativecommons.org/licenses/by/4.0/">CC-BY 4.0</licence></availability>
+         </publicationStmt>
+         <sourceDesc xml:lang="Hebrew">
+	<msDesc>
+		<msPart>
+			<msIdentifier>
+				<repository>National Library of Israel</repository>
+				<collection>"Time Travel" Ephemera Collection</collection>
+				<idno>700173440</idno>
+			</msIdentifier>
+		</msPart>
+	</msDesc>
+            <bibl>
+               <date when="1946-12-05"></date>
+               <distributor>ארכיון העיר חיפה</distributor>
+               <pubPlace>חיפה</pubPlace>
+            </bibl>
+         </sourceDesc>
+                  </fileDesc>
+      <revisionDesc>
+         <change>
+            <date>2017-08-09</date>
+            <name>Jerusalem corpus of Emergent Modern Hebrew (JEMH) staff</name>
+            <note>Created the initial version of the content in TEI-XML</note>
+         </change>
+      </revisionDesc>
+
+  </teiHeader>
+  <text>
+      <body>
+         <opener>אל הישוב העברי בארץ</opener>
+         <p>הישוב העברי המאורגן עורך, כאשר ערך, מתוך סבל ומרירות, את מאבקו נגד הספר הלבן, מבלי להכתים את דגלו במעשי רצח ובדם שוטרים וחיילים בריטיים חפים מפשע. רק מיעוט קטן של פורקי עול הישוב והציונות עושים דין לעצמם ומקיימים את הטרור הרצחני כשיטה.</p>
+         <p>הועד הפועל הציוני בישיבתו מיום 29 באוקטובר "ראה חובה לעצמו להוקיע ולדחות ללא סייג את טרור הדמים: פעולות אלו מכתימות את מאבק העם העברי, מסלפות את דמותו ומחזקות את ידיהם של צוררי הציונות והעם העברי".</p>
+         <p>אולם לאסוננו לא פסק הטרור, הוא נמשך בדרכי הארץ ובישוביה בידי קבוצות פורשים.</p>
+         <p>ההנהלות הזמניות של הסוכנות היהודית והועד הלאומי רואות חובה לעצמן להעמיד בזאת את הצבור על הסכנות והאסו-נות האורבים לישוב כולו אם לא ייפסקו מיד מעשי הטרור אשר להם אחראיות הקבוצות המתבדלות.</p>
+         <p>הקץ למעשי הדמים!</p>
+         <closer>
+ההנהלות הזמניות של הסוכנות היהודית והועד הלאומי
+            <dateline>
+               <date>י"ב כסלו תש"ז  5.12.46</date>
+            </dateline>
+         
+         דפוס "אמנות" חיפה, רח' סוקולוב א7
+      </closer>
+</body>
+  </text>
+</TEI>

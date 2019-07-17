@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_minimal.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_minimal.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-stylesheet type="text/css" href="../Oxygen%20XML%20Editor%2016/frameworks/tei/xml/tei/css/tei.css"?>
+<?xml-stylesheet type="text/css" href="nli-transcription.css"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>הודעה על פרסום רשימה של משלמי מס הערכה</title>
+            <author>ועד העדה העברית בחיפה</author>
+            <respStmt>
+               <name>Mandel Scholion Hebrew Revival Research Group</name>
+               <resp>Transcription of digital file</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <authority>JEMH</authority>
+            <availability><licence target="https://creativecommons.org/licenses/by/4.0/">CC-BY 4.0</licence></availability>
+         </publicationStmt>
+         <sourceDesc xml:lang="Hebrew">
+	<msDesc>
+		<msPart>
+			<msIdentifier>
+				<repository>National Library of Israel</repository>
+				<collection>"Time Travel" Ephemera Collection</collection>
+				<idno>700174305</idno>
+			</msIdentifier>
+		</msPart>
+	</msDesc>
+            <bibl>
+               <date when="1924-08"></date>
+               <distributor>ארכיון העיר חיפה</distributor>
+               <pubPlace>חיפה</pubPlace>
+            </bibl>
+         </sourceDesc>
+                  </fileDesc>
+      <revisionDesc>
+         <change>
+            <date>2017-08-09</date>
+            <name>Jerusalem corpus of Emergent Modern Hebrew (JEMH) staff</name>
+            <note>Created the initial version of the content in TEI-XML</note>
+         </change>
+      </revisionDesc>
+
+  </teiHeader>
+  <text>
+     <body>
+        <opener>אל הצבור העברי בחיפה.</opener>
+        <p>בהתאם להבעת האספה הכללית של משלמי הערכה החלטנו לפרסם רשימה של משלמי מס הערכה לטובת הקהלה העברית בחיפה.</p>
+        <p>רשימה זו תפורסם בחדש אלול ואנו מבקשים את כל אלה שסרבו או התרשלו בתשלומיהם למלאות את חובתם בדבר תשלום המס עד הזמן המיועד החל מחדש שבט תרפ"ד, למען לא יזכר שמם בין אלה שלא השתתפו במעשה בקיום העדה ושללו מאת ועד העדה את האפשרות למלאות את הדרישות של הסוגים השונים.</p>
+        <p>מלוי חובותיו של ועד הקהלה תלוי ועומד לגמרי ממלוי חובותיהם של בני העדה.</p>
+        <closer>
+           ועד העדה העברית בחיפה.
+           <dateline>
+              <name type="place">חיפה</name>
+              <date when="1924-08">מנחם אב תרפ"ד</date>  
+            </dateline>
+         
+      </closer>
+</body>
+  </text>
+</TEI>

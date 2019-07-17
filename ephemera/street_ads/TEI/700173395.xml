@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_minimal.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_minimal.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-stylesheet type="text/css" href="../Oxygen%20XML%20Editor%2016/frameworks/tei/xml/tei/css/tei.css"?>
+<?xml-stylesheet type="text/css" href="nli-transcription.css"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>שעון החרף</title>
+            <author>הרבנות הראשית, חיפה</author>
+            <respStmt>
+               <name>Mandel Scholion Hebrew Revival Research Group</name>
+               <resp>Transcription of digital file</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <authority>JEMH</authority>
+            <availability><licence target="https://creativecommons.org/licenses/by/4.0/">CC-BY 4.0</licence></availability>
+         </publicationStmt>
+         <sourceDesc xml:lang="Hebrew">
+	<msDesc>
+		<msPart>
+			<msIdentifier>
+				<repository>National Library of Israel</repository>
+				<collection>"Time Travel" Ephemera Collection</collection>
+				<idno>700173395</idno>
+			</msIdentifier>
+		</msPart>
+	</msDesc>
+            <bibl>
+               <date when="1944-11-01"></date>
+               <distributor>ארכיון העיר חיפה</distributor>
+               <pubPlace>חיפה</pubPlace>
+            </bibl>
+         </sourceDesc>
+                  </fileDesc>
+      <revisionDesc>
+         <change>
+            <date>2017-08-09</date>
+            <name>Jerusalem corpus of Emergent Modern Hebrew (JEMH) staff</name>
+            <note>Created the initial version of the content in TEI-XML</note>
+         </change>
+      </revisionDesc>
+
+  </teiHeader>
+  <text>
+      <body>
+         <head>מודעה</head>
+         <p>בקשר עם השנוי בלוח השעות לפי שעון החרף (מראשון בנובמבר ש"ז) יש להקדים את סגירת החנויות, הדלקת הנרות ולקבל את השבת בשעה אחת קודם מכפי שהיה לפי שעון הקיץ.</p>
+         <p>כמו כן בעלי התעשיה ובתי המלאכה נדרשים להפסיק את העבודה בערב שבת, בימי החרף הקצרים, בשעה מוקדמת, בכדי לאפשר לעובדים לחזור לביתם בעוד מועד ולעשות את ההכנות הדרושות לשבת.</p>
+         <p>ביחוד הננו פונים לקהל הצרכנים להזדרז בקנית מצרכיהם בערב שבת בשעות המוקדמות, וביחוד עכשיו כשהימים הולכים וקצרים וכל איחור מצד הלקוחות עלול להביא לידי חלול שבת.</p>
+         <p>ובזכות שמירת השבת נושע בקרוב בתשועת עולמים.</p>
+         <closer>
+הרבנות הראשית, חיפה
+            <dateline>
+               <date>ט"ו חשון תש"ה.</date>
+            </dateline>
+         
+      </closer>
+</body>
+  </text>
+</TEI>

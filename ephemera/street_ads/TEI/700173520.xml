@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_minimal.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_minimal.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-stylesheet type="text/css" href="../Oxygen%20XML%20Editor%2016/frameworks/tei/xml/tei/css/tei.css"?>
+<?xml-stylesheet type="text/css" href="nli-transcription.css"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>אספת עם - העפלה</title>
+            <author>ועד הקהלה העברית בחיפה</author>
+            <respStmt>
+               <name>Mandel Scholion Hebrew Revival Research Group</name>
+               <resp>Transcription of digital file</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <authority>JEMH</authority>
+            <availability><licence target="https://creativecommons.org/licenses/by/4.0/">CC-BY 4.0</licence></availability>
+         </publicationStmt>
+         <sourceDesc xml:lang="Hebrew">
+	<msDesc>
+		<msPart>
+			<msIdentifier>
+				<repository>National Library of Israel</repository>
+				<collection>"Time Travel" Ephemera Collection</collection>
+				<idno>700173520</idno>
+			</msIdentifier>
+		</msPart>
+	</msDesc>
+            <bibl>
+               <date when="1946-11-26"></date>
+               <distributor>ארכיון העיר חיפה</distributor>
+               <pubPlace>חיפה</pubPlace>
+            </bibl>
+         </sourceDesc>
+                  </fileDesc>
+      <revisionDesc>
+         <change>
+            <date>2017-08-09</date>
+            <name>Jerusalem corpus of Emergent Modern Hebrew (JEMH) staff</name>
+            <note>Created the initial version of the content in TEI-XML</note>
+         </change>
+      </revisionDesc>
+
+  </teiHeader>
+  <text>
+      <body>
+         <opener>יהודי חיפה!</opener>
+         <p>הלילה הגיעו לחופי מולדת כ-4000 מעפילים</p>
+         <p>יירשם יום ב' בכסלו כתאריך היסטורי!</p>
+         <p>בתולדות העליה והעפלה לא אירע עוד כי בבת אחת ובאניה אחת יגיעו ארצה 4000 יהודים.</p>
+         <p>מבעד גבולות סגורים, דרך מצור של אניות מלחמה וציי אוירונים בריטיים פרצה אנית המעפילים והגיעה לחופי מולדת.</p>
+         <p>ההעפלה נמשכת ותמשך כי אין כוח בעולם שיפסיקנה!</p>
+         <p>אחים יהודים! נשלח ברכה לוהטת למעפילים וניתן בטוי לנכונותנו למאבק על פתיחת שערי הארץ לעליה חפשית.</p>
+         <p>היום יום ג', ג' כסלו 26.11.46 בשעה 4 אחה"צ אספת עם שתתקיים ברחבת בית הקרנות.</p>
+         <p>לשעת האספה 4-5.30 אחה"צ תפסק כל עבודה, מלאכה מסחר ותחבורה.</p>
+         <p>יהודים בואו בהמוניכם לאספה!</p>
+         <closer>
+ועד הקהלה העברית בחיפה.
+         
+         דפוס "אמנות" חיפה, רח' סוקולוב א7
+      </closer>
+</body>
+  </text>
+</TEI>

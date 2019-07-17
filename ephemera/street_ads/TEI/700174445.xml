@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_minimal.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_minimal.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-stylesheet type="text/css" href="../Oxygen%20XML%20Editor%2016/frameworks/tei/xml/tei/css/tei.css"?>
+<?xml-stylesheet type="text/css" href="nli-transcription.css"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>בטול מלאכה כללי</title>
+            <author>ועדת חגיגות הבכורים, ועד הקהלה העברית, לשכת המסחר והתעשיה העברית, ועד הדר הכרמל</author>
+            <respStmt>
+               <name>Mandel Scholion Hebrew Revival Research Group</name>
+               <resp>Transcription of digital file</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <authority>JEMH</authority>
+            <availability><licence target="https://creativecommons.org/licenses/by/4.0/">CC-BY 4.0</licence></availability>
+         </publicationStmt>
+         <sourceDesc xml:lang="Hebrew">
+	<msDesc>
+		<msPart>
+			<msIdentifier>
+				<repository>National Library of Israel</repository>
+				<collection>"Time Travel" Ephemera Collection</collection>
+				<idno>700174445</idno>
+			</msIdentifier>
+		</msPart>
+	</msDesc>
+            <bibl>
+               <date when="1933-05-28"></date>
+               <distributor>ארכיון העיר חיפה</distributor>
+               <pubPlace>חיפה</pubPlace>
+            </bibl>
+         </sourceDesc>
+                  </fileDesc>
+      <revisionDesc>
+         <change>
+            <date>2017-08-09</date>
+            <name>Jerusalem corpus of Emergent Modern Hebrew (JEMH) staff</name>
+            <note>Created the initial version of the content in TEI-XML</note>
+         </change>
+      </revisionDesc>
+
+  </teiHeader>
+  <text>
+      <body>
+         <opener>אנו מכריזים</opener>
+         <p>ביום ה', ז' בסיון, אסרו חג של שבועות בטול מלאכה כללי משעה 12 בצהרים (תהלוכת הבכורים תצא ב-2 אחה"צ)</p>
+         <p>בתי החרושת והמלאכה, הפועלים העובדים בכל עבודה מפסיקים את עבודתם - בתי המסחר והמשרדים נסגרים - והיה היום יום שמחה לכל שדרות הישוב בעיר.</p>
+         <closer>
+ועדת חגיגות הבכורים. ועד הקהלה העברית. לשכת המסחר והתעשיה העברית. ועד הדר הכרמל.
+            <dateline>
+               <date when="1933-05-28">28 במאי 1933</date>
+               <name type="place">חיפה</name>
+            </dateline>
+            <name type="press">בית דפוס מ. סוכובולסקי</name>,
+            <name type="place">חיפה</name>
+      </closer>
+</body>
+  </text>
+</TEI>

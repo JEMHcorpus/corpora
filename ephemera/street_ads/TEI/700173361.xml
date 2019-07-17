@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_minimal.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_minimal.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-stylesheet type="text/css" href="../Oxygen%20XML%20Editor%2016/frameworks/tei/xml/tei/css/tei.css"?>
+<?xml-stylesheet type="text/css" href="nli-transcription.css"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>עצרת עם על המצב</title>
+            <author>ועד הקהלה העברית בחיפה</author>
+            <respStmt>
+               <name>Mandel Scholion Hebrew Revival Research Group</name>
+               <resp>Transcription of digital file</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <authority>JEMH</authority>
+            <availability><licence target="https://creativecommons.org/licenses/by/4.0/">CC-BY 4.0</licence></availability>
+         </publicationStmt>
+         <sourceDesc xml:lang="Hebrew">
+	<msDesc>
+		<msPart>
+			<msIdentifier>
+				<repository>National Library of Israel</repository>
+				<collection>"Time Travel" Ephemera Collection</collection>
+				<idno>700173361</idno>
+			</msIdentifier>
+		</msPart>
+	</msDesc>
+            <bibl>
+               <date when="1945-10-07"></date>
+               <distributor>ארכיון העיר חיפה</distributor>
+               <pubPlace>חיפה</pubPlace>
+            </bibl>
+         </sourceDesc>
+                  </fileDesc>
+      <revisionDesc>
+         <change>
+            <date>2017-08-09</date>
+            <name>Jerusalem corpus of Emergent Modern Hebrew (JEMH) staff</name>
+            <note>Created the initial version of the content in TEI-XML</note>
+         </change>
+      </revisionDesc>
+
+  </teiHeader>
+  <text>
+      <body>
+         <p>ביום השני, א' מרחשון תש"ו (8.10.45) בשעה 5 אחה"צ יתכנסו המוני הישוב העברי בחיפה ברחבת בית הקרנות לעצרת עם על המצב</p>
+         <p>ביום העצרת תשבות כל מלאכה, חרושת ומסחר ויבוטלו הלמודים בבתי הספר, החל משעה 1 אחה"צ עד שעה 6 אחה"צ.</p>
+         <p>המעדות, בתי הקפה ובתי השעשועים יהיו סגורים החל משעה 2 אחה"צ עד שעה 6 אחה"צ. באותן השעות תפסק כל התחבורה הצבורית והפרטית.</p>
+         <p>המוני הישוב יתרכזו בשעה 3.30 אחה"צ במקומות רכוז ומשם יצעדו בשורות מלוכדות אל מקום העצרת.</p>
+         <closer>
+ועד הקהלה העברית בחיפה
+            <dateline>
+               <date>ל' תשרי תש"ו</date>
+               <name type="place">חיפה</name>
+            </dateline>
+         
+         דפוס "אמנות" חיפה הדר, רח' סוקולוב 7א
+      </closer>
+</body>
+  </text>
+</TEI>

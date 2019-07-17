@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_minimal.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_minimal.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-stylesheet type="text/css" href="../Oxygen%20XML%20Editor%2016/frameworks/tei/xml/tei/css/tei.css"?>
+<?xml-stylesheet type="text/css" href="nli-transcription.css"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>החזרת סדנאות ועסקים שיצאו את העיר התחתית</title>
+            <author>יו"ר ועדת עירית חיפה</author>
+            <respStmt>
+               <name>Mandel Scholion Hebrew Revival Research Group</name>
+               <resp>Transcription of digital file</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <authority>JEMH</authority>
+            <availability><licence target="https://creativecommons.org/licenses/by/4.0/">CC-BY 4.0</licence></availability>
+         </publicationStmt>
+         <sourceDesc xml:lang="Hebrew">
+	<msDesc>
+		<msPart>
+			<msIdentifier>
+				<repository>National Library of Israel</repository>
+				<collection>"Time Travel" Ephemera Collection</collection>
+				<idno>700173137</idno>
+			</msIdentifier>
+		</msPart>
+	</msDesc>
+            <bibl>
+               <date when="1948-07-06"></date>
+               <distributor>ארכיון העיר חיפה</distributor>
+               <pubPlace>חיפה</pubPlace>
+            </bibl>
+         </sourceDesc>
+                  </fileDesc>
+      <revisionDesc>
+         <change>
+            <date>2017-08-09</date>
+            <name>Jerusalem corpus of Emergent Modern Hebrew (JEMH) staff</name>
+            <note>Created the initial version of the content in TEI-XML</note>
+         </change>
+      </revisionDesc>
+
+  </teiHeader>
+  <text>
+      <body>
+         <head>עירית חיפה</head>
+         <head>הודעה בדבר החזרת סדנאות ועסקים שיצאו את העיר התחתית</head>
+         <p>בהסכם עם מפקד העיר וועדת המצב שע"י קהלת חיפה, הנני מודיע בזה לכל המעונינים:</p>
+         <p>1. כל בעל עסק, בית מלאכה, מוסך, מחסן ברזל, עץ או שאר סחורות, שהעביר את מפעלו למקום חדש אחרי ה-1 בדצמבר 1947, מבלי לקבל רשיון לכך מטעם העיריה, חייב לפנות את המקום הנוכחי תוך 15 יום מתאריך הודעה זו, ולשוב למקומו הקודם. עליו להרחיק את הצריפים ואת המבנים הזמניים שהקים ולהשאיר את המקום נקי.</p>
+         <p>ב. באם אין לו אפשרות לשוב למקום הקודם מאיזו סיבה שהיא, רשאי בעל המפעל לפנות למשרד המפקח על הרכוש הערבי העזוב, רחוב סנט-לוק 5, (בית הנהלת המכס), מחלקת השכירות, בבקשה להשכיר לו מקום מתאים אחר.</p>
+         <p>3. כל השוכר חנות, בית מלאכה או מחסן, חייב לברר למפרע בעירית חיפה, במחלקת מהנדס העיר, אם המטרה שבשבילה נשכר המקום אינה מהוה שמוש אסור באותו רחוב או איזור.</p>
+         <p>4. אחרי תום התקופה של 15 יום האמורה בסעיף 1 לעיל, תאחז עירית חיפה בצעדים משפטיים נגד כל העברינים ותוציא לפועל את פסקי הדין ללא דחיה.</p>
+         <closer>
+יו"ר ועדת העיריה
+            <dateline>
+               <date>יום ג' כ"ט סיון, תש"ח (6.7.48)</date>
+               <name type="place">חיפה</name>
+            </dateline>
+         
+      </closer>
+</body>
+  </text>
+</TEI>

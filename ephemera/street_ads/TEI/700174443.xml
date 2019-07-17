@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_minimal.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_minimal.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-stylesheet type="text/css" href="../Oxygen%20XML%20Editor%2016/frameworks/tei/xml/tei/css/tei.css"?>
+<?xml-stylesheet type="text/css" href="nli-transcription.css"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>חגיגות הבכורים</title>
+            <author>ועד הדר הכרמל</author>
+            <respStmt>
+               <name>Mandel Scholion Hebrew Revival Research Group</name>
+               <resp>Transcription of digital file</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <authority>JEMH</authority>
+            <availability><licence target="https://creativecommons.org/licenses/by/4.0/">CC-BY 4.0</licence></availability>
+         </publicationStmt>
+         <sourceDesc xml:lang="Hebrew">
+	<msDesc>
+		<msPart>
+			<msIdentifier>
+				<repository>National Library of Israel</repository>
+				<collection>"Time Travel" Ephemera Collection</collection>
+				<idno>700174443</idno>
+			</msIdentifier>
+		</msPart>
+	</msDesc>
+            <bibl>
+               <date when="1933-05-25"></date>
+               <distributor>ארכיון העיר חיפה</distributor>
+               <pubPlace>חיפה</pubPlace>
+            </bibl>
+         </sourceDesc>
+                  </fileDesc>
+      <revisionDesc>
+         <change>
+            <date>2017-08-09</date>
+            <name>Jerusalem corpus of Emergent Modern Hebrew (JEMH) staff</name>
+            <note>Created the initial version of the content in TEI-XML</note>
+         </change>
+      </revisionDesc>
+
+  </teiHeader>
+  <text>
+      <body>
+         <opener>אל תושבי הדר הכרמל!</opener>
+         <opener>לקראת חגיגות הבכורים</opener>
+         <p>עוד זכורים לנו ימי חגיגות הבכורים דאשתקד והרושם הכביר שעשו על כל בני עירנו ואורחינו. הנסיון הראשון שהוכתר בהצלחה כה גדולה לפני שנה הוכיח עד כמה חשוב הוא המפעל החדש ההולך ונהפך למפעל מסורתי ביצירת הוי בארצנו המתחדשת.</p>
+         <p>חגיגות הבכורים תערכנה השנה (שהיא שניה לחגיגות) ברוב פאר והדר לפי תכנית רחבה ומגוונת: אנשי עמק הירדן, עמק יזרעאל, עמק זבולון והשומרון יעברו בסך ברחובות שכונתנו עם תנובת אדמתם - תרומתם לקהק"ל. אורחים לאלפים מתכוננים לבא אלינו מכל ערי הארץ להשתתף בפגישת העיר והכפר.</p>
+         <p>ועדת החגיגות עושה את כל המאמצים לתת לחגיגות השנה את הצורה הנאותה והמתאימה לתוכן החג.</p>
+         <p>ועתה פונים אנו אל כל תושבי שכונתנו בקריאה לעזור לועדה במלוי תפקידה וביחוד אנו פונים אל הגרים ברחובות שבהם תעבור התהלוכה: - רחובות בר-כוכבא, התבור, העליה, פבזנר, בלפור, נורדוי והרצל - קשטו בתיכם בדגלים, ירק, פרחים, מרבדים. האירו בערבים את כל החלונות והדליקו אור בחלונות הראוה של החנויות. שמרו על הסדר והנקיון ברחובות והשמעו להוראות הסדרנים. אכסנו בסבר פנים יפות את האורחים שיבואו בהמונים ושלא ימצאו להם מקום בבתי מלון.</p>
+         <p>התושבים מתבקשים להודיע לועד הדר הכרמל (טלפון 5) עד יום ג', 30 במאי, את מספר המקומות שכל אחד יפנה לאכסון אורחים בביתו.</p>
+         <p>דגלים למכירה נמצאים בבית מסחר האחים צוקרמן בהדר הכרמל, רחוב הרצל ובעיר במרכז המסחרי.</p>
+         <closer>
+ועד הדר הכרמל.
+            <dateline>
+               <date when="1933-05-25">25.5.33  כ"ט אייר תרצ"ג</date>
+               <name type="place">חיפה</name>.
+            </dateline>
+            <name type="press">בית דפוס מ. סוכובולסקי</name>,
+            <name type="place">חיפה</name>
+
+      </closer>
+</body>
+  </text>
+</TEI>

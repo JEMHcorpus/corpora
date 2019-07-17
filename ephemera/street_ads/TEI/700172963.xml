@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_minimal.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_minimal.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-stylesheet type="text/css" href="../Oxygen%20XML%20Editor%2016/frameworks/tei/xml/tei/css/tei.css"?>
+<?xml-stylesheet type="text/css" href="nli-transcription.css"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>מודעה - בשר ומצות</title>
+            <author>הרבנות הראשית חיפה</author>
+            <respStmt>
+               <name>Mandel Scholion Hebrew Revival Research Group</name>
+               <resp>Transcription of digital file</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <authority>JEMH</authority>
+            <availability><licence target="https://creativecommons.org/licenses/by/4.0/">CC-BY 4.0</licence></availability>
+         </publicationStmt>
+         <sourceDesc xml:lang="Hebrew">
+	<msDesc>
+		<msPart>
+			<msIdentifier>
+				<repository>National Library of Israel</repository>
+				<collection>"Time Travel" Ephemera Collection</collection>
+				<idno>700172963</idno>
+			</msIdentifier>
+		</msPart>
+	</msDesc>
+            <bibl>
+               <date when="1948-03-07"></date>
+               <distributor>ארכיון העיר חיפה</distributor>
+               <pubPlace>חיפה</pubPlace>
+            </bibl>
+         </sourceDesc>
+                  </fileDesc>
+      <revisionDesc>
+         <change>
+            <date>2017-08-09</date>
+            <name>Jerusalem corpus of Emergent Modern Hebrew (JEMH) staff</name>
+            <note>Created the initial version of the content in TEI-XML</note>
+         </change>
+      </revisionDesc>
+
+  </teiHeader>
+  <text>
+      <body>
+         <head>מודעה</head>
+         <p>א. נתפרסם בעתונות שמביאים לא"י בשר קפוא מחוץ-לארץ ושמחלקים בחנויות, בשר משומר בקופסאות בלי הכשר מבי"ד מוסמך, לשם מכירה לצרכנים. מחובתנו להודיע ברבים שבשר זה הוא נבלה וטרפה. החונונים מוזהרים בזה לא לקבל את הבשר הנ"ל למכירה בכדי שלא להכשיל את הרבים, כמו"כ אסור לצרכנים לקנות את הבשר הנ"ל.</p>
+         <p>ב. אנו מזהירים את הצבור להזדרז ולקבל את המצות לפסח אצל החנוני שהוא קשור אליו בכרטיס הסוכר מיד ולא יאוחר מיום ט"ו אדר ב' 26.3.48 ולא להשתמש בהן לפני הפסח, כי מצות אחרות לפסח לא תהיינה.</p>
+         <closer>
+הרבנות הראשית חיפה
+            <dateline>
+               <date>כ"ו אדר א' תש"ח</date>
+            </dateline>
+         
+         דפוס "אמנות" חיפה, רח' סוקולוב א7
+      </closer>
+</body>
+  </text>
+</TEI>

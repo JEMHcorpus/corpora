@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_minimal.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_minimal.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-stylesheet type="text/css" href="../Oxygen%20XML%20Editor%2016/frameworks/tei/xml/tei/css/tei.css"?>
+<?xml-stylesheet type="text/css" href="nli-transcription.css"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>"שדות שבעמק" חג השבועות תש"ך</title>
+            <author>עירית חיפה - המחלקה לספורט ולנוער</author>
+            <respStmt>
+               <name>Mandel Scholion Hebrew Revival Research Group</name>
+               <resp>Transcription of digital file</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <authority>JEMH</authority>
+            <availability><licence target="https://creativecommons.org/licenses/by/4.0/">CC-BY 4.0</licence></availability>
+         </publicationStmt>
+         <sourceDesc xml:lang="Hebrew">
+	<msDesc>
+		<msPart>
+			<msIdentifier>
+				<repository>National Library of Israel</repository>
+				<collection>"Time Travel" Ephemera Collection</collection>
+				<idno>700172649</idno>
+			</msIdentifier>
+		</msPart>
+	</msDesc>
+            <bibl>
+               <date when="1960-05"></date>
+               <distributor>ארכיון העיר חיפה</distributor>
+               <pubPlace>חיפה</pubPlace>
+            </bibl>
+         </sourceDesc>
+                  </fileDesc>
+      <revisionDesc>
+         <change>
+            <date>2017-08-09</date>
+            <name>Jerusalem corpus of Emergent Modern Hebrew (JEMH) staff</name>
+            <note>Created the initial version of the content in TEI-XML</note>
+         </change>
+      </revisionDesc>
+
+  </teiHeader>
+  <text>
+      <body>
+         <head>עירית חיפה  המחלקה לספורט ולנוער</head>
+         <head>"שדות שבעמק" חג השבועות תש"ך</head>
+         <p>המועד: מוצאי חג השבועות, יום ד', ו' סיון תש"ך - 1 יוני 1960.</p>
+         <p>לוח זמנים: 18.00 - חזרה של הרכב על התערוכה. 18.30 - כניסת העגלות, הפלטפורמות והחמורים של החתונה למאגר 46. 19.30 - התכנסות המשתתפים.  19.45 - כניסת רוכבי האופניים למאגר 46. גמר התארגנות המשתתפים במקומות המסומנים במגרש ההערכות. חלוקת הכיבוד. 20.15 - כניסת המשתתפים ב"חתונה" (שרלה, כלות, אורים, ותזמורת) למאגר 46. כניסת המקהלות והתזמורות. 20.30 - כניסת להקות בתי הספר למגרש. כניסת המשתתפים בתמונות הפתיחה (הכובשים). כניסת המשתתפים בעומר למאגר 44 (לצד הכרמל). נשארים במאגר המרכזי: הלהקה המרכזית, להקת הקבה"א, להקת "צבר" (רק אלה המשתתפים בשמחת בית השואבה), הרכב הנותר, ילדי המועדונים המשתתפים בתהלוכת הסיום. 20.45 - התחלת ההופעה.</p>
+         <p>סדר ההופעות: 1. פתיחה. 2. חג העומר. 3. מרקודי חג הגז. 4. חתונה בכפר. 5. שמחת בית השואבה. 6. סיום.</p>
+         <p>כיבוד: כל משתתף יתלוש את "תלוש הכבוד" המצורף לכרטיס המשתתף. בשעה 20.00 יאספו מדריכי הקבוצות את תלושי הכבוד מקבוצותיהם. לפי סדר הקבוצות שיקבע במקום ילכו מדריכי הקבוצות עם זוג משתתפים למקומות החלוקה ויקבלו את הכבוד במרוכז לקבוצותיהם. מדריכי הקבוצות אחראים להחזרת הבקבוקים הריקים מיד עם גמר השתיה. מרגע כניסתכם למגרש ועד לרקוד האחרון תמצאו לעיני הקהל, גם בזמן שהבמה המרכזית מוארת. על-כן יש להשאר בישיבה נאה ומסודרת משך כל זמן ההופעה. בזמן ההתכנסות וההתארגנות על כל הרוקדים להשאר במקום שנקבע ללהקתם ולהשמע להוראות מדריכיהם ומארגני ההופעה.</p>
+         <p>סדרי התחבורה: ביום שני, 30 למאי 1960: עם גמר החזרה הכללית מחכות לכם המכוניות במגרש החניה מאחורי האיצטדיון - לקרית טבעון  רמות רמז  קרית מוצקין  אחוזה  גב-ים  הר-הכרמל  קרית חיים  הדר הכרמל  ביום רביעי, 1 יוני 1960: מקומות המפגש וזמני יציאת המכוניות, 18.45 - טבעון, מרכז מסחרי. 18.50 - קרית עמל, ע"י הדואר. 19.00 - קרית ים, ע"י המועצה. 19.10 - קרית מוצקין, בי"ס אחדות  19.00 - קרית חיים, בית ענבי ליפשיץ. 19.00 - רמות רמז, בי"ס בארי. 19.00 - אחוזה, בי"ס ריאלי. 19.00 - הר הכרמל, בי"ס אילנות. 19.00 - מרכז הכרמל. 19.00 - רח' גלעד. עם גמר ההופעה מחכות המכוניות במגרש ההערכות.</p>
+      </body>
+  </text>
+</TEI>

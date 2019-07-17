@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_minimal.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_minimal.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-stylesheet type="text/css" href="../Oxygen%20XML%20Editor%2016/frameworks/tei/xml/tei/css/tei.css"?>
+<?xml-stylesheet type="text/css" href="nli-transcription.css"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>כרטיסי מזון חדשים</title>
+            <author>ועדת המצב שע"י ועד הקהלה העברית בחיפה, המחלקה הכלכלית</author>
+            <respStmt>
+               <name>Mandel Scholion Hebrew Revival Research Group</name>
+               <resp>Transcription of digital file</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <authority>JEMH</authority>
+            <availability><licence target="https://creativecommons.org/licenses/by/4.0/">CC-BY 4.0</licence></availability>
+         </publicationStmt>
+         <sourceDesc xml:lang="Hebrew">
+	<msDesc>
+		<msPart>
+			<msIdentifier>
+				<repository>National Library of Israel</repository>
+				<collection>"Time Travel" Ephemera Collection</collection>
+				<idno>700173047</idno>
+			</msIdentifier>
+		</msPart>
+	</msDesc>
+            <bibl>
+               <date when="1948-05-04"></date>
+               <distributor>ארכיון העיר חיפה</distributor>
+               <pubPlace>חיפה</pubPlace>
+            </bibl>
+         </sourceDesc>
+                  </fileDesc>
+      <revisionDesc>
+         <change>
+            <date>2017-08-09</date>
+            <name>Jerusalem corpus of Emergent Modern Hebrew (JEMH) staff</name>
+            <note>Created the initial version of the content in TEI-XML</note>
+         </change>
+      </revisionDesc>
+
+  </teiHeader>
+  <text>
+      <body>
+<head>ועדת המצב שע"י ועד הקהלה העברית בחיפה</head>
+<head>המחלקה הכלכלית  הודעה מס' 18</head>
+         <head>ועדת המצב עומדת להוציא בחודש מאי 1948 כרטיסי מזון חדשים</head>
+         <p>הוחלט על הרשמה חדשה של הצרכנים בחיפה רבתי. כל צרכן רשאי כעת לבחור את החנוני אליו ירצה להיות קשור בקניות מצרכי מכלת הנמצאים תחת פקוח. לשם כך חולקו לכל החנונים בחיפה טפסים מיוחדים שעל כל צרכן למלא ולחתום עליהם.</p>
+         <p>ההרשמה תמשך החל מ-4.5.48 עד 12.5.48 ועד בכלל.</p>
+         <p>הצבור מתבקש למלא בקפדנות את הטופס הנ"ל ולהחזירו לחנוני המתאים עד לתאריך 12.5.48 הנ"ל.</p>
+         <p>כרטיסי מזון יחולקו אך ורק לצרכנים, אשר מלאו והחזירו את טופס ההרשמה לחנוני עד לתאריך 12.5.48.</p>
+         <closer>
+ועדת המצב שע"י ועד הקהלה העברית - המחלקה הכלכלית
+            <dateline>
+               <date>4.5.48</date>
+               <name type="place">חיפה</name>
+            </dateline>
+         
+      </closer>
+</body>
+  </text>
+</TEI>

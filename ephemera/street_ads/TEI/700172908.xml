@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_minimal.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_minimal.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-stylesheet type="text/css" href="../Oxygen%20XML%20Editor%2016/frameworks/tei/xml/tei/css/tei.css"?>
+<?xml-stylesheet type="text/css" href="nli-transcription.css"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>מחאה נגד חילול שבת וחג</title>
+            <author>לשכת הרבנות בחיפה</author>
+            <respStmt>
+               <name>Mandel Scholion Hebrew Revival Research Group</name>
+               <resp>Transcription of digital file</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <authority>JEMH</authority>
+            <availability><licence target="https://creativecommons.org/licenses/by/4.0/">CC-BY 4.0</licence></availability>
+         </publicationStmt>
+         <sourceDesc xml:lang="Hebrew">
+	<msDesc>
+		<msPart>
+			<msIdentifier>
+				<repository>National Library of Israel</repository>
+				<collection>"Time Travel" Ephemera Collection</collection>
+				<idno>700172908</idno>
+			</msIdentifier>
+		</msPart>
+	</msDesc>
+            <bibl>
+               <date when="1932-09"></date>
+               <distributor>ארכיון העיר חיפה</distributor>
+               <pubPlace>חיפה</pubPlace>
+            </bibl>
+         </sourceDesc>
+                  </fileDesc>
+      <revisionDesc>
+         <change>
+            <date>2017-08-09</date>
+            <name>Jerusalem corpus of Emergent Modern Hebrew (JEMH) staff</name>
+            <note>Created the initial version of the content in TEI-XML</note>
+         </change>
+      </revisionDesc>
+
+  </teiHeader>
+  <text>
+      <body>
+         <head>מחאה גלויה</head>
+         <p>התאגדות הספורטיבית "הפועל" שע"י הסתדרות העובדים הכללית פרסמה בעתונות ובמודעות ע"ד סדור כנוס ימי מכל הארץ בשני ימי ראש השנה אין להאריך בתאור השערוריה הזאת המזעזעת את נפש כל יהודי שזיק היהדות פועם בלבו, לחלל את הימים הכי קדושים ונערצים של העם העברי - שבת וראש השנה באופן כל כך פומבי ומחוצף.</p>
+         <p>אנחנו פנינו להתאגדות "הפועל" ולמפ"ח להפסיק את הפעולה המחפירה הזו ולא נענינו ולכן מוצאים אנו לחובתנו לפנות במחאה גלויה אל הצבור העברי נגד פעולות הרס כאלו הממיטים לא רק חרפה כי אם גם כליון חלילה על עם ישראל וארצו, ודורשים מכל מי שרגש דת ולאומיות פועם בקרבו לא להשתתף בכנוס הזה ולא ללכת לראות כבלע את הקודש.</p>
+         <p>אל כל מוסדות הדתיים הצבוריים והלאומיים המקומיים והמרכזיים אנו פונים בשאלה עד מתי תחשון? האם אין קץ לסבלנותכם? קדמו את פני הרעה ואחזו בכל מיני אמצעי השפעה שבידכם להסיר את חרפת חלול הקודש מעירנו וארצנו ואז נשב על הארץ לבטח.</p>
+         <closer>
+            החותמים בברכת שנה טובה והגשמת היעוד ומלאה הארץ דעה את ה' וכו' לשכת הרבנות בחיפה.
+            <dateline>
+               <date>ערה"ש תרצ"ג</date>
+            </dateline>
+            דפוס א' מרכוס, חיפה מרכז מסחרי
+      </closer>
+</body>
+  </text>
+</TEI>

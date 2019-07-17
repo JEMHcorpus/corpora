@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_minimal.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_minimal.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-stylesheet type="text/css" href="../Oxygen%20XML%20Editor%2016/frameworks/tei/xml/tei/css/tei.css"?>
+<?xml-stylesheet type="text/css" href="nli-transcription.css"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>שבתון כללי כמחאה נגד קצוץ העליה</title>
+            <author>ועד הקהלה</author>
+            <respStmt>
+               <name>Mandel Scholion Hebrew Revival Research Group</name>
+               <resp>Transcription of digital file</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <authority>JEMH</authority>
+            <availability><licence target="https://creativecommons.org/licenses/by/4.0/">CC-BY 4.0</licence></availability>
+         </publicationStmt>
+         <sourceDesc xml:lang="Hebrew">
+	<msDesc>
+		<msPart>
+			<msIdentifier>
+				<repository>National Library of Israel</repository>
+				<collection>"Time Travel" Ephemera Collection</collection>
+				<idno>700173115</idno>
+			</msIdentifier>
+		</msPart>
+	</msDesc>
+            <bibl>
+               <date when="1934-05-22"></date>
+               <distributor>ארכיון העיר חיפה</distributor>
+               <pubPlace>חיפה</pubPlace>
+            </bibl>
+         </sourceDesc>
+                  </fileDesc>
+      <revisionDesc>
+         <change>
+            <date>2017-08-09</date>
+            <name>Jerusalem corpus of Emergent Modern Hebrew (JEMH) staff</name>
+            <note>Created the initial version of the content in TEI-XML</note>
+         </change>
+      </revisionDesc>
+
+  </teiHeader>
+  <text>
+      <body>
+         <opener>לצבור העברי בחיפה!</opener>
+         <p>בהתאם להחלטת אספת הנבחרים מכריז ועד הקהלה על שבתון כללי ביום רביעי ט' סיון (23.5.34) משעה 1 בצהרים עד 7 בערב בתור מחאה נגד קצוץ העליה</p>
+         <p>כל בעלי בתי מסחר, חרשת, אכל, מכוניות, משרדים, פקידים, פועלים, עובדים וכו' מתבקשים ונדרשים להפסיק את העבודה והתנועה בשעה האמורה, בדיוק נמרץ</p>
+         <p>באותו היום תתקימנה אספות מחאה פומביות במקומות דלהלן: בשעה 4 באמפיתיאטרון  בשעה 4 בשכונת בת גלים (בבית הכנסת)  בשעה 4 בנוה שאנן (בבית-עם)  בשעה 4 באחוזת הרברט סמואל (בבית הכנסת)  בשעה 4 בשכונת קרית חיים (בבית-עם)</p>
+         <closer>
+         ועד הקהלה.
+            <dateline>
+               <date>ח' סיון תרצ"ד.</date>
+            </dateline> 
+         דפוס "אמנות" חיפה
+      </closer>
+</body>
+  </text>
+</TEI>

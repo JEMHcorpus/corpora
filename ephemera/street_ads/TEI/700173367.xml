@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_minimal.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_minimal.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-stylesheet type="text/css" href="../Oxygen%20XML%20Editor%2016/frameworks/tei/xml/tei/css/tei.css"?>
+<?xml-stylesheet type="text/css" href="nli-transcription.css"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>הלבשת שרידי האש והחרב</title>
+            <author>הרבנים הראשיים לארץ-ישראל</author>
+            <respStmt>
+               <name>Mandel Scholion Hebrew Revival Research Group</name>
+               <resp>Transcription of digital file</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <authority>JEMH</authority>
+            <availability><licence target="https://creativecommons.org/licenses/by/4.0/">CC-BY 4.0</licence></availability>
+         </publicationStmt>
+         <sourceDesc xml:lang="Hebrew">
+	<msDesc>
+		<msPart>
+			<msIdentifier>
+				<repository>National Library of Israel</repository>
+				<collection>"Time Travel" Ephemera Collection</collection>
+				<idno>700173367</idno>
+			</msIdentifier>
+		</msPart>
+	</msDesc>
+            <bibl>
+               <date when="1945-10-02"></date>
+               <distributor>ארכיון העיר חיפה</distributor>
+               <pubPlace>חיפה</pubPlace>
+            </bibl>
+         </sourceDesc>
+                  </fileDesc>
+      <revisionDesc>
+         <change>
+            <date>2017-08-09</date>
+            <name>Jerusalem corpus of Emergent Modern Hebrew (JEMH) staff</name>
+            <note>Created the initial version of the content in TEI-XML</note>
+         </change>
+      </revisionDesc>
+
+  </teiHeader>
+  <text>
+      <body>
+         <note>בע"ה</note>
+         <opener>אל כל אחינו ואחיותינו בארץ=הקדש</opener>
+         <p>בלב מר ודוי שמענו את הבשורה הרעה על מצבם המיואש של שרידי אחינו באירופה השרופה והאבלה. כל אלה אשר בחסדי ה' נצלו מרצח בתאי הגזים, עלולים ר"ל להספות בצנת החורף הקשה. להם נאמנו דברי איוב: "ערום ילינו מבלי לבוש ואין כסות בקרה". חובת הישוב היא להענות מיד בנפש חפצה וברחמים רבים לקול הקריאה לתרום איש איש מבגדיו למען אחינו המתגוללים ערומים ויחפים ודווים - והחורף מתנכל להשמידם. כל יהודי צריך להענות לתביעת ארגוני הנשים המבצעות את המפעל "כסות החורף - לשארית ישראל במחנות ובדרכים" במשך השבוע ז-י"ב מרחשון תש"ו, ולתת את חלקו בעין יפה כמצווה עלינו מפי הקב"ה: כי תראה ערום וכסיתו, ומבשרך לא תתעלם!</p>
+         <p>אולם יזכור נא כל איש, שאין תרומת הבגד הזאת פוטרת אותו ממכסת הכסף הקבוע ל"מגבית ההתגיסות וההצלה", שאין פטור ממנה וכל המחלישה חותר תחת אשיות קיומנו.</p>
+         <p>אנו מבקשים מכב' הרבנים, הגבאים והמרצים בבתי-הכנסיות לייחד את יום השבת לפרשת נח (ה' מרחשון) להסברת ערך המצוה הקדושה של הלבשת אחינו שרידי האש והחרב, וה' יגמול לכל איש כפעלו כמו שנאמר: "כי יש שכר לפעולתך נאום ה' ושבו מארץ אויב ויש תקוה לאחריתך נאום ה' ושבו בנים לגבולם".</p>
+         <closer>
+הרבנים הראשיים לארץ-ישראל
+            <dateline>
+               <date>כ"ה תשרי תש"ו</date>
+               <name type="place">ירושלים עיה"ק תובב"א</name>
+            </dateline>
+            <signed>
+               <name type="person">(-) יצחק אייזיק הלוי הרצוג</name>,  <name type="person">(-) בן-ציון מאיר חי עוזיאל</name>
+            </signed>
+         
+         דפוס "עבודה", תל-אביב, נחלת-בנימין
+      </closer>
+</body>
+  </text>
+</TEI>

@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_minimal.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_minimal.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-stylesheet type="text/css" href="../Oxygen%20XML%20Editor%2016/frameworks/tei/xml/tei/css/tei.css"?>
+<?xml-stylesheet type="text/css" href="nli-transcription.css"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>יום המפקד</title>
+            <author>הועד הלאומי לכנסת ישראל</author>
+            <respStmt>
+               <name>Mandel Scholion Hebrew Revival Research Group</name>
+               <resp>Transcription of digital file</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <authority>JEMH</authority>
+            <availability><licence target="https://creativecommons.org/licenses/by/4.0/">CC-BY 4.0</licence></availability>
+         </publicationStmt>
+         <sourceDesc xml:lang="Hebrew">
+	<msDesc>
+		<msPart>
+			<msIdentifier>
+				<repository>National Library of Israel</repository>
+				<collection>"Time Travel" Ephemera Collection</collection>
+				<idno>700174279</idno>
+			</msIdentifier>
+		</msPart>
+	</msDesc>
+            <bibl>
+               <date when="1931-11"></date>
+               <distributor>ארכיון העיר חיפה</distributor>
+               <pubPlace>חיפה</pubPlace>
+            </bibl>
+         </sourceDesc>
+                  </fileDesc>
+      <revisionDesc>
+         <change>
+            <date>2017-08-09</date>
+            <name>Jerusalem corpus of Emergent Modern Hebrew (JEMH) staff</name>
+            <note>Created the initial version of the content in TEI-XML</note>
+         </change>
+      </revisionDesc>
+
+  </teiHeader>
+  <text>
+      <body>
+         <head>ליום המפקד!</head>
+         <opener>אל הצבור העברי בארץ</opener>
+         <p>יום המפקד הכללי, יום ח' כסלו, (18 בנובמבר) - ממשמש ובא. טופס השאלון הקובע את אפיו של המפקד הוכן ועובד בהשתתפותם של באי כח הישוב בועדה הממשלתית שנתמנתה בזמנה לשם כך. חברי הועדה היהודית דאגו לזה שהסעיפים השונים בשאלון ינוסחו בתוכן ובצורה אשר יבטיחו את אפיו הדימוגרפי הצרוף של המפקד מבלי שמץ של כוון פוליטי העלול לגרום איזה נזק שהוא לעניני הארץ. במשך כל הזמן נפגשו ההערות וההצעות של חברי הועדה היהודית ביחס של רצון טוב מצד מנהל המפקד.</p>
+         <p>הועד הלאומי שמע בישיבותיו המלאות דו"ח מפורט על מהלך הכנות המפקד, עמד על אי אלו תקלות ולקויים אפשריים וקבל הצעות תקונים מסוימות. אחת הדאגות העקריות של הועד הלאומי בקשר עם המפקד, היתה להבטיח את מצבם החקי של אותם העולים אשר טרם רכשו להם זכות ישיבת קבע בארץ. בפעולה משותפת עם הנהלת הסוכנות הצלחנו להשיג אפשרות להרשמתם החקית של העולים מסוג זה. הפעולה הזאת הולכת ומתקדמת, ולמרות המכשולים שנתקלנו בהם, אנו מקוים שהיא תבוא לידי גמר משביע רצון עד יום המפקד.</p>
+         <p>לצערנו התחילה בשבועות האחרונים תעמולה המתנהלת ע"י קבוצות ויחידים מחוסרי אחריות המכוונת להשפיע על הצבור היהודי שימנע מהמפקד. הננו מזהירים את הצבור מפני תעמולה זו העלולה לגרום נזק רב לכל ענינינו בארץ. המפקד היא עובדה שאין ביכלתנו לשנותה. הוא יצא לפעל במועדו בלי שים לב לתעמולה השלילית המתנהלת סביבו. השתמטות מהמפקד מצד אנשים הנגררים אחרי התעמולה השלילית - לא תביא בשום פנים לידי בטול המפקד. בתנאים כאלה עלולה התעמולה השלילית למפקד לגרום לכל היותר שאלפים אחדים של יהודים לא יתפקדו, זה יביא לידי צמצום מספרנו במפקד, ולזה תוצאות ומסקנות רעות ומזיקות לענינינו ולזכויותינו.</p>
+         <p>יחד עם זה אנו מעירים על סכנה אחרת הנובעת מתוך אדישות או חסר הבנה של שדרות ידועות בצבור ביחסן לשפתנו העברית. אדישות וחסר הבנה אלה מנוצלים ע"י מתנגדי כנסת ישראל מצד אחד וע"י קבוצת אנשים הידועים מכבר כחותרים תחת שפתנו ותרבותנו העברית, מתוך נמוקי התנגדות לציונות. תעמולה זו המכוונת להשפיע על הצבור לרשום כשפת השמוש את כל אותן השפות שהשתמשו בה בגלות - חוץ מהשפה העברית - עלולה להביא לנו נזק לא ישוער לזכויותינו בארץ.</p>
+         <p>החלטת הועד הלאומי המחיבת השתתפות מלאה במפקד - נתקבלה בהסכמה כללית של כל חוגי הישוב האחראיים.</p>
+         <p>אנו דורשים מכל בני הצבור העברי בארץ, לא להשמע למתעתעים ולהשתתף כלם כאיש אחד במפקד.</p>
+         <p>אל תטה אזן לדברי התעמולה נגד שפתך - השפה העברית.</p>
+         <p>איש אל יעדר ואל ידח ממנו נדח ביום הפקודה.</p>
+         <closer>
+         הועד הלאומי לכנסת ישראל
+            <dateline>
+               <date>כסלו - תרצ"ב</date>
+            </dateline>
+            <name type="press">דפוס צוקרמן</name>
+         </closer>
+</body>
+  </text>
+</TEI>

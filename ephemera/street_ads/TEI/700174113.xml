@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_minimal.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_minimal.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-stylesheet type="text/css" href="../Oxygen%20XML%20Editor%2016/frameworks/tei/xml/tei/css/tei.css"?>
+<?xml-stylesheet type="text/css" href="nli-transcription.css"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>טיול לסבים ולסבתות</title>
+            <author>אבא חושי, ראש עירית חיפה</author>
+            <respStmt>
+               <name>Mandel Scholion Hebrew Revival Research Group</name>
+               <resp>Transcription of digital file</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <authority>JEMH</authority>
+            <availability><licence target="https://creativecommons.org/licenses/by/4.0/">CC-BY 4.0</licence></availability>
+         </publicationStmt>
+         <sourceDesc xml:lang="Hebrew">
+	<msDesc>
+		<msPart>
+			<msIdentifier>
+				<repository>National Library of Israel</repository>
+				<collection>"Time Travel" Ephemera Collection</collection>
+				<idno>700174113</idno>
+			</msIdentifier>
+		</msPart>
+	</msDesc>
+            <bibl>
+               <date when="1953-09"></date>
+               <distributor>ארכיון העיר חיפה</distributor>
+               <pubPlace>חיפה</pubPlace>
+            </bibl>
+         </sourceDesc>
+                  </fileDesc>
+      <revisionDesc>
+         <change>
+            <date>2017-08-09</date>
+            <name>Jerusalem corpus of Emergent Modern Hebrew (JEMH) staff</name>
+            <note>Created the initial version of the content in TEI-XML</note>
+         </change>
+      </revisionDesc>
+
+  </teiHeader>
+  <text>
+      <body>
+         <head>עירית חיפה</head>
+         <opener>אזרחי חיפה הנכבדים!</opener>
+         <p>בשנה השלישית למפעל "והדרת פני זקן" נערוך את טיולנו המסורתי לסבים ולסבתות.</p>
+         <p>על אף הקשיים שהזמן גרמם התנדבו מאות בעלי המכוניות הפרטיות, חברות מוניות ומוסדות שונים להסיע, לשרת ולהדריך את אזרחינו הקשישים מתוך הכרת חשיבות המשימה.</p>
+         <p>אנו שמחים כי גם השנה נוכל להסב מעט נחת-רוח לסבים וסבתות ולאפשר להם להשתחרר ולו ליום אחד מדאגות יום יום וליהנות מטיול ברחבי מולדת.</p>
+         <p>הטיול יערך ביום ד' דחוה"מ סוכות, י"ט תשרי תשי"ד - 28.9.53 החל ביום השני בשבוע והמיועד לאזרחינו מבני 55 ומעלה.</p>
+         <p>הטיול יתחיל בשעות הבקר ויסתיים בשעות אחר הצהרים בקבלת פנים חגיגית ב"גן-האם".</p>
+         <p>המכוניות תצאנה שיירות שיירות מלוות ע"י מדריך ורופא.</p>
+         <p>ההרשמה תתקיים בימים: שני, ה' תשרי 14.9.53 - שלישי, ו' תשרי 15.9.53 בשעות 9-12 לפנה"צ</p>
+         <p>תחנות ההרשמה תפתחנה במקומות דלהלן: הדר הכרמל: 1. בריכת "הפועל", רח' הפועל  2. בנין העיריה, הכניסה הראשית  3. מעון "כרמליה", רח' הרצליה  עיר התחתית: 1. מגרש המשחקים, רח' קבוץ גלויות  2. מוסך פורד, רח' יפו 145  בת גלים: ועד בת גלים  הר הכרמל: ועד הר הכרמל  נוה שאנן: ועד נוה שאנן  קרית חיים: ועד קרית חיים</p>
+         <p>על כל אזרח בגיל 55 ומעלה המבקש להשתתף בטיול להרשם באותה התחנה בה נרשם בשנים הקודמות.</p>
+         <p>הבא להרשם מתבקש להביא תעודת זהות.</p>
+         <closer>
+בברכת שנה טובה לכולכם
+            <signed>
+               <name type="person">אבא חושי</name>
+               ראש העיריה
+            </signed>
+         
+         "אות" דפוס קואופרטיבי בע"מ, חיפה, רח' הרצל 61 טלפון 2973
+      </closer>
+</body>
+  </text>
+</TEI>

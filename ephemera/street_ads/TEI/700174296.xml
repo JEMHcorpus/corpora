@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_minimal.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_minimal.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-stylesheet type="text/css" href="../Oxygen%20XML%20Editor%2016/frameworks/tei/xml/tei/css/tei.css"?>
+<?xml-stylesheet type="text/css" href="nli-transcription.css"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>הרשמה ל"כנסת-ישראל"</title>
+            <author>ועד הקהלה העברית בחיפה</author>
+            <respStmt>
+               <name>Mandel Scholion Hebrew Revival Research Group</name>
+               <resp>Transcription of digital file</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <authority>JEMH</authority>
+            <availability><licence target="https://creativecommons.org/licenses/by/4.0/">CC-BY 4.0</licence></availability>
+         </publicationStmt>
+         <sourceDesc xml:lang="Hebrew">
+	<msDesc>
+		<msPart>
+			<msIdentifier>
+				<repository>National Library of Israel</repository>
+				<collection>"Time Travel" Ephemera Collection</collection>
+				<idno>700174296</idno>
+			</msIdentifier>
+		</msPart>
+	</msDesc>
+            <bibl>
+               <date when="1929-02-15"></date>
+               <distributor>ארכיון העיר חיפה</distributor>
+               <pubPlace>חיפה</pubPlace>
+            </bibl>
+         </sourceDesc>
+                  </fileDesc>
+      <revisionDesc>
+         <change>
+            <date>2017-08-09</date>
+            <name>Jerusalem corpus of Emergent Modern Hebrew (JEMH) staff</name>
+            <note>Created the initial version of the content in TEI-XML</note>
+         </change>
+      </revisionDesc>
+
+  </teiHeader>
+  <text>
+      <body>
+         <opener>אל תפרוש מן הצבור! כל היוצא מ"כנסת ישראל" גורם רעה לעצמו!</opener>
+         <opener>לבני העדה הספרדית בחיפה!</opener>
+         <p>מוצאים אנו לחובה לפנות אליכם בשעת הרת-עולם זו, שעת ארגון הישוב העברי בארץ-ישראל ולהתלכדותו לחטיבה אחת, בקריאתנו זו:</p>
+         <p>אתם שהייתם הראשונים בין העדות העבריות בא"י אתם שעזרתם ביצירת הועד המאוחד "ועד העדה העברית בחיפה", אתם שהייתם החלוצים הראשונים בהכרת חשיבותה של האחדות לטובת עניניו הלאומיים, המדיניים והצבוריים, אתם שהבלטתם מסירות ומרץ בתעמולותיכם המצלחות לבחירות ועד העדה ולאספת הנבחרים, עליכם כעת, בשעה זו שנתנה לנו האפשרות להתארגן בתור מוסד רשמי על ידי "כנסת-ישראל", להעריך את חשיבותו של הארגון הלאומי ולהמשיך את אותה ההתלהבות המופתית שהבלטתם בכל הזדמנות של איזו הופעה לטובת הצבור!</p>
+         <p>אסור למי שהוא להוציא את עצמו מן הכלל! כל הפוגע באחדות האומה כאלו פוגע בבבת עינו!</p>
+         <p>עניניך הדתיים מוגנים יפה יפה על ידי החוקה והא ראיה שכל רבני הקהלות בארץ ישראל, הרבנות המקומית והרבנים הראשיים: הרה"ג אברהם יצחק קוק שליט"א והרה"ג יעקב מאיר שליט"א נרשמו ב"כנסת ישראל" ואלה הם דבריהם שנתפרסמו היום בעתונות העברית: "חובה קדושה מוטלת על כל חרד לדבר ה' להשתתף ב"כנסת ישראל" כדי שיהיה לנו לגיון מגן על כל עניני קדושת ישראל. מצוה רבה היא ועת לעשות לה' להכנס לכנסת-ישראל, לשם שמים בשביל הכונה הרצויה הנ"ל של הצלת הדת והיהדות".</p>
+         <p>אל תאמינו לדברי הבל שמתנגדי "כנסת-ישראל" מפיצים בקרבכם!</p>
+         <p>כל החותם בעד היציאה מ"כנסת ישראל" חותר תחת יסודות האחדות הלאומית-הדתית, חותר תחת קיומו ומביא ח"ו הרס להכלל והפרט!</p>
+         <p>כל מי שנתפס ברשת המסיתים ימהר לשוב בתשובה, לקבל באורים וברורים מאתנו, לבטל את חתימתו הקודמת, ולהכנס לכבודו ולכבוד האומה הישראלית ברשימת "כנסת-ישראל. כי הנך מעונין בזה באופן חיוני.</p>
+         <p>יהודי דע לך! ש"כנסת-ישראל" לא תטיל מסים כבדים עליך, אדרבא מטרתה היא להביא סדר בעניני הקהלה, לפתוח מוסדות חנוך ותרבות, לדאוג לעניים, ליתומים ולאלמנות, לפתוח בתי-מרפא, בתי-חולים ועוד. כמובן שמכל המפעלים האלה יהנו אחינו הספרדים במדת חשובה.</p>
+         <p>שמור על כבוד האומה ואחדותה! והרשם ב"כנסת-ישראל"!</p>
+         <p>משרד ועד הקהלה פתוח בכל יום (חוץ מש"ק) משעה 8-12 לפנ"ה ומשעה 4-7 אחה"צ, ביום הששי משעה 8-2</p>
+         <closer>
+         בברכת אחדות ושלום ועד הקהלה העברית בחיפה.
+            <dateline>
+               <date>ה' אדר א' פ"ט</date>.
+            </dateline>
+            <name type="press">בית דפוס מ. סוכובולסקי</name>, <name type="place">חיפה</name>
+         
+      </closer>
+</body>
+  </text>
+</TEI>

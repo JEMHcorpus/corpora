@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_minimal.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_minimal.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-stylesheet type="text/css" href="../Oxygen%20XML%20Editor%2016/frameworks/tei/xml/tei/css/tei.css"?>
+<?xml-stylesheet type="text/css" href="nli-transcription.css"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>השבוע למען השבת</title>
+            <author>ועד הקהלה העברית  ועד הדר הכרמל</author>
+            <respStmt>
+               <name>Mandel Scholion Hebrew Revival Research Group</name>
+               <resp>Transcription of digital file</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <authority>JEMH</authority>
+            <availability><licence target="https://creativecommons.org/licenses/by/4.0/">CC-BY 4.0</licence></availability>
+         </publicationStmt>
+         <sourceDesc xml:lang="Hebrew">
+	<msDesc>
+		<msPart>
+			<msIdentifier>
+				<repository>National Library of Israel</repository>
+				<collection>"Time Travel" Ephemera Collection</collection>
+				<idno>700173141</idno>
+			</msIdentifier>
+		</msPart>
+	</msDesc>
+            <bibl>
+               <date when="1944-03"></date>
+               <distributor>ארכיון העיר חיפה</distributor>
+               <pubPlace>חיפה</pubPlace>
+            </bibl>
+         </sourceDesc>
+                  </fileDesc>
+      <revisionDesc>
+         <change>
+            <date>2017-08-09</date>
+            <name>Jerusalem corpus of Emergent Modern Hebrew (JEMH) staff</name>
+            <note>Created the initial version of the content in TEI-XML</note>
+         </change>
+      </revisionDesc>
+
+  </teiHeader>
+  <text>
+      <body>
+         <opener>לישוב העברי בחיפה!</opener>
+         <p>בשעה גורלית זו לעמנו, כאשר יהדות הגולה מתבוססת בדמיה וכחות הרס מכל צד מתנכלים להשמידנו - חובה עלינו, העם היושב בציון, לאזור את כל כחותינו למען הבטחת שלמותם של חיינו התרבותיים-הלאומיים וצביונו העברי של הישוב.</p>
+         <p>על הישוב בחיפה, אשר סכנת טשטוש של אפיו העברי גדולה ביותר, רובצת אחריות מיוחדת לעתיד קנינינו התרבותיים-הלאומיים.</p>
+         <p>אחד הערכים הלאומיים היסודיים הקובעים את צביונו העברי של הישוב הוא השבת - יום מנוחה לכל עובד ושבתון מכל מלאכה - אשר ימיה כימי עם ישראל ואשר על קיומה מסרו בני עמנו את נפשם במשך כל הדורות.</p>
+         <p>השבוע למען השבת שהוכרז בחיפה באשור מוסדות הישוב בא להחדיר בלב בני חיפה את הדאגה להשלטתה של מנוחת השבת ולקיום אפיו העברי של ישובנו.</p>
+         <p>אנו פונים לכל יהודי עירנו בדרישה נמרצת לתת יד לעצוב דמותו העברית של הישוב בחיפה ולהמנע מכל פגיעה שהיא בנכס הלאומי היקר ששמו שבת וששמר על אחדות עמנו בכל הזמנים.</p>
+         <p>תהיה נא מנוחת השבת שוררת בכל ענפי החיים, בעבודה, בתחבורה, בתי העסק, מסחר ומלאכה!</p>
+         <closer>
+ועד הקהלה העברית  ועד הדר הכרמל
+            <dateline>
+               <date>אדר, תש"ד.</date>
+            </dateline>
+         
+         דפוס "אמנות" חיפה, הדר רח' סוקולוב 7א
+      </closer>
+</body>
+  </text>
+</TEI>

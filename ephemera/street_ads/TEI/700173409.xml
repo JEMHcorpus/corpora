@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_minimal.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_minimal.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-stylesheet type="text/css" href="../Oxygen%20XML%20Editor%2016/frameworks/tei/xml/tei/css/tei.css"?>
+<?xml-stylesheet type="text/css" href="nli-transcription.css"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>הרכבת אבעבועות</title>
+            <author>ועד הקהלה העברית בחיפה, ועדת הבריאות</author>
+            <respStmt>
+               <name>Mandel Scholion Hebrew Revival Research Group</name>
+               <resp>Transcription of digital file</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <authority>JEMH</authority>
+            <availability><licence target="https://creativecommons.org/licenses/by/4.0/">CC-BY 4.0</licence></availability>
+         </publicationStmt>
+         <sourceDesc xml:lang="Hebrew">
+	<msDesc>
+		<msPart>
+			<msIdentifier>
+				<repository>National Library of Israel</repository>
+				<collection>"Time Travel" Ephemera Collection</collection>
+				<idno>700173409</idno>
+			</msIdentifier>
+		</msPart>
+	</msDesc>
+            <bibl>
+               <date when="1944-06"></date>
+               <distributor>ארכיון העיר חיפה</distributor>
+               <pubPlace>חיפה</pubPlace>
+            </bibl>
+         </sourceDesc>
+                  </fileDesc>
+      <revisionDesc>
+         <change>
+            <date>2017-08-09</date>
+            <name>Jerusalem corpus of Emergent Modern Hebrew (JEMH) staff</name>
+            <note>Created the initial version of the content in TEI-XML</note>
+         </change>
+      </revisionDesc>
+
+  </teiHeader>
+  <text>
+      <body>
+         <head>ועד הקהלה העברית בחיפה</head>
+         <head>ועדת הבריאות</head>
+         <p>בקשר עם מקרים מרובים של מחלת האבעבועות שקרו בארץ ובחיפה הננו מודיעים בזה, כי הרכבת אבעבועות תתחיל:</p>
+         <p>א) מיום א' י"ג בסיון תש"ד, 4.6.44 לתלמידים בבתי הספר.</p>
+         <p>ב) מיום ג' ט"ו בסיון תש"ד 6.6 ש. ז. לקהל בצריף מול הבנין הישן של הדסה (רח' שמריהו לוין) בשעות 5-7 אחה"צ.</p>
+         <p>ג) מיום ג' ט"ו בסיון תש"ד 6.6 ש. ז. לאנשי השרותים: מגן דוד אדום, ה.ג.א., מכבי אש, בבנין מ.ד.א. (רח' השלוח) בשעות 5-7 אחה"צ.</p>
+         <p>הצבור נדרש לטובתו לשים לב להוראות אלו.</p>
+         <closer>"אות", דפוס קואופרטיבי בע"מ, חיפה. טלפון 2973</closer>
+      </body>
+  </text>
+</TEI>

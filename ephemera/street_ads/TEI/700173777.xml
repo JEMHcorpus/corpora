@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_minimal.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_minimal.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-stylesheet type="text/css" href="../Oxygen%20XML%20Editor%2016/frameworks/tei/xml/tei/css/tei.css"?>
+<?xml-stylesheet type="text/css" href="nli-transcription.css"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>כללים לשמירה על הנקיון בבתי העסק והחנויות בהדר הכרמל</title>
+            <author>ועד הדר הכרמל, המחלקה הסניטרית</author>
+            <respStmt>
+               <name>Mandel Scholion Hebrew Revival Research Group</name>
+               <resp>Transcription of digital file</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <authority>JEMH</authority>
+            <availability><licence target="https://creativecommons.org/licenses/by/4.0/">CC-BY 4.0</licence></availability>
+         </publicationStmt>
+         <sourceDesc xml:lang="Hebrew">
+	<msDesc>
+		<msPart>
+			<msIdentifier>
+				<repository>National Library of Israel</repository>
+				<collection>"Time Travel" Ephemera Collection</collection>
+				<idno>700173777</idno>
+			</msIdentifier>
+		</msPart>
+	</msDesc>
+            <bibl>
+               <date when="1944-03"></date>
+               <distributor>ארכיון העיר חיפה</distributor>
+               <pubPlace>חיפה</pubPlace>
+            </bibl>
+         </sourceDesc>
+                  </fileDesc>
+      <revisionDesc>
+         <change>
+            <date>2017-08-09</date>
+            <name>Jerusalem corpus of Emergent Modern Hebrew (JEMH) staff</name>
+            <note>Created the initial version of the content in TEI-XML</note>
+         </change>
+      </revisionDesc>
+
+  </teiHeader>
+  <text>
+      <body>
+         <head>ועד הדר הכרמל המחלקה הסניטרית</head>
+         <head>כללים לשמירה על הנקיון בבתי העסק והחנויות בהדר הכרמל</head>
+         <p>א. אל תשליך החוצה נירות, קפסאות, קליפות, אשפה ולכלוך. צבר את כל הפסלת בתוך פחי האשפה המיועדים לכך.</p>
+         <p>ב. החזק את פחי האשפה מכוסים בתוך החנות או בחצר סמוך לכניסה ובשום פנים לא על המדרכה בחזית הבית.</p>
+         <p>ג. אל תשפוך שום נוזלים ומים לא נקיים על המדרכה והכביש.</p>
+         <p>ד. אל תעמיד לפני החנות סחורות, ארגזים, שקים, בקבוקים וחפצים אחרים.</p>
+         <p>ה. אל תמכור צרכי מזון לא טריים או מקולקלים.</p>
+         <p>ו. כסה את מצרכי האכל בפני זבובים, זוהמא ונגיעת ידי קונים.</p>
+         <p>ז. שמור על נקיון הסחורה והצג אותה בצורה נאה.</p>
+         <p>ח. לבוש בשעת העבודה חלוק נקי.</p>
+         <p>ט. נקה את החנות מדי יום ביומו והחזק אותה במצב של נקיון מחלט</p>
+         <p>י. החזק את החלונות פתוחים במדת האפשר ונקה אותם מדי שבוע בשבוע.</p>
+         <p>בכל ענינים סניטריים פנה אל המחלקה הסניטרית שליד ועד הדר הכרמל (בית "תלפיות" - טלפון 4214) וברצון תענה.</p>
+         <p>ביחסנו חשיבות רבה לצרך בשפור התנאים הסניטריים בבתי העסק והחנויות אנו פונים אל כל חברינו בדרישה להקפיד על מלוי ההוראות הנ"ל.</p>
+         <closer>
+            <dateline>
+               <date>אדר תש"ד - מרס 1944</date>
+               <name type="place">חיפה</name>
+            </dateline>
+         
+      </closer>
+</body>
+  </text>
+</TEI>

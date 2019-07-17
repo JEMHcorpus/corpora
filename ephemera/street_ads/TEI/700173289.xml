@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_minimal.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_minimal.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-stylesheet type="text/css" href="../Oxygen%20XML%20Editor%2016/frameworks/tei/xml/tei/css/tei.css"?>
+<?xml-stylesheet type="text/css" href="nli-transcription.css"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>היאבקות הישוב על זכויותיו</title>
+            <author>ועד הקהלה העברית בחיפה</author>
+            <respStmt>
+               <name>Mandel Scholion Hebrew Revival Research Group</name>
+               <resp>Transcription of digital file</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <authority>JEMH</authority>
+            <availability><licence target="https://creativecommons.org/licenses/by/4.0/">CC-BY 4.0</licence></availability>
+         </publicationStmt>
+         <sourceDesc xml:lang="Hebrew">
+	<msDesc>
+		<msPart>
+			<msIdentifier>
+				<repository>National Library of Israel</repository>
+				<collection>"Time Travel" Ephemera Collection</collection>
+				<idno>700173289</idno>
+			</msIdentifier>
+		</msPart>
+	</msDesc>
+            <bibl>
+               <date when="1946-06-30"></date>
+               <distributor>ארכיון העיר חיפה</distributor>
+               <pubPlace>חיפה</pubPlace>
+            </bibl>
+         </sourceDesc>
+                  </fileDesc>
+      <revisionDesc>
+         <change>
+            <date>2017-08-09</date>
+            <name>Jerusalem corpus of Emergent Modern Hebrew (JEMH) staff</name>
+            <note>Created the initial version of the content in TEI-XML</note>
+         </change>
+      </revisionDesc>
+
+  </teiHeader>
+  <text>
+      <body>
+         <opener>לישוב העברי בחיפה</opener>
+         <p>בהתגרות האחרונה של הממשלה בנפש מפעל התקומה הציונית, בתפיסת משרדי הסוכנות היהודית ומאסר מרבית חברי הנהלתה שבארץ, במאסר יו"ר הועד הלאומי ורבים מטובי עסקני הישוב, בהתנפלות על ישובים שקטים ובהריסת פרי עמל של עשרות שנות עבודה חלוצית - בהתגרות זו הגיעה ממשלת הספר הלבן לשיא שטרם היה כמוהו גם בדרך הארוכה של ההתנקשויות במפעלנו.</p>
+         <p>כדי להוסיף התעללות על התנפלות הוצאו כל המעשים האלה ביום השבת.</p>
+         <p>הממשלה מנסה להעמיד פנים שמעשיה מכוונים כלפי מיעוט קטן של מפירי שלום בלבד וכפועל כוונו המעשים האלה כלפי הישוב כולו ובראש וראשונה כלפי בחיריו וטובי בניו.</p>
+         <p>אנו מכריזים קבל עם שכל יהודי חיפה על מוסדותיהם ונציגיהם עומדים כאיש אחד לפקודת מוסדותינו הלאומיים, הסוכנות היהודית והועד הלאומי, במלחמתם ללא חת בעד בטול הספר הלבן והשגת קוממיותו של עם ישראל בארצו.</p>
+         <p>יהודי חיפה! היאבקות הישוב על זכויותיו תמשך ביתר שאת וביתר משמעת. בל יפעל איש על דעת עצמו. במלחמת הישוב תוך משמעת - ערובה לנצחוננו הלאומי.</p>
+         <closer>
+ועד הקהלה העברית בחיפה.
+            <dateline>
+               <date>א' בתמוז תש"ו  30.6.46</date>
+               <name type="place">חיפה</name>
+            </dateline>
+         
+         דפוס מ. סוכובולסקי, חיפה
+      </closer>
+</body>
+  </text>
+</TEI>

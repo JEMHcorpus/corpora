@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_minimal.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_minimal.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-stylesheet type="text/css" href="../Oxygen%20XML%20Editor%2016/frameworks/tei/xml/tei/css/tei.css"?>
+<?xml-stylesheet type="text/css" href="nli-transcription.css"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>מחיר הבשר</title>
+            <author>ועד הקהלה, ועדת המצב</author>
+            <respStmt>
+               <name>Mandel Scholion Hebrew Revival Research Group</name>
+               <resp>Transcription of digital file</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <authority>JEMH</authority>
+            <availability><licence target="https://creativecommons.org/licenses/by/4.0/">CC-BY 4.0</licence></availability>
+         </publicationStmt>
+         <sourceDesc xml:lang="Hebrew">
+	<msDesc>
+		<msPart>
+			<msIdentifier>
+				<repository>National Library of Israel</repository>
+				<collection>"Time Travel" Ephemera Collection</collection>
+				<idno>700173274</idno>
+			</msIdentifier>
+		</msPart>
+	</msDesc>
+            <bibl>
+               <date when="1948-01-28"></date>
+               <distributor>ארכיון העיר חיפה</distributor>
+               <pubPlace>חיפה</pubPlace>
+            </bibl>
+         </sourceDesc>
+                  </fileDesc>
+      <revisionDesc>
+         <change>
+            <date>2017-08-09</date>
+            <name>Jerusalem corpus of Emergent Modern Hebrew (JEMH) staff</name>
+            <note>Created the initial version of the content in TEI-XML</note>
+         </change>
+      </revisionDesc>
+
+  </teiHeader>
+  <text>
+      <body>
+         <opener>לישוב העברי בחיפה!</opener>
+         <p>למען מנוע ספסרות והעלאת מחירי הבשר נפסקה זה כ-5 שבועות שחיטת הבקר ומכירת הבשר, לפי הצו של המוסדות העליונים</p>
+         <p>בהתאם להוראות הועד הלאומי מאמש מתחדשת השחיטה, בתנאי שמחיר הבשר לא יעלה על 620 מא"י הק"ג לצרכן, ז. א. 124 מא"י בעד 200 גרם</p>
+         <p>האטליזים יהיו פתוחים רק בימים: רביעי, חמישי, וששי בשבוע.</p>
+         <p>הקהל נדרש, לטובתו הוא, להודיע למחלקת הכלכלה של ועדת המצב, בשוק תלפיות (ועד הדר הכרמל) על כל מקרה של דרישת המחיר העולה על 620 מא"י וכמו כן על כל מקרה של סירוב למכור בשר במחיר הקבוע.</p>
+         <closer>
+ועד הקהלה, ועדת המצב
+            <dateline>
+               <date>י"ז בשבט תש"ח (28.1.48)</date>
+            </dateline>
+         
+         דפוס "הדר הכרמל" (אשל)
+      </closer>
+</body>
+  </text>
+</TEI>

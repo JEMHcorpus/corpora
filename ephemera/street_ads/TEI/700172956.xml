@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_minimal.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_minimal.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-stylesheet type="text/css" href="../Oxygen%20XML%20Editor%2016/frameworks/tei/xml/tei/css/tei.css"?>
+<?xml-stylesheet type="text/css" href="nli-transcription.css"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>צו להבטחת חלוקה צודקת של נפט</title>
+            <author>ועד הקהלה העברית בחיפה</author>
+            <respStmt>
+               <name>Mandel Scholion Hebrew Revival Research Group</name>
+               <resp>Transcription of digital file</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <authority>JEMH</authority>
+            <availability><licence target="https://creativecommons.org/licenses/by/4.0/">CC-BY 4.0</licence></availability>
+         </publicationStmt>
+         <sourceDesc xml:lang="Hebrew">
+	<msDesc>
+		<msPart>
+			<msIdentifier>
+				<repository>National Library of Israel</repository>
+				<collection>"Time Travel" Ephemera Collection</collection>
+				<idno>700172956</idno>
+			</msIdentifier>
+		</msPart>
+	</msDesc>
+            <bibl>
+               <date when="1948-03-07"></date>
+               <distributor>ארכיון העיר חיפה</distributor>
+               <pubPlace>חיפה</pubPlace>
+            </bibl>
+         </sourceDesc>
+                  </fileDesc>
+      <revisionDesc>
+         <change>
+            <date>2017-08-09</date>
+            <name>Jerusalem corpus of Emergent Modern Hebrew (JEMH) staff</name>
+            <note>Created the initial version of the content in TEI-XML</note>
+         </change>
+      </revisionDesc>
+
+  </teiHeader>
+  <text>
+      <body>
+         <head>צו להבטחת חלוקה צודקת של נפט</head>
+         <p>1. צו זה יקרא "צו להבטחת חלוקה צודקת של נפט".</p>
+         <p>2. כל מחלק נפט יחלק את הנפט אך ורק לפי סדור בכתב מועדת המצב ואסור לו למכור נפט בכל אזור או מקום אחר. אסור לכל אדם לקנות נפט מחוץ לאזור אשר בו הוא גר.</p>
+         <p>3. אסור למכור או לקנות נפט ברחוב או על יד העגלה (פרט לפי תעודת אשור מועדת המצב). כל מחלק נפט מחויב להמציא את הנפט לביתו של הצרכן. מחיר הנפט נקבע ע"י ועדת המצב מזמן לזמן וכולל את התשלום למחלק בעד הבאת הנפט לבית הצרכן.</p>
+         <p>4. אסור למחלק נפט לספק למשפחה אחת יותר מאשר פח אחד של נפט בהקפה אחת של האזור המיועד לו, ואסור לכל אדם לקנות נפט בכמות העולה על זו שנקבעה בסעיף זה.</p>
+         <p>5. מחובתו של כל מחלק נפט בכל הקפה אחת של האזור המיועד לו לספק נפט לכל הצרכנים שבאזורו.</p>
+         <p>6. אסור למחלק נפט לדרוש או לקבל מחיר יותר גבוה מאשר נקבע ע"י ועדת המצב בעד פח נפט או כל סכום יחסי בעד חלק של פח נפט.</p>
+         <p>7. כל אדם העובר עבירה על הוראות צו זה, יהיה עלול להענש ע"י הועדה המיו-חדת למלחמה בספסרות.</p>
+         <p>8. תהא זו הגנה טובה לנאשם על עבירה לפי צו זה אם יוכיח כי עשה את המעשה אשר ביחס אליו הוא נאשם על פי הוראה, דרישה, פקודה או צו של כל מוסד מוסמך כפי שהוגדר לתקנת הפיקוח של מצרכים חיוניים.</p>
+         <p>9. צו זה בא להוסיף ולא לגרוע מכל חוק הנמצא בתקפו ביחס להספקת נפט.</p>
+         <closer>
+ועד הקהלה העברית בחיפה
+            <dateline>
+               <date>כו' אדר א' תש"ח (7.3.48)</date>
+            </dateline>
+         דפוס "אמנות" חיפה, רח' סוקולוב א7
+      </closer>
+</body>
+  </text>
+</TEI>

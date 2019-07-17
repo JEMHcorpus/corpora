@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_minimal.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_minimal.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-stylesheet type="text/css" href="../Oxygen%20XML%20Editor%2016/frameworks/tei/xml/tei/css/tei.css"?>
+<?xml-stylesheet type="text/css" href="nli-transcription.css"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>הסדרת חלוקת הנפט</title>
+            <author>ועדת המצב</author>
+            <respStmt>
+               <name>Mandel Scholion Hebrew Revival Research Group</name>
+               <resp>Transcription of digital file</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <authority>JEMH</authority>
+            <availability><licence target="https://creativecommons.org/licenses/by/4.0/">CC-BY 4.0</licence></availability>
+         </publicationStmt>
+         <sourceDesc xml:lang="Hebrew">
+	<msDesc>
+		<msPart>
+			<msIdentifier>
+				<repository>National Library of Israel</repository>
+				<collection>"Time Travel" Ephemera Collection</collection>
+				<idno>700172935</idno>
+			</msIdentifier>
+		</msPart>
+	</msDesc>
+            <bibl>
+               <date when="1948-01"></date>
+               <distributor>ארכיון העיר חיפה</distributor>
+               <pubPlace>חיפה</pubPlace>
+            </bibl>
+         </sourceDesc>
+                  </fileDesc>
+      <revisionDesc>
+         <change>
+            <date>2017-08-09</date>
+            <name>Jerusalem corpus of Emergent Modern Hebrew (JEMH) staff</name>
+            <note>Created the initial version of the content in TEI-XML</note>
+         </change>
+      </revisionDesc>
+
+  </teiHeader>
+  <text>
+      <body>
+         <opener>הודעה מועדת המצב</opener>
+         <p>א) הסדרת חלוקת הנפט</p>
+         <p>בכדי למנוע התקהלויות ועמידה בתור ע"י עגלות של מובילי נפט וכמו-כן להבטיח חלוקה מסודרת של הנפט באזורי הדר-הכרמל, החליטה ועדת המצב שהחל מ-27.1.48 (יום שלישי) יחולק הנפט ישר לדירת הצרכן והחלוקה תעשה לפי רחובות וגושי בתים מבית לבית.</p>
+         <p>על מחלק הנפט הוטל אסור מוחלט למכור נפט ע"י העגלה ברחוב ובכמות העולה על פח נפט לכל משפחה. הצבור מתבקש לבא לעזרת מחלקי הנפט בשמירה על הסדור שנקבע.</p>
+         <p>ב) אזורי החלוקה.</p>
+         <p>1. אזור מס' 1 - רח' גאולה, בן-זכאי, יבנה ושכ' המעין.  2. אזור מס' 2 - רח' תבור, חרמון, שלוח זבולון, בצלאל, גלעד, ארנון, הרצל (מבית התעשיה עד ביל"ו), ביתר, בר-כוכבא.  3. אזור מס' 3 - רח' בר-גיורא, כנרת, הס, הפועל, החשמונאים.  4. אזור מס' 4 - רח' יל"ג, לונץ, סירקין, שפירא, רח' בית המשפט, הנביאים, החלוץ (משמריהו לוין עד נביאים), יואל, יונה, שמריהו לוין (עד בית המשפט).  5. אזור מס' 5 - רח' ברזילי, שומר, סוקולוב, החלוץ (מיחיאל עד שפירא)  6. אזור מס' 6 - רח' ירושלים, פבזנר, הגדם, תל-חי, מסדה (עד רח' שמואל), אושה, בלפור, חיים (מירושלים עד הסוף), יהושע, מלצ'ט מנחם.  7. אזור מס' 7 - רח' הרצל (מבילו עד רח' הנביאים), החלוץ (משפירא עד שמריהו לוין), נורדאו, ארלוזורוב (עד תבור), רח' סיר אוליפנט, ביאליק, ברולד, חיים (מהרצל עד ירושלים), ד"ר יפה.  8. אזור מס' 8 - רח' יל"ג, ברזילי (רק בתים משותפים), החלוץ (פנת סוקולוב עד יחיאל), בילו, יחיאל, הקישון.  9. אזור מס' 9 - רח' בן-יהודה, הגאי, בן-שמן, השלום, גדעון, שמריה לוין (מהתכניון עד החלוץ), אבן-עזרא, טבריה, הרצליה.  10. אזור מס' 10 - רח' ארלוזורוב (ממיכאל עד הסוף), הלל, מסדה, (מרח' שמואל עד הסוף), פרישמן.</p>
+         <p>כל הרחובות שלא נכללו ברשימה הנ"ל, יבוא עליהם סדור מיוחד.</p>
+         <closer>
+		 <name type="organization">ועדת המצב</name>
+         
+         דפוס "אמנות" חיפה, רח' סוקולוב א7
+      </closer>
+</body>
+  </text>
+</TEI>

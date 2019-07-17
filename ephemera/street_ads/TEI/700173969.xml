@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_minimal.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_minimal.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-stylesheet type="text/css" href="../Oxygen%20XML%20Editor%2016/frameworks/tei/xml/tei/css/tei.css"?>
+<?xml-stylesheet type="text/css" href="nli-transcription.css"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>מפעל השקט</title>
+            <author>אבא חושי ראש העיריה</author>
+            <respStmt>
+               <name>Mandel Scholion Hebrew Revival Research Group</name>
+               <resp>Transcription of digital file</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <authority>JEMH</authority>
+            <availability><licence target="https://creativecommons.org/licenses/by/4.0/">CC-BY 4.0</licence></availability>
+         </publicationStmt>
+         <sourceDesc xml:lang="Hebrew">
+	<msDesc>
+		<msPart>
+			<msIdentifier>
+				<repository>National Library of Israel</repository>
+				<collection>"Time Travel" Ephemera Collection</collection>
+				<idno>700173969</idno>
+			</msIdentifier>
+		</msPart>
+	</msDesc>
+            <bibl>
+               <date when="1951-05-16"></date>
+               <distributor>ארכיון העיר חיפה</distributor>
+               <pubPlace>חיפה</pubPlace>
+            </bibl>
+         </sourceDesc>
+                  </fileDesc>
+      <revisionDesc>
+         <change>
+            <date>2017-08-09</date>
+            <name>Jerusalem corpus of Emergent Modern Hebrew (JEMH) staff</name>
+            <note>Created the initial version of the content in TEI-XML</note>
+         </change>
+      </revisionDesc>
+
+  </teiHeader>
+  <text>
+      <body>
+         <head>מודעה עירונית מס' 51|45</head>
+         <head>עירית חיפה</head>
+         <opener>אל כל אזרחי חיפה!</opener>
+         <p>מפעל השקט בעיר הצליח. עתה כל אזרח בעיר מתברך בו.</p>
+         <p>הנהגים רובם ככולם, נהגי "שחר", נהגי המוניות ונהגי מכוניות המשא מקיימים מתוך רצון והכרה את הצוו.</p>
+         <p>רופאים, אחיות, מורים גננות ובעיקר רבבות אמהות יודעים ומעריכים את ההשפעה החיובית הטובה והמרגיעה שהפסקת הצפירות השפיעה על עצבי רבבות ילדינו היקרים.</p>
+         <p>אולם המפעל הזה הביא לעוד תוצאה אחת חשובה לעין ערוך: הקטנת מספר התאונות בדרכים. במשך החודשיים מרס - אפריל ירד מספר התאונות בעירנו ב - 50%! ובימי חגיגות העצמאות - לא אירעה בעירנו אף תאונה אחת! בה בשעה שבתל-אביב אירעו למעלה מ-60 תאונות באותם הימים! אתם אזרחי חיפה היקרים, יכולים ע"כ בצדק, להתגאות בעירכם הממושמעת!</p>
+         <p>אולם אליה וקוץ בה! ישנו עדיין מספר קטן של נהגים, ומחלקי קרח, עבריינים להכעיס, המפירים את הצוו, - וממשיכים להשתמש בצופרים! הניתן לקומץ קטן לזלזל בנו, להפריע את השקט, להרבות בתאונות ולמרוט את עצבי ילדינו?! בקשתי שטוחה לפניכם! הודיעו לנו בכתב על כל נהג שישתמש בצופר! (מספר המכונית, המקום והשעה שבו השתמש בצופר וכתובת שני עדים). העירו במקום לכל נהג על מעשהו, הנלוז! הגיבו בנימוס אבל גם בתקיפות!</p>
+         <closer>
+            <dateline>
+               <date>י' אייר תשי"א (16.5.51)</date>
+               <name type="place">בית העיריה</name>
+            </dateline>
+            <signed>
+               <name type="person">אבא חושי</name>
+            </signed>
+            ראש העיריה
+      </closer>
+</body>
+  </text>
+</TEI>

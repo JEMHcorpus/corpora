@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_minimal.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_minimal.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-stylesheet type="text/css" href="../Oxygen%20XML%20Editor%2016/frameworks/tei/xml/tei/css/tei.css"?>
+<?xml-stylesheet type="text/css" href="nli-transcription.css"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>גירוש מעפילים</title>
+            <author>ועדת המצב של ועד הקהלה בחיפה</author>
+            <respStmt>
+               <name>Mandel Scholion Hebrew Revival Research Group</name>
+               <resp>Transcription of digital file</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <authority>JEMH</authority>
+            <availability><licence target="https://creativecommons.org/licenses/by/4.0/">CC-BY 4.0</licence></availability>
+         </publicationStmt>
+         <sourceDesc xml:lang="Hebrew">
+	<msDesc>
+		<msPart>
+			<msIdentifier>
+				<repository>National Library of Israel</repository>
+				<collection>"Time Travel" Ephemera Collection</collection>
+				<idno>700173527</idno>
+			</msIdentifier>
+		</msPart>
+	</msDesc>
+            <bibl>
+               <date when="1947-03-13"></date>
+               <distributor>ארכיון העיר חיפה</distributor>
+               <pubPlace>חיפה</pubPlace>
+            </bibl>
+         </sourceDesc>
+                  </fileDesc>
+      <revisionDesc>
+         <change>
+            <date>2017-08-09</date>
+            <name>Jerusalem corpus of Emergent Modern Hebrew (JEMH) staff</name>
+            <note>Created the initial version of the content in TEI-XML</note>
+         </change>
+      </revisionDesc>
+
+  </teiHeader>
+  <text>
+      <body>
+         <opener>ליהודי חיפה!</opener>
+         <p>ממשלת ה"ספר הלבן" ממשיכה בגירוש אחים מעפילים.</p>
+         <p>לפני כשבוע גורשו בחטף בחשכת הליל כ-600 מעפילים.</p>
+         <p>שלשום ירדו מעפילים בדרום הארץ, נתפסו בחלקם והועברו לחיפה לשם גירוש. אחינו אלה זכו לעבור לארכה של הארץ וראו שדות וכרמי יהודה, השרון והשומרון.</p>
+         <p>היד הפושעת של השלטון לא נרתעה מלגרשם באניות כלא ממולדתם.</p>
+         <p>ברכת עידוד לאחים מעפילים, אל יפול רוחכם - עוד בוא תבואו לארץ ביחד עם רבבות ומאות אלפים!</p>
+         <p>תבורך גם כל יד מסייעת להעפלה!</p>
+         <p>ולממשלה ייאמר: העליה לא תפסק! כאיש אחד יסייע הישוב כולו להמשכתה בכל הדרכים והאמצעים.</p>
+         <p>נגביר את מאמצינו ביתר עוז וביתר שאת ונגדיל את עזרתנו לצרכי ההעפלה!</p>
+         <closer>
+ועדת המצב של ועד הקהלה בחיפה
+            <dateline>
+               <date>כ"א באדר תש"ז  13.3.47</date>
+               <name type="place">חיפה</name>
+            </dateline>
+         
+      </closer>
+</body>
+  </text>
+</TEI>

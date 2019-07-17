@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_minimal.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_minimal.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-stylesheet type="text/css" href="../Oxygen%20XML%20Editor%2016/frameworks/tei/xml/tei/css/tei.css"?>
+<?xml-stylesheet type="text/css" href="nli-transcription.css"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>צו ההתגוננות הלשונית והתרבותית</title>
+            <author>הנהלת הועד הלאומי</author>
+            <respStmt>
+               <name>Mandel Scholion Hebrew Revival Research Group</name>
+               <resp>Transcription of digital file</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <authority>JEMH</authority>
+            <availability><licence target="https://creativecommons.org/licenses/by/4.0/">CC-BY 4.0</licence></availability>
+         </publicationStmt>
+         <sourceDesc xml:lang="Hebrew">
+	<msDesc>
+		<msPart>
+			<msIdentifier>
+				<repository>National Library of Israel</repository>
+				<collection>"Time Travel" Ephemera Collection</collection>
+				<idno>700173576</idno>
+			</msIdentifier>
+		</msPart>
+	</msDesc>
+            <bibl>
+               <date when="1939-10-22"></date>
+               <distributor>ארכיון העיר חיפה</distributor>
+               <pubPlace>חיפה</pubPlace>
+            </bibl>
+         </sourceDesc>
+                  </fileDesc>
+      <revisionDesc>
+         <change>
+            <date>2017-08-09</date>
+            <name>Jerusalem corpus of Emergent Modern Hebrew (JEMH) staff</name>
+            <note>Created the initial version of the content in TEI-XML</note>
+         </change>
+      </revisionDesc>
+
+  </teiHeader>
+  <text>
+      <body>
+         <head>הועד הלאומי לכנסת ישראל בארץ ישראל</head>
+         <head>צו ההתגוננות הלשונית והתרבותית</head>
+         <p>א) הועד הלאומי לכנסת ישראל בארץ-ישראל קורא לכל הישוב לקבל עליו את מרותה השלמה והיחידה של לשוננו העברי.</p>
+         <p>ב) כל היודע עברית כל שהיא מחויב לדבר בה ואך בה - בבית, בחוץ, במקום העבודה. הדבור בלשון אחרת שלא מתוך הכרח יחשב לפגיעה ברצון האומה.</p>
+         <p>ג) ביחוד יש לשמור על טהרת הדיבור בעברית בכל בימה ובכל מקום צבורי. יש להקפיד על כך שהדרשות, הנאומים והשעורים בבתי כנסיות ובבתי מדרשות יהיו אך ורק בלשוננו העברית, המאחדת את כל הישוב מעל למחיצת של עדות ושל המוצא מארצות הגולה השונות.</p>
+         <p>ד) כל שאינו יודע עברית מחויב להכנס מיד ללמוד הלשון ולהתחיל לדבר בה מיד לאחר שירכש לו בה ידיעות ראשונות.</p>
+         <p>ה) בחינות לעולים בידיעת מינימום של הלשון תערכנה מטעם מחלקת התרבות בכל מקום בארץ. התעודות שיקבלו הנבחרים תועלנה להם בקבלת עבודות בארץ.</p>
+         <p>ו) כל איש מישראל מחויב להחליף את שמו הלועזי בשם עברי. ועדת שמות מיוחדת, ליד מחלקת התרבות של הועד הלאומי, תטפל בשינוי השמות וקביעתם.</p>
+         <p>ז) מחוץ לעתונות בשלש השפות הרשמיות יש לחסל את העתונות הלועזית המופיעה כאן ושנועדה לקורא היהודי בארץ.</p>
+         <p>ח) במכתבים, מודעות ומסמכים יש להשתמש בתאריך עברי.</p>
+         <p>ט) בשלטים יש להבליט את הכתבות העבריות.</p>
+         <p>י) כל יהודי הפונה בכתב למוסדות הממשלה והעיריות חייב לכתוב עברית.</p>
+         <p>יא) יש לדרוש מאת כל מוסדות הממשלה שיפנו בכל עת ובכל מקום אל כל איש עברי בלשוננו.</p>
+         <p>יב) בבית המשפט אל ידבר יהודי אלא עברית, ואל ילמד פרקליט סניגוריה על שולחו העברי אלא בעברית.</p>
+         <p>יג) לשם חסול הבורות ולשם השלטת הלשון העברית בפינו ובלבנו נקרא כל בוגר להיענות לקריאת המחלקה לתרבות ולקבל עליו את תרומת התרבות כחובה. ההשתתפות המלאה של אוכלוסיתנו הבוגרת רק היא תציל את חיינו מלעז ואת ילדינו מהזנחה, תוסיף חנוך לנער והשכלה לעם ותרים את קרן האמנות היהודית.</p>
+         <p>תקום-נא האוטונומיה התרבותית העברית השלמה בארץ-ישראל! בדרך למדינת היהודים תחי העצמאות היהודית הגמורה!</p>
+         <closer>
+         הנהלת הועד הלאומי
+            <dateline>
+               <date>ט' מרחשון ת"ש (22.10.39)</date>
+            </dateline>
+         
+         דפוס ורהפטיג, חיפה רחוב הנמל.
+      </closer>
+</body>
+  </text>
+</TEI>

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_minimal.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_minimal.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-stylesheet type="text/css" href="../Oxygen%20XML%20Editor%2016/frameworks/tei/xml/tei/css/tei.css"?>
+<?xml-stylesheet type="text/css" href="nli-transcription.css"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>חגיגת יום העליה</title>
+            <author>הקבוץ הארצי השומר הצעיר - קבוץ עברון</author>
+            <respStmt>
+               <name>Mandel Scholion Hebrew Revival Research Group</name>
+               <resp>Transcription of digital file</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <authority>JEMH</authority>
+            <availability><licence target="https://creativecommons.org/licenses/by/4.0/">CC-BY 4.0</licence></availability>
+         </publicationStmt>
+         <sourceDesc xml:lang="Hebrew">
+	<msDesc>
+		<msPart>
+			<msIdentifier>
+				<repository>National Library of Israel</repository>
+				<collection>"Time Travel" Ephemera Collection</collection>
+				<idno>700172814</idno>
+			</msIdentifier>
+		</msPart>
+	</msDesc>
+            <bibl>
+               <date when="1945-10"></date>
+               <distributor>ארכיון העיר חיפה</distributor>
+               <pubPlace>חיפה</pubPlace>
+            </bibl>
+         </sourceDesc>
+                  </fileDesc>
+      <revisionDesc>
+         <change>
+            <date>2017-08-09</date>
+            <name>Jerusalem corpus of Emergent Modern Hebrew (JEMH) staff</name>
+            <note>Created the initial version of the content in TEI-XML</note>
+         </change>
+      </revisionDesc>
+
+  </teiHeader>
+  <text>
+      <body>
+         <head>הקבוץ הארצי השומר הצעיר - קבוץ עברון</head>
+         <p>ביום חמישי 18 באוקטובר 1945 תתקיים חגיגת יום העליה על הקרקע של קבוץ עברון</p>
+         <p>בתכנית: בשעה 2.30 אחה"צ - החברים והאורחים מתכנסים במחנה הקבוץ בעין-שרה  2.30-3.30 - בקור בתערוכה  3.30 - תהלוכה לגבעה - מקום=ההתישבות  4  - ירית אבן הפנה  - נאומים וברכות  - רקודים בהדרכת רחל נדב  - מקהלה בנצוחו של משה ביק</p>
+         <p>צבור הפועלים וכל תושבי נהריה מוזמנים.</p>
+         <p>הזמנות פרטיות לא תשלחנה.</p>
+         <closer>"אות" דפוס קואופרטיבי בע"מ, חיפה, טלפון 2973</closer>
+      </body>
+  </text>
+</TEI>

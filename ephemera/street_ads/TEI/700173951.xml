@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_minimal.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_minimal.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-stylesheet type="text/css" href="../Oxygen%20XML%20Editor%2016/frameworks/tei/xml/tei/css/tei.css"?>
+<?xml-stylesheet type="text/css" href="nli-transcription.css"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>תערוכת ים-סוף בחיפה</title>
+            <author>המחלקה לחינוך של עירית חיפה</author>
+            <respStmt>
+               <name>Mandel Scholion Hebrew Revival Research Group</name>
+               <resp>Transcription of digital file</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <authority>JEMH</authority>
+            <availability><licence target="https://creativecommons.org/licenses/by/4.0/">CC-BY 4.0</licence></availability>
+         </publicationStmt>
+         <sourceDesc xml:lang="Hebrew">
+	<msDesc>
+		<msPart>
+			<msIdentifier>
+				<repository>National Library of Israel</repository>
+				<collection>"Time Travel" Ephemera Collection</collection>
+				<idno>700173951</idno>
+			</msIdentifier>
+		</msPart>
+	</msDesc>
+            <bibl>
+               <date when="1959-12"></date>
+               <distributor>ארכיון העיר חיפה</distributor>
+               <pubPlace>חיפה</pubPlace>
+            </bibl>
+         </sourceDesc>
+                  </fileDesc>
+      <revisionDesc>
+         <change>
+            <date>2017-08-09</date>
+            <name>Jerusalem corpus of Emergent Modern Hebrew (JEMH) staff</name>
+            <note>Created the initial version of the content in TEI-XML</note>
+         </change>
+      </revisionDesc>
+
+  </teiHeader>
+  <text>
+      <body>
+         <head>תערוכת ים-סוף בחיפה</head>
+         <opener>הורים נכבדים!</opener>
+         <p>במוצאי-שבת, 26.12.59, א' חנוכה, תיפתח בחיפה תערוכת "ים-סוף" - תערוכת דגי אילת, הכוללת דגים בני 55 משפחות - בשלל צבעים וצורות מפליאות.</p>
+         <p>התערוכה נערכת באולמי "חן", ברח' שבתאי לוי, ליד כיכר מסריק (תחנת "כרמלית" ברחוב הנביאים) במקום מרכזי, והגישה אליה קלה ונוחה מכל קצוות העיר.</p>
+         <p>ארגון התערוכה נמסר לידיה המאומנות של חברת תערוכות ישראל, בע"מ, חיפה (תערוכות הפרחים, ת"י 56, תחביב), בשיתוף עם המחלקה לחינוך של עירית חיפה.</p>
+         <p>התערוכה תהא פתוחה כל יום בשעות 1-10 לפנה"צ, 9.30-4 בערב. בערב-שבת התערוכה סגורה. לביקור בשבת יש להכין כרטיסים מראש.</p>
+         <p>בשבוע של חנוכה ומספר ימים לאחר-מכן יש באפשרותכם להיה-נות ולגרום הנאה לילדיכם על-ידי ביקור בתערוכה יפה, חינוכית ומאלפת זו. היא מחכה לכם.</p>
+         <p>מחיר הכרטיס הוא 0.75 ל"י למבוגר ו-0.50 ל"י לילד. לקבוצות תלמידים מאורגנות בכיתות - הנחה (0.35 ל"י)</p>
+         <closer>
+המחלקה לחינוך
+      </closer>
+</body>
+  </text>
+</TEI>

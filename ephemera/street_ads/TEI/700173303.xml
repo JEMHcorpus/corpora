@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_minimal.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_minimal.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-stylesheet type="text/css" href="../Oxygen%20XML%20Editor%2016/frameworks/tei/xml/tei/css/tei.css"?>
+<?xml-stylesheet type="text/css" href="nli-transcription.css"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>קריאה לשרות</title>
+            <author>הנהלת שרותי הבטחון בחיפה</author>
+            <respStmt>
+               <name>Mandel Scholion Hebrew Revival Research Group</name>
+               <resp>Transcription of digital file</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <authority>JEMH</authority>
+            <availability><licence target="https://creativecommons.org/licenses/by/4.0/">CC-BY 4.0</licence></availability>
+         </publicationStmt>
+         <sourceDesc xml:lang="Hebrew">
+	<msDesc>
+		<msPart>
+			<msIdentifier>
+				<repository>National Library of Israel</repository>
+				<collection>"Time Travel" Ephemera Collection</collection>
+				<idno>700173303</idno>
+			</msIdentifier>
+		</msPart>
+	</msDesc>
+            <bibl>
+               <date when="1948-02-08"></date>
+               <distributor>ארכיון העיר חיפה</distributor>
+               <pubPlace>חיפה</pubPlace>
+            </bibl>
+         </sourceDesc>
+                  </fileDesc>
+      <revisionDesc>
+         <change>
+            <date>2017-08-09</date>
+            <name>Jerusalem corpus of Emergent Modern Hebrew (JEMH) staff</name>
+            <note>Created the initial version of the content in TEI-XML</note>
+         </change>
+      </revisionDesc>
+
+  </teiHeader>
+  <text>
+      <body>
+         <head>שרותי הבטחון חיפה  הודעה מס. 1</head>
+         <opener>איש איש על משמרתו</opener>
+         <p>מאורעות הדמים נמשכים. המערכה קשה וארוכה.</p>
+         <p>מוסדות שרותי הבטחון בחיפה קוראים כל יהודי לשרות: כל גבר בגיל 50-26 כל אשה בגיל 30-26 כל הנוער בגיל 16-15 לכל אחד יקבע תפקיד בהתאם לגילו ויכלתו (גיוס בני 25-17 של מרכז המפקד לשרות העם נמשך)</p>
+         <p>אתה האיש! זו השעה! התיצב מיד!</p>
+         <p>לשכות ההרשמה: הדר הכרמל תחנת מכבי אש מתנדבים (רח' פבזנר) בכל ימות השבוע מ-11 לפנה"צ - 9 בערב. ביום ששי מ-11 לפנה"צ - 3 אחה"צ ובמוצ"ש מ-9-6 בערב.  הר הכרמל ואחוזה מכינות ביה"ס הריאלי, דרך הים (ע"י בית-הכנסת) מ-9-7 בערב.  בת גלים בבית הספר העממי, רח' השרון מ-9-7 בערב.  נוה שאנן בועד השכונה, מ-9-7 בערב.</p>
+         <closer>
+הנהלת שרותי הבטחון.
+            <dateline>
+               <date>כ"ח שבט, תש"ח - 8.2.48</date>
+               <name type="place">חיפה</name>
+            </dateline>
+         
+         דפוס "אמנות" חיפה, רח' סוקולוב א7
+      </closer>
+</body>
+  </text>
+</TEI>

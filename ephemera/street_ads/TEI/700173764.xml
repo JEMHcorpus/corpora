@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_minimal.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_minimal.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-stylesheet type="text/css" href="../Oxygen%20XML%20Editor%2016/frameworks/tei/xml/tei/css/tei.css"?>
+<?xml-stylesheet type="text/css" href="nli-transcription.css"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>הקמת בנין לבית הכנסת המרכזי</title>
+            <author>ועד הדר הכרמל</author>
+            <respStmt>
+               <name>Mandel Scholion Hebrew Revival Research Group</name>
+               <resp>Transcription of digital file</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <authority>JEMH</authority>
+            <availability><licence target="https://creativecommons.org/licenses/by/4.0/">CC-BY 4.0</licence></availability>
+         </publicationStmt>
+         <sourceDesc xml:lang="Hebrew">
+	<msDesc>
+		<msPart>
+			<msIdentifier>
+				<repository>National Library of Israel</repository>
+				<collection>"Time Travel" Ephemera Collection</collection>
+				<idno>700173764</idno>
+			</msIdentifier>
+		</msPart>
+	</msDesc>
+            <bibl>
+               <date when="1947-07-31"></date>
+               <distributor>ארכיון העיר חיפה</distributor>
+               <pubPlace>חיפה</pubPlace>
+            </bibl>
+         </sourceDesc>
+                  </fileDesc>
+      <revisionDesc>
+         <change>
+            <date>2017-08-09</date>
+            <name>Jerusalem corpus of Emergent Modern Hebrew (JEMH) staff</name>
+            <note>Created the initial version of the content in TEI-XML</note>
+         </change>
+      </revisionDesc>
+
+  </teiHeader>
+  <text>
+      <body>
+         <head>ועד הדר הכרמל  אגודה שתופית בע"מ  חיפה</head>
+         <opener>לתושבי הדר הכרמל</opener>
+         <p>הודות למאמצים שנעשו ע"י ועדת הבנין של בית הכנסת המרכזי בהדר הכרמל באה התקדמות בבנין בית הכנסת ובמשך שנתים האחרונות הושקעו בו כ-23 אלף לא"י. אולם להשלמת הבנין ידרשו עוד סכומים לא קטנים והצבור נתבע לתת את ידו ולעזור להקמת בנין לבית הכנסת המרכזי.</p>
+         <p>לפני כארבע שנים הטילה אספת המורשים של הדר הכרמל על תושבי הדר הכרמל כחובה מוסרית-צבורית תשלום תרומה חדשית בשעור של 10 מיל לחדר בשביל בנין בית הכנסת והתרומה נגבית על ידי מנגנון הגביה של הועד.</p>
+         <p>בהתחשב עם הצורך להחיש את השלמת הבנין ועם התיקרות הבניה והפחתת ערך הכסף החליטה אספת המורשים במושבה האחרון ביום 3.7.47 להעלות את גובה התשלום מ-10 מיל ל-20 מיל לחדר לחדש.</p>
+         <p>החלטה זו נכנסת בתקפה מחדש אוגוסט 1947 וצרכני המים מתבקשים למלא אחרי החלטת אספת המורשים ולשלם מדי חדש לגובי הספקת המים את תרומתם - 20 מיל לכל חדר.</p>
+         <closer>
+ועד הדר הכרמל
+            <dateline>
+               <date>י"ד באב תש"ז - 31.7.1947</date>
+            </dateline>
+         
+      </closer>
+</body>
+  </text>
+</TEI>

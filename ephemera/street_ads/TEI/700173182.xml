@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_minimal.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_minimal.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-stylesheet type="text/css" href="../Oxygen%20XML%20Editor%2016/frameworks/tei/xml/tei/css/tei.css"?>
+<?xml-stylesheet type="text/css" href="nli-transcription.css"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>עצומת הישוב</title>
+            <author>ההסתדרות הכללית של העובדים העברים בארץ-ישראל, הועד הפועל</author>
+            <respStmt>
+               <name>Mandel Scholion Hebrew Revival Research Group</name>
+               <resp>Transcription of digital file</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <authority>JEMH</authority>
+            <availability><licence target="https://creativecommons.org/licenses/by/4.0/">CC-BY 4.0</licence></availability>
+         </publicationStmt>
+         <sourceDesc xml:lang="Hebrew">
+	<msDesc>
+		<msPart>
+			<msIdentifier>
+				<repository>National Library of Israel</repository>
+				<collection>"Time Travel" Ephemera Collection</collection>
+				<idno>700173182</idno>
+			</msIdentifier>
+		</msPart>
+	</msDesc>
+            <bibl>
+               <date when="1942-03-23"></date>
+               <distributor>ארכיון העיר חיפה</distributor>
+               <pubPlace>חיפה</pubPlace>
+            </bibl>
+         </sourceDesc>
+                  </fileDesc>
+      <revisionDesc>
+         <change>
+            <date>2017-08-09</date>
+            <name>Jerusalem corpus of Emergent Modern Hebrew (JEMH) staff</name>
+            <note>Created the initial version of the content in TEI-XML</note>
+         </change>
+      </revisionDesc>
+
+  </teiHeader>
+  <text>
+      <body>
+         <opener>לציבור הפועלים בארץ</opener>
+         <p>למעלה מרבבה של בחורי ישראל מארץ-ישראל ומאות אלפים של חיילים עברים עומדים במערכות המלחמה בכל הצבאות של בני הברית בעולם. מאות אלפים של פועלי ישראל בארץ ובגולה נותנים את כוחם ואונם לעבודת המלחמה.</p>
+         <p>אך בתוך המלחמה שאנו עומדים כתף אל כתף עם בני הברית, אנוסים אנו להרים את קולנו באזני עם בריטניה וקבל העולם כולו: למחות על עוול, לעורר מצפון ולתבוע את זכותנו - זכות העם העברי להצלת בניו במולדתם.</p>
+         <p>חברי ההסתדרות באשר הם שם נקראים לתת יד נאמנה להאדרתה של עצומת הישוב הנפתחת לפי החלטת הועד הלאומי ביום השלושים ל"סטרומה" ולהרמת תרומת סלע-המפלט למדרגה הראויה לה.</p>
+         <p>לא ישותק קולנו ולא תאלם תביעתנו עד אם יפתחו שערי הארץ וינתן דרור לכל איש יהודי הניצל מהחרב הנאצית.</p>
+         <closer>
+ההסתדרות הכללית של העובדים העברים בארץ-ישראל
+הועד הפועל
+            <dateline>
+               <date>ה' ניסן תש"ב</date>
+            </dateline>
+         
+      </closer>
+</body>
+  </text>
+</TEI>
