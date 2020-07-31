@@ -5,4 +5,4 @@ Documents are licensed CC-BY 4.0, a Creative Commons license requiring Attributi
 
 Citation information:
 
-Rubinstein, Aynat. In press. "Historical corpora meet the digital humanities: the Jerusalem Corpus of Emergent Modern Hebrew". Language Resources and Evaluation.
+Rubinstein, Aynat. 2019. "Historical corpora meet the digital humanities: the Jerusalem Corpus of Emergent Modern Hebrew". Language Resources and Evaluation 53(4): 807-835.
